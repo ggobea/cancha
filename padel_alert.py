@@ -15,6 +15,7 @@ from dataclasses import asdict, dataclass
 from email.message import EmailMessage
 from pathlib import Path
 from urllib.parse import urlencode
+from zoneinfo import ZoneInfo
 
 import requests
 import schedule
@@ -22,11 +23,17 @@ from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
 ATC_BASE_URL = "https://atcsports.io/results"
+LOCAL_TZ = ZoneInfo("America/Argentina/Buenos_Aires")
 DEFAULT_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/123.0 Safari/537.36"
-    )
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "Referer": "https://atcsports.io/",
 }
 
 
@@ -58,8 +65,12 @@ def get_state_path() -> Path:
     return Path(__file__).with_name("alert_state.json")
 
 
+def local_today() -> dt.date:
+    return dt.datetime.now(LOCAL_TZ).date()
+
+
 def target_search_date(start_date: dt.date | None = None) -> dt.date:
-    start = start_date or dt.date.today()
+    start = start_date or local_today()
     days_until_thursday = (3 - start.weekday()) % 7
     return start + dt.timedelta(days=days_until_thursday)
 
@@ -96,16 +107,8 @@ def extract_clubs(lines: list[str], target_date: str, target_times: set[str]) ->
             start_index = i + 1
             break
 
-    time_token_re = re.compile(r"^(?:[01]\d|2[0-3]):[0-5]\d$")
+    time_token_re = re.compile(r"(?:^|\s)((?:[01]\d|2[0-3]):[0-5]\d)(?=\s|$)")
     price_re = re.compile(r"^desde\$\s*([\d\.,]+)$", re.IGNORECASE)
-
-    def is_noise(text: str) -> bool:
-        lowered = text.lower()
-        return (
-            lowered.startswith("【")
-            or "image:" in lowered
-            or lowered.startswith("imagen de la cancha")
-        )
 
     i = start_index
     while i < len(lines):
@@ -115,43 +118,67 @@ def extract_clubs(lines: list[str], target_date: str, target_times: set[str]) ->
             continue
 
         price = price_match.group(1)
+
+        club = None
+        address = None
+        availability_line = None
         j = i + 1
 
-        while j < len(lines) and (not lines[j].strip() or is_noise(lines[j])):
+        while j < len(lines):
+            candidate = lines[j].strip()
+            lowered = candidate.lower()
+
+            if not candidate:
+                j += 1
+                continue
+
+            if price_re.match(candidate):
+                break
+
+            if candidate.startswith("####") and club is None:
+                club = candidate.replace("####", "").strip()
+                j += 1
+                continue
+
+            if (
+                "clubes encontrados" in lowered
+                or lowered in {"buscar", "ordenar", "superficie", "duracion", "mostrar el mapa"}
+                or lowered.startswith("image:")
+                or lowered.startswith("imagen de la cancha")
+                or candidate.startswith("【")
+            ):
+                j += 1
+                continue
+
+            found_times = tuple(m.group(1) for m in time_token_re.finditer(candidate))
+            if found_times:
+                availability_line = candidate
+                break
+
+            if "el complejo no cumple con los filtros seleccionados" in lowered:
+                availability_line = candidate
+                break
+
+            if address is None:
+                address = candidate
+
             j += 1
-        if j >= len(lines):
-            break
-        club = lines[j].removeprefix("####").strip()
 
-        j += 1
-        while j < len(lines) and (not lines[j].strip() or is_noise(lines[j])):
-            j += 1
-        if j >= len(lines):
-            break
-        address = lines[j].strip()
-
-        j += 1
-        while j < len(lines) and (not lines[j].strip() or is_noise(lines[j])):
-            j += 1
-        if j >= len(lines):
-            break
-        availability_line = lines[j].strip()
-
-        found_times = tuple(tok for tok in availability_line.split() if time_token_re.match(tok))
-        matched = tuple(t for t in found_times if t in target_times)
-
-        if matched:
-            clubs.append(
-                ClubAvailability(
-                    date=target_date,
-                    club=club,
-                    address=address,
-                    price_from=price,
-                    matched_times=matched,
+        if club and address and availability_line:
+            found_times = tuple(m.group(1) for m in time_token_re.finditer(availability_line))
+            matched = tuple(t for t in found_times if t in target_times)
+            if matched:
+                clubs.append(
+                    ClubAvailability(
+                        date=target_date,
+                        club=club,
+                        address=address,
+                        price_from=price,
+                        matched_times=matched,
+                    )
                 )
-            )
 
-        i = j + 1
+        i = max(j, i + 1)
 
     return clubs
 
@@ -260,6 +287,10 @@ def check_availability() -> list[ClubAvailability]:
     html = fetch_text(session, url)
     lines = html_to_lines(html)
     results = extract_clubs(lines, date_.isoformat(), target_times)
+
+    logging.info("Resultados parseados: %s", len(results))
+    for item in results[:10]:
+        logging.info("Match: %s | %s | %s", item.club, item.address, ", ".join(item.matched_times))
 
     unique: dict[str, ClubAvailability] = {}
     for item in results:
