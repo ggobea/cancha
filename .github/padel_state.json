@@ -262,18 +262,7 @@
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 34000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-03-26T09:15:31Z"
+  "updated_at_utc": "2026-03-26T11:13:26Z"
 }
