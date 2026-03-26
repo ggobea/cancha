@@ -128,73 +128,64 @@ def extract_clubs(lines: list[str], target_date: str, target_times: set[str]) ->
     time_token_re = re.compile(r"(?:^|\s)((?:[01]\d|2[0-3]):[0-5]\d)(?=\s|$)")
     price_re = re.compile(r"^desde\$\s*([\d\.,]+)$", re.IGNORECASE)
 
+    def is_noise(text: str) -> bool:
+        lowered = text.lower().strip()
+        return (
+            not lowered
+            or lowered in {"buscar", "ordenar", "superficie", "duracion", "mostrar el mapa"}
+            or "clubes encontrados" in lowered
+            or lowered.startswith("image:")
+            or lowered.startswith("imagen de la cancha")
+            or lowered.startswith("beelup disponible")
+            or text.startswith("【")
+        )
+
     i = start_index
     while i < len(lines):
-        price_match = price_re.match(lines[i])
+        price_match = price_re.match(lines[i].strip())
         if not price_match:
             i += 1
             continue
 
         price = price_match.group(1)
-
-        club = None
-        address = None
-        availability_line = None
+        collected: list[str] = []
         j = i + 1
 
         while j < len(lines):
             candidate = lines[j].strip()
-            lowered = candidate.lower()
-
-            if not candidate:
-                j += 1
-                continue
-
             if price_re.match(candidate):
                 break
-
-            if candidate.startswith("####") and club is None:
-                club = candidate.replace("####", "").strip()
-                j += 1
-                continue
-
-            if (
-                "clubes encontrados" in lowered
-                or lowered in {"buscar", "ordenar", "superficie", "duracion", "mostrar el mapa"}
-                or lowered.startswith("image:")
-                or lowered.startswith("imagen de la cancha")
-                or candidate.startswith("【")
-            ):
-                j += 1
-                continue
-
-            found_times = tuple(m.group(1) for m in time_token_re.finditer(candidate))
-            if found_times:
-                availability_line = candidate
-                break
-
-            if "el complejo no cumple con los filtros seleccionados" in lowered:
-                availability_line = candidate
-                break
-
-            if address is None:
-                address = candidate
-
+            if not is_noise(candidate):
+                collected.append(candidate)
             j += 1
 
-        if club and address and availability_line:
-            found_times = tuple(m.group(1) for m in time_token_re.finditer(availability_line))
-            matched = tuple(t for t in found_times if t in target_times)
-            if matched:
-                clubs.append(
-                    ClubAvailability(
-                        date=target_date,
-                        club=club,
-                        address=address,
-                        price_from=price,
-                        matched_times=matched,
+        if len(collected) >= 3:
+            club = collected[0].replace("####", "").strip()
+            address = collected[1].strip()
+
+            availability_line = None
+            for item in collected[2:]:
+                lowered = item.lower()
+                if "el complejo no cumple con los filtros seleccionados" in lowered:
+                    availability_line = item
+                    break
+                if time_token_re.search(item):
+                    availability_line = item
+                    break
+
+            if availability_line:
+                found_times = tuple(m.group(1) for m in time_token_re.finditer(availability_line))
+                matched = tuple(t for t in found_times if t in target_times)
+                if matched:
+                    clubs.append(
+                        ClubAvailability(
+                            date=target_date,
+                            club=club,
+                            address=address,
+                            price_from=price,
+                            matched_times=matched,
+                        )
                     )
-                )
 
         i = max(j, i + 1)
 
