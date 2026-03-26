@@ -17,10 +17,10 @@ from pathlib import Path
 from urllib.parse import urlencode
 from zoneinfo import ZoneInfo
 
+import requests
 import schedule
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
-from playwright.sync_api import sync_playwright
 
 ATC_BASE_URL = "https://atcsports.io/results"
 LOCAL_TZ = ZoneInfo("America/Argentina/Buenos_Aires")
@@ -31,7 +31,7 @@ class ClubAvailability:
     date: str
     club: str
     address: str
-    price_from: str | None
+    price_from: float | None
     matched_times: tuple[str, ...]
 
     @property
@@ -49,9 +49,7 @@ def getenv_required(name: str) -> str:
 
 def get_state_path() -> Path:
     raw = os.getenv("STATE_PATH", "").strip()
-    if raw:
-        return Path(raw)
-    return Path(__file__).with_name("alert_state.json")
+    return Path(raw) if raw else Path(__file__).with_name("alert_state.json")
 
 
 def local_today() -> dt.date:
@@ -75,121 +73,87 @@ def build_url(date_: dt.date, place_id: str, location_name: str, sport_id: str, 
     return f"{ATC_BASE_URL}?{urlencode(params)}"
 
 
-def fetch_rendered_html(url: str) -> str:
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            headless=True,
-            args=["--disable-dev-shm-usage", "--no-sandbox"],
-        )
-        context = browser.new_context(
-            locale="es-AR",
-            timezone_id="America/Argentina/Buenos_Aires",
-            user_agent=(
-                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/123.0 Safari/537.36"
-            ),
-        )
-        page = context.new_page()
-        page.set_default_timeout(45000)
-
-        # networkidle no conviene acá: Playwright lo desaconseja para páginas
-        # con requests largos / persistentes porque puede no resolverse nunca.
-        page.goto(url, wait_until="domcontentloaded", timeout=45000)
-
-        # Espera liviana para que hidraten los resultados.
-        page.wait_for_timeout(5000)
-
-        # Si el texto todavía no apareció, probamos una espera adicional
-        # basada en contenido visible en vez de networkidle.
-        body_text = page.locator("body").inner_text(timeout=10000)
-        if "clubes encontrados" not in body_text.lower():
-            page.wait_for_timeout(7000)
-
-        html = page.content()
-        browser.close()
-        return html
+def fetch_html(url: str) -> str:
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/123.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+    }
+    response = requests.get(url, headers=headers, timeout=45)
+    response.raise_for_status()
+    return response.text
 
 
-def html_to_lines(html: str) -> list[str]:
+def extract_next_data_json(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
-    text = soup.get_text("\n", strip=True)
-    return [line.strip() for line in text.splitlines() if line.strip()]
+    script = soup.find("script", id="__NEXT_DATA__")
+    if not script:
+        raise RuntimeError("No encontré el script __NEXT_DATA__ en la página de ATC.")
+    raw_json = script.string or script.get_text(strip=True)
+    if not raw_json:
+        raise RuntimeError("El script __NEXT_DATA__ está vacío.")
+    return json.loads(raw_json)
 
 
-def extract_clubs(lines: list[str], target_date: str, target_times: set[str]) -> list[ClubAvailability]:
-    clubs: list[ClubAvailability] = []
+def parse_atc_next_data(data: dict, target_times: set[str]) -> list[ClubAvailability]:
+    bookings = (
+        data.get("props", {})
+        .get("pageProps", {})
+        .get("bookingsBySport", [])
+    )
 
-    start_index = 0
-    for i, line in enumerate(lines):
-        if "clubes encontrados" in line.lower():
-            start_index = i + 1
-            break
+    results: list[ClubAvailability] = []
+    seen_keys: set[str] = set()
 
-    time_token_re = re.compile(r"(?:^|\s)((?:[01]\d|2[0-3]):[0-5]\d)(?=\s|$)")
-    price_re = re.compile(r"^desde\$\s*([\d\.,]+)$", re.IGNORECASE)
+    for club in bookings:
+        club_name = (club.get("name") or "").strip()
+        address = (
+            club.get("location", {}).get("name")
+            or club.get("address")
+            or ""
+        ).strip()
+        slots = club.get("available_slots") or []
+        date_value = None
+        matched_times: set[str] = set()
+        min_price: float | None = None
 
-    def is_noise(text: str) -> bool:
-        lowered = text.lower().strip()
-        return (
-            not lowered
-            or lowered in {"buscar", "ordenar", "superficie", "duracion", "mostrar el mapa"}
-            or "clubes encontrados" in lowered
-            or lowered.startswith("image:")
-            or lowered.startswith("imagen de la cancha")
-            or lowered.startswith("beelup disponible")
-            or text.startswith("【")
-        )
+        for slot in slots:
+            start = slot.get("start") or ""
+            match = re.search(r"(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})", start)
+            if not match:
+                continue
 
-    i = start_index
-    while i < len(lines):
-        price_match = price_re.match(lines[i].strip())
-        if not price_match:
-            i += 1
-            continue
+            slot_date, hhmm = match.groups()
+            if hhmm not in target_times:
+                continue
 
-        price = price_match.group(1)
-        collected: list[str] = []
-        j = i + 1
+            date_value = slot_date
+            matched_times.add(hhmm)
 
-        while j < len(lines):
-            candidate = lines[j].strip()
-            if price_re.match(candidate):
-                break
-            if not is_noise(candidate):
-                collected.append(candidate)
-            j += 1
+            cents = ((slot.get("price") or {}).get("cents"))
+            if isinstance(cents, int):
+                ars = cents / 100.0
+                if min_price is None or ars < min_price:
+                    min_price = ars
 
-        if len(collected) >= 3:
-            club = collected[0].replace("####", "").strip()
-            address = collected[1].strip()
+        if matched_times:
+            result = ClubAvailability(
+                date=date_value or "",
+                club=club_name,
+                address=address,
+                price_from=min_price,
+                matched_times=tuple(sorted(matched_times)),
+            )
+            if result.dedupe_key not in seen_keys:
+                seen_keys.add(result.dedupe_key)
+                results.append(result)
 
-            availability_line = None
-            for item in collected[2:]:
-                lowered = item.lower()
-                if "el complejo no cumple con los filtros seleccionados" in lowered:
-                    availability_line = item
-                    break
-                if time_token_re.search(item):
-                    availability_line = item
-                    break
-
-            if availability_line:
-                found_times = tuple(m.group(1) for m in time_token_re.finditer(availability_line))
-                matched = tuple(t for t in found_times if t in target_times)
-                if matched:
-                    clubs.append(
-                        ClubAvailability(
-                            date=target_date,
-                            club=club,
-                            address=address,
-                            price_from=price,
-                            matched_times=matched,
-                        )
-                    )
-
-        i = max(j, i + 1)
-
-    return clubs
+    return sorted(results, key=lambda x: (x.date, x.club, x.address))
 
 
 def load_state() -> dict:
@@ -213,19 +177,19 @@ def filter_new_results(results: list[ClubAvailability], state: dict) -> list[Clu
     return [r for r in results if r.dedupe_key not in sent_keys]
 
 
-def update_state(results: list[ClubAvailability], state: dict, mark_as_sent: bool) -> dict:
+def update_state(results: list[ClubAvailability], state: dict, mark_as_sent: bool) -> None:
     sent_keys = set(state.get("sent_keys", []))
     if mark_as_sent:
         for result in results:
             sent_keys.add(result.dedupe_key)
 
-    new_state = {
-        "sent_keys": sorted(sent_keys),
-        "last_results": [asdict(r) for r in results],
-        "updated_at_utc": dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
-    }
-    save_state(new_state)
-    return new_state
+    save_state(
+        {
+            "sent_keys": sorted(sent_keys),
+            "last_results": [asdict(r) for r in results],
+            "updated_at_utc": dt.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+        }
+    )
 
 
 def render_email(results: list[ClubAvailability], location_name: str) -> tuple[str, str]:
@@ -243,7 +207,7 @@ def render_email(results: list[ClubAvailability], location_name: str) -> tuple[s
         lines.append(f"Jueves {date_}:")
         for item in items:
             times = ", ".join(item.matched_times)
-            price_text = f" | desde ${item.price_from}" if item.price_from else ""
+            price_text = f" | desde ${item.price_from:,.0f}".replace(",", ".") if item.price_from is not None else ""
             url = build_url(
                 dt.date.fromisoformat(item.date),
                 os.environ["ATC_PLACE_ID"],
@@ -292,23 +256,27 @@ def check_availability() -> list[ClubAvailability]:
     date_ = target_search_date()
     url = build_url(date_, place_id, location_name, sport_id, "19:30")
     logging.info("Revisando %s", url)
-    html = fetch_rendered_html(url)
-    lines = html_to_lines(html)
-    results = extract_clubs(lines, date_.isoformat(), target_times)
+
+    html = fetch_html(url)
+    data = extract_next_data_json(html)
+    results = parse_atc_next_data(data, target_times)
 
     logging.info("Resultados parseados: %s", len(results))
     for item in results[:10]:
-        logging.info("Match: %s | %s | %s", item.club, item.address, ", ".join(item.matched_times))
+        logging.info(
+            "Match: %s | %s | %s",
+            item.club,
+            item.address,
+            ", ".join(item.matched_times),
+        )
 
-    unique: dict[str, ClubAvailability] = {}
-    for item in results:
-        unique[item.dedupe_key] = item
-    return sorted(unique.values(), key=lambda x: (x.date, x.club, x.address))
+    return results
 
 
 def run_once() -> int:
     location_name = getenv_required("ATC_LOCATION_NAME")
     state = load_state()
+
     try:
         results = check_availability()
     except Exception as exc:
