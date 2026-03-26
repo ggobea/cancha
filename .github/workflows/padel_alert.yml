@@ -16,7 +16,6 @@ jobs:
       ATC_LOCATION_NAME: Ituzaingó, Provincia de Buenos Aires, Argentina
       ATC_SPORT_ID: 7
       ATC_TARGET_TIMES: 18:00,18:30,19:00,19:30
-      ATC_LOOKAHEAD_WEEKS: 12
       STATE_PATH: .github/padel_state.json
       SMTP_HOST: ${{ secrets.SMTP_HOST }}
       SMTP_PORT: ${{ secrets.SMTP_PORT }}
