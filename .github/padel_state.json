@@ -24,6 +24,7 @@
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
+    "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
@@ -34,41 +35,13 @@
   "last_results": [
     {
       "date": "2026-03-26",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
         "18:00"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
-      "matched_times": [
-        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-26T17:06:09Z"
+  "updated_at_utc": "2026-03-26T18:34:52Z"
 }
