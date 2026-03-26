@@ -17,24 +17,13 @@ from pathlib import Path
 from urllib.parse import urlencode
 from zoneinfo import ZoneInfo
 
-import requests
 import schedule
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from playwright.sync_api import sync_playwright
 
 ATC_BASE_URL = "https://atcsports.io/results"
 LOCAL_TZ = ZoneInfo("America/Argentina/Buenos_Aires")
-DEFAULT_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/123.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache",
-    "Referer": "https://atcsports.io/",
-}
 
 
 @dataclass(frozen=True)
@@ -86,10 +75,23 @@ def build_url(date_: dt.date, place_id: str, location_name: str, sport_id: str, 
     return f"{ATC_BASE_URL}?{urlencode(params)}"
 
 
-def fetch_text(session: requests.Session, url: str) -> str:
-    response = session.get(url, headers=DEFAULT_HEADERS, timeout=30)
-    response.raise_for_status()
-    return response.text
+def fetch_rendered_html(url: str) -> str:
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            locale="es-AR",
+            timezone_id="America/Argentina/Buenos_Aires",
+            user_agent=(
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/123.0 Safari/537.36"
+            ),
+        )
+        page = context.new_page()
+        page.goto(url, wait_until="networkidle", timeout=60000)
+        page.wait_for_timeout(3000)
+        html = page.content()
+        browser.close()
+        return html
 
 
 def html_to_lines(html: str) -> list[str]:
@@ -280,11 +282,10 @@ def check_availability() -> list[ClubAvailability]:
         if token.strip()
     }
 
-    session = requests.Session()
     date_ = target_search_date()
     url = build_url(date_, place_id, location_name, sport_id, "19:30")
     logging.info("Revisando %s", url)
-    html = fetch_text(session, url)
+    html = fetch_rendered_html(url)
     lines = html_to_lines(html)
     results = extract_clubs(lines, date_.isoformat(), target_times)
 
