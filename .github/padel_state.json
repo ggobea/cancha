@@ -4,10 +4,12 @@
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
+    "39afb2053fcc63ba84a13f03e41fc48e88d407488fab9976b3f27b9c893c76f1",
     "39e8677e2645d8bc16fc376e47ae2ac20b98073e5591d18766cd3dacee1f5ede",
     "3bb8dd59a593125709ef3e77e87c8a517765d3101e90d28faf08b2fd82e96cf3",
     "3d99e427d952f8fac0f15f6db51b81841473e1af0d416fb1ab1c6b54d5257965",
     "41a27aec1778168be6a043856e299f4608a9e4a509b0fccfd25aa9f148c7e4bf",
+    "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
     "72254049ed2aa5d5d88ded73b8d129ecfea75a1b2e0f21d18d989faed27149ab",
@@ -15,10 +17,12 @@
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
+    "af891ac5ebfd528c477d28cf6b834d45895f85fb987d5a4ca673d7dbd1f61dfb",
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
+    "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
@@ -30,14 +34,41 @@
   "last_results": [
     {
       "date": "2026-03-26",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 28000.0,
+      "club": "Exclusive Padel",
+      "address": "Tropezon 1174",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:30",
-        "19:00"
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 55000.0,
+      "matched_times": [
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-26T14:00:41Z"
+  "updated_at_utc": "2026-03-26T17:06:09Z"
 }
