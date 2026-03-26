@@ -1,4 +1,4 @@
 beautifulsoup4==4.12.3
 python-dotenv==1.0.1
+requests==2.32.3
 schedule==1.2.2
-playwright==1.53.0
