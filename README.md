@@ -1,9 +1,12 @@
 # Monitor de pádel ATC 🎾
 
-Este proyecto revisa **todos los jueves de las próximas semanas** y manda un **mail solo si aparece disponibilidad nueva** entre **18:00 y 19:30**.
+Este proyecto revisa **solo el jueves relevante** y manda un **mail solo si aparece disponibilidad nueva** entre **18:00 y 19:30**.
+
+- si hoy es jueves, revisa **hoy**
+- si hoy no es jueves, revisa **el próximo jueves**
 
 ## Lo más barato / gratis
-La opción más simple para que sea **gratis** es usar **GitHub Actions en un repositorio público**. GitHub indica que Actions es gratis para repos públicos en runners estándar. En repos privados hay una cuota mensual de minutos. Además, los workflows programados se pueden correr con `schedule` usando cron. Todo eso está documentado en la documentación oficial de GitHub.  
+La opción más simple para que sea **gratis** es usar **GitHub Actions en un repositorio público**. GitHub indica que Actions es gratis para repos públicos en runners estándar. En repos privados hay una cuota mensual de minutos. Además, los workflows programados se pueden correr con `schedule` usando cron.
 
 ## Cómo funciona el estado
 El script guarda el histórico en:
@@ -18,8 +21,6 @@ Ese archivo se actualiza en cada corrida. El workflow lo vuelve a commitear al r
 Te dejé el workflow cada **2 horas** para mantenerlo bien liviano. Si después querés, podés cambiarlo a:
 - cada 1 hora: `17 * * * *`
 - cada 30 min: `*/30 * * * *`
-
-En un repo público sigue siendo gratis; 2 horas simplemente reduce ejecuciones innecesarias.
 
 ## Archivos
 - `padel_alert.py`: script principal
@@ -81,4 +82,5 @@ python padel_alert.py --once
 ## Importante
 - **No manda nada** si no encuentra disponibilidad.
 - **No repite** avisos de resultados ya notificados.
-- El parseo se apoya en la página pública actual de ATC.
+- Solo revisa **un solo jueves** por corrida.
+- El parseo se apoya en la página pública actual de ATC y tolera filas con imágenes intercaladas.
