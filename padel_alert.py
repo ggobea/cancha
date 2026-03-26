@@ -77,7 +77,10 @@ def build_url(date_: dt.date, place_id: str, location_name: str, sport_id: str, 
 
 def fetch_rendered_html(url: str) -> str:
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--disable-dev-shm-usage", "--no-sandbox"],
+        )
         context = browser.new_context(
             locale="es-AR",
             timezone_id="America/Argentina/Buenos_Aires",
@@ -87,8 +90,21 @@ def fetch_rendered_html(url: str) -> str:
             ),
         )
         page = context.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60000)
-        page.wait_for_timeout(3000)
+        page.set_default_timeout(45000)
+
+        # networkidle no conviene acá: Playwright lo desaconseja para páginas
+        # con requests largos / persistentes porque puede no resolverse nunca.
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+
+        # Espera liviana para que hidraten los resultados.
+        page.wait_for_timeout(5000)
+
+        # Si el texto todavía no apareció, probamos una espera adicional
+        # basada en contenido visible en vez de networkidle.
+        body_text = page.locator("body").inner_text(timeout=10000)
+        if "clubes encontrados" not in body_text.lower():
+            page.wait_for_timeout(7000)
+
         html = page.content()
         browser.close()
         return html
