@@ -43,54 +43,6 @@
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a"
   ],
-  "last_results": [
-    {
-      "date": "2026-03-26",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 10000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 34000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    }
-  ],
-  "updated_at_utc": "2026-03-26T21:34:59Z"
+  "last_results": [],
+  "updated_at_utc": "2026-03-26T22:34:13Z"
 }
