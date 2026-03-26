@@ -3,6 +3,7 @@
     "05a462574bfbc47605c111a1fe2771ed625e6b07e98d78ccf72c314579693946",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
+    "2b37e0ff654b119d0e56bac4396fea8c65e078f294e2578c1d6ff8a06754a62a",
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
     "39afb2053fcc63ba84a13f03e41fc48e88d407488fab9976b3f27b9c893c76f1",
     "39e8677e2645d8bc16fc376e47ae2ac20b98073e5591d18766cd3dacee1f5ede",
@@ -15,15 +16,19 @@
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
     "72254049ed2aa5d5d88ded73b8d129ecfea75a1b2e0f21d18d989faed27149ab",
     "72ff83fd7d85344d95d664bbcde051baab95d6d8b1b338c47b5805060db82707",
+    "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "a32b912846c25246db940f885416fdc9cffb8dc6710ed4832ef0d4f5271d7f6a",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
+    "a7c0d3c06477d45d427b8184c68134710b5944648ca3e25bbca289f3577edd79",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
     "ada016532aa088497363b2ba7ee2570911d129b4372f5d4105096281fc8944d8",
     "af891ac5ebfd528c477d28cf6b834d45895f85fb987d5a4ca673d7dbd1f61dfb",
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
+    "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
+    "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
     "da0da3b6115b1a46607af6c67c5f3b4c19184aa0639015a1ee97626a7ed1c973",
@@ -41,20 +46,11 @@
   "last_results": [
     {
       "date": "2026-03-26",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-03-26",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 44000.0,
-      "matched_times": [
-        "19:30"
       ]
     },
     {
@@ -63,11 +59,38 @@
       "address": "Alberdi 1310",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "PPF arena R21",
+      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
+      "price_from": 10000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 34000.0,
+      "matched_times": [
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-03-26T20:40:48Z"
+  "updated_at_utc": "2026-03-26T21:34:59Z"
 }
