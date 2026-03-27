@@ -208,16 +208,6 @@
     },
     {
       "date": "2026-04-02",
-      "club": "El Garage Padel",
-      "address": "Marcos Sastre 3152, CABA",
-      "price_from": 66000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
       "club": "El Guardian Padel",
       "address": "Carrasco 825, Floresta, CABA",
       "price_from": 30000.0,
@@ -502,5 +492,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-03-27T22:36:31Z"
+  "updated_at_utc": "2026-03-27T23:36:05Z"
 }
