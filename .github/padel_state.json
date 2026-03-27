@@ -84,21 +84,20 @@
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
     "f8fe3bc239bf0c836aa579deb5879ebf59e82a058bbaaa2217a285e04c6f1b98",
     "f9f9517f828845fdbc24dd7423f422873466cca08c85575bd85f93bb0ddfbbb8",
+    "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a"
   ],
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 34000.0,
+      "club": "Gioco",
+      "address": "Luis de Camoens 2017",
+      "price_from": 14000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-27T20:51:56Z"
+  "updated_at_utc": "2026-03-27T21:38:30Z"
 }
