@@ -105,15 +105,6 @@
     },
     {
       "date": "2026-04-02",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 25600.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
       "club": "BASTICOURT",
       "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
@@ -363,15 +354,6 @@
     },
     {
       "date": "2026-04-02",
-      "club": "PADEL - INN",
-      "address": "Manuel Acevedo 47",
-      "price_from": 42000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
       "club": "PPF arena R21",
       "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
       "price_from": 10000.0,
@@ -494,5 +476,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-03-27T14:53:51Z"
+  "updated_at_utc": "2026-03-27T15:56:13Z"
 }
