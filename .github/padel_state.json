@@ -10,6 +10,7 @@
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
+    "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
@@ -93,13 +94,13 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 32000.0,
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-28T15:40:05Z"
+  "updated_at_utc": "2026-03-28T16:38:26Z"
 }
