@@ -113,15 +113,6 @@
     },
     {
       "date": "2026-04-02",
-      "club": "Arena Padel Barcala",
-      "address": "Avenida Gaona 7243",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
       "club": "BASTICOURT",
       "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
@@ -208,15 +199,6 @@
       "price_from": 44000.0,
       "matched_times": [
         "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 32000.0,
-      "matched_times": [
         "19:30"
       ]
     },
@@ -491,5 +473,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-03-28T22:32:41Z"
+  "updated_at_utc": "2026-03-28T23:34:45Z"
 }
