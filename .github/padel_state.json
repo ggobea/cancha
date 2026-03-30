@@ -46,6 +46,7 @@
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
+    "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
     "a0c08846b6cb03377cfb826e8af4c70ef05f44276e8605311744e3c693ae232b",
@@ -98,9 +99,9 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 45000.0,
+      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
+      "address": "Lincoln 3136",
+      "price_from": 44000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -109,5 +110,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-03-29T23:36:06Z"
+  "updated_at_utc": "2026-03-30T02:45:41Z"
 }
