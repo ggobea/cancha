@@ -4,6 +4,7 @@
     "05b51e16ef9fc185bbb643ee8ef2f7a30e38727101c3f624be843360bfd74b61",
     "09af42499a6dabd55c43764e4ea0ea1b766838cf4999c0f7307da92879e42f4d",
     "0aa0117f55cbd38282e0c967498185e17e87082a650888aa55aed87a8707540b",
+    "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "125ef4655cd459b1b41595d785a1bbe33fc5e90afec51ab28a6b941d4634d9fb",
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
@@ -33,6 +34,7 @@
     "55adcc4d7e7aac16f8cd89a86aa0f895125a4b8ae8177b16336ada8d3e64212c",
     "56005d5da7b2450903a7a76f9a3068c9d16ed9501225ba7ea9b07f8894dd6701",
     "5d168d7c3cb80e81793e33917f18676220a49b4369126635de8a4a7f2e184754",
+    "61133b0caec5914e4891bc308b12ae382bebd8d3c1341244c2070e8f7c29446f",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
     "676a52c7f35a77222ddf32c8592474a76b2aa84796ab266f7b6b4d430e5219f9",
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
@@ -100,13 +102,23 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "El Garage Padel",
-      "address": "Marcos Sastre 3152, CABA",
-      "price_from": 76000.0,
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 55000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-30T13:27:06Z"
+  "updated_at_utc": "2026-03-30T14:50:33Z"
 }
