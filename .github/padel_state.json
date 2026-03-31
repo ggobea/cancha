@@ -58,6 +58,7 @@
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
+    "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
@@ -120,36 +121,16 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 46000.0,
       "matched_times": [
         "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 65000.0,
-      "matched_times": [
-        "19:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-03-31T13:26:17Z"
+  "updated_at_utc": "2026-03-31T14:48:08Z"
 }
