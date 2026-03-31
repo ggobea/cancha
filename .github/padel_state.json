@@ -22,6 +22,7 @@
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
+    "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
     "39afb2053fcc63ba84a13f03e41fc48e88d407488fab9976b3f27b9c893c76f1",
     "39e8677e2645d8bc16fc376e47ae2ac20b98073e5591d18766cd3dacee1f5ede",
     "3bb8dd59a593125709ef3e77e87c8a517765d3101e90d28faf08b2fd82e96cf3",
@@ -122,13 +123,16 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 26000.0,
+      "club": "Torcuadel",
+      "address": "Chile 1920 - Don Torcuato",
+      "price_from": 60000.0,
       "matched_times": [
-        "19:00"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-31T16:07:15Z"
+  "updated_at_utc": "2026-03-31T17:31:38Z"
 }
