@@ -1,5 +1,6 @@
 {
   "sent_keys": [
+    "00cc3244a0004ffe522a308e486aa88bf42804f0627286f6c2e5661091ae58a6",
     "05a462574bfbc47605c111a1fe2771ed625e6b07e98d78ccf72c314579693946",
     "05b51e16ef9fc185bbb643ee8ef2f7a30e38727101c3f624be843360bfd74b61",
     "09af42499a6dabd55c43764e4ea0ea1b766838cf4999c0f7307da92879e42f4d",
@@ -125,22 +126,13 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
-      "price_from": 44000.0,
+      "club": "El Predio Ciudad",
+      "address": "Arregui 2540",
+      "price_from": 55000.0,
       "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-31T19:05:29Z"
+  "updated_at_utc": "2026-03-31T20:05:57Z"
 }
