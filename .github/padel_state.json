@@ -56,6 +56,7 @@
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
+    "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
     "a0c08846b6cb03377cfb826e8af4c70ef05f44276e8605311744e3c693ae232b",
@@ -72,6 +73,7 @@
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "b085ca735cfe2228db008fe9c0ce2a74a93a03690a68b09883ec628e0a6541a9",
     "b2c2d3c8b898e67743fe1d2cc17b48b80e66590a2144f9ab463dae25bdb5d7bd",
+    "b3d12634adf26a12914539f6d906b85895bfb3ae7fa2c6d80aaf3b4b643d6723",
     "b4ef0542e1f50b36de197e509b1ceb00f89f010084cd31d959c7544983dc5799",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
     "bac11bea45b0c4e525b2d661c076cc635ace291beaf4534bdfd8fc0b78341bfd",
@@ -114,12 +116,11 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 32000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     },
     {
@@ -128,30 +129,9 @@
       "address": "Semana de Mayo 1035",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 45000.0,
-      "matched_times": [
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-30T23:38:33Z"
+  "updated_at_utc": "2026-03-31T02:39:10Z"
 }
