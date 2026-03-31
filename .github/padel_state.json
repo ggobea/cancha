@@ -43,9 +43,11 @@
     "5b1b35af92577cf5e982360f3d54a390f226ed566c49935400a687c629083c88",
     "5d168d7c3cb80e81793e33917f18676220a49b4369126635de8a4a7f2e184754",
     "61133b0caec5914e4891bc308b12ae382bebd8d3c1341244c2070e8f7c29446f",
+    "624d6b0b7c892e7e2662d2f12f4740050c23658af1e1bc5215f70c61ee531508",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
     "676a52c7f35a77222ddf32c8592474a76b2aa84796ab266f7b6b4d430e5219f9",
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
+    "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
     "6f3a5a461a9e9142bdc8feb03808f0f937fa48d8c20bab13c5fefbb69dcfc656",
     "6f6174c19fa18b875a2e37dde05c2633765f0a8e55909018b8cb22a568135de4",
     "70a97e0549bdb68289fa414e9d65978dcac1a5aa983b2f7f3c3d406fa90c2048",
@@ -123,16 +125,22 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Torcuadel",
-      "address": "Chile 1920 - Don Torcuato",
-      "price_from": 60000.0,
+      "club": "Parador 3 Club de Padel",
+      "address": "Entre Rios 2649",
+      "price_from": 44000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-31T17:31:38Z"
+  "updated_at_utc": "2026-03-31T19:05:29Z"
 }
