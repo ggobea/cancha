@@ -50,6 +50,7 @@
     "70a97e0549bdb68289fa414e9d65978dcac1a5aa983b2f7f3c3d406fa90c2048",
     "72254049ed2aa5d5d88ded73b8d129ecfea75a1b2e0f21d18d989faed27149ab",
     "72ff83fd7d85344d95d664bbcde051baab95d6d8b1b338c47b5805060db82707",
+    "751feef5d8567414fd8343b6cb6d676c393311b239302423962dffd39e544438",
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
@@ -121,16 +122,13 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 46000.0,
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-31T14:48:08Z"
+  "updated_at_utc": "2026-03-31T16:07:15Z"
 }
