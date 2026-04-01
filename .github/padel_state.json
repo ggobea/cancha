@@ -73,6 +73,7 @@
     "a0c08846b6cb03377cfb826e8af4c70ef05f44276e8605311744e3c693ae232b",
     "a152f72d96796feb38e14f07c3d1c3bb5ab48790d93225003819a5d49de6f7d5",
     "a163a960e9fcef07128048a1e658410e9fc1178c0eb0ea5e6152e4d583fb6f95",
+    "a1dfc284c5198303f66027cfcc37c3573a17676e76ce49d11d1da2138ea89c1a",
     "a32b912846c25246db940f885416fdc9cffb8dc6710ed4832ef0d4f5271d7f6a",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
     "a7c0d3c06477d45d427b8184c68134710b5944648ca3e25bbca289f3577edd79",
@@ -88,6 +89,7 @@
     "b3d12634adf26a12914539f6d906b85895bfb3ae7fa2c6d80aaf3b4b643d6723",
     "b4ef0542e1f50b36de197e509b1ceb00f89f010084cd31d959c7544983dc5799",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
+    "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
     "bac11bea45b0c4e525b2d661c076cc635ace291beaf4534bdfd8fc0b78341bfd",
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
@@ -110,6 +112,7 @@
     "daa25a74c99c812797a6e5200ee177f96ed94587ab597a756a0940c09bc11aae",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
+    "df5476d3047597b316813a057a1e63267ab813d64536374f7db405798441fee6",
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
@@ -133,9 +136,30 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
+      "club": "12 de Junio",
+      "address": "San Sebastián 1705",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 45000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -143,5 +167,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T14:50:27Z"
+  "updated_at_utc": "2026-04-01T16:07:40Z"
 }
