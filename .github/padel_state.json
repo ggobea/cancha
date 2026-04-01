@@ -153,6 +153,15 @@
     },
     {
       "date": "2026-04-02",
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
       "club": "BASTICOURT",
       "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
@@ -212,15 +221,6 @@
         "18:00",
         "18:30",
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
       ]
     },
     {
@@ -388,9 +388,7 @@
       "address": "Santo Tome 4769, Monte Castro, CABA",
       "price_from": 48000.0,
       "matched_times": [
-        "18:00",
-        "19:00",
-        "19:30"
+        "18:00"
       ]
     },
     {
@@ -557,5 +555,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T11:54:25Z"
+  "updated_at_utc": "2026-04-01T13:27:56Z"
 }
