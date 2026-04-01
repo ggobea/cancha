@@ -13,6 +13,7 @@
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
+    "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
     "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
@@ -115,6 +116,8 @@
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
+    "f22ef7f17f1fa2b46b16c24804010037e61ce423f51b0b17c9c51bab11c0fd9b",
+    "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
     "f34ab41a89c155cfbe5d3a7a3951c19e88b5b3edea7291484a66bf3e687793f6",
     "f51e79ea3c43331576adc82c56b3164a6f3387ce0d04f3f3b1437e214d3f9ea1",
     "f59fef4607004895b807425aa6601c674cbd95cced9e1d7756a14dd82ba1bd87",
@@ -131,7 +134,16 @@
       "date": "2026-04-02",
       "club": "Club Gimnasia y Esgrima de Ituzaingo",
       "address": "Niceto Vega 2298",
-      "price_from": 40000.0,
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
         "19:30"
@@ -144,9 +156,10 @@
       "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-03-31T23:58:39Z"
+  "updated_at_utc": "2026-04-01T03:36:14Z"
 }
