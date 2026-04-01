@@ -9,6 +9,7 @@
     "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0d6bc0309529087d05e6ef0adf8198650e45af65d70ed3135a510f760694c0df",
+    "0e7c87f7ba3749572de1fe564837730ddcd750221e47d4e65885d798de5cf98b",
     "125ef4655cd459b1b41595d785a1bbe33fc5e90afec51ab28a6b941d4634d9fb",
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
@@ -16,6 +17,7 @@
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
     "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
+    "1daa7e94a154bea94ac4482c60f0e514a6c9e9cd8d16639234cf4e661d4bc8bd",
     "20223cd576bad15019baab4e5cb0550f9b51549d944a572927e98665268ab3c8",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
@@ -121,6 +123,7 @@
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
+    "eb6f77db59976572754ebecf8136a63f0d3df3f9d91fb778af1ac6ff04bc848c",
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
@@ -141,14 +144,34 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Arena Padel",
-      "address": "Av Eva Perón 2264",
-      "price_from": 26000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
-        "19:00",
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 28000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T22:40:37Z"
+  "updated_at_utc": "2026-04-01T23:39:12Z"
 }
