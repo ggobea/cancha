@@ -16,6 +16,7 @@
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
     "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
+    "20223cd576bad15019baab4e5cb0550f9b51549d944a572927e98665268ab3c8",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
@@ -136,36 +137,13 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
       "price_from": 46000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 45000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T16:07:40Z"
+  "updated_at_utc": "2026-04-01T17:29:25Z"
 }
