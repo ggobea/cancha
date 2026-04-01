@@ -62,6 +62,7 @@
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
+    "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
     "8213e1ddf0baf72f2fbab74f6d97fd6734c7c81b8df4f1eb5fe9be4dbe61364c",
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
@@ -140,22 +141,14 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 40000.0,
+      "club": "Arena Padel",
+      "address": "Av Eva Perón 2264",
+      "price_from": 26000.0,
       "matched_times": [
+        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Village Club",
-      "address": "Tandil 2650",
-      "price_from": 62000.0,
-      "matched_times": [
-        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T21:52:12Z"
+  "updated_at_utc": "2026-04-01T22:40:37Z"
 }
