@@ -15,6 +15,7 @@
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
+    "1a34d3957379aa16de31ec1cf116c1905ba3da5a00e07d74d7e83b431e7d15b8",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
     "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
     "1daa7e94a154bea94ac4482c60f0e514a6c9e9cd8d16639234cf4e661d4bc8bd",
@@ -70,6 +71,7 @@
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
+    "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
     "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
@@ -101,6 +103,7 @@
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
+    "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
     "c0fbce2011dea743bde32c18756dbca53cd103a2958d2dd7b08d8beaef4d41cf",
     "c26f11c5c96fe322f05a7f09c6029400542c4a40efc3793d6fc54fcaac4b302b",
     "c53bbdc40d011b5e1bec6300273ed8b87f0f77fa6d17cdd9808dc9327d7fbef9",
@@ -150,16 +153,17 @@
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00"
+        "19:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-04-02",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 28000.0,
+      "club": "Exclusive Padel",
+      "address": "Tropezon 1174",
+      "price_from": 54000.0,
       "matched_times": [
-        "18:00"
+        "19:30"
       ]
     },
     {
@@ -169,9 +173,10 @@
       "price_from": 27000.0,
       "matched_times": [
         "18:00",
+        "18:30",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-01T23:39:12Z"
+  "updated_at_utc": "2026-04-02T02:35:24Z"
 }
