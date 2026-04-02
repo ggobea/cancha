@@ -12,6 +12,7 @@
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0d6bc0309529087d05e6ef0adf8198650e45af65d70ed3135a510f760694c0df",
     "0e7c87f7ba3749572de1fe564837730ddcd750221e47d4e65885d798de5cf98b",
+    "0fd306af29a0bb52e08f5b883c663efccc8fc9d126f4acb8596b1d6d98b32665",
     "125ef4655cd459b1b41595d785a1bbe33fc5e90afec51ab28a6b941d4634d9fb",
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
@@ -29,6 +30,7 @@
     "2b37e0ff654b119d0e56bac4396fea8c65e078f294e2578c1d6ff8a06754a62a",
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
     "2c859bd982a9bfb1ec16ef82b67048998be95d5e4075eab87624542d6dfcd066",
+    "2e64fe4806e9fff71f5d6e72c5b06fbd667ce88da8b6265d3452d809d99793d8",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
@@ -155,6 +157,7 @@
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e29b093923d651a6c5aa37554c41487773b86681cfd4673087687b18206239b5",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
+    "e64ab75e61bf577b9007981ac22c3c9a8436e5be2b3e124c716d5854a794b4e8",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
     "e95e6280f757e37b0d4365b21c7fa90c0636f06f53e80d28b88288adf13c7279",
     "eb6f77db59976572754ebecf8136a63f0d3df3f9d91fb778af1ac6ff04bc848c",
@@ -180,32 +183,10 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 46000.0,
+      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
+      "address": "Lincoln 3136",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Grizzly Padel y Futbol",
-      "address": "El Zonda 1769",
-      "price_from": 12000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
         "18:30"
       ]
     },
@@ -214,26 +195,6 @@
       "club": "Los Vientos Racket Center",
       "address": "Sgto cabral 2506",
       "price_from": 48000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 10000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 22000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -247,10 +208,9 @@
       "price_from": 45000.0,
       "matched_times": [
         "18:00",
-        "19:00",
-        "19:30"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-02T19:29:38Z"
+  "updated_at_utc": "2026-04-02T20:04:10Z"
 }
