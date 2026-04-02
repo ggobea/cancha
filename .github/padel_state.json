@@ -44,9 +44,11 @@
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
     "4d799674008a9673834fc7047a506d441c73e818c065e44fd45becbd89c1a637",
+    "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
     "5433ea286e2eea09f2c1727edf77173661a2989c50d177731bfd566a908ebe83",
     "55adcc4d7e7aac16f8cd89a86aa0f895125a4b8ae8177b16336ada8d3e64212c",
     "56005d5da7b2450903a7a76f9a3068c9d16ed9501225ba7ea9b07f8894dd6701",
+    "5a670cd2b2c46c895e1c12981e9984ccf1d663cdc8fe73ff529cd5237c735c51",
     "5b1b35af92577cf5e982360f3d54a390f226ed566c49935400a687c629083c88",
     "5c8818cfa305d26bd0509e7b7b808e8c0982ba95a12840227e90c0ad12de353d",
     "5d168d7c3cb80e81793e33917f18676220a49b4369126635de8a4a7f2e184754",
@@ -64,6 +66,7 @@
     "751feef5d8567414fd8343b6cb6d676c393311b239302423962dffd39e544438",
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
+    "7a4dabbf92d6e4057e87e44b1cc42b4a408344aae0bde0361f68156624e3f85e",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
@@ -147,36 +150,33 @@
   "last_results": [
     {
       "date": "2026-04-02",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-02",
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 40800.0,
+      "matched_times": [
         "19:30"
       ]
     },
     {
       "date": "2026-04-02",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 54000.0,
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-02T02:35:24Z"
+  "updated_at_utc": "2026-04-02T05:05:46Z"
 }
