@@ -55,6 +55,8 @@
     "5b1b35af92577cf5e982360f3d54a390f226ed566c49935400a687c629083c88",
     "5c8818cfa305d26bd0509e7b7b808e8c0982ba95a12840227e90c0ad12de353d",
     "5d168d7c3cb80e81793e33917f18676220a49b4369126635de8a4a7f2e184754",
+    "5d6a02c4b23709a74eeb5dc18b45200f03a97db9fadd1ab325065f7ace04079c",
+    "5d816816a9afcd02858475290a81c7543085db055a1cc013dbd2ed8fcbea16f9",
     "61133b0caec5914e4891bc308b12ae382bebd8d3c1341244c2070e8f7c29446f",
     "624d6b0b7c892e7e2662d2f12f4740050c23658af1e1bc5215f70c61ee531508",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
@@ -159,42 +161,20 @@
       "address": "ENTRE RIOS 851",
       "price_from": 18000.0,
       "matched_times": [
-        "18:00",
         "19:00"
       ]
     },
     {
       "date": "2026-04-02",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 44000.0,
-      "matched_times": [
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-02",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
-        "18:30",
         "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-02T13:20:32Z"
+  "updated_at_utc": "2026-04-02T14:39:36Z"
 }
