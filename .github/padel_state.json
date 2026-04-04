@@ -558,6 +558,15 @@
     },
     {
       "date": "2026-04-09",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 34000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
       "club": "SET Padel House",
       "address": "Tribulato 540, San Miguel, Buenos Aires",
       "price_from": 27000.0,
@@ -599,5 +608,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-04T17:34:13Z"
+  "updated_at_utc": "2026-04-04T18:47:42Z"
 }
