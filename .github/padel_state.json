@@ -445,9 +445,7 @@
       "address": "MONSEÑOR BUFANO 320",
       "price_from": 26000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     },
     {
@@ -601,5 +599,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-04T11:00:19Z"
+  "updated_at_utc": "2026-04-04T11:52:53Z"
 }
