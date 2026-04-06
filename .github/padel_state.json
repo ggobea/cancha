@@ -75,6 +75,7 @@
     "4d799674008a9673834fc7047a506d441c73e818c065e44fd45becbd89c1a637",
     "4f7a61c720e50e7cad0be740fb0747e26ba3ddece4ff13a2a3f852d4735dfb05",
     "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
+    "5356000c434e302820244b109478ec42e942c3d02c7eeb73d36125b30adaaeaf",
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
     "540737d7f573357dba9cc3272809f88c0e3095ec8a522bcb0a817bcaad89dcc2",
     "5433ea286e2eea09f2c1727edf77173661a2989c50d177731bfd566a908ebe83",
@@ -238,13 +239,14 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 45000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-06T15:51:50Z"
+  "updated_at_utc": "2026-04-06T16:53:36Z"
 }
