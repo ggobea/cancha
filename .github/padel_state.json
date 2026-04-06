@@ -131,6 +131,7 @@
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "9460b6a32a800c30f5244f39502c34d9aa09e973ee4fc70cf312ccd6d93b794a",
+    "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
@@ -154,6 +155,7 @@
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
     "ada016532aa088497363b2ba7ee2570911d129b4372f5d4105096281fc8944d8",
+    "ae0bc06facaf83b6f56af75b47bc6cae4d4a646c204e7113337e2870fc1910d4",
     "af891ac5ebfd528c477d28cf6b834d45895f85fb987d5a4ca673d7dbd1f61dfb",
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "b085ca735cfe2228db008fe9c0ce2a74a93a03690a68b09883ec628e0a6541a9",
@@ -240,13 +242,23 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 46000.0,
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 36000.0,
+      "matched_times": [
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-06T21:04:59Z"
+  "updated_at_utc": "2026-04-06T22:00:16Z"
 }
