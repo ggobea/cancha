@@ -212,6 +212,7 @@
     "e18e9b466c5c0834005e6d1381fe6020dc9fffa911d63f11b10540f824aa5515",
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
     "e29b093923d651a6c5aa37554c41487773b86681cfd4673087687b18206239b5",
+    "e35bc06e0adcc0f6c2c19ac47487d35e66158f3216d1f3e0a7bde756665282ff",
     "e4bd9e14eae5151c7be3be9eab588f7e65e288ffda51aa9897279edcae14114d",
     "e64ab75e61bf577b9007981ac22c3c9a8436e5be2b3e124c716d5854a794b4e8",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
@@ -246,14 +247,13 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T21:11:39Z"
+  "updated_at_utc": "2026-04-07T22:04:50Z"
 }
