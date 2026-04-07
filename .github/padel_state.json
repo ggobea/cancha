@@ -460,15 +460,6 @@
     },
     {
       "date": "2026-04-09",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 31000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "Nivel Uno",
       "address": "JUAN JOSE PASO 234 MORON",
       "price_from": 64000.0,
@@ -569,5 +560,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-06T23:59:47Z"
+  "updated_at_utc": "2026-04-07T03:25:17Z"
 }
