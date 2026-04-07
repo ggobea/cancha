@@ -62,6 +62,7 @@
     "40c89ebbd3abfccacd8962a57d2ad672d2d4391c339611a362b1f2844a0bf4ae",
     "41a27aec1778168be6a043856e299f4608a9e4a509b0fccfd25aa9f148c7e4bf",
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
+    "4271bfffd8067eae3a8b918a65e0281ef5cdbe839c0d42654fd630f844989848",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
     "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
@@ -92,6 +93,7 @@
     "5b1b35af92577cf5e982360f3d54a390f226ed566c49935400a687c629083c88",
     "5c8818cfa305d26bd0509e7b7b808e8c0982ba95a12840227e90c0ad12de353d",
     "5d168d7c3cb80e81793e33917f18676220a49b4369126635de8a4a7f2e184754",
+    "5d44ab5606fc993a73a62a2801f01870c85bae541fffa7cc643d53655d725c5d",
     "5d52f210f82770058b4fbfd69b00f16090e04d300fe22925ef6eda600c63b695",
     "5d6a02c4b23709a74eeb5dc18b45200f03a97db9fadd1ab325065f7ace04079c",
     "5d816816a9afcd02858475290a81c7543085db055a1cc013dbd2ed8fcbea16f9",
@@ -134,6 +136,7 @@
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "9460b6a32a800c30f5244f39502c34d9aa09e973ee4fc70cf312ccd6d93b794a",
+    "94682ce468e112f7f25fce368bcfca31060c674d12c6c881d50db1c4a7f89f5d",
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "965daa8b2659e45936337659402ed4d12254ed9487a70740969ba638acf74ca9",
@@ -148,6 +151,7 @@
     "a163a960e9fcef07128048a1e658410e9fc1178c0eb0ea5e6152e4d583fb6f95",
     "a1dfc284c5198303f66027cfcc37c3573a17676e76ce49d11d1da2138ea89c1a",
     "a252d6361a78d80300b7aaab14c9049127165307ac19b44837c3bcac6f8eb956",
+    "a2dc0ebe382012715873b777f80827dd92cfe6c8de19ed5e86090963eb4e02ae",
     "a32b912846c25246db940f885416fdc9cffb8dc6710ed4832ef0d4f5271d7f6a",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
     "a707cc0ab0fa35f1da3d718d014354fb9ecb9e3f4d5edd1cc77264e1ace6ea67",
@@ -247,13 +251,42 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 28000.0,
       "matched_times": [
-        "18:00"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Devoto Pádel",
+      "address": "Griveo 4165",
+      "price_from": 48000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 40800.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Match Point Castelar",
+      "address": "Tucumán 3000",
+      "price_from": 31000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T22:04:50Z"
+  "updated_at_utc": "2026-04-07T23:07:25Z"
 }
