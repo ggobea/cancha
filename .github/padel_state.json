@@ -1,6 +1,7 @@
 {
   "sent_keys": [
     "00cc3244a0004ffe522a308e486aa88bf42804f0627286f6c2e5661091ae58a6",
+    "022d33838818a34b53521cf3fff7d9e7b2f350783fefe715fee68b881ec81d9c",
     "0416847b9e9957f70545deb3ff7620575b110e5bad9d3438ef0177faa542d0d0",
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
@@ -248,10 +249,9 @@
       "price_from": 30000.0,
       "matched_times": [
         "18:00",
-        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T11:58:54Z"
+  "updated_at_utc": "2026-04-07T13:54:38Z"
 }
