@@ -245,15 +245,6 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "Arena Padel",
       "address": "Av Eva Perón 2264",
       "price_from": 26000.0,
@@ -384,15 +375,6 @@
     },
     {
       "date": "2026-04-09",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "La Bandeja",
       "address": "Libertad 4360",
       "price_from": 23000.0,
@@ -495,5 +477,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T19:18:31Z"
+  "updated_at_utc": "2026-04-07T20:06:39Z"
 }
