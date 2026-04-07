@@ -302,17 +302,6 @@
     },
     {
       "date": "2026-04-09",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "Club De Padel",
       "address": "Constitucion 658",
       "price_from": 28000.0,
@@ -504,16 +493,7 @@
         "18:00",
         "18:30"
       ]
-    },
-    {
-      "date": "2026-04-09",
-      "club": "Torcuadel",
-      "address": "Chile 1920 - Don Torcuato",
-      "price_from": 60000.0,
-      "matched_times": [
-        "19:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-04-07T17:59:10Z"
+  "updated_at_utc": "2026-04-07T19:18:31Z"
 }
