@@ -324,17 +324,6 @@
     },
     {
       "date": "2026-04-09",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 44000.0,
-      "matched_times": [
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "Efecto Padel",
       "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
       "price_from": 50000.0,
@@ -518,15 +507,6 @@
     },
     {
       "date": "2026-04-09",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 36000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
       "club": "Torcuadel",
       "address": "Chile 1920 - Don Torcuato",
       "price_from": 60000.0,
@@ -535,5 +515,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T16:34:28Z"
+  "updated_at_utc": "2026-04-07T17:59:10Z"
 }
