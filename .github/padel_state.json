@@ -64,6 +64,7 @@
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
+    "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
     "44cb833d0ef731858dd76b081043813b7b82fe73d1de9bf555202e61b2846e47",
     "47c1b12e712ac9022599603cec586533de473bd6d1d5a0be94093f10dbdcb9cf",
     "47f4c82d76c59817d602ae17fb9d8d526ba046efea4b6dad335cb526f9d5a373",
@@ -244,14 +245,14 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Smash Club de Padel",
+      "address": "Ramón Carrillo  2568",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "19:00"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-07T13:54:38Z"
+  "updated_at_utc": "2026-04-07T15:11:56Z"
 }
