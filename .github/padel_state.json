@@ -139,6 +139,7 @@
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
+    "9455a6326ece50f02bc7ae3ce75693471109ac76d4d4f1652a78fde59ee0aa90",
     "9460b6a32a800c30f5244f39502c34d9aa09e973ee4fc70cf312ccd6d93b794a",
     "94682ce468e112f7f25fce368bcfca31060c674d12c6c881d50db1c4a7f89f5d",
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
@@ -258,14 +259,13 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:00",
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-08T17:41:19Z"
+  "updated_at_utc": "2026-04-08T19:20:31Z"
 }
