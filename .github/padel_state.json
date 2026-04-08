@@ -129,6 +129,7 @@
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
+    "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
     "8213e1ddf0baf72f2fbab74f6d97fd6734c7c81b8df4f1eb5fe9be4dbe61364c",
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
@@ -209,6 +210,7 @@
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
+    "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d66e7b5a2a37dd8a6d723d823a3e72b8bf155b70cbd35de9cda63e040df8dbd7",
     "d6a9b370a444a288e13dfbf746c2a8bdb3596d2dbafd903d6abe3c2c8c58cfca",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
@@ -245,6 +247,7 @@
     "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
     "f34ab41a89c155cfbe5d3a7a3951c19e88b5b3edea7291484a66bf3e687793f6",
     "f51e79ea3c43331576adc82c56b3164a6f3387ce0d04f3f3b1437e214d3f9ea1",
+    "f53a6d70ab8f0f8cebe3e133d858b1239ebd82070d07aecebd6d854825ebd3af",
     "f59fef4607004895b807425aa6601c674cbd95cced9e1d7756a14dd82ba1bd87",
     "f6043ce6acc5a1374456a7c826850ca2506e1b4ced728d792e5b015b81523e78",
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
@@ -260,14 +263,33 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 64000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Match Point",
+      "address": "Bedoya 7078, Isidro Casanova",
+      "price_from": 40000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-04-08T22:07:55Z"
+  "updated_at_utc": "2026-04-08T23:08:51Z"
 }
