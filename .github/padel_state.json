@@ -136,6 +136,7 @@
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
     "830792a63bebfe3e683e9b64cf174d07e5a9e6071e63d8453e6e74eebd85a779",
+    "839ebfb8d441b924aa110f466bf094a24bd971b2cbd82fc90b68b01dafbeac33",
     "84239c66dd96bf135cf03249544223027f0c7acc40c30de3d7edf23edf657cfd",
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
@@ -184,6 +185,7 @@
     "b3f81bf0f233f77ed76fa95346bc55b459b061ba55a3975448c763a3151aefce",
     "b4bf27323c9fcc9111d4c20a54d354022a194039201d2c5f4627bd6e906dac88",
     "b4ef0542e1f50b36de197e509b1ceb00f89f010084cd31d959c7544983dc5799",
+    "b576a020b03ca01669f17659289cc4fdac7ae17f25b55438a5463625f9b42b85",
     "b8f5095a9250a2d41ebf978194b8e6d735dfa4b9ae32d5242779db41e6dc48df",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
     "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
@@ -213,6 +215,7 @@
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
+    "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
     "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d66e7b5a2a37dd8a6d723d823a3e72b8bf155b70cbd35de9cda63e040df8dbd7",
     "d6a9b370a444a288e13dfbf746c2a8bdb3596d2dbafd903d6abe3c2c8c58cfca",
@@ -267,13 +270,31 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "GQG Vip",
+      "address": "Irigoyen 2050, Buenos Aires",
       "price_from": 46000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-09T11:31:37Z"
+  "updated_at_utc": "2026-04-09T13:47:52Z"
 }
