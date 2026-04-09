@@ -88,6 +88,7 @@
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
     "540737d7f573357dba9cc3272809f88c0e3095ec8a522bcb0a817bcaad89dcc2",
     "5433ea286e2eea09f2c1727edf77173661a2989c50d177731bfd566a908ebe83",
+    "547e11e3420662f9f54a1b323abe4b9a2ee7742e4c805e1fa4b2da82e89154d9",
     "55adcc4d7e7aac16f8cd89a86aa0f895125a4b8ae8177b16336ada8d3e64212c",
     "56005d5da7b2450903a7a76f9a3068c9d16ed9501225ba7ea9b07f8894dd6701",
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
@@ -165,6 +166,7 @@
     "a32b912846c25246db940f885416fdc9cffb8dc6710ed4832ef0d4f5271d7f6a",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
     "a5dd71bfdc71709c41b32ac99f5412558ce2c89959a1417f9042d830f5dd4d91",
+    "a6bf47999ada1195191193ce15f55ea5a60c414414f316bbae65cf0b92e869e1",
     "a707cc0ab0fa35f1da3d718d014354fb9ecb9e3f4d5edd1cc77264e1ace6ea67",
     "a7c0d3c06477d45d427b8184c68134710b5944648ca3e25bbca289f3577edd79",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
@@ -270,31 +272,22 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 28000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-04-09",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-09",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-09T13:47:52Z"
+  "updated_at_utc": "2026-04-09T15:24:26Z"
 }
