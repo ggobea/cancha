@@ -190,6 +190,7 @@
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
+    "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
     "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
     "c0fbce2011dea743bde32c18756dbca53cd103a2958d2dd7b08d8beaef4d41cf",
@@ -257,6 +258,7 @@
     "f9f9517f828845fdbc24dd7423f422873466cca08c85575bd85f93bb0ddfbbb8",
     "faef43759ae7e251d30d5b282515fd0032e2dbc4984aa55c98ebc87361a2abe0",
     "fb13a5762a3739f82e7a6bd645f0106c8f74d3db2cfcaec699bc4e9eb56128e1",
+    "fb551f85b773f5855d4efa1bc3814bcb4f83b3c9b0f30f7a35d4e8eb85c871df",
     "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a",
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36"
@@ -264,14 +266,26 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-09",
+      "club": "Match Point",
+      "address": "Bedoya 7078, Isidro Casanova",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-09T00:00:03Z"
+  "updated_at_utc": "2026-04-09T03:22:22Z"
 }
