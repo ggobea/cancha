@@ -276,27 +276,6 @@
     "fee408682695e53318e12413ce487fd4c8ae745c34c18827b92354936dc4ccf3",
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36"
   ],
-  "last_results": [
-    {
-      "date": "2026-04-09",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-09",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 10000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    }
-  ],
-  "updated_at_utc": "2026-04-09T21:48:33Z"
+  "last_results": [],
+  "updated_at_utc": "2026-04-09T22:43:05Z"
 }
