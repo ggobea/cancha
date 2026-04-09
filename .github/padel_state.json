@@ -157,6 +157,7 @@
     "97afdd8aefd7330d49dafbcc699fb1e302e7db94105139e7fa3268cf7d57db5f",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
     "9d48d323c98391b35f88f03745c5d83b0993bf807f57d9082cb893f1fd7e3ca9",
+    "9e0d32d4ba5e872dea9cfcb0f31d32d115f943f9dfbfe2a9bfe2fc9337f9d276",
     "9ffa02e0e23bc7874141940db5e5895c7a67e106206357035b334aafba1b3de8",
     "a0c08846b6cb03377cfb826e8af4c70ef05f44276e8605311744e3c693ae232b",
     "a152f72d96796feb38e14f07c3d1c3bb5ab48790d93225003819a5d49de6f7d5",
@@ -273,13 +274,13 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Goles y Gambetas Villa Tesei",
+      "address": "Juan de Salazar 265",
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-09T16:48:39Z"
+  "updated_at_utc": "2026-04-09T18:00:43Z"
 }
