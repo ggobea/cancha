@@ -48,6 +48,7 @@
     "2e64fe4806e9fff71f5d6e72c5b06fbd667ce88da8b6265d3452d809d99793d8",
     "2fd6f5860e1294f757c8e65b8a87ac44d6c0eeb798c9009809d3cbcc23362c1a",
     "302a03669c22e9ff6c06b7a2c0897233d7fcb324ec70a63e695b885a7f3b28b3",
+    "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
@@ -263,33 +264,14 @@
   "last_results": [
     {
       "date": "2026-04-09",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
-    },
-    {
-      "date": "2026-04-09",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-09",
-      "club": "Match Point",
-      "address": "Bedoya 7078, Isidro Casanova",
-      "price_from": 40000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-04-08T23:08:51Z"
+  "updated_at_utc": "2026-04-09T00:00:03Z"
 }
