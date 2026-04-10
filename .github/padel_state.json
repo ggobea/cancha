@@ -522,15 +522,6 @@
     },
     {
       "date": "2026-04-16",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
       "club": "La Bandeja",
       "address": "Libertad 4360",
       "price_from": 23000.0,
@@ -711,5 +702,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-10T10:09:15Z"
+  "updated_at_utc": "2026-04-10T11:25:59Z"
 }
