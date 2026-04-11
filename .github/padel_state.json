@@ -627,8 +627,7 @@
       "address": "Av Rivadavia 8511",
       "price_from": 55000.0,
       "matched_times": [
-        "18:00",
-        "19:30"
+        "18:00"
       ]
     },
     {
@@ -701,5 +700,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-10T23:38:47Z"
+  "updated_at_utc": "2026-04-11T02:32:13Z"
 }
