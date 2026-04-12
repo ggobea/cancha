@@ -522,15 +522,6 @@
     },
     {
       "date": "2026-04-16",
-      "club": "La Bandeja",
-      "address": "Libertad 4360",
-      "price_from": 23000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
       "club": "Lo de Juve",
       "address": "Luis Viale 2956",
       "price_from": 45000.0,
@@ -689,5 +680,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-12T20:48:53Z"
+  "updated_at_utc": "2026-04-12T21:37:56Z"
 }
