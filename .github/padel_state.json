@@ -458,7 +458,7 @@
       "date": "2026-04-16",
       "club": "Flow Sports",
       "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 22000.0,
+      "price_from": 40800.0,
       "matched_times": [
         "18:00",
         "19:30"
@@ -649,5 +649,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-14T11:58:35Z"
+  "updated_at_utc": "2026-04-14T14:05:43Z"
 }
