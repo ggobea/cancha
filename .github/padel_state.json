@@ -167,6 +167,7 @@
     "83aa41615d5f0f0a95ef83d6df129cc55ae91bf2ba5c016f90e11a29ca1dafde",
     "84239c66dd96bf135cf03249544223027f0c7acc40c30de3d7edf23edf657cfd",
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
+    "8a09ea106fdf827e82de2ece6c32a7b9ffaece6b8dd057c9cba8afcff949a1a9",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
     "8c43de2149629ecacc814994aeb9cba4ebcca7d2bb6aed2de1453c3fde5b346b",
     "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
@@ -280,6 +281,7 @@
     "de94202d784079d0deb3dac896c4a059471ab11a83b1774c74f33ad9d28f3497",
     "df292d6ecbc28cfc9ae38b3c12d2d154276ab0db294f2e157d1767544e65a473",
     "df5476d3047597b316813a057a1e63267ab813d64536374f7db405798441fee6",
+    "df5a3e474a9d7720fe28050ee435a052f1dc726c41dd32b74e0554c5429ffee7",
     "e0cdaece2a3fe48f5f9b6da02b72c087af3e19ff721c53cb934203af46c27696",
     "e17b36b80af8b91f888899fbbf1ad8a1eccbb3d640819b5150677b060b3dd778",
     "e18e9b466c5c0834005e6d1381fe6020dc9fffa911d63f11b10540f824aa5515",
@@ -323,6 +325,7 @@
     "fb551f85b773f5855d4efa1bc3814bcb4f83b3c9b0f30f7a35d4e8eb85c871df",
     "fbc615aaeb1b16e1b6c4e1a92c60b8266733b37c8b945828bc5994255170c2a9",
     "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
+    "fe287f1e77618a1b4fe130b5131d84020eb50810166f7dce0e3678ac1527b75e",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a",
     "fee408682695e53318e12413ce487fd4c8ae745c34c18827b92354936dc4ccf3",
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36"
@@ -335,9 +338,30 @@
       "price_from": 18000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "club": "Match Point Castelar",
+      "address": "Tucumán 3000",
+      "price_from": 31000.0,
+      "matched_times": [
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-14T20:06:27Z"
+  "updated_at_utc": "2026-04-14T21:25:39Z"
 }
