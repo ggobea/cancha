@@ -204,6 +204,7 @@
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
     "a5dd71bfdc71709c41b32ac99f5412558ce2c89959a1417f9042d830f5dd4d91",
     "a6bf47999ada1195191193ce15f55ea5a60c414414f316bbae65cf0b92e869e1",
+    "a6c49498958222e10b0a235986afd8138c7ddb62a8cba1d0dc7bb1ef561fd677",
     "a707cc0ab0fa35f1da3d718d014354fb9ecb9e3f4d5edd1cc77264e1ace6ea67",
     "a7c0d3c06477d45d427b8184c68134710b5944648ca3e25bbca289f3577edd79",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
@@ -267,6 +268,7 @@
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
     "d16feb5c48f0a12d438a6a74a4f76fa8fbbcdedf3cb3ab98a30fd72c7466de6b",
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
+    "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
     "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d66e7b5a2a37dd8a6d723d823a3e72b8bf155b70cbd35de9cda63e040df8dbd7",
@@ -337,13 +339,11 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 45000.0,
       "matched_times": [
-        "18:00",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     },
     {
@@ -354,10 +354,9 @@
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-15T00:07:24Z"
+  "updated_at_utc": "2026-04-15T03:48:30Z"
 }
