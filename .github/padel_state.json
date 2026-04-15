@@ -254,6 +254,7 @@
     "c7747e692a4cbfb3f4bd1929a066a00a3a0cb7639abc8b87872aed7c91e046ca",
     "c7cd096a3f4a23407644d707c26485e0cb2a7efa485f4ef6e6e4f0896f9ee7af",
     "c9abaed364a656ab33c89135d51a535136662e13bef8514082da2428b47a9bf9",
+    "cb34b98433f9eb6f1ba2fe59001ca2b7fb85a724a00ef7129b965276fd5be7c5",
     "cb3ade0e87370c823e66b70b7ebd32929cfa8f96dbf18a3ccc02e3c84bac615c",
     "cb4b266e66afcae132612e2426ff1d39510edc2e9ccbf11f6ecafa5d66d42458",
     "cba7c26a7661706d806e58f04c741d530d41bc64f8b46bacfe53e746261f2e35",
@@ -330,29 +331,33 @@
     "fe287f1e77618a1b4fe130b5131d84020eb50810166f7dce0e3678ac1527b75e",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a",
     "fee408682695e53318e12413ce487fd4c8ae745c34c18827b92354936dc4ccf3",
-    "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36"
+    "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36",
+    "ff8875cb887cb38f12faf655dda5ac4a6ce9b9abde178218b42a34ac6c7e4e2c"
   ],
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-04-16",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-04-14T23:13:02Z"
+  "updated_at_utc": "2026-04-15T00:07:24Z"
 }
