@@ -130,6 +130,7 @@
     "61ff8f9f028a988402a8ba80de0df9fe88b4020041a5910077611a4f91e5a2a6",
     "624d6b0b7c892e7e2662d2f12f4740050c23658af1e1bc5215f70c61ee531508",
     "6264b7a74f5bb7318bf66f048d3c6c156e1f8d30cc093bbaa008a7008de70928",
+    "63ac4d8563d6142479179dc98e45bb71c147fecd88927e3f9546349afb801415",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
     "664ee2d017bc65a9befe41014d5d8023e8bfae86f4d82448d71991a96f163161",
     "66ef0602d0cd20587b24d21f43e5c1212852ebb052de65136d64c91c9405a323",
@@ -236,6 +237,7 @@
     "b4ef0542e1f50b36de197e509b1ceb00f89f010084cd31d959c7544983dc5799",
     "b576a020b03ca01669f17659289cc4fdac7ae17f25b55438a5463625f9b42b85",
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
+    "b7bdc93e4f151188f81cc2cd61ae789fa83b1ad4fb9b2b693d40286da454a897",
     "b7e721be46b30c48966c1066433ee127e70b2d100dda40cd114087d6f21017cf",
     "b8f5095a9250a2d41ebf978194b8e6d735dfa4b9ae32d5242779db41e6dc48df",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
@@ -275,6 +277,7 @@
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
+    "d53396ed9f4596db67207a4b984bd77a2d30401751951a14429df300693d9151",
     "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d66e7b5a2a37dd8a6d723d823a3e72b8bf155b70cbd35de9cda63e040df8dbd7",
     "d6a9b370a444a288e13dfbf746c2a8bdb3596d2dbafd903d6abe3c2c8c58cfca",
@@ -344,43 +347,35 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 28000.0,
       "matched_times": [
-        "19:00",
-        "19:30"
+        "18:30",
+        "19:00"
       ]
     },
     {
       "date": "2026-04-16",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 40800.0,
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-04-16",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 45000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-15T18:41:33Z"
+  "updated_at_utc": "2026-04-15T20:04:40Z"
 }
