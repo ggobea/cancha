@@ -9,6 +9,7 @@
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
     "05a462574bfbc47605c111a1fe2771ed625e6b07e98d78ccf72c314579693946",
     "05b51e16ef9fc185bbb643ee8ef2f7a30e38727101c3f624be843360bfd74b61",
+    "08fe42db6d1f3ef2a2f5acff75b5bf534d025c8f6bcaec9a2155ddbecfecd645",
     "09af42499a6dabd55c43764e4ea0ea1b766838cf4999c0f7307da92879e42f4d",
     "0a66ea1d62e51c0ca574131220facb39f6f2ff0e685c1b95d89d844c119ee3d5",
     "0aa0117f55cbd38282e0c967498185e17e87082a650888aa55aed87a8707540b",
@@ -251,6 +252,7 @@
     "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
     "bac11bea45b0c4e525b2d661c076cc635ace291beaf4534bdfd8fc0b78341bfd",
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
+    "bb8e663d4985f27d8ab54c5cc855b09fb9e796a6f28cd84e94dad94f138a4cfc",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
@@ -356,19 +358,9 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -378,14 +370,14 @@
     },
     {
       "date": "2026-04-16",
-      "club": "La Bandeja",
-      "address": "Libertad 4360",
-      "price_from": 23000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
-        "19:00",
+        "18:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T14:57:50Z"
+  "updated_at_utc": "2026-04-16T16:43:43Z"
 }
