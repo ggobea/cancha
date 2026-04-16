@@ -76,6 +76,7 @@
     "3a160f39567f375be4b1674266b74b551475ef3f5e42c1ba459f51d44b735c0d",
     "3a2a3392f8c1acfe30fcd312e8ce4e12df661be4094775ad1c4bdcfe1be1ef36",
     "3bb8dd59a593125709ef3e77e87c8a517765d3101e90d28faf08b2fd82e96cf3",
+    "3d6919ed3419b60adc25d69481977d2a4ee8d49c1012dd2b694fcb6d93530483",
     "3d99e427d952f8fac0f15f6db51b81841473e1af0d416fb1ab1c6b54d5257965",
     "3e2c02dc0694e9ddbd679959ae9e95ea6dff4d046f24223d850ef23e1cdfbce8",
     "3ef8bb96c0fc9bf3bd61c95d4ce2290c1ae8a363823f7520192f60e26f0ed1d2",
@@ -95,6 +96,7 @@
     "48dd2eb1ba655d1abff53d3b0c10644a081101a5ac79ff860a59e50c17595034",
     "4911e9dd2fa02a5f8ebaeebeaa376b50595700eae15bf397af347ad589898025",
     "49d3f7f86f1f6299d482689af2edd6e15ca0085c8dca9595f5b25f4a6ecfc3ff",
+    "4a05403d1330f7d14834acd4685bb8194ba8e4da5481b431e7600007729b8537",
     "4a8b8c7dbe5a88dd3db57bce7d327d4c03110f3def1e72dc76fed6d7458912c0",
     "4aa1d895af469aeae8a8d085725f71c1e8365d263866ad4dff55790c5fc0df0e",
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
@@ -322,6 +324,7 @@
     "ea5ebf697bf413101a9ffe45a40b0f497cd87e6e7f0d03402dba87260efff7da",
     "eae021781b26f12a2e8ad0a8635cad10dcc3a6dc81159b390de4a1374370c8e7",
     "eb17462be5d616f7095a0330c32a468b9962215bff8bcf14d0162a00b7d2f6fa",
+    "eb37dcdaea6ba2bf463af86be3e701b3e35e10b7e5a31ea00466fd63ff206350",
     "eb58122e97bdc66f8ec43a8043037a5d9395ba728a3f0728e6cc13c9a4571e4e",
     "eb6f77db59976572754ebecf8136a63f0d3df3f9d91fb778af1ac6ff04bc848c",
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
@@ -360,23 +363,33 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "19:30"
       ]
     },
     {
       "date": "2026-04-16",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
+      "club": "La Cautiva Tenis y Padel",
+      "address": "La Cautiva 7651",
+      "price_from": 28000.0,
       "matched_times": [
+        "18:30",
         "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T18:08:41Z"
+  "updated_at_utc": "2026-04-16T19:44:47Z"
 }
