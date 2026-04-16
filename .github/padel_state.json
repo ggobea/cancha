@@ -389,15 +389,6 @@
     },
     {
       "date": "2026-04-16",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
       "club": "Club 18D Fútbol y Padel",
       "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
       "price_from": 36000.0,
@@ -413,15 +404,6 @@
       "matched_times": [
         "18:30",
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 40000.0,
-      "matched_times": [
-        "19:30"
       ]
     },
     {
@@ -478,17 +460,6 @@
       "price_from": 40800.0,
       "matched_times": [
         "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
       ]
     },
     {
@@ -654,5 +625,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T11:11:29Z"
+  "updated_at_utc": "2026-04-16T12:42:56Z"
 }
