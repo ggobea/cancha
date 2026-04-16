@@ -152,6 +152,7 @@
     "72ff83fd7d85344d95d664bbcde051baab95d6d8b1b338c47b5805060db82707",
     "751feef5d8567414fd8343b6cb6d676c393311b239302423962dffd39e544438",
     "765a16e9eb1930ae326e3f12afc4d14374278ba3b7947c9df056cee357328add",
+    "766bd1b06a1862e3ff6779c384e29ec90ac8a476b9ea4bcb403ad6b88af88bb8",
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
     "78dc608cd4b946cad539d45905afd75862ede44d151853249c1b367edace9d7c",
@@ -172,6 +173,7 @@
     "839ebfb8d441b924aa110f466bf094a24bd971b2cbd82fc90b68b01dafbeac33",
     "83aa41615d5f0f0a95ef83d6df129cc55ae91bf2ba5c016f90e11a29ca1dafde",
     "84239c66dd96bf135cf03249544223027f0c7acc40c30de3d7edf23edf657cfd",
+    "84fbb5ee750a4fe9032ba1a65ab718120f98cc8632e0668b3cd237a648926a47",
     "88abd626ff9a6aeb546463df5885d9eae8b153e9f0d848a1b23d95373653c00d",
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
     "8a09ea106fdf827e82de2ece6c32a7b9ffaece6b8dd057c9cba8afcff949a1a9",
@@ -248,6 +250,7 @@
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
+    "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
     "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
@@ -350,24 +353,31 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 45000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-04-16",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "club": "El Predio Padel",
+      "address": "Boyaca 1766",
+      "price_from": 56000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T00:06:59Z"
+  "updated_at_utc": "2026-04-16T03:54:39Z"
 }
