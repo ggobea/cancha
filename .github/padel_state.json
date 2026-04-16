@@ -6,6 +6,7 @@
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0416847b9e9957f70545deb3ff7620575b110e5bad9d3438ef0177faa542d0d0",
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
+    "04e89f7730c56e7614f1a71d623195b98994b3aa81a9d39c21fbb139f0260638",
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
     "05a462574bfbc47605c111a1fe2771ed625e6b07e98d78ccf72c314579693946",
     "05b51e16ef9fc185bbb643ee8ef2f7a30e38727101c3f624be843360bfd74b61",
@@ -221,6 +222,7 @@
     "a6c49498958222e10b0a235986afd8138c7ddb62a8cba1d0dc7bb1ef561fd677",
     "a707cc0ab0fa35f1da3d718d014354fb9ecb9e3f4d5edd1cc77264e1ace6ea67",
     "a7c0d3c06477d45d427b8184c68134710b5944648ca3e25bbca289f3577edd79",
+    "a7cb97adc43b7120c97b8481290aec014c4404cfd4715d5ef22549c8d2081e70",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
     "a90d60c64b0459543fc3eec9477999c22a90427f72dcf8bc27ee866c458137e3",
     "a91344850e7f7ec8b5a1f2d69fb1f7245430d4c0f44cba7279164466a66d68cb",
@@ -363,21 +365,18 @@
       "price_from": 40000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:30"
       ]
     },
     {
       "date": "2026-04-16",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T16:43:43Z"
+  "updated_at_utc": "2026-04-16T18:08:41Z"
 }
