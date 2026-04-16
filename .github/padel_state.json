@@ -276,6 +276,7 @@
     "c7747e692a4cbfb3f4bd1929a066a00a3a0cb7639abc8b87872aed7c91e046ca",
     "c7cd096a3f4a23407644d707c26485e0cb2a7efa485f4ef6e6e4f0896f9ee7af",
     "c9abaed364a656ab33c89135d51a535136662e13bef8514082da2428b47a9bf9",
+    "c9df74e78c89aaaa0ac5d9e06ad5cf858f8d6b48e67fdbfd36ab05782d240cbc",
     "cb34b98433f9eb6f1ba2fe59001ca2b7fb85a724a00ef7129b965276fd5be7c5",
     "cb3ade0e87370c823e66b70b7ebd32929cfa8f96dbf18a3ccc02e3c84bac615c",
     "cb4b266e66afcae132612e2426ff1d39510edc2e9ccbf11f6ecafa5d66d42458",
@@ -363,33 +364,15 @@
   "last_results": [
     {
       "date": "2026-04-16",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00",
+        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "La Cautiva Tenis y Padel",
-      "address": "La Cautiva 7651",
-      "price_from": 28000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-16",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
-      "matched_times": [
-        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-16T19:44:47Z"
+  "updated_at_utc": "2026-04-16T20:53:03Z"
 }
