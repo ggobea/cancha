@@ -543,15 +543,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "El Guardian Padel",
       "address": "Carrasco 825, Floresta, CABA",
       "price_from": 30000.0,
@@ -826,5 +817,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-17T11:53:25Z"
+  "updated_at_utc": "2026-04-17T13:25:21Z"
 }
