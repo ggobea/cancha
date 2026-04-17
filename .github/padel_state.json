@@ -73,6 +73,7 @@
     "2e64fe4806e9fff71f5d6e72c5b06fbd667ce88da8b6265d3452d809d99793d8",
     "2f85747e3e2ae24c7262adf530aa66ba342e1b35bee82510f4794a7b8e99edb4",
     "2fd6f5860e1294f757c8e65b8a87ac44d6c0eeb798c9009809d3cbcc23362c1a",
+    "301192ebe8c3462c85a322ef0e593019fc0aa0aaf9c2cfd414d99c40c7e7bdb8",
     "302a03669c22e9ff6c06b7a2c0897233d7fcb324ec70a63e695b885a7f3b28b3",
     "30369fc80f6de1a2f0043a08c4a16a58249646a90ee3ac2119f3fb9a9cf0fab7",
     "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
@@ -422,13 +423,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Village Club",
+      "address": "Tandil 2650",
+      "price_from": 80000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-17T20:50:20Z"
+  "updated_at_utc": "2026-04-17T21:45:22Z"
 }
