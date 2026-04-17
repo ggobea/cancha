@@ -345,6 +345,7 @@
     "d6a9b370a444a288e13dfbf746c2a8bdb3596d2dbafd903d6abe3c2c8c58cfca",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d860138803e078eb90c37a45ba88de14afdc61655c34a47b96612e41fa336303",
+    "d8ac6a699d40f837cb68ea552a089c0239f073afbccd505925f9eaaf50ece53d",
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
     "da0da3b6115b1a46607af6c67c5f3b4c19184aa0639015a1ee97626a7ed1c973",
     "da7b39d39764fd3d097fed3d24c1a8ea0fd36449444c6cf6e2eb4b2769fe32f9",
@@ -421,13 +422,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 44000.0,
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 55000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-17T19:38:07Z"
+  "updated_at_utc": "2026-04-17T20:50:20Z"
 }
