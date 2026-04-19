@@ -807,16 +807,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Tiger Padel",
       "address": "Av Gaona 10502",
       "price_from": 36000.0,
@@ -836,5 +826,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-19T22:00:19Z"
+  "updated_at_utc": "2026-04-19T23:04:11Z"
 }
