@@ -695,18 +695,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 31000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Olivos Padel Club",
       "address": "Av. Olivos 86",
       "price_from": 46000.0,
@@ -826,5 +814,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-20T10:51:30Z"
+  "updated_at_utc": "2026-04-20T12:06:36Z"
 }
