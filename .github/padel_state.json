@@ -496,15 +496,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "CLUB AERA",
-      "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
-      "price_from": 42000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Casablanca Padel",
       "address": "Urquiza 952",
       "price_from": 40000.0,
@@ -749,15 +740,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 34000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Redfit Padel",
       "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
@@ -795,5 +777,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-20T17:06:44Z"
+  "updated_at_utc": "2026-04-20T18:34:19Z"
 }
