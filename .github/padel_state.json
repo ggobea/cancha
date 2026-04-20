@@ -256,6 +256,7 @@
     "a13cadf88d0870c1e1870cb7e8fd514611f17df75a382421dedb512a38186a13",
     "a152f72d96796feb38e14f07c3d1c3bb5ab48790d93225003819a5d49de6f7d5",
     "a163a960e9fcef07128048a1e658410e9fc1178c0eb0ea5e6152e4d583fb6f95",
+    "a186312eea158a5e3b872feef1f0dcc2ccfd3d4bb77bf6e76ace6e5bbd845f70",
     "a1dfc284c5198303f66027cfcc37c3573a17676e76ce49d11d1da2138ea89c1a",
     "a23169024e6d299f84fd5b61039246e2ed63838d3ca9ef4eff31f6d5b63936b9",
     "a252d6361a78d80300b7aaab14c9049127165307ac19b44837c3bcac6f8eb956",
@@ -311,6 +312,7 @@
     "bb8e663d4985f27d8ab54c5cc855b09fb9e796a6f28cd84e94dad94f138a4cfc",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
+    "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
@@ -434,14 +436,24 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 22000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
-        "19:00",
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-20T21:56:28Z"
+  "updated_at_utc": "2026-04-20T22:52:50Z"
 }
