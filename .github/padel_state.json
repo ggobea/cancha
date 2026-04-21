@@ -80,6 +80,7 @@
     "302a03669c22e9ff6c06b7a2c0897233d7fcb324ec70a63e695b885a7f3b28b3",
     "30369fc80f6de1a2f0043a08c4a16a58249646a90ee3ac2119f3fb9a9cf0fab7",
     "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
+    "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "33331cea6680eb05297b7bc0af60c336dcc4a1c1c45c3d2cccfee210bcb7a43f",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
@@ -184,6 +185,7 @@
     "6cb41735708bf8596308f2ad888389eb89262779a88106de4f4a716eb381f994",
     "6f3a5a461a9e9142bdc8feb03808f0f937fa48d8c20bab13c5fefbb69dcfc656",
     "6f6174c19fa18b875a2e37dde05c2633765f0a8e55909018b8cb22a568135de4",
+    "6f9d1689e033f2642f34bf788fee1fc13afc35621266a10e5141ea998fa4a84c",
     "6faaf0b14827fdf7e1c022db418f8b97724ccf423efbba6a18ad5a8b9bdb729c",
     "70a97e0549bdb68289fa414e9d65978dcac1a5aa983b2f7f3c3d406fa90c2048",
     "70b33bab44bdabae8bc6af12c516570b3ac602087eef69e6e5548ea80d676868",
@@ -440,24 +442,22 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "19:00"
+        "18:00"
       ]
     },
     {
       "date": "2026-04-23",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-21T18:39:43Z"
+  "updated_at_utc": "2026-04-21T20:04:23Z"
 }
