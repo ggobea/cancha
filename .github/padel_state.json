@@ -519,17 +519,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Club De Padel",
       "address": "Constitucion 658",
       "price_from": 28000.0,
@@ -596,7 +585,6 @@
       "price_from": 50000.0,
       "matched_times": [
         "18:00",
-        "18:30",
         "19:00"
       ]
     },
@@ -610,6 +598,15 @@
         "18:30",
         "19:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
       ]
     },
     {
@@ -683,15 +680,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Padel Ya",
       "address": "Av Rivadavia 8511",
       "price_from": 55000.0,
@@ -748,5 +736,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-21T12:00:36Z"
+  "updated_at_utc": "2026-04-21T14:15:49Z"
 }
