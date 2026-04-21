@@ -130,6 +130,7 @@
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
     "4c5ee8a07771c17854050a55cfe71bcfeac1f47a4a1431287ec767f7f8835796",
+    "4cd14c6e32ffcb40c51478fa72b90543fb82bedc852013bc613c2b2d75e596ce",
     "4d0994ab27053b0231f977b8c3708f38e02e95d2aec1aedfa77bd1b9a01f6e34",
     "4d799674008a9673834fc7047a506d441c73e818c065e44fd45becbd89c1a637",
     "4e5a4df45f066da8f40a6dc0eee5c3adb276667769844fc32eb0bad1a4ff1656",
@@ -442,22 +443,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 46000.0,
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "19:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-04-21T20:04:23Z"
+  "updated_at_utc": "2026-04-21T21:12:06Z"
 }
