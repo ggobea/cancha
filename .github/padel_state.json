@@ -622,7 +622,7 @@
       "date": "2026-04-23",
       "club": "La Bandeja",
       "address": "Libertad 4360",
-      "price_from": 23000.0,
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
@@ -680,15 +680,6 @@
     },
     {
       "date": "2026-04-23",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Padel los amigos",
       "address": "Combate de los pozos 3653",
       "price_from": 1950.0,
@@ -736,5 +727,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-21T14:15:49Z"
+  "updated_at_utc": "2026-04-21T15:52:27Z"
 }
