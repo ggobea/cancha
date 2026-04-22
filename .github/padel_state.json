@@ -185,6 +185,7 @@
     "692111c03efe20e36e2d16ad8dce75a731dc2c426ea08ed573a5187d70928f6a",
     "6953e5bc424438124d44dc5d02ca581553b9d9fc7cdcc92607f5776cf7cde3ac",
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
+    "6984585973175a030e7288788010b11042daf87edeb5445ca46eee750ca983be",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
     "6cb41735708bf8596308f2ad888389eb89262779a88106de4f4a716eb381f994",
     "6f3a5a461a9e9142bdc8feb03808f0f937fa48d8c20bab13c5fefbb69dcfc656",
@@ -450,22 +451,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-22T22:57:37Z"
+  "updated_at_utc": "2026-04-22T23:53:53Z"
 }
