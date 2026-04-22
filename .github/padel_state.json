@@ -236,6 +236,7 @@
     "8c43de2149629ecacc814994aeb9cba4ebcca7d2bb6aed2de1453c3fde5b346b",
     "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
+    "8e39c639501c5ce422a3daab99177532c9ad2c58fe37db2ee97d6c8ae3227717",
     "8f5f8a8b68ac78637cdcde51a93ad1b4de6aade8cd285fdf459b562264cd0ce8",
     "8f884a61c8faa388b01a0bf6d02af811601b12d790850ab0698c7dd5477c2fa3",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
@@ -446,13 +447,15 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Efecto Padel",
-      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
-      "price_from": 50000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-22T16:38:08Z"
+  "updated_at_utc": "2026-04-22T18:01:04Z"
 }
