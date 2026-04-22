@@ -356,6 +356,7 @@
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
     "d16feb5c48f0a12d438a6a74a4f76fa8fbbcdedf3cb3ab98a30fd72c7466de6b",
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
+    "d2e82d3884137f68c5c8b90bf30f807a668af8a974de4aacf3fdc8d292459548",
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d4866ecf94d438cb891f560a421e389ff2792fd230c9f602e3052f930261bcfb",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
@@ -445,14 +446,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Efecto Padel",
+      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
+      "price_from": 50000.0,
       "matched_times": [
-        "18:00",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-22T15:16:41Z"
+  "updated_at_utc": "2026-04-22T16:38:08Z"
 }
