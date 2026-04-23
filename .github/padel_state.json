@@ -188,6 +188,7 @@
     "6984585973175a030e7288788010b11042daf87edeb5445ca46eee750ca983be",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
     "6cb41735708bf8596308f2ad888389eb89262779a88106de4f4a716eb381f994",
+    "6f1aa02ad75f8e471e57dd73380049a74726425de73578d5edd48f814e66bbe7",
     "6f3a5a461a9e9142bdc8feb03808f0f937fa48d8c20bab13c5fefbb69dcfc656",
     "6f6174c19fa18b875a2e37dde05c2633765f0a8e55909018b8cb22a568135de4",
     "6f9d1689e033f2642f34bf788fee1fc13afc35621266a10e5141ea998fa4a84c",
@@ -214,6 +215,7 @@
     "7bb422e5f683b0721a2f024a328e268eb73cfe493bdb8f9cecb8cbf499bdb01f",
     "7bbd37c279b63389fef6d63726a5fa555e01eed89be30dfce189e113cf54acc9",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
+    "7ca8f5d74647f1b6ad8a3125addc90d06ea376e748867f99b4c0a189b42d3755",
     "7cda672b5261968c02b338dfd668b050584ec44c6cb96ed21bd78e37718f1d68",
     "7d030d1b3a557d2b012031ee6a60597809fda83c335188607eef0092e68029f8",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
@@ -270,6 +272,7 @@
     "a1dfc284c5198303f66027cfcc37c3573a17676e76ce49d11d1da2138ea89c1a",
     "a23169024e6d299f84fd5b61039246e2ed63838d3ca9ef4eff31f6d5b63936b9",
     "a252d6361a78d80300b7aaab14c9049127165307ac19b44837c3bcac6f8eb956",
+    "a2a10d4ac46d3b2131f220f317aa94734c9e8f3f7926f5631f078aa7901ef88b",
     "a2dc0ebe382012715873b777f80827dd92cfe6c8de19ed5e86090963eb4e02ae",
     "a32b912846c25246db940f885416fdc9cffb8dc6710ed4832ef0d4f5271d7f6a",
     "a3366075dab679c72e2fbe397fcc8c5781ba152bd524a97741175e267b3d2d48",
@@ -451,13 +454,35 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 40000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "Gioco",
+      "address": "Luis de Camoens 2017",
+      "price_from": 14000.0,
+      "matched_times": [
+        "19:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-22T23:53:53Z"
+  "updated_at_utc": "2026-04-23T02:51:54Z"
 }
