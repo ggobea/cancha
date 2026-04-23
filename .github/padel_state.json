@@ -45,6 +45,7 @@
     "158a0d184c73c57020727149a1e292e96ea22ec850669f7f3b6203ef96d16cc2",
     "17a1b487402ee29837a67a4df01fefa9ed78f5264fda664e14363c421d731d59",
     "17b241ec19b052eeb780b4bc149c3dda32e0554907979f44b46e0e5756c3c9fc",
+    "18656b14b61f97df801b2f9be6f45adf8d9a6591ac7d8d0123a9c6fd958a4969",
     "18cfcbffac122ad5ff03612f3cecd46f29e288483a46d076751b056682b4627b",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
@@ -107,6 +108,7 @@
     "3a01bcf9e7decdc877f9246d2ff77547e84ef14cde08a7c0939653d41e78fc3a",
     "3a160f39567f375be4b1674266b74b551475ef3f5e42c1ba459f51d44b735c0d",
     "3a2a3392f8c1acfe30fcd312e8ce4e12df661be4094775ad1c4bdcfe1be1ef36",
+    "3ad1c5a0344b8aba0976167bc1dea9f1b91ede7e9a8b081dea5a057dd7a7aa60",
     "3bb8dd59a593125709ef3e77e87c8a517765d3101e90d28faf08b2fd82e96cf3",
     "3befbb31bb285efcf949e222d1a99d9bb11785ff3c8fae6400ff75a2ba298d96",
     "3d6919ed3419b60adc25d69481977d2a4ee8d49c1012dd2b694fcb6d93530483",
@@ -215,6 +217,7 @@
     "765a16e9eb1930ae326e3f12afc4d14374278ba3b7947c9df056cee357328add",
     "766bd1b06a1862e3ff6779c384e29ec90ac8a476b9ea4bcb403ad6b88af88bb8",
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
+    "77e149ee6986a2ae97fe5c8585109df79846cf480157843053c80d777e79eeab",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
     "78dc608cd4b946cad539d45905afd75862ede44d151853249c1b367edace9d7c",
     "7934205a27d5a0b88b7fff6cf2629ec0909c4c2e97276fae58a120d4f94c6033",
@@ -257,6 +260,7 @@
     "9455a6326ece50f02bc7ae3ce75693471109ac76d4d4f1652a78fde59ee0aa90",
     "9460b6a32a800c30f5244f39502c34d9aa09e973ee4fc70cf312ccd6d93b794a",
     "94682ce468e112f7f25fce368bcfca31060c674d12c6c881d50db1c4a7f89f5d",
+    "94a65920cedb6c9c3552b5d2ae353db68ed5ff304c3a988e87994964b2aae43d",
     "94be297b10e20d52b71366ba78dd93ff216c53ea3dd98fa8fadcffaf67effd57",
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
@@ -471,32 +475,29 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
       "club": "Evolution Sport",
       "address": "Av. Cnel Cardenas 2681",
       "price_from": 40000.0,
       "matched_times": [
-        "18:30",
-        "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-04-23",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
+      "club": "Gioco",
+      "address": "Luis de Camoens 2017",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:30"
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
+      "matched_times": [
+        "19:30"
       ]
     },
     {
@@ -505,39 +506,9 @@
       "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
       "price_from": 10000.0,
       "matched_times": [
-        "18:30",
-        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Padel los amigos",
-      "address": "Combate de los pozos 3653",
-      "price_from": 1950.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 34000.0,
-      "matched_times": [
-        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-23T21:23:25Z"
+  "updated_at_utc": "2026-04-23T22:09:06Z"
 }
