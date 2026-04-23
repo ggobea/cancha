@@ -32,6 +32,7 @@
     "0f27a640619d21c52882fa3fd091d7d40760771271057405722308bb418eee20",
     "0fd306af29a0bb52e08f5b883c663efccc8fc9d126f4acb8596b1d6d98b32665",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
+    "11a5286e0141ea39cbae2ebb67f943879836c1ec7fa428476125c5b946343ed4",
     "11d9f7ce31685422bdb98c801611e6996d681f549a620c12b3338502c2e3c316",
     "125ef4655cd459b1b41595d785a1bbe33fc5e90afec51ab28a6b941d4634d9fb",
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
@@ -460,51 +461,13 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Circulo Club de Padel",
-      "address": "El Leñatero 1889",
-      "price_from": 58000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 28000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-23",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-23T15:14:05Z"
+  "updated_at_utc": "2026-04-23T17:00:16Z"
 }
