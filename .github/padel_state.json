@@ -425,6 +425,7 @@
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
     "ec5b6540e0cb895ef467370fe1ddec678cf1216643b79290b6928467ded080d6",
     "ecbc9a259373fbdccbb8d0f1b9175c79fe2f9c9042c490de6ccbbecba81b2d2b",
+    "ed4fd0e7d515c207a5f2bd1effdda9cb58a4337857409c03587162255c69f67e",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "eed4762e4be2d7339e783450e7595913f43a8b21383091a93c0d3d0588725242",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
@@ -445,6 +446,7 @@
     "f7c51166d46a7cb3c3a1b41c25d13d0530466eed2853dba1a8dd4ed34716342c",
     "f89571fc0e89acbc4a8d6c353f8c78e4075c4ce5172ac4b5be5cbccc85247009",
     "f8fe3bc239bf0c836aa579deb5879ebf59e82a058bbaaa2217a285e04c6f1b98",
+    "f9720f1dc5033464f6239d2aa7f526cf0f1b177773e09fc46891c2f1db894c10",
     "f9f9517f828845fdbc24dd7423f422873466cca08c85575bd85f93bb0ddfbbb8",
     "fa4e7eecde005386aed9fed003fd14bfc6c2bfd0bfe0860d621c40efcbd77ec2",
     "faef43759ae7e251d30d5b282515fd0032e2dbc4984aa55c98ebc87361a2abe0",
@@ -462,14 +464,23 @@
   "last_results": [
     {
       "date": "2026-04-23",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
       "price_from": 48000.0,
       "matched_times": [
-        "19:00",
-        "19:30"
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 34000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-23T18:41:58Z"
+  "updated_at_utc": "2026-04-23T20:06:54Z"
 }
