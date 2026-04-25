@@ -133,6 +133,7 @@
     "41942a932e0c0266ae7c47994cf41d97681a7e2f003fa472ff0f6babe4bfef38",
     "41a27aec1778168be6a043856e299f4608a9e4a509b0fccfd25aa9f148c7e4bf",
     "420af2732d8c151c64e6266aa655bda9dd6c0482a986bbbb18ac0506f09717cf",
+    "421afb64b93d48a3a11bf1a8a6e555fe7b524970ae00bcda8e7e7a206d205bb1",
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
     "4271bfffd8067eae3a8b918a65e0281ef5cdbe839c0d42654fd630f844989848",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
@@ -520,14 +521,14 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
-        "19:00",
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-25T18:58:07Z"
+  "updated_at_utc": "2026-04-25T19:49:29Z"
 }
