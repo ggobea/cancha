@@ -733,16 +733,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "Lo de Juve",
       "address": "Luis Viale 2956",
       "price_from": 45000.0,
@@ -896,5 +886,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-26T16:49:20Z"
+  "updated_at_utc": "2026-04-26T17:41:17Z"
 }
