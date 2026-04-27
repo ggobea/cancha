@@ -537,15 +537,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Arena Padel",
-      "address": "Av Eva Perón 2264",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "BASTICOURT",
       "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
@@ -859,5 +850,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-27T22:55:27Z"
+  "updated_at_utc": "2026-04-27T23:56:22Z"
 }
