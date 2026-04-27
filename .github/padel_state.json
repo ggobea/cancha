@@ -755,15 +755,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Nivel Uno",
-      "address": "JUAN JOSE PASO 234 MORON",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "Olivos Padel Club",
       "address": "Av. Olivos 86",
       "price_from": 46000.0,
@@ -877,5 +868,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-26T23:41:35Z"
+  "updated_at_utc": "2026-04-27T03:23:18Z"
 }
