@@ -76,6 +76,7 @@
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "252784638d5115caa4dfcc2b5904c39a0c89dc421946482e5c88b1ffc28e93ae",
     "25ab2743d9e0fd87c76c07877eaac950302bb56a64d4f962e279124ec7570594",
+    "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
     "27323e89660752759d0ad16a5835fbc075788bed92b2a20436034032c0d58d1f",
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
@@ -524,23 +525,13 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-27T15:23:40Z"
+  "updated_at_utc": "2026-04-27T17:07:27Z"
 }
