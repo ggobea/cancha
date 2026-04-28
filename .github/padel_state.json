@@ -138,6 +138,7 @@
     "421afb64b93d48a3a11bf1a8a6e555fe7b524970ae00bcda8e7e7a206d205bb1",
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
     "4271bfffd8067eae3a8b918a65e0281ef5cdbe839c0d42654fd630f844989848",
+    "42c4436d3a88e2797d03ea799bfc821ea750be59ac81ec8293beb707fa48cd15",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
     "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
@@ -508,6 +509,7 @@
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
     "f66e785b262bb88819ed8ec46d20fe2b6b640948ab9e337d6027b5c99b3d8b64",
     "f7c51166d46a7cb3c3a1b41c25d13d0530466eed2853dba1a8dd4ed34716342c",
+    "f811d17fac279f633611f395b6ea9ff01698f2cea5c37a96c94bfafe683ad8fa",
     "f89571fc0e89acbc4a8d6c353f8c78e4075c4ce5172ac4b5be5cbccc85247009",
     "f8fe3bc239bf0c836aa579deb5879ebf59e82a058bbaaa2217a285e04c6f1b98",
     "f9720f1dc5033464f6239d2aa7f526cf0f1b177773e09fc46891c2f1db894c10",
@@ -529,23 +531,22 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-04-30",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 36000.0,
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-28T15:57:35Z"
+  "updated_at_utc": "2026-04-28T17:53:41Z"
 }
