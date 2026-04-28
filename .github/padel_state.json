@@ -413,6 +413,7 @@
     "c8ed4c59adfe38b439c83eabe3bdd731f6d124369c7131113b74faad9de30101",
     "c9abaed364a656ab33c89135d51a535136662e13bef8514082da2428b47a9bf9",
     "c9b50ba92aea37829da57bd8734a727bddb4cd91c21ca99091dec9a0d83ce510",
+    "c9bc8b8e3fd31ef01eff1c481c43b2e5484447a9129724fd0f2f49f53dd29fdc",
     "c9df74e78c89aaaa0ac5d9e06ad5cf858f8d6b48e67fdbfd36ab05782d240cbc",
     "ca340b746cb3caac9dd8ed35a6243ee6534eb3c965ebc19f918e40e933597140",
     "cb34b98433f9eb6f1ba2fe59001ca2b7fb85a724a00ef7129b965276fd5be7c5",
@@ -494,6 +495,7 @@
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "eed4762e4be2d7339e783450e7595913f43a8b21383091a93c0d3d0588725242",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
+    "eff1ad4c6d17d1f32fe3686213492c92f2cb2a273a859ae492d9bafbb1c8a1f2",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
     "f1eb180c912da923a4b75fd33be30e1680ad3c18b6ace7bde3319122e3a6164e",
@@ -532,13 +534,25 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "club": "Padel los amigos",
+      "address": "Combate de los pozos 3653",
+      "price_from": 2000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-28T19:45:01Z"
+  "updated_at_utc": "2026-04-28T21:09:17Z"
 }
