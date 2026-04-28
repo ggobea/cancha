@@ -185,6 +185,7 @@
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
     "59933768fd5f42ba48d498e211051739317ce7971180b6e2d7c889419981043f",
+    "5a2be6d6bc9d024e50902154ee2b17a01d79a71fa9c44837a38051b45b951fb5",
     "5a4f999b60725377d2dcc57ad8f74469f71853715975bae898ffe5749473e116",
     "5a670cd2b2c46c895e1c12981e9984ccf1d663cdc8fe73ff529cd5237c735c51",
     "5aa384254fb11b12e5049ce9dd0e2eba814365bc08ebc16133062d44986e173e",
@@ -367,6 +368,7 @@
     "b576a020b03ca01669f17659289cc4fdac7ae17f25b55438a5463625f9b42b85",
     "b5d09214df144f25a0b3268112076507b1e9a9073c78fab70be09d4058b5dd35",
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
+    "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
     "b726d595cf738e4fdb3a012a71fc5acb75fbd497f82ccd12e83d49e0adf476da",
     "b78001ede46645e096a5562254e448817ac606b24e8d8d7e655cd773752ad633",
     "b7bdc93e4f151188f81cc2cd61ae789fa83b1ad4fb9b2b693d40286da454a897",
@@ -527,13 +529,23 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 46000.0,
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 36000.0,
       "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-28T13:14:29Z"
+  "updated_at_utc": "2026-04-28T15:57:35Z"
 }
