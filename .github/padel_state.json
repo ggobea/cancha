@@ -27,6 +27,7 @@
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0cdc3b31569f93aef94823a11b3d6e2bba79319c862cb37ec2dffe022d168072",
     "0d0c27a428d8dfd8e9117011d3cc826c0502a03d93829e6c3b979edf7963b7d8",
+    "0d230964f9a19c87244eb47e280b09993c58a2db0cb7fb7064648db262c75ee8",
     "0d6bc0309529087d05e6ef0adf8198650e45af65d70ed3135a510f760694c0df",
     "0db62f07208504ef341a0cbac0b087a0a646591885ffed3b74b73289d68961b9",
     "0de54a4832111c451d24c1f2a3f07fa0458b0873af891cd7c21ef568bcd00af5",
@@ -531,22 +532,13 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-28T17:53:41Z"
+  "updated_at_utc": "2026-04-28T19:45:01Z"
 }
