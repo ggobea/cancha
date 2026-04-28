@@ -382,6 +382,7 @@
     "bac11bea45b0c4e525b2d661c076cc635ace291beaf4534bdfd8fc0b78341bfd",
     "bb7c56e283fe98f8cf0a42df8bb1b927cd0587843209355c5cd1b51ea8ee4f44",
     "bb8e663d4985f27d8ab54c5cc855b09fb9e796a6f28cd84e94dad94f138a4cfc",
+    "bba78c63b2af5776491678ae0d0514c7d56ed43f9c2943c2cf4391901a3c5d79",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
     "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
@@ -534,25 +535,13 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Padel los amigos",
-      "address": "Combate de los pozos 3653",
-      "price_from": 2000.0,
-      "matched_times": [
-        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-28T21:09:17Z"
+  "updated_at_utc": "2026-04-28T22:31:58Z"
 }
