@@ -768,15 +768,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "SET Padel House",
       "address": "Tribulato 540, San Miguel, Buenos Aires",
       "price_from": 27000.0,
@@ -795,5 +786,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-29T12:20:51Z"
+  "updated_at_utc": "2026-04-29T14:38:28Z"
 }
