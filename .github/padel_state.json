@@ -107,6 +107,7 @@
     "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "33331cea6680eb05297b7bc0af60c336dcc4a1c1c45c3d2cccfee210bcb7a43f",
+    "334d1ec7b5469f84128bd65650d48674655b63ed29be0b78aca76346578db925",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
     "338c1e7e8c434f29fd8877f9b996708006eddb7d7f2613107915937ea7acddea",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
@@ -539,32 +540,15 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
-        "19:30"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-29T22:32:05Z"
+  "updated_at_utc": "2026-04-29T23:56:45Z"
 }
