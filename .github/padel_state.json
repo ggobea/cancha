@@ -577,15 +577,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "Casablanca Padel",
       "address": "Urquiza 952",
       "price_from": 40000.0,
@@ -774,5 +765,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-29T19:59:58Z"
+  "updated_at_utc": "2026-04-29T21:16:04Z"
 }
