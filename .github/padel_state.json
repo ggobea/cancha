@@ -658,15 +658,6 @@
     },
     {
       "date": "2026-04-30",
-      "club": "Goles y Gambetas Villa Tesei",
-      "address": "Juan de Salazar 265",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
       "club": "Head Padel Club Hindu",
       "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
       "price_from": 50000.0,
@@ -804,5 +795,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-04-29T10:58:23Z"
+  "updated_at_utc": "2026-04-29T12:20:51Z"
 }
