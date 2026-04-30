@@ -313,6 +313,7 @@
     "965daa8b2659e45936337659402ed4d12254ed9487a70740969ba638acf74ca9",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
+    "96f88237492de0b6a3f2ac36121603360f4b27612c99b3df5129803a26959d6d",
     "97afdd8aefd7330d49dafbcc699fb1e302e7db94105139e7fa3268cf7d57db5f",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
@@ -553,13 +554,13 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Vilanova Padel",
-      "address": "Cacique Coliqueo 1041",
-      "price_from": 27000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-30T17:51:11Z"
+  "updated_at_utc": "2026-04-30T19:26:38Z"
 }
