@@ -25,6 +25,7 @@
     "0b33aa419f9a06fe12777a66ac402a1e56e3d12b2e54bd4096e2533476147421",
     "0b7d5ee25d23b4caa1f239053edea28d79ac1a548e31a4e424ac10dcb6264c83",
     "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
+    "0bf9e676935506640cc13e33fb587ef722ce093a0b4580b41af5aa1619462cd0",
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0cdc3b31569f93aef94823a11b3d6e2bba79319c862cb37ec2dffe022d168072",
     "0d0c27a428d8dfd8e9117011d3cc826c0502a03d93829e6c3b979edf7963b7d8",
@@ -83,6 +84,7 @@
     "27323e89660752759d0ad16a5835fbc075788bed92b2a20436034032c0d58d1f",
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
+    "28331ce3677a29afe2def3101475f1eaa57da1dc63eab45de2ce10c67ed3480f",
     "283c3d99425a1d8a2eb2da41d74c124c635204c4ab2686fdf9f4a8267ed8e309",
     "286b8f5c29ded07ae64a81a9f48cd381fa848675afaa4ea4f79ebf1d8cc98f02",
     "29a09c3ac2d4157c09137915c9b7bd053bbd6f7d11cc4c1a7a234bd2146e1651",
@@ -462,6 +464,7 @@
     "da18563ddab8f622e1d10b986df697b62c2a7f316ed7234c4f1996f92919324f",
     "da7b39d39764fd3d097fed3d24c1a8ea0fd36449444c6cf6e2eb4b2769fe32f9",
     "daa25a74c99c812797a6e5200ee177f96ed94587ab597a756a0940c09bc11aae",
+    "db42b11ff206d58952efd864dac07812e543155adb3b10e06ba561a7c3d0f227",
     "db774cd29083a97986396c4a2b85d37f4910f823f498821262e793f07091275e",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
@@ -546,13 +549,33 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 25600.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
-        "19:30"
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "club": "Goles y Gambetas Villa Tesei",
+      "address": "Juan de Salazar 265",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-30T10:57:32Z"
+  "updated_at_utc": "2026-04-30T12:19:16Z"
 }
