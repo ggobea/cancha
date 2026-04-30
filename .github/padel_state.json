@@ -271,6 +271,7 @@
     "7cda672b5261968c02b338dfd668b050584ec44c6cb96ed21bd78e37718f1d68",
     "7d030d1b3a557d2b012031ee6a60597809fda83c335188607eef0092e68029f8",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
+    "7d9f0874c8ec92e31456082900e6eb92f8372a8c09d195b3e2411d5fe9700a89",
     "7e08daaeb5e822ef3bf62f26c71750572c5058ad457ce3888617d54456d2e548",
     "7e69b667164ff2e6e3a16ac466a05161d31f3d1e735fe5010c88184b581b75c2",
     "7ef57706c6afe3ffbb376f75f515f394f8659ed258f09f5274cc26d1e898ca75",
@@ -420,6 +421,7 @@
     "c3abd4fe26a249c6ff5513520bfe5b4ef31acb4bbab102bc08dd63ce88522fc3",
     "c52f6891c04455685ce76dd9e92bdbd6838c0ee294c261ba41b1f564da99316b",
     "c53bbdc40d011b5e1bec6300273ed8b87f0f77fa6d17cdd9808dc9327d7fbef9",
+    "c58c6a6ad25875924175532154033b49a868758f0abdd5bb4fa68062ad112c4d",
     "c67a3f6e63603920be09dd147cbd09fd29a0d009dddb97dea5b8578628951f35",
     "c68c527c1c9cf64a20004d75fe0caaee8665b330a123957b57e84cb86be58e03",
     "c77161c99599ec89ba68a5bcae18d32321afcd443cb555c15be28ca01c4aca27",
@@ -554,13 +556,23 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Arena Padel",
+      "address": "Av Eva Perón 2264",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "club": "El Predio Padel",
+      "address": "Boyaca 1766",
+      "price_from": 66000.0,
+      "matched_times": [
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-30T19:26:38Z"
+  "updated_at_utc": "2026-04-30T20:40:49Z"
 }
