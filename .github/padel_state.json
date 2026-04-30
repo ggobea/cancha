@@ -272,6 +272,7 @@
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
     "7f3d932aa5f868f79d156290239a7218120ad20d66dfd5c370933f07717b0dc9",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
+    "812f928d6ffe2bd05013f44bedb7f4951a43867595462f3b6dfc34c9eea186c5",
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
     "81c0b4da81f378d44445170951d0e5fff4662421260add9e08c17b442147f19e",
     "8213e1ddf0baf72f2fbab74f6d97fd6734c7c81b8df4f1eb5fe9be4dbe61364c",
@@ -544,46 +545,14 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-30T03:47:30Z"
+  "updated_at_utc": "2026-04-30T06:29:53Z"
 }
