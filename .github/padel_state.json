@@ -557,46 +557,6 @@
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36",
     "ff8875cb887cb38f12faf655dda5ac4a6ce9b9abde178218b42a34ac6c7e4e2c"
   ],
-  "last_results": [
-    {
-      "date": "2026-04-30",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 10000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    }
-  ],
-  "updated_at_utc": "2026-04-30T21:58:06Z"
+  "last_results": [],
+  "updated_at_utc": "2026-04-30T23:00:50Z"
 }
