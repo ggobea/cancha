@@ -205,6 +205,7 @@
     "5d44ab5606fc993a73a62a2801f01870c85bae541fffa7cc643d53655d725c5d",
     "5d52f210f82770058b4fbfd69b00f16090e04d300fe22925ef6eda600c63b695",
     "5d6a02c4b23709a74eeb5dc18b45200f03a97db9fadd1ab325065f7ace04079c",
+    "5d7acad1438de3cfe25c6bd9920c01f130cbc8cca8835311ec2782f0a21491c0",
     "5d816816a9afcd02858475290a81c7543085db055a1cc013dbd2ed8fcbea16f9",
     "5dfca020d300c74ca8d00f769b66152eefb21ea86443a013775155513386bbf1",
     "5ec74d303c6216b40af3b8e095807a5d136ae3781ee6cd91e479b63c66d2575d",
@@ -552,33 +553,13 @@
   "last_results": [
     {
       "date": "2026-04-30",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-04-30",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-04-30T16:21:49Z"
+  "updated_at_utc": "2026-04-30T17:51:11Z"
 }
