@@ -235,6 +235,7 @@
     "5ec74d303c6216b40af3b8e095807a5d136ae3781ee6cd91e479b63c66d2575d",
     "5f630daac85c19267551a8d9ce5fe2c7dfaf81ad0acf0ef467cb4baf31e5aa9d",
     "60277c8fb82f898b363231bf63cf70b6c6dac97ab2af82fcd5e3da046a86307f",
+    "6065376409be4a2fafa70e35561fc9a3017c78ec4856ede2f96ca0e37165e4a4",
     "61133b0caec5914e4891bc308b12ae382bebd8d3c1341244c2070e8f7c29446f",
     "613fea35234e80201363e19605a09bbc8842894d7a66088f014c8d22aa132839",
     "61fdb5d531ef7342948c78f1da2da7a91181fc6ddae39e5eeaf655c401353a7e",
@@ -429,6 +430,7 @@
     "b576a020b03ca01669f17659289cc4fdac7ae17f25b55438a5463625f9b42b85",
     "b5d09214df144f25a0b3268112076507b1e9a9073c78fab70be09d4058b5dd35",
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
+    "b632bbe1403a274b5f63c56dc232db68e7f17c2a4f6c4fe57da3e1eb1b8c8a51",
     "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
     "b726d595cf738e4fdb3a012a71fc5acb75fbd497f82ccd12e83d49e0adf476da",
     "b78001ede46645e096a5562254e448817ac606b24e8d8d7e655cd773752ad633",
@@ -623,8 +625,7 @@
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     },
     {
@@ -633,10 +634,9 @@
       "address": "Tribulato 540, San Miguel, Buenos Aires",
       "price_from": 27000.0,
       "matched_times": [
-        "18:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-04T22:32:47Z"
+  "updated_at_utc": "2026-05-04T23:56:21Z"
 }
