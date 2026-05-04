@@ -130,6 +130,7 @@
     "3756cb61468fbec13688b471381d77b8d51ddbb23f4b9c053632a0690a809c8e",
     "37776fe0b127aaf3a2b538bf9d36ace642cab445d6a5488bd28977a897504d5a",
     "3790ce211a368ceda8ded61f6bbf4ac84d01a265084b66a499801e14d721f5a1",
+    "383e5c43fed274877bf1ea67569be9a8e8a9b6171f542495cd23c43984fc14bb",
     "38a8bfd433a79a779b7c2f1a9f112ba1e7f28bf3ffb3a5e8cd6320a63531d587",
     "38c7eb56a86da5f2b92e02c7b98588cb91120ef4c7041c968aa54e068dcf2f43",
     "394cf0d46f5a0c02a9bba3dc1ea7401b5afb6c90250634d90e406453354865f4",
@@ -613,13 +614,13 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 45000.0,
       "matched_times": [
-        "18:00"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-04T15:30:43Z"
+  "updated_at_utc": "2026-05-04T17:43:09Z"
 }
