@@ -200,6 +200,7 @@
     "522c7488612d54b3c6717f4ef77a819cf1a9ef5ce47d50b8addd75f22c5d149b",
     "528ca9650df5c9637971726aa40819e205ee3eb50274c2dbba15fa40af959a38",
     "5356000c434e302820244b109478ec42e942c3d02c7eeb73d36125b30adaaeaf",
+    "53a44ff8513026630452c3982e427c767bfba49fe9e5e64cd69512b0e878a360",
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
     "540737d7f573357dba9cc3272809f88c0e3095ec8a522bcb0a817bcaad89dcc2",
     "5430f141e1301f507c2b4c605dee1a04dde957dc1e0a811ec8340ff9fb1c7b8a",
@@ -612,16 +613,13 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 55000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-04T13:08:33Z"
+  "updated_at_utc": "2026-05-04T15:30:43Z"
 }
