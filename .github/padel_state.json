@@ -276,6 +276,7 @@
     "72719e25487fce9e76c146a367e0e4f4385d3cb95cf7b39022e018b14c1917fb",
     "72ff83fd7d85344d95d664bbcde051baab95d6d8b1b338c47b5805060db82707",
     "7447798f6e31da8ad5361a92202f138f07905ecb314c03ae99cf6f112cac60e1",
+    "74744b062f8e2f180d72b5ec1514cf3e74e272cdc1a488dd2f16590d94b95343",
     "74ecda5a3c79eb7b334745d03ee3064d0619bc14c7cfadcb466a2b2b042129a0",
     "751feef5d8567414fd8343b6cb6d676c393311b239302423962dffd39e544438",
     "75322380662f125d396927553e10bab79b93635cca88508080b56c821b593908",
@@ -614,13 +615,13 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 45000.0,
+      "club": "Torcuadel",
+      "address": "Chile 1920 - Don Torcuato",
+      "price_from": 60000.0,
       "matched_times": [
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-04T17:43:09Z"
+  "updated_at_utc": "2026-05-04T19:43:50Z"
 }
