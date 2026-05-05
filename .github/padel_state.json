@@ -8,6 +8,7 @@
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
     "0416847b9e9957f70545deb3ff7620575b110e5bad9d3438ef0177faa542d0d0",
+    "04489e71429abd43cd494ba92a9dbb549d0d145d0c356870939c195141a0958a",
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
     "04e89f7730c56e7614f1a71d623195b98994b3aa81a9d39c21fbb139f0260638",
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
@@ -621,13 +622,14 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-05T19:47:30Z"
+  "updated_at_utc": "2026-05-05T21:05:47Z"
 }
