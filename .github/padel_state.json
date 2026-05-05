@@ -676,7 +676,9 @@
       "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
       "price_from": 42000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30",
+        "19:00"
       ]
     },
     {
@@ -1006,5 +1008,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-05T10:48:46Z"
+  "updated_at_utc": "2026-05-05T12:04:29Z"
 }
