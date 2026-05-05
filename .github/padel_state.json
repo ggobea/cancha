@@ -355,6 +355,7 @@
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "965daa8b2659e45936337659402ed4d12254ed9487a70740969ba638acf74ca9",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
+    "967a9646872722909c32d26d2aa88b1c5301ce0e72b28478c2cbf07e9867882f",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
     "96bf2e07e274012816daab0f52b91ede3b5064d086a50d39c2dc8f1feff087f0",
     "96f88237492de0b6a3f2ac36121603360f4b27612c99b3df5129803a26959d6d",
@@ -622,14 +623,15 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "19:00"
+        "18:30",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-05T21:05:47Z"
+  "updated_at_utc": "2026-05-05T22:30:44Z"
 }
