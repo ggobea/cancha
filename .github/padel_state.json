@@ -537,6 +537,7 @@
     "de8aee1ec97624b4fdd129647d0e3baf5037e4b3b63824b528e6eb82067379e5",
     "de8de09827bf27d0a2665cadfdeaa2e99baf62b08d736ec5ce0e615be3d9ed80",
     "de94202d784079d0deb3dac896c4a059471ab11a83b1774c74f33ad9d28f3497",
+    "deb8c7d621b06909599e6df8546f67a11306360088beb1d65d1aac311d5eeb09",
     "df292d6ecbc28cfc9ae38b3c12d2d154276ab0db294f2e157d1767544e65a473",
     "df38db506072681132569fcb1fd8765187ad2e6c19622aa8faed08e24fef2bab",
     "df5476d3047597b316813a057a1e63267ab813d64536374f7db405798441fee6",
@@ -581,6 +582,7 @@
     "eff1ad4c6d17d1f32fe3686213492c92f2cb2a273a859ae492d9bafbb1c8a1f2",
     "f04766e683d3d0145eab94526ffedec7d1b0a1210e53aa6d6cd7be1273b56d5d",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
+    "f157f07234a72d8fa56e224a2a132e052618829586e1e02b443964fb66d78a53",
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
     "f1eb180c912da923a4b75fd33be30e1680ad3c18b6ace7bde3319122e3a6164e",
     "f22ef7f17f1fa2b46b16c24804010037e61ce423f51b0b17c9c51bab11c0fd9b",
@@ -628,10 +630,18 @@
       "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:30"
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 36000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-05T22:30:44Z"
+  "updated_at_utc": "2026-05-05T23:51:05Z"
 }
