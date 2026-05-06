@@ -67,12 +67,14 @@
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
     "199405167b7dee5ddf882c937c0d5e7b9d99242b288c5663cd2dd2ebdc431e70",
+    "1a2d00d9a143d7256e818c1cd4406003400795434782a33d32b1911faf979d3d",
     "1a34d3957379aa16de31ec1cf116c1905ba3da5a00e07d74d7e83b431e7d15b8",
     "1a80656b0661d415383497b22a2086762450ffaeee2fecdbd635ce4df4708dbc",
     "1b2f310fc6b45bdfbe79fa44597ad8a800b668cae72023cacc032e8ff2d45d1c",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
     "1b5060b553482a1d61b9358acc9e2b69e8ec28de0eb36459c7d841b5312aaf5b",
     "1d41ec9c10ad550232ad118f8250dfc03e0497e0eb2096629199b85355aa57a5",
+    "1d53c50bd53a73ae24324622f88c52486d76c3833a2baa5852065c241f281605",
     "1d5fb7e048b2240251716213793333fe04205bf3844ffb34066a3b16cb2086e4",
     "1daa7e94a154bea94ac4482c60f0e514a6c9e9cd8d16639234cf4e661d4bc8bd",
     "1e1af61847e886fe9788dc2cb50fa16e9c44b9adc6a3c89618aabbea2fa2115d",
@@ -346,6 +348,7 @@
     "8e39c639501c5ce422a3daab99177532c9ad2c58fe37db2ee97d6c8ae3227717",
     "8f5f8a8b68ac78637cdcde51a93ad1b4de6aade8cd285fdf459b562264cd0ce8",
     "8f884a61c8faa388b01a0bf6d02af811601b12d790850ab0698c7dd5477c2fa3",
+    "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "93d4e6920a5027acac858c16a942faa2540dc3ef0c31ee7c46d02a07f19dd584",
@@ -631,15 +634,34 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "El Predio Ciudad",
+      "address": "Arregui 2540",
+      "price_from": 55000.0,
       "matched_times": [
         "18:00",
+        "18:30",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-05-06T21:12:54Z"
+  "updated_at_utc": "2026-05-06T22:25:00Z"
 }
