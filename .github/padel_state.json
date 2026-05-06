@@ -419,6 +419,7 @@
     "af9d5da60c3d3e6263b2a78ff4a4359ee21bfc6f0306b8f6024d2c2b9dd0a646",
     "b011bca19f43c4ad0b95d2ba3ab04f681152e9e40c6d492d543d174a2b5e0b92",
     "b04af670a01aa8d8e4117144e2f2ed88e101e6b0d4f1532b736edc81dc8e69be",
+    "b05fbaf8df18cdf712474ec2b9c69bb1bce609396d0f116074ca653debf970a0",
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "b085ca735cfe2228db008fe9c0ce2a74a93a03690a68b09883ec628e0a6541a9",
     "b0eae7c1903841fe6c4e9f663d0ffce8af2daa41f00b5284c1ebb9a6d0d8cda8",
@@ -630,16 +631,15 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00",
-        "18:30",
         "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-06T19:49:37Z"
+  "updated_at_utc": "2026-05-06T21:12:54Z"
 }
