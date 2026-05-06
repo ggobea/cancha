@@ -2,6 +2,7 @@
   "sent_keys": [
     "00cc3244a0004ffe522a308e486aa88bf42804f0627286f6c2e5661091ae58a6",
     "00e88816226b6ccd5a38dc3ae1e02e0a4b3bfdccba13402ee266d83750479f6b",
+    "01e67ba6987a60b67ebe2307c4d7c1c83b7f1852d839c715a95503dfc6973a24",
     "01f9a9f61c478b931b64c13668ab1c0430ee991dc6b17f1fef0034a6264617c6",
     "022d33838818a34b53521cf3fff7d9e7b2f350783fefe715fee68b881ec81d9c",
     "030b60581af397cbe4dbf836e270641a356ff393b173b3bcaded117277c1aea9",
@@ -512,6 +513,7 @@
     "d3117fc4f553dfae7631df32b984aa0605ddb41842eca453f34f5d90690272b1",
     "d32d01f1e83ae6dc8fce38f63243518b259dbc981c152247e95822d75236f1c5",
     "d36c951126c0a50b56dddd9fe4785633ac3cd8e4f6286b1262f5e88d1160b873",
+    "d37d95081341f5fd3a85e925c4efdaaaa65767b7f2333ebba8ab484b68b98757",
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d4866ecf94d438cb891f560a421e389ff2792fd230c9f602e3052f930261bcfb",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
@@ -627,13 +629,23 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 45000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 28000.0,
       "matched_times": [
-        "19:30"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Complejo Filippo",
+      "address": "Av Leon Gallardo 70",
+      "price_from": 38000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-06T15:41:00Z"
+  "updated_at_utc": "2026-05-06T17:43:02Z"
 }
