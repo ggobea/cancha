@@ -439,6 +439,7 @@
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
     "b632bbe1403a274b5f63c56dc232db68e7f17c2a4f6c4fe57da3e1eb1b8c8a51",
     "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
+    "b6dd01cee59d33794ff5b6bff3da8d0df5df48b96f7cabec4eab4c5d938ffd45",
     "b726d595cf738e4fdb3a012a71fc5acb75fbd497f82ccd12e83d49e0adf476da",
     "b78001ede46645e096a5562254e448817ac606b24e8d8d7e655cd773752ad633",
     "b7bdc93e4f151188f81cc2cd61ae789fa83b1ad4fb9b2b693d40286da454a897",
@@ -629,23 +630,16 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 28000.0,
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
       "matched_times": [
+        "18:00",
         "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00"
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-06T17:43:02Z"
+  "updated_at_utc": "2026-05-06T19:49:37Z"
 }
