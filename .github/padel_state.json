@@ -198,6 +198,7 @@
     "4d4a587bdf6f7a5ffa66756e6b6e7abf6a217d9c42a5ee028ed117d8792b5557",
     "4d799674008a9673834fc7047a506d441c73e818c065e44fd45becbd89c1a637",
     "4e5a4df45f066da8f40a6dc0eee5c3adb276667769844fc32eb0bad1a4ff1656",
+    "4ee05965fe6baaa6086ac92c4d36a85a26daea457721a2290debeb377e4d9ae6",
     "4f17efd4b2b1aa3f5879d632032c4bdaffffd89a202c2bc2dffe4164fe0aa6f9",
     "4f567c30bb8f51ef6d0133eeef74371312d38442f1eb017991d429f6685ffcf8",
     "4f7a61c720e50e7cad0be740fb0747e26ba3ddece4ff13a2a3f852d4735dfb05",
@@ -634,34 +635,13 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "El Predio Padel",
+      "address": "Boyaca 1766",
+      "price_from": 66000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-06T22:25:00Z"
+  "updated_at_utc": "2026-05-06T23:26:57Z"
 }
