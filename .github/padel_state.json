@@ -340,6 +340,7 @@
     "89019bc1ecd0d6004988fd6e28075ea49624e497c023348b6a6dddc1ed6faed6",
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
     "8a09ea106fdf827e82de2ece6c32a7b9ffaece6b8dd057c9cba8afcff949a1a9",
+    "8a4bf8c57464be8a3927218e4f8de5b9706fc50e0ad2e50b9cca677d5bf54cef",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
     "8c43de2149629ecacc814994aeb9cba4ebcca7d2bb6aed2de1453c3fde5b346b",
     "8c9388e1b57719beb9713d972b7ccab4ca911b3726f186bf66078b24f46eaf24",
@@ -348,6 +349,7 @@
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
     "8e39c639501c5ce422a3daab99177532c9ad2c58fe37db2ee97d6c8ae3227717",
     "8f5f8a8b68ac78637cdcde51a93ad1b4de6aade8cd285fdf459b562264cd0ce8",
+    "8f6239641259ece34288c7c014f8ac017f343c13c1701af3f57842487d6844e2",
     "8f884a61c8faa388b01a0bf6d02af811601b12d790850ab0698c7dd5477c2fa3",
     "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
@@ -515,6 +517,7 @@
     "d16feb5c48f0a12d438a6a74a4f76fa8fbbcdedf3cb3ab98a30fd72c7466de6b",
     "d1984fe46484bbfe3da926ec9a80bf5bc2f2505cf45d455715f87ff26aaf6d53",
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
+    "d1d2dd0ce0423e9401a83b772ba3508f0f8bad77c3c2bea1b505cc04f855d567",
     "d2e82d3884137f68c5c8b90bf30f807a668af8a974de4aacf3fdc8d292459548",
     "d3117fc4f553dfae7631df32b984aa0605ddb41842eca453f34f5d90690272b1",
     "d32d01f1e83ae6dc8fce38f63243518b259dbc981c152247e95822d75236f1c5",
@@ -582,6 +585,7 @@
     "eb3923e403e017575f3f3b2b4deaccd5562612fb645a32c940a6ce372f6903a8",
     "eb58122e97bdc66f8ec43a8043037a5d9395ba728a3f0728e6cc13c9a4571e4e",
     "eb6f77db59976572754ebecf8136a63f0d3df3f9d91fb778af1ac6ff04bc848c",
+    "ec31e427fe33c47c994a98dc8c8bc66b82883c76ffb8f32441a904052a545adc",
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
     "ec5b6540e0cb895ef467370fe1ddec678cf1216643b79290b6928467ded080d6",
     "ecbc9a259373fbdccbb8d0f1b9175c79fe2f9c9042c490de6ccbbecba81b2d2b",
@@ -635,13 +639,45 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "El Predio Padel",
-      "address": "Boyaca 1766",
-      "price_from": 66000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Devoto Pádel",
+      "address": "Griveo 4165",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "El Predio Ciudad",
+      "address": "Arregui 2540",
+      "price_from": 55000.0,
       "matched_times": [
         "19:30"
       ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-05-06T23:26:57Z"
+  "updated_at_utc": "2026-05-07T01:16:56Z"
 }
