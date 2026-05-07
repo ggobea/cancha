@@ -188,6 +188,7 @@
     "499b12e9c9a3e7207b691e42d4b8645fbc271210c422003f17475e91436e79f1",
     "49b6cec1c3d79e33ec2097b0244c73bd79ee2da77ff673c7d494a1ec353af2ac",
     "49d3f7f86f1f6299d482689af2edd6e15ca0085c8dca9595f5b25f4a6ecfc3ff",
+    "49ebc5487635f17d5f989544281d80183cc5696173249d69356ce6962187a19f",
     "4a05403d1330f7d14834acd4685bb8194ba8e4da5481b431e7600007729b8537",
     "4a849ffadc36d22d934afa9429619c100b4a9561085a64efecbfc491defcaa69",
     "4a8b8c7dbe5a88dd3db57bce7d327d4c03110f3def1e72dc76fed6d7458912c0",
@@ -442,6 +443,7 @@
     "b3d12634adf26a12914539f6d906b85895bfb3ae7fa2c6d80aaf3b4b643d6723",
     "b3f81bf0f233f77ed76fa95346bc55b459b061ba55a3975448c763a3151aefce",
     "b3fb4d978066f7262d3c30bb0ac645e072cb917d14c1c50c43021c2903d29c1d",
+    "b4896d8e0a45a579c33ced303ccfd22fcc6dff8389ef13504596eb19f26a1ac8",
     "b4acbff094e9d727d1aec967343936a8faec043ef0a04d2981241870532f289e",
     "b4bf27323c9fcc9111d4c20a54d354022a194039201d2c5f4627bd6e906dac88",
     "b4ef0542e1f50b36de197e509b1ceb00f89f010084cd31d959c7544983dc5799",
@@ -568,6 +570,7 @@
     "df8fadd3c60abf49087f5e138def263dc09bfdd0e2495eabbca1d9ec05b9a529",
     "dfc7799bcaa08100d20a05e3ca70a0633d192207010ff6be40e6979df956b533",
     "e09a254898ddfa434125963645e9c89afbe53626fd3c3e55757aaf97356696d4",
+    "e0ca9e5a4ab2f13cca590692f4ef7991db3b4d025c4ef26920a3455f381a73b1",
     "e0cdaece2a3fe48f5f9b6da02b72c087af3e19ff721c53cb934203af46c27696",
     "e10e993ecf4f53f600459400aed84921a502cfb11f2c47a79f79fbe85571e10c",
     "e17b36b80af8b91f888899fbbf1ad8a1eccbb3d640819b5150677b060b3dd778",
@@ -649,62 +652,37 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
+        "18:30",
         "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-05-07",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 48000.0,
       "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
-      "matched_times": [
+        "18:00",
         "19:30"
       ]
     },
     {
       "date": "2026-05-07",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30",
         "19:00"
       ]
-    },
-    {
-      "date": "2026-05-07",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-05-07T19:14:52Z"
+  "updated_at_utc": "2026-05-07T20:47:54Z"
 }
