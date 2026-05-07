@@ -673,6 +673,15 @@
     },
     {
       "date": "2026-05-07",
+      "club": "CLUB AERA",
+      "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
+      "price_from": 42000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
       "club": "Casablanca Padel",
       "address": "Urquiza 952",
       "price_from": 40000.0,
@@ -1010,5 +1019,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-07T07:46:43Z"
+  "updated_at_utc": "2026-05-07T10:26:21Z"
 }
