@@ -470,6 +470,7 @@
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "be7a7b64abfa0c2b76bcd39121ab02107288d9ceae531b8f88e7057cc96f210d",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
+    "bfafa3f16102baddca38c904b93a0bcd631102aa1789601b7f5fbb840390bae2",
     "bfe648734e468e719c87c707bafa61f08d39c4981eb1a24d992f7af43b28ee47",
     "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
     "c09beff3225048f91bde6244e24f1e2ba738c6585a7738b772aca8e37f3ab08b",
@@ -616,6 +617,7 @@
     "f6043ce6acc5a1374456a7c826850ca2506e1b4ced728d792e5b015b81523e78",
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
     "f66e785b262bb88819ed8ec46d20fe2b6b640948ab9e337d6027b5c99b3d8b64",
+    "f6a0407f77bbf8af32b12d45b95efdd93e964505f26af9ec7347a581fd1fa947",
     "f7c51166d46a7cb3c3a1b41c25d13d0530466eed2853dba1a8dd4ed34716342c",
     "f811d17fac279f633611f395b6ea9ff01698f2cea5c37a96c94bfafe683ad8fa",
     "f89571fc0e89acbc4a8d6c353f8c78e4075c4ce5172ac4b5be5cbccc85247009",
@@ -641,15 +643,23 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-07T15:13:30Z"
+  "updated_at_utc": "2026-05-07T17:17:18Z"
 }
