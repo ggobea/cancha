@@ -94,6 +94,7 @@
     "252784638d5115caa4dfcc2b5904c39a0c89dc421946482e5c88b1ffc28e93ae",
     "25ab2743d9e0fd87c76c07877eaac950302bb56a64d4f962e279124ec7570594",
     "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
+    "2719195f2a20927e855e9cd50154d679716d20495d77b5746e3e28c2d82f6cb1",
     "27323e89660752759d0ad16a5835fbc075788bed92b2a20436034032c0d58d1f",
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
@@ -137,6 +138,7 @@
     "3756cb61468fbec13688b471381d77b8d51ddbb23f4b9c053632a0690a809c8e",
     "37776fe0b127aaf3a2b538bf9d36ace642cab445d6a5488bd28977a897504d5a",
     "3790ce211a368ceda8ded61f6bbf4ac84d01a265084b66a499801e14d721f5a1",
+    "3819db97549a1767759ba2959495b066e3271a7fe3cb447e77cd668f8867840e",
     "383e5c43fed274877bf1ea67569be9a8e8a9b6171f542495cd23c43984fc14bb",
     "38a8bfd433a79a779b7c2f1a9f112ba1e7f28bf3ffb3a5e8cd6320a63531d587",
     "38c7eb56a86da5f2b92e02c7b98588cb91120ef4c7041c968aa54e068dcf2f43",
@@ -252,6 +254,7 @@
     "624d6b0b7c892e7e2662d2f12f4740050c23658af1e1bc5215f70c61ee531508",
     "6264b7a74f5bb7318bf66f048d3c6c156e1f8d30cc093bbaa008a7008de70928",
     "63ac4d8563d6142479179dc98e45bb71c147fecd88927e3f9546349afb801415",
+    "63cb2986965b891c72a906333e7cdc40181a39a3706aa89e4027032cdb3f52ff",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
     "65080cb91ca6ff21fe4ee2f08b6d6f4df9e202d1c4aae79157027120e3fa46e7",
     "664ee2d017bc65a9befe41014d5d8023e8bfae86f4d82448d71991a96f163161",
@@ -448,6 +451,7 @@
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
     "b632bbe1403a274b5f63c56dc232db68e7f17c2a4f6c4fe57da3e1eb1b8c8a51",
     "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
+    "b692c2fc63b322848d5281a3bee2e203eb480f004fc0d2bf1b904c796da5bfd8",
     "b6dd01cee59d33794ff5b6bff3da8d0df5df48b96f7cabec4eab4c5d938ffd45",
     "b726d595cf738e4fdb3a012a71fc5acb75fbd497f82ccd12e83d49e0adf476da",
     "b78001ede46645e096a5562254e448817ac606b24e8d8d7e655cd773752ad633",
@@ -511,6 +515,7 @@
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
     "cda10a82ee7dbf6a9ebff714845594187b14d940e7e6bad7d0ecdad10ddb9e52",
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
+    "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
     "cefe7d3fbbb9b5a8146b16d7acaab60fd8b94d70252484ae5a0561de3f5d11d8",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
@@ -549,6 +554,7 @@
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
+    "ddf3fb4e99b3ce2d812fe1457f8c2569440f11ed6e7e35ca1cbf40a422a9d0b0",
     "de2b15de9f48e8ee1d77b73af160f58a6d568b8aecd1c92421f349e39e844f36",
     "de8aee1ec97624b4fdd129647d0e3baf5037e4b3b63824b528e6eb82067379e5",
     "de8de09827bf27d0a2665cadfdeaa2e99baf62b08d736ec5ce0e615be3d9ed80",
@@ -643,23 +649,62 @@
   "last_results": [
     {
       "date": "2026-05-07",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 26000.0,
       "matched_times": [
         "19:00"
       ]
     },
     {
       "date": "2026-05-07",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "club": "Smash Club de Padel",
+      "address": "Ramón Carrillo  2568",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-07T17:17:18Z"
+  "updated_at_utc": "2026-05-07T19:14:52Z"
 }
