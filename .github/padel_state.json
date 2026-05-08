@@ -996,15 +996,6 @@
     },
     {
       "date": "2026-05-14",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-14",
       "club": "PPF arena R21",
       "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
       "price_from": 10000.0,
@@ -1108,5 +1099,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-08T21:04:23Z"
+  "updated_at_utc": "2026-05-08T22:30:32Z"
 }
