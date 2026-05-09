@@ -583,6 +583,7 @@
     "d32d01f1e83ae6dc8fce38f63243518b259dbc981c152247e95822d75236f1c5",
     "d36c951126c0a50b56dddd9fe4785633ac3cd8e4f6286b1262f5e88d1160b873",
     "d37d95081341f5fd3a85e925c4efdaaaa65767b7f2333ebba8ab484b68b98757",
+    "d3bd117c2c043ce0f5c2d881b32b3ea290921c1173b950f6a10bc8b2b4d65104",
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d4866ecf94d438cb891f560a421e389ff2792fd230c9f602e3052f930261bcfb",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
@@ -706,13 +707,14 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 60000.0,
       "matched_times": [
-        "18:00"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-09T14:53:31Z"
+  "updated_at_utc": "2026-05-09T15:55:44Z"
 }
