@@ -794,7 +794,7 @@
       "date": "2026-05-14",
       "club": "Club De Padel",
       "address": "Constitucion 658",
-      "price_from": 28000.0,
+      "price_from": 30000.0,
       "matched_times": [
         "18:30",
         "19:00"
@@ -1093,5 +1093,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-10T15:56:55Z"
+  "updated_at_utc": "2026-05-10T17:03:17Z"
 }
