@@ -211,6 +211,7 @@
     "4a8b8c7dbe5a88dd3db57bce7d327d4c03110f3def1e72dc76fed6d7458912c0",
     "4aa1d895af469aeae8a8d085725f71c1e8365d263866ad4dff55790c5fc0df0e",
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
+    "4b661048185e0db0f513e9180c440ffb7b360d73fb0f8f3baed14d34ae51fba4",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
     "4c1b828097f11556bd82c06a5fbffe1b0949bbab7d7757d86b26ba0026a4638b",
     "4c5ee8a07771c17854050a55cfe71bcfeac1f47a4a1431287ec767f7f8835796",
@@ -712,26 +713,14 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
         "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-11T17:33:25Z"
+  "updated_at_utc": "2026-05-11T19:51:18Z"
 }
