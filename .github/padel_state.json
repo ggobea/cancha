@@ -971,7 +971,7 @@
       "date": "2026-05-14",
       "club": "Match Point Castelar",
       "address": "Tucumán 3000",
-      "price_from": 31000.0,
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1093,5 +1093,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-10T23:59:55Z"
+  "updated_at_utc": "2026-05-11T04:17:43Z"
 }
