@@ -184,6 +184,7 @@
     "42c4436d3a88e2797d03ea799bfc821ea750be59ac81ec8293beb707fa48cd15",
     "42d39657d704d7cecee44be1e326018c9a29a20637dde821e927542ac8ebf7b8",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
+    "433787312db5ba0a741ebf726b13eda2a314337acd1590513be590de67fec0a8",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
     "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
     "44cb833d0ef731858dd76b081043813b7b82fe73d1de9bf555202e61b2846e47",
@@ -568,6 +569,7 @@
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
     "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
+    "cee844aa3d9d7cc1824b9caa3e3cb0efa8b1902a478d48a9926581754acb7699",
     "cefe7d3fbbb9b5a8146b16d7acaab60fd8b94d70252484ae5a0561de3f5d11d8",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "cf8d65b789cdcb5939bd6368cca79873b498873ffbf1726485c3b7cebb58376e",
@@ -710,9 +712,9 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "19:30"
@@ -720,13 +722,16 @@
     },
     {
       "date": "2026-05-14",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 60000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-11T15:16:22Z"
+  "updated_at_utc": "2026-05-11T17:33:25Z"
 }
