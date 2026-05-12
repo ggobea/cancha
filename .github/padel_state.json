@@ -876,7 +876,7 @@
       "date": "2026-05-14",
       "club": "Kuman Club Benito Juarez",
       "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
@@ -992,5 +992,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-12T21:24:13Z"
+  "updated_at_utc": "2026-05-12T22:41:12Z"
 }
