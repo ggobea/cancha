@@ -793,15 +793,6 @@
     },
     {
       "date": "2026-05-14",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-14",
       "club": "El Guardian Padel",
       "address": "Carrasco 825, Floresta, CABA",
       "price_from": 30000.0,
@@ -1021,5 +1012,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-12T15:21:20Z"
+  "updated_at_utc": "2026-05-12T17:32:55Z"
 }
