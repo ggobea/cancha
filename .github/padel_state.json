@@ -304,6 +304,7 @@
     "6984585973175a030e7288788010b11042daf87edeb5445ca46eee750ca983be",
     "6aa65a3bb4708e6a48e1b4548f9ad85bcc4a90eb5f605eded3b610269d1c2a66",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
+    "6bed7f9d3b73a90f9bfadd6e8bc703bd98b03ffffb373f0ef114a6d1db069d1a",
     "6cb41735708bf8596308f2ad888389eb89262779a88106de4f4a716eb381f994",
     "6cd8379cbbd305e89e3c8901db9f9f3a6ae9c3f4ba1cabd1b0195d15d158b094",
     "6d3484ff0e2e2b46e967afc67a01feabba1d81f16ccadfc82501d984991b3ac2",
@@ -412,6 +413,7 @@
     "967a9646872722909c32d26d2aa88b1c5301ce0e72b28478c2cbf07e9867882f",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
     "96bf2e07e274012816daab0f52b91ede3b5064d086a50d39c2dc8f1feff087f0",
+    "96dc610205c1468eb768778d84dbca55a9f613b4b6c9896703bf0acedc3fab49",
     "96f88237492de0b6a3f2ac36121603360f4b27612c99b3df5129803a26959d6d",
     "97afdd8aefd7330d49dafbcc699fb1e302e7db94105139e7fa3268cf7d57db5f",
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
@@ -469,6 +471,7 @@
     "a9d16dc4b1f2f3e7fb0c518032c90ce346257e866a5d4c9e5ceceb7e111aaeb5",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
+    "ab907e3cccd5077386bc09f0d6ff554b6a4fd91838dc833530fb5eaa01f4dba5",
     "abd33bb42dcc5531c9b6f09e9e0325904a446541e5ce5f6df5867d1d6bb8cfae",
     "ada016532aa088497363b2ba7ee2570911d129b4372f5d4105096281fc8944d8",
     "ae0bc06facaf83b6f56af75b47bc6cae4d4a646c204e7113337e2870fc1910d4",
@@ -728,22 +731,33 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
+      "price_from": 48000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
       ]
     },
     {
       "date": "2026-05-14",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 48000.0,
+      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
+      "address": "Lincoln 3136",
+      "price_from": 44000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T21:52:42Z"
+  "updated_at_utc": "2026-05-13T23:06:35Z"
 }
