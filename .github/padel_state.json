@@ -32,6 +32,7 @@
     "0b33aa419f9a06fe12777a66ac402a1e56e3d12b2e54bd4096e2533476147421",
     "0b7d5ee25d23b4caa1f239053edea28d79ac1a548e31a4e424ac10dcb6264c83",
     "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
+    "0bdfe11e1941ecbc6c8142912eba07942b06fd116fd45aaf47d616852ca15973",
     "0bf9e676935506640cc13e33fb587ef722ce093a0b4580b41af5aa1619462cd0",
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0cdc3b31569f93aef94823a11b3d6e2bba79319c862cb37ec2dffe022d168072",
@@ -137,6 +138,7 @@
     "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
+    "329fba41b9b3c9b58106ce01b0bbc366e8bdf2858379376b08917b95d281c64e",
     "33331cea6680eb05297b7bc0af60c336dcc4a1c1c45c3d2cccfee210bcb7a43f",
     "334d1ec7b5469f84128bd65650d48674655b63ed29be0b78aca76346578db925",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
@@ -225,6 +227,7 @@
     "4ee05965fe6baaa6086ac92c4d36a85a26daea457721a2290debeb377e4d9ae6",
     "4f17efd4b2b1aa3f5879d632032c4bdaffffd89a202c2bc2dffe4164fe0aa6f9",
     "4f567c30bb8f51ef6d0133eeef74371312d38442f1eb017991d429f6685ffcf8",
+    "4f6cdb240040c92d653ac3f9eb045d229fcc00117fd7fe0772c6210232d4d7da",
     "4f7a61c720e50e7cad0be740fb0747e26ba3ddece4ff13a2a3f852d4735dfb05",
     "4f8b7f0f1134abbbb019b45bbf9afee0446dc8a5b128af58babf51a731b05fcc",
     "4fa280f574839907c3dafec81e69a70cd158cccd157074d35c02498189ef2e90",
@@ -720,23 +723,35 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "12 de Junio",
+      "address": "San Sebastián 1705",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:00"
+        "18:30"
       ]
     },
     {
       "date": "2026-05-14",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 10000.0,
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 64000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T13:12:58Z"
+  "updated_at_utc": "2026-05-13T16:01:37Z"
 }
