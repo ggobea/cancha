@@ -584,6 +584,7 @@
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "cf8d65b789cdcb5939bd6368cca79873b498873ffbf1726485c3b7cebb58376e",
     "cfba86b42a73e76af026cabd888c974839fcd0213235cdb48ef8a8d9a00ee265",
+    "d00f771ecb964263832ee7ac060107901c1f4b102336714348352b9c27c3bb60",
     "d017f5080701666733fa4445d04a92ca91e2be1dfebc85da29fba325e8a20e2a",
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
     "d1675783ba20ab7430e449d8bfddc6c05552acf297a3f04c529e1bda0ed70352",
@@ -712,6 +713,7 @@
     "fb393f5d1a22d23b7df58254c5bf0afe9f4b61310e225689cdcb4543909716e9",
     "fb551f85b773f5855d4efa1bc3814bcb4f83b3c9b0f30f7a35d4e8eb85c871df",
     "fbaf7a01b01a6ab7a374854333e05c677be60cdb43f2f5aa9873a3020b91c457",
+    "fbb6ca7def533532ee7fd8ce44586c9b7253bceb4593035228b99653174470ac",
     "fbc615aaeb1b16e1b6c4e1a92c60b8266733b37c8b945828bc5994255170c2a9",
     "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
     "fe287f1e77618a1b4fe130b5131d84020eb50810166f7dce0e3678ac1527b75e",
@@ -726,22 +728,22 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
       "matched_times": [
         "19:30"
       ]
     },
     {
       "date": "2026-05-14",
-      "club": "Lama Padel",
-      "address": "Desaguadero 3180, Villa devoto",
-      "price_from": 40000.0,
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 48000.0,
       "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T20:17:36Z"
+  "updated_at_utc": "2026-05-13T21:52:42Z"
 }
