@@ -101,6 +101,7 @@
     "24d29c09cc2ebfc8be0bbbac780a4c36f6f7d43d38d459bf504e0f10bf08678b",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "252784638d5115caa4dfcc2b5904c39a0c89dc421946482e5c88b1ffc28e93ae",
+    "253908576f0b401a81bc7695d068e1a50e5b874c0479c7b7e19e0ff42a5e6ecd",
     "25ab2743d9e0fd87c76c07877eaac950302bb56a64d4f962e279124ec7570594",
     "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
     "2719195f2a20927e855e9cd50154d679716d20495d77b5746e3e28c2d82f6cb1",
@@ -680,6 +681,7 @@
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
     "f1eb180c912da923a4b75fd33be30e1680ad3c18b6ace7bde3319122e3a6164e",
     "f20115f3f58769191d51b21f4439a14c4c744c9ad58a3fc7961f3ad0ea777a19",
+    "f2024d8b32c1d8794338cb43ab83e467da7d99a353fc5e437acf2432ac018f9b",
     "f22ef7f17f1fa2b46b16c24804010037e61ce423f51b0b17c9c51bab11c0fd9b",
     "f274ba263c2bf0cfa3e95658d82b6836b2bfc1bf53cd7feb6a41d550bbd6e9cc",
     "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
@@ -724,14 +726,22 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "club": "Lama Padel",
+      "address": "Desaguadero 3180, Villa devoto",
+      "price_from": 40000.0,
+      "matched_times": [
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T18:23:04Z"
+  "updated_at_utc": "2026-05-13T20:17:36Z"
 }
