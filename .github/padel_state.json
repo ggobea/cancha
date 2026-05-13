@@ -449,6 +449,7 @@
     "a3dc68c9e355e0f1c355dde6d37bb471637c3d65745bd31964e30d4da45158cb",
     "a4a9f848bf0b9002d405f6f13ec4c64aaddb9d49ec690f6304060c3796556cab",
     "a5256b4ec0441fa8348bfaec51cf9b4f56a29ed758ef88174750ca93f338ffaf",
+    "a5c6db7e6d03c3fb2d82349d15006c3cb9b69fb4b710df936735bab01822bb66",
     "a5cea96efccd3fb8a54ff2df22cc83417a9138044f92198dd7289ae2e024b9e1",
     "a5dd71bfdc71709c41b32ac99f5412558ce2c89959a1417f9042d830f5dd4d91",
     "a61b04357c693a9b4d2efb126101f69c2ff6dc0aa07f9e6f9db30b2fb7a1669d",
@@ -723,35 +724,14 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 46000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
+        "18:00",
         "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T16:01:37Z"
+  "updated_at_utc": "2026-05-13T18:23:04Z"
 }
