@@ -509,6 +509,7 @@
     "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
     "b692c2fc63b322848d5281a3bee2e203eb480f004fc0d2bf1b904c796da5bfd8",
     "b6dd01cee59d33794ff5b6bff3da8d0df5df48b96f7cabec4eab4c5d938ffd45",
+    "b6f54488f6be4caa52c19d41cb7ba123ff47b9b89e17e253a25ca44f56b1d46a",
     "b726d595cf738e4fdb3a012a71fc5acb75fbd497f82ccd12e83d49e0adf476da",
     "b78001ede46645e096a5562254e448817ac606b24e8d8d7e655cd773752ad633",
     "b7bdc93e4f151188f81cc2cd61ae789fa83b1ad4fb9b2b693d40286da454a897",
@@ -551,6 +552,7 @@
     "c35575535790732ccb290892769ecfecee14f1db98fe1e0507ea0738acefe08f",
     "c3658e755bdb001a736653d51553ad85c8a9f18baa7002493941165f652b384e",
     "c3abd4fe26a249c6ff5513520bfe5b4ef31acb4bbab102bc08dd63ce88522fc3",
+    "c3c9bfed316a684c0767403403c0d98e98f38641aecfc96da938e122d8ae9491",
     "c52f6891c04455685ce76dd9e92bdbd6838c0ee294c261ba41b1f564da99316b",
     "c53bbdc40d011b5e1bec6300273ed8b87f0f77fa6d17cdd9808dc9327d7fbef9",
     "c58c6a6ad25875924175532154033b49a868758f0abdd5bb4fa68062ad112c4d",
@@ -578,6 +580,7 @@
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
     "cd35557e0001b6d3f2ef1c1da7690a7a90aa0943365d0d51ce9da554fd4a02c6",
+    "cd4f9049b1dd764d4b158fd7ee0ba32bdee4b98479f6fb408e782680296fbd17",
     "cda10a82ee7dbf6a9ebff714845594187b14d940e7e6bad7d0ecdad10ddb9e52",
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
     "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
@@ -687,6 +690,7 @@
     "f20115f3f58769191d51b21f4439a14c4c744c9ad58a3fc7961f3ad0ea777a19",
     "f2024d8b32c1d8794338cb43ab83e467da7d99a353fc5e437acf2432ac018f9b",
     "f22ef7f17f1fa2b46b16c24804010037e61ce423f51b0b17c9c51bab11c0fd9b",
+    "f26d292099cac0cbe47515695232fca11d5efa66a532afd4d581d351c0abff78",
     "f274ba263c2bf0cfa3e95658d82b6836b2bfc1bf53cd7feb6a41d550bbd6e9cc",
     "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
     "f2f3c03afc391fba00e6371b1705faf31c14239d3cef298bb3ca4d5914abca1b",
@@ -731,33 +735,45 @@
   "last_results": [
     {
       "date": "2026-05-14",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "club": "Goles y Gambetas Villa Tesei",
+      "address": "Juan de Salazar 265",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-05-14",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 44000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-14",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 60000.0,
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-13T23:06:35Z"
+  "updated_at_utc": "2026-05-14T01:26:06Z"
 }
