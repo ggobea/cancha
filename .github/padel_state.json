@@ -251,6 +251,7 @@
     "4f8b7f0f1134abbbb019b45bbf9afee0446dc8a5b128af58babf51a731b05fcc",
     "4fa280f574839907c3dafec81e69a70cd158cccd157074d35c02498189ef2e90",
     "507b9df9a64fd3bec108374ed35bf018e82dfc267012cdeace1d1ce7dbf0703e",
+    "5084f875f88a9d84e70f15073f1b9b583819a78d1e9d3ff1c3ec9bb3d762cb72",
     "5096e19b1c480607bc48b10d556ef0cc705607c99c63338144e1a6cd9b141435",
     "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
     "522c7488612d54b3c6717f4ef77a819cf1a9ef5ce47d50b8addd75f22c5d149b",
@@ -789,34 +790,13 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "Padel \"LP\" zona Oeste",
+      "address": "Padre Varvello 4427",
+      "price_from": 15000.0,
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-05-21",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 45000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-05-15T15:36:56Z"
+  "updated_at_utc": "2026-05-15T17:41:34Z"
 }
