@@ -60,6 +60,7 @@
     "1262f1938f2621dda9874a0f3ecafb0dcc90b1a64a55eb6bc2a90bf395014566",
     "13628874a51e8ab995bdc11f35b3b385d2aeda10ff9671a0b2e2d253b9c4dfee",
     "1384a90dc10dffd1f53acf8da5beba65767aa36d2c547b72f5f19275babadddf",
+    "13a9f400395f490a8315201c4fb1ad1f15c089e6091142161d90a47034ee3505",
     "14a7996a70d2f792b99bcb47ac40a5b20a0a1b6d8bd609a898fc71ee9792d930",
     "14a7a681dc6b78cffeb756b25990776a111499b5748827ab9c475f7cd8c62615",
     "150a3bc5a328ecfdb69edba4cbf8115ea52781ea61600d8437f5254e9109c721",
@@ -791,9 +792,9 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Match Point Castelar",
+      "address": "Tucumán 3000",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -802,5 +803,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-15T19:41:54Z"
+  "updated_at_utc": "2026-05-15T21:04:44Z"
 }
