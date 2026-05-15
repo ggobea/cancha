@@ -294,6 +294,7 @@
     "5d816816a9afcd02858475290a81c7543085db055a1cc013dbd2ed8fcbea16f9",
     "5dfca020d300c74ca8d00f769b66152eefb21ea86443a013775155513386bbf1",
     "5e77196c50abeb8740e15b9ada756e3bb22fdc034f513a1de6e2543cf3126f6d",
+    "5e8a8937e7f15d5cb845e38c7666bb2311f7387921b4480ced126463eba57a11",
     "5ec74d303c6216b40af3b8e095807a5d136ae3781ee6cd91e479b63c66d2575d",
     "5f45f55e1accd6b72ed879165f13a1f1f90482de79a58bf06e60e42d6115b47c",
     "5f630daac85c19267551a8d9ce5fe2c7dfaf81ad0acf0ef467cb4baf31e5aa9d",
@@ -792,16 +793,13 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 40000.0,
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 36000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-15T21:04:44Z"
+  "updated_at_utc": "2026-05-15T22:29:55Z"
 }
