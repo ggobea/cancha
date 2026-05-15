@@ -222,6 +222,7 @@
     "47f697e39115128357fb46014634e7fbed46bc08100410757e95efa6c526aaab",
     "48dd2eb1ba655d1abff53d3b0c10644a081101a5ac79ff860a59e50c17595034",
     "4911e9dd2fa02a5f8ebaeebeaa376b50595700eae15bf397af347ad589898025",
+    "495a699b84d5b1a3c473087b1c156d3d2990a5c7f37cf4d688a15852a89d86fe",
     "499b12e9c9a3e7207b691e42d4b8645fbc271210c422003f17475e91436e79f1",
     "49b6cec1c3d79e33ec2097b0244c73bd79ee2da77ff673c7d494a1ec353af2ac",
     "49bde9b2b37873740282744210c0d9d6795746b187b3dc6fa3a1629866445149",
@@ -518,6 +519,7 @@
     "b011bca19f43c4ad0b95d2ba3ab04f681152e9e40c6d492d543d174a2b5e0b92",
     "b04af670a01aa8d8e4117144e2f2ed88e101e6b0d4f1532b736edc81dc8e69be",
     "b05fbaf8df18cdf712474ec2b9c69bb1bce609396d0f116074ca653debf970a0",
+    "b0652edd598ad33dc53f7b299d4c13891f845c6052057861c966b7ef9849513d",
     "b07f6f46c604cf9f756eb021ef749f0b2ee9339e1e9f01b7939d50352c565c6c",
     "b085ca735cfe2228db008fe9c0ce2a74a93a03690a68b09883ec628e0a6541a9",
     "b0eae7c1903841fe6c4e9f663d0ffce8af2daa41f00b5284c1ebb9a6d0d8cda8",
@@ -671,6 +673,7 @@
     "daa25a74c99c812797a6e5200ee177f96ed94587ab597a756a0940c09bc11aae",
     "db42b11ff206d58952efd864dac07812e543155adb3b10e06ba561a7c3d0f227",
     "db774cd29083a97986396c4a2b85d37f4910f823f498821262e793f07091275e",
+    "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
@@ -786,13 +789,34 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00"
       ]
+    },
+    {
+      "date": "2026-05-21",
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 45000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-05-15T13:00:29Z"
+  "updated_at_utc": "2026-05-15T15:36:56Z"
 }
