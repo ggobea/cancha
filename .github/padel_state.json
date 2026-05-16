@@ -1019,7 +1019,7 @@
       "date": "2026-05-21",
       "club": "Kuman Club Benito Juarez",
       "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
@@ -1150,6 +1150,15 @@
     },
     {
       "date": "2026-05-21",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-21",
       "club": "Redfit Padel",
       "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
@@ -1191,5 +1200,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-16T17:00:31Z"
+  "updated_at_utc": "2026-05-16T18:31:02Z"
 }
