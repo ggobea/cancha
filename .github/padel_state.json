@@ -1150,15 +1150,6 @@
     },
     {
       "date": "2026-05-21",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-05-21",
       "club": "Redfit Padel",
       "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
@@ -1200,5 +1191,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-16T14:22:26Z"
+  "updated_at_utc": "2026-05-16T15:33:58Z"
 }
