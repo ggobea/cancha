@@ -373,6 +373,7 @@
     "78dc608cd4b946cad539d45905afd75862ede44d151853249c1b367edace9d7c",
     "7934205a27d5a0b88b7fff6cf2629ec0909c4c2e97276fae58a120d4f94c6033",
     "79595e121a3cbcabefdcaf6da16a2b4c8f963037cd106a909e5c7923c0ea9c5b",
+    "7a321d01b6886a655780898d6916d44cc32af534e4162ce4fe423e43a158446f",
     "7a420e608c12127282e9dd1ecbf7d5bc3a38cea1b3ebe2ab67a03f0330dea864",
     "7a4dabbf92d6e4057e87e44b1cc42b4a408344aae0bde0361f68156624e3f85e",
     "7ab1ca9eb7f486e4e4499dbdebfae4b2afc628bc4bd740d074345ee12b9114ae",
@@ -803,13 +804,16 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-19T21:01:58Z"
+  "updated_at_utc": "2026-05-19T22:44:50Z"
 }
