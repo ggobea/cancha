@@ -154,6 +154,7 @@
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
     "329fba41b9b3c9b58106ce01b0bbc366e8bdf2858379376b08917b95d281c64e",
+    "330abf6568824eff2ede6f0dad8dd8213693739fece49806e6e3c4e0723880a1",
     "33331cea6680eb05297b7bc0af60c336dcc4a1c1c45c3d2cccfee210bcb7a43f",
     "334d1ec7b5469f84128bd65650d48674655b63ed29be0b78aca76346578db925",
     "3356b14352c0b9d0bdec4e5e20cabfa0982b91e5dea10f32406f04903407666b",
@@ -684,6 +685,7 @@
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d860138803e078eb90c37a45ba88de14afdc61655c34a47b96612e41fa336303",
     "d8ac6a699d40f837cb68ea552a089c0239f073afbccd505925f9eaaf50ece53d",
+    "d8f1d70c402ae81887b681c2cdb9074dccec22b353b93413b20488591a4c6a4f",
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
     "da0da3b6115b1a46607af6c67c5f3b4c19184aa0639015a1ee97626a7ed1c973",
     "da18563ddab8f622e1d10b986df697b62c2a7f316ed7234c4f1996f92919324f",
@@ -709,6 +711,7 @@
     "df6bda22363cc644c32bbea37d926cf8a207352efa410207a8da90ae5f2a9c37",
     "df8fadd3c60abf49087f5e138def263dc09bfdd0e2495eabbca1d9ec05b9a529",
     "dfc7799bcaa08100d20a05e3ca70a0633d192207010ff6be40e6979df956b533",
+    "e042c9d180d31a7db1c5a3e2b516328336b291b68013bc462e7237c283bed23d",
     "e09a254898ddfa434125963645e9c89afbe53626fd3c3e55757aaf97356696d4",
     "e0ca9e5a4ab2f13cca590692f4ef7991db3b4d025c4ef26920a3455f381a73b1",
     "e0cdaece2a3fe48f5f9b6da02b72c087af3e19ff721c53cb934203af46c27696",
@@ -811,22 +814,33 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
+      "club": "BASTICOURT",
+      "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00"
       ]
     },
     {
       "date": "2026-05-21",
-      "club": "Lama Padel",
-      "address": "Desaguadero 3180, Villa devoto",
-      "price_from": 40000.0,
+      "club": "Chance Pádel",
+      "address": "Simbron 5449",
+      "price_from": 46000.0,
       "matched_times": [
-        "19:30"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "club": "Circulo Club de Padel",
+      "address": "El Leñatero 1889",
+      "price_from": 58000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-20T20:20:54Z"
+  "updated_at_utc": "2026-05-20T22:10:59Z"
 }
