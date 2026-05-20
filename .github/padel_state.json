@@ -667,6 +667,7 @@
     "d3630b173bf3a7e6b6deecd415bfab700c445e145e5f992f0769e69773486966",
     "d36c951126c0a50b56dddd9fe4785633ac3cd8e4f6286b1262f5e88d1160b873",
     "d37d95081341f5fd3a85e925c4efdaaaa65767b7f2333ebba8ab484b68b98757",
+    "d39ea20383c33925ddb7547bccc850dd1b3874af8f12910278cd620f62d72495",
     "d3bd117c2c043ce0f5c2d881b32b3ea290921c1173b950f6a10bc8b2b4d65104",
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d4133b5ad0ff2f83bece55033ee648f4738884ddb58cb14928f869f16cca3515",
@@ -749,6 +750,7 @@
     "edad1591c6e0de7c53de7286f60e541f69d59cf7cf5f12fde1973ba47679c1a5",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "eed4762e4be2d7339e783450e7595913f43a8b21383091a93c0d3d0588725242",
+    "ef0daf6db19215f42c1a07e05f680f41ea68f3fdf469e4d5e1a5851643349da3",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
     "eff1ad4c6d17d1f32fe3686213492c92f2cb2a273a859ae492d9bafbb1c8a1f2",
     "f04766e683d3d0145eab94526ffedec7d1b0a1210e53aa6d6cd7be1273b56d5d",
@@ -809,19 +811,8 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
       "price_from": 25000.0,
       "matched_times": [
         "18:00"
@@ -829,24 +820,13 @@
     },
     {
       "date": "2026-05-21",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
+      "club": "Lama Padel",
+      "address": "Desaguadero 3180, Villa devoto",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-21",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-20T17:40:16Z"
+  "updated_at_utc": "2026-05-20T20:20:54Z"
 }
