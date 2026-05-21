@@ -76,6 +76,7 @@
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
+    "198128de70f857055f21215183faa55ae4f0b40eee6a6786805a9092853ae71a",
     "199405167b7dee5ddf882c937c0d5e7b9d99242b288c5663cd2dd2ebdc431e70",
     "19f7c2fdcaa8a1801486efacc881abfb54f45cb80381c24ad26f7754ed465dbb",
     "1a13ebeeb285970cacbd2ad21e18b89d5d4de6a8a8bac70d28a1703ceae0b435",
@@ -485,6 +486,7 @@
     "9e20e2eb8e3ca522e2a00cb3b126833c9d271af962f423fd4643ab499aa82a52",
     "9e271d03dccd9c530f736aa502dac708b25b8c8c71960b68a7834914154ba69f",
     "9e2dbfb664a678b1435de1c7c362bcc6ebba233bc6c2b30ebb66af09925ffad4",
+    "9e36f410fbcd4df22e194e8a13ce0153ce7a3f09b5040d6ddbbc540113d5c5db",
     "9e5f9f0ce7affef2cf6b776caec3797bb57507cc6fe630972c63902fd308eb81",
     "9e673127fbd84c4c1b6390a2ede3cb920951e7036c1e180bc91fae227eed9e4e",
     "9e759ebcfa41e0f1c26c52a818f1a49b1a6cf8771d68f5e1b2b7eb066dfc79b8",
@@ -826,13 +828,25 @@
   "last_results": [
     {
       "date": "2026-05-21",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 60000.0,
+      "club": "BASTICOURT",
+      "address": "Martín Miguens 7886, Villa Bosch",
+      "price_from": 25000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-21T18:02:07Z"
+  "updated_at_utc": "2026-05-21T20:20:07Z"
 }
