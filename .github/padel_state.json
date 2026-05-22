@@ -56,6 +56,7 @@
     "0f4e4fc4f5af7507ccd0ce05cf842b90834e569ee11b57d014ca158ae736466a",
     "0fd306af29a0bb52e08f5b883c663efccc8fc9d126f4acb8596b1d6d98b32665",
     "0fe4327a2e0bd5b1bb9e7ac8ff34930ecccf27988fdea27bfd84fbfc878acefb",
+    "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
     "11a5286e0141ea39cbae2ebb67f943879836c1ec7fa428476125c5b946343ed4",
     "11c62042c79e5f557219d9c8757894291684003d931565c11ba500e21c51c815",
@@ -887,13 +888,13 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 50000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-22T12:21:58Z"
+  "updated_at_utc": "2026-05-22T15:35:17Z"
 }
