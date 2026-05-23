@@ -946,16 +946,6 @@
     },
     {
       "date": "2026-05-28",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
       "club": "Club 18D Fútbol y Padel",
       "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
       "price_from": 36000.0,
@@ -1318,5 +1308,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-23T18:33:52Z"
+  "updated_at_utc": "2026-05-23T20:07:07Z"
 }
