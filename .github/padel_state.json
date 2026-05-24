@@ -1169,15 +1169,6 @@
     },
     {
       "date": "2026-05-28",
-      "club": "Nivel Uno",
-      "address": "JUAN JOSE PASO 234 MORON",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
       "club": "Nova Padel Center",
       "address": "Ayacucho 2856",
       "price_from": 60000.0,
@@ -1249,16 +1240,6 @@
     },
     {
       "date": "2026-05-28",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 20000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
       "club": "RedFit Pádel",
       "address": "Av. Victorica 1128",
       "price_from": 38000.0,
@@ -1308,5 +1289,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-23T23:32:05Z"
+  "updated_at_utc": "2026-05-24T03:53:15Z"
 }
