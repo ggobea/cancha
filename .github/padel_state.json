@@ -1229,15 +1229,6 @@
     },
     {
       "date": "2026-05-28",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
       "club": "RedFit Pádel",
       "address": "Av. Victorica 1128",
       "price_from": 38000.0,
@@ -1287,5 +1278,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-24T20:07:18Z"
+  "updated_at_utc": "2026-05-24T21:29:11Z"
 }
