@@ -1249,15 +1249,6 @@
     },
     {
       "date": "2026-05-28",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
       "club": "Smash Club de Padel",
       "address": "Ramón Carrillo  2568",
       "price_from": 48000.0,
@@ -1278,5 +1269,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-25T00:01:47Z"
+  "updated_at_utc": "2026-05-25T05:05:20Z"
 }
