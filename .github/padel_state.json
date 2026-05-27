@@ -11,6 +11,7 @@
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
     "039a990971375d307043aa36b6526a062da9cabfab3bd1f3efcfe918f84ab02d",
     "03e41efdbd1b7bb0e71534758063b21c6676dac9e6affd69afb5c57d4107c7e9",
+    "040cb2acca22ef25e66403be4dcf3039518b33d6f0fe08f87d3ce859df985dcc",
     "0416847b9e9957f70545deb3ff7620575b110e5bad9d3438ef0177faa542d0d0",
     "04489e71429abd43cd494ba92a9dbb549d0d145d0c356870939c195141a0958a",
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
@@ -345,6 +346,7 @@
     "5ec74d303c6216b40af3b8e095807a5d136ae3781ee6cd91e479b63c66d2575d",
     "5f45f55e1accd6b72ed879165f13a1f1f90482de79a58bf06e60e42d6115b47c",
     "5f630daac85c19267551a8d9ce5fe2c7dfaf81ad0acf0ef467cb4baf31e5aa9d",
+    "600e8bc24dcb18cace9af3acd36d498f12a49fa65ca3182966c241cd41a995ac",
     "60277c8fb82f898b363231bf63cf70b6c6dac97ab2af82fcd5e3da046a86307f",
     "6065376409be4a2fafa70e35561fc9a3017c78ec4856ede2f96ca0e37165e4a4",
     "6069ff2c892c1b447ee5a3af181e907acf6a2bc81b14a28c551f441cf08f93f1",
@@ -364,6 +366,7 @@
     "664ee2d017bc65a9befe41014d5d8023e8bfae86f4d82448d71991a96f163161",
     "6669eecae44b060ab257405124b6879b6447c181ed6eefd3a1fdf6b9afb407e0",
     "66b5a4383f6a346389594b268701ffda3b1d3efc79cd292e933db0e0a9b3533a",
+    "66c27e5d2398a86be3928e619cbeb9fb821d503cb60793bd0e32744ee064e91b",
     "66ef0602d0cd20587b24d21f43e5c1212852ebb052de65136d64c91c9405a323",
     "672d177f985e483dd9d88dc11a5495546932f0fd64b3d547b826938ed94c53e7",
     "676a52c7f35a77222ddf32c8592474a76b2aa84796ab266f7b6b4d430e5219f9",
@@ -377,6 +380,7 @@
     "6984585973175a030e7288788010b11042daf87edeb5445ca46eee750ca983be",
     "6aa65a3bb4708e6a48e1b4548f9ad85bcc4a90eb5f605eded3b610269d1c2a66",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
+    "6be09ae66f6c1e926cbb4dceaf2e184fa5c412f3d96880e9b6a5d178cc05bc6e",
     "6bed7f9d3b73a90f9bfadd6e8bc703bd98b03ffffb373f0ef114a6d1db069d1a",
     "6cb41735708bf8596308f2ad888389eb89262779a88106de4f4a716eb381f994",
     "6cd8379cbbd305e89e3c8901db9f9f3a6ae9c3f4ba1cabd1b0195d15d158b094",
@@ -609,6 +613,7 @@
     "b1348709ed91e483932189707eca180a0918b3d21fce2e5fc68a33f99052ec8d",
     "b192a030a0d2f19a566f7de5275aa8cbd576b485e8e580d4be8c8556ef2d5da9",
     "b1a0727336986089193042364aa8417ad9fe527d35a94c5d5f0f9d4e6ff45ced",
+    "b210295162b2b4817055cf545879bcb27a3c86cafe2b869b91f445ca19c2d321",
     "b216b710715547022aa9de03e4bb143ede29349952265bb345ed1894a06eb273",
     "b2185bb09bccb12411c29468c07495d0cb61b9a1e41a65910c7b6d93142cc8d5",
     "b2a515f2317b707026b7009447b7a4641f8400b3542654cf500e87f00814fcd1",
@@ -837,6 +842,7 @@
     "ecbc9a259373fbdccbb8d0f1b9175c79fe2f9c9042c490de6ccbbecba81b2d2b",
     "ed4fd0e7d515c207a5f2bd1effdda9cb58a4337857409c03587162255c69f67e",
     "edad1591c6e0de7c53de7286f60e541f69d59cf7cf5f12fde1973ba47679c1a5",
+    "edbe75053b5707283fd2b23bfe482893cba877a01b45b21669cbcbeb6c0cc5b8",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
     "eed4762e4be2d7339e783450e7595913f43a8b21383091a93c0d3d0588725242",
     "ef0daf6db19215f42c1a07e05f680f41ea68f3fdf469e4d5e1a5851643349da3",
@@ -906,24 +912,60 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Circulo Club de Padel",
+      "address": "El Leñatero 1889",
+      "price_from": 58000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 48000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
       "price_from": 30000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00"
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Smash Club de Padel",
+      "address": "Ramón Carrillo  2568",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-27T18:28:05Z"
+  "updated_at_utc": "2026-05-27T20:35:06Z"
 }
