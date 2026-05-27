@@ -167,6 +167,7 @@
     "30369fc80f6de1a2f0043a08c4a16a58249646a90ee3ac2119f3fb9a9cf0fab7",
     "3067987154e26729423c0348da7b54c47f06bb05879d91d502926145a9e0f1c1",
     "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
+    "30b30e86231de6967c6d107da61f986dc7ae83eee4a522cad6f913f83f73f4b0",
     "30f808b2a834d8ee9130de1ff3ff90d0d7735ed06818a927d3d3b505cebd66c9",
     "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
@@ -624,6 +625,7 @@
     "b60b75a7c03b32b0ce27435662302cdcaa98d9752a8623f7cf0bacf5975fe966",
     "b632bbe1403a274b5f63c56dc232db68e7f17c2a4f6c4fe57da3e1eb1b8c8a51",
     "b6360f85e85f7990bbdd6042f2fca89ddea7d952a2058691306aa437fbcac55c",
+    "b66de0696abd37e0464736cdaf4f6ae6b90124fe15593921611b08e05e49dcbe",
     "b692c2fc63b322848d5281a3bee2e203eb480f004fc0d2bf1b904c796da5bfd8",
     "b6dd01cee59d33794ff5b6bff3da8d0df5df48b96f7cabec4eab4c5d938ffd45",
     "b6f54488f6be4caa52c19d41cb7ba123ff47b9b89e17e253a25ca44f56b1d46a",
@@ -899,24 +901,25 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Complejo Filippo",
+      "address": "Av Leon Gallardo 70",
+      "price_from": 38000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
+        "18:00",
         "18:30",
-        "19:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-26T23:40:51Z"
+  "updated_at_utc": "2026-05-27T04:03:58Z"
 }
