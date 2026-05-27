@@ -458,6 +458,7 @@
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
     "81c0b4da81f378d44445170951d0e5fff4662421260add9e08c17b442147f19e",
     "8213e1ddf0baf72f2fbab74f6d97fd6734c7c81b8df4f1eb5fe9be4dbe61364c",
+    "82215c8f765072c6a741ed87f3b7a667a653c4285cda2a6c4377b8ad3be0b200",
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
     "827ba051842a940292be0286847298534e013e8342b89971142631a2b6446aa1",
     "82b76d06cae8fad40f3f4237a683f096f58df48c76f211e0e8d9ccb0ba9a8cf7",
@@ -534,6 +535,7 @@
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
     "9a927c23077af00f92bfd9b2d5c5f9359507550343401b6df51b2ca8bbf7d1f9",
     "9aa5852fee28b8e277474a5040506cbde624e9dd6886988ed19555e4660df2e1",
+    "9b2cce97bd15d0ea1086a8a84068fcb810686bd72eea2414649d76ec586dead9",
     "9c8ad889fc3ec81217c46691b1b1b8e971e3178a8d286db6ecc334746cc68e3e",
     "9cafc96b2b41c7fa03e06f213a3e1b2a8e9406a0119904e77c6fa839146389ef",
     "9d48d323c98391b35f88f03745c5d83b0993bf807f57d9082cb893f1fd7e3ca9",
@@ -912,60 +914,24 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Circulo Club de Padel",
-      "address": "El Leñatero 1889",
-      "price_from": 58000.0,
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
       "price_from": 48000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 64000.0,
-      "matched_times": [
         "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-27T20:35:06Z"
+  "updated_at_utc": "2026-05-27T22:42:08Z"
 }
