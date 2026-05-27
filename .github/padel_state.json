@@ -114,6 +114,7 @@
     "211a8bda64a6d8104637b1f20d0d350670727218cb288040a2aaa21276421fee",
     "216df6d26fb09d8619090f4eee5a4793a279fa88f7bacae9d9e175ab844e4985",
     "2179fdd2d6de9305bbb73d05e51d9dc084d8e976046f29b70bd0e53cf69707c6",
+    "22247114bf3af5fbbc36d309bc9a7931ee31f829ccc0fe42c902606802826307",
     "227e3b2055e7f21ef0e20dbab9252ba15fa3b9a783dab17ba0bd62a21497fc56",
     "2284ec429d93fdda242907e35d4f638439a6c525a98d2b2695416089bdef44a9",
     "22fed809612329036478ea69e579a6c12fd647bd3b7072d9ae4cca9bf69058db",
@@ -319,6 +320,7 @@
     "5a2be6d6bc9d024e50902154ee2b17a01d79a71fa9c44837a38051b45b951fb5",
     "5a4f999b60725377d2dcc57ad8f74469f71853715975bae898ffe5749473e116",
     "5a670cd2b2c46c895e1c12981e9984ccf1d663cdc8fe73ff529cd5237c735c51",
+    "5a6a4133faf874489dee778d00671443c5c2a3a2f785164f4a4361806c620daa",
     "5a77dee9abcf76b4d20a2da77eceed659c154081c41867689d2de902e35a5b88",
     "5aa384254fb11b12e5049ce9dd0e2eba814365bc08ebc16133062d44986e173e",
     "5aa99f3a5fbb2821f7023f80f39cb60f072f406d2647432978302601b5498790",
@@ -908,30 +910,20 @@
       "address": "Av Leon Gallardo 111",
       "price_from": 40000.0,
       "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 30000.0,
+      "matched_times": [
         "18:00",
         "18:30",
         "19:00"
       ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-05-27T15:51:45Z"
+  "updated_at_utc": "2026-05-27T18:28:05Z"
 }
