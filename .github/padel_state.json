@@ -521,6 +521,7 @@
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "965daa8b2659e45936337659402ed4d12254ed9487a70740969ba638acf74ca9",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
+    "9678e5abe6b3a9d85228519d2c84cd8f6e7fa996caf1651a6ca3f0bb96d59331",
     "967a9646872722909c32d26d2aa88b1c5301ce0e72b28478c2cbf07e9867882f",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
     "96bf2e07e274012816daab0f52b91ede3b5064d086a50d39c2dc8f1feff087f0",
@@ -549,6 +550,7 @@
     "9e759ebcfa41e0f1c26c52a818f1a49b1a6cf8771d68f5e1b2b7eb066dfc79b8",
     "9e7f98d318f9d5062faff272264761568ba4133c2d1345a5cc9bb31ae9fabe98",
     "9eb71bd45638ee5590532d69a19713dd431de140dd0c7f590c27eaeb90a97c01",
+    "9ef725c679b8f8d2ee9e89331bd8b1cd00304cab6291ed044e2b905618ff55ed",
     "9f036493f5f594a159ec12f7112f95b5ca1ba02e7848ec43241e066a7e406fef",
     "9f77fa1dff6359b2da938e0ffacbb5b30ed963e38eb6565ff50cf74e82b98fb0",
     "9fa8836e74f62a4b5ad56fe3e0e8ba4a0e50aaab2ebd92f364ac0f60f9ebb075",
@@ -591,6 +593,7 @@
     "a91344850e7f7ec8b5a1f2d69fb1f7245430d4c0f44cba7279164466a66d68cb",
     "a933e03384d2be427cff4edbb30d7d8848680a35f8061b4fb89c299b93ef776f",
     "a9732518008d5343fa643cd159eef88895f802018631d2fde16083437350461d",
+    "a99a3f370a853d7147baa179680d28cd8405872ecd5b8de394c8c731e5c6c115",
     "a9d16dc4b1f2f3e7fb0c518032c90ce346257e866a5d4c9e5ceceb7e111aaeb5",
     "a9f0734a9375359fc161d9031adae203b30a6069beac43c556c971817e4b4805",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
@@ -914,24 +917,32 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00"
+        "19:00"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 48000.0,
+      "club": "La Cautiva Tenis y Padel",
+      "address": "La Cautiva 7651",
+      "price_from": 28000.0,
       "matched_times": [
-        "18:00",
         "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 36000.0,
+      "matched_times": [
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-27T22:42:08Z"
+  "updated_at_utc": "2026-05-28T00:01:40Z"
 }
