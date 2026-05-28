@@ -1232,6 +1232,7 @@
       "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
       "matched_times": [
+        "18:00",
         "18:30",
         "19:00"
       ]
@@ -1266,5 +1267,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-28T08:43:07Z"
+  "updated_at_utc": "2026-05-28T12:29:37Z"
 }
