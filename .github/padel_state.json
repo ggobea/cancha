@@ -25,6 +25,7 @@
     "077ea500942ce60270b0839e4b65052470d891ec4bd01a72a8d223a8a6129d17",
     "07a70289c867bb0b806e2e2cf3540b583cb6bc1640d652d62b0efe85d18f2543",
     "07f19bf0c62b935308435edb266b087fda10f5f7956827c3907b9dcec77d52d3",
+    "082d1bd551a63490cf8318368399f183a910338df9f5e0ca2d1d17abf0d8f213",
     "08fe42db6d1f3ef2a2f5acff75b5bf534d025c8f6bcaec9a2155ddbecfecd645",
     "09201c81d292a871ba6dd3db5b4d7121d6c27e564098365add9e11c25e03cf09",
     "093fa866aef2ec587a3e470b9dec64226842e517d7a8e813680aa689fe810cd7",
@@ -187,6 +188,7 @@
     "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
     "365b3ff04aa49086e1d1579a1ec0e1b9d231f573ecd82058343fb6ea90195f96",
+    "36a205e9341d5f75434d9fbbf3069cfb373944358329dcfbde11ce250964d440",
     "36d3068ab85fd0e992f9b75624cabdd243c16f85c9d3d71dc8e8747c8ef3f159",
     "374292f98eb71c5468f411395954420d2b6efdc6432b31ac38589fed6462d2f3",
     "3756cb61468fbec13688b471381d77b8d51ddbb23f4b9c053632a0690a809c8e",
@@ -815,6 +817,7 @@
     "e17b36b80af8b91f888899fbbf1ad8a1eccbb3d640819b5150677b060b3dd778",
     "e18e9b466c5c0834005e6d1381fe6020dc9fffa911d63f11b10540f824aa5515",
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
+    "e25567928991ecfe3b9689cd4ed97ff66e0c065c0b77fffd6b8f39562e3f0415",
     "e29b093923d651a6c5aa37554c41487773b86681cfd4673087687b18206239b5",
     "e2a46516bce202968a6d1687713d9d4fee9dec408d826c5b9638e18a3f12cbca",
     "e35bc06e0adcc0f6c2c19ac47487d35e66158f3216d1f3e0a7bde756665282ff",
@@ -922,37 +925,31 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Padel \"LP\" zona Oeste",
-      "address": "Padre Varvello 4427",
-      "price_from": 15000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 64000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 36000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-28T16:39:44Z"
+  "updated_at_utc": "2026-05-28T19:36:50Z"
 }
