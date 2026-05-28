@@ -358,7 +358,9 @@
     "624d6b0b7c892e7e2662d2f12f4740050c23658af1e1bc5215f70c61ee531508",
     "6264b7a74f5bb7318bf66f048d3c6c156e1f8d30cc093bbaa008a7008de70928",
     "6345dd33296a455bea42bb3fea452a978320fb654099e3467a5389231d13a04a",
+    "635d08d7b6eea508cc7cb5d67a8c17e9fadd97b7570a0b969540abaf4ae8705a",
     "638f7d1d863368530d4a3c3646ed4684073b36680ac076bc6ef2a046213e3fef",
+    "63a28713ab509927a900e8eaf5924b1850bf09b4536c951ce605e97c19c883a6",
     "63ac4d8563d6142479179dc98e45bb71c147fecd88927e3f9546349afb801415",
     "63cb2986965b891c72a906333e7cdc40181a39a3706aa89e4027032cdb3f52ff",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
@@ -917,32 +919,27 @@
   "last_results": [
     {
       "date": "2026-05-28",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
       "price_from": 25000.0,
       "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-05-28",
-      "club": "La Cautiva Tenis y Padel",
-      "address": "La Cautiva 7651",
-      "price_from": 28000.0,
-      "matched_times": [
+        "18:00",
         "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-05-28",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 36000.0,
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:00"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-28T00:01:40Z"
+  "updated_at_utc": "2026-05-28T04:50:16Z"
 }
