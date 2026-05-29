@@ -1033,15 +1033,6 @@
     },
     {
       "date": "2026-06-04",
-      "club": "Bequin",
-      "address": "Granaderos 475 CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
       "club": "COMPLEJO DEPORTIVO LA DE PISO",
       "address": "Avda Juan Manuel de Rosas N 18969 G Catan",
       "price_from": 16000.0,
@@ -1440,5 +1431,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-29T10:29:54Z"
+  "updated_at_utc": "2026-05-29T13:46:20Z"
 }
