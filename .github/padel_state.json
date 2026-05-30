@@ -933,6 +933,7 @@
     "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
     "f2ce152daca13a400cb1e3fed0fc8a11d555e8cacf8f6e4401011aa6c5069451",
     "f2f3c03afc391fba00e6371b1705faf31c14239d3cef298bb3ca4d5914abca1b",
+    "f312fbe3bd937b41f10707e24a869bb6469e6cf3c44b800994d6242f0364da08",
     "f34ab41a89c155cfbe5d3a7a3951c19e88b5b3edea7291484a66bf3e687793f6",
     "f3a3ac89bec878da896a601090b22556af96573d7e3d7bbb355d9c7cccb0465c",
     "f3e24bfaccc2afa38371abdd832dd22448f0b91e6a2624d72fa8bb43705b21b1",
@@ -987,24 +988,13 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "Open",
-      "address": "Bolivia 5202,Capital Federal, Buenos Aires, Argentina",
-      "price_from": 57000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-05-30T15:47:03Z"
+  "updated_at_utc": "2026-05-30T17:10:00Z"
 }
