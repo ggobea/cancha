@@ -1328,7 +1328,7 @@
       "date": "2026-06-04",
       "club": "Padel Bricks",
       "address": "Av. de los Constituyentes 6153",
-      "price_from": 48000.0,
+      "price_from": 54000.0,
       "matched_times": [
         "18:00",
         "18:30"
@@ -1404,5 +1404,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-31T20:12:22Z"
+  "updated_at_utc": "2026-05-31T21:32:24Z"
 }
