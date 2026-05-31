@@ -1295,16 +1295,6 @@
     },
     {
       "date": "2026-06-04",
-      "club": "Open",
-      "address": "Bolivia 5202,Capital Federal, Buenos Aires, Argentina",
-      "price_from": 57000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
       "club": "PPF arena R21",
       "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
       "price_from": 13000.0,
@@ -1414,5 +1404,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-05-31T15:49:35Z"
+  "updated_at_utc": "2026-05-31T17:08:53Z"
 }
