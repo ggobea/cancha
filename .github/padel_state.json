@@ -154,6 +154,7 @@
     "286b8f5c29ded07ae64a81a9f48cd381fa848675afaa4ea4f79ebf1d8cc98f02",
     "291e73f03af7012926a1f58b79bd31e6359aa0133665e3bbe670f200db79a2b2",
     "294c2f95bba575fcd8df20a30cab406a7413af6a3eec4b4ff42472895200a100",
+    "299ba2b1a50f1838b1e9a486fb3cc9fbf8c139c6aa8c4d4878aa453ffec2e82c",
     "29a09c3ac2d4157c09137915c9b7bd053bbd6f7d11cc4c1a7a234bd2146e1651",
     "2a0ccd65de278464f728edd73fd4f4df17ce5fd19978f70b442e5d092d9e33d7",
     "2a719fbf4e00bba226985155fae3e74fd444cb4c2e3d00a130dab966b8d459b8",
@@ -577,6 +578,7 @@
     "9a927c23077af00f92bfd9b2d5c5f9359507550343401b6df51b2ca8bbf7d1f9",
     "9aa5852fee28b8e277474a5040506cbde624e9dd6886988ed19555e4660df2e1",
     "9b2cce97bd15d0ea1086a8a84068fcb810686bd72eea2414649d76ec586dead9",
+    "9b49e6ceab1cf2a1a76e6124443aebb119e5048424fcaa2d1d110a15aff2c3f6",
     "9b4da408549cd9584a8d56c816254be3be54c48c8e878f635b4cd3c2ef061cef",
     "9c8ad889fc3ec81217c46691b1b1b8e971e3178a8d286db6ecc334746cc68e3e",
     "9cafc96b2b41c7fa03e06f213a3e1b2a8e9406a0119904e77c6fa839146389ef",
@@ -674,6 +676,7 @@
     "b3d12634adf26a12914539f6d906b85895bfb3ae7fa2c6d80aaf3b4b643d6723",
     "b3f81bf0f233f77ed76fa95346bc55b459b061ba55a3975448c763a3151aefce",
     "b3fb4d978066f7262d3c30bb0ac645e072cb917d14c1c50c43021c2903d29c1d",
+    "b45b043ca9cdf59e1f24c60f5a98758381f33a9c44b92eb92523c378e9c880af",
     "b4896d8e0a45a579c33ced303ccfd22fcc6dff8389ef13504596eb19f26a1ac8",
     "b4acbff094e9d727d1aec967343936a8faec043ef0a04d2981241870532f289e",
     "b4bf27323c9fcc9111d4c20a54d354022a194039201d2c5f4627bd6e906dac88",
@@ -991,13 +994,31 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Towers Padel",
-      "address": "Donovan 1845",
-      "price_from": 55000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00"
       ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 66000.0,
+      "matched_times": [
+        "19:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-06-01T13:11:07Z"
+  "updated_at_utc": "2026-06-01T19:07:06Z"
 }
