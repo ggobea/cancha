@@ -253,6 +253,7 @@
     "42a85872d1af5b0698b3a8d2821e3e56df4243552d3e43905752d3eb71aba2e9",
     "42c4436d3a88e2797d03ea799bfc821ea750be59ac81ec8293beb707fa48cd15",
     "42d39657d704d7cecee44be1e326018c9a29a20637dde821e927542ac8ebf7b8",
+    "432143836df871f474ae66a9fd94e555ab7becb2c460ddc464cb620e27240ecb",
     "433332f2e7376ee4a035474d8576cc8406477bbfd55791527ab1aac2646eb968",
     "433787312db5ba0a741ebf726b13eda2a314337acd1590513be590de67fec0a8",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
@@ -996,24 +997,14 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
+        "18:30",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-01T22:20:10Z"
+  "updated_at_utc": "2026-06-01T23:51:06Z"
 }
