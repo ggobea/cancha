@@ -366,6 +366,7 @@
     "5d6a02c4b23709a74eeb5dc18b45200f03a97db9fadd1ab325065f7ace04079c",
     "5d6c7924070503e1f4edce04e51e02373d65d021d8882f749d88a6b972216ca2",
     "5d7acad1438de3cfe25c6bd9920c01f130cbc8cca8835311ec2782f0a21491c0",
+    "5d7d652a3820076eeee4c6693da1a5709488c37d7a636b6704d11de28acd7812",
     "5d816816a9afcd02858475290a81c7543085db055a1cc013dbd2ed8fcbea16f9",
     "5d8bc85e695e90fe745819117bc81407d7d2949310a491c23d1a9d2aca24a4c4",
     "5dfca020d300c74ca8d00f769b66152eefb21ea86443a013775155513386bbf1",
@@ -958,6 +959,7 @@
     "f61eaa4cd2046e276f9fa36688000af070426446a40e6b4a8e09343a7b54dd74",
     "f66a6e54dfe6427c80bf51a7f8d66ebcda02669aadf3bcf18ee1c0c6371243c4",
     "f66e785b262bb88819ed8ec46d20fe2b6b640948ab9e337d6027b5c99b3d8b64",
+    "f6746c5f5903faa65d65f554cd9fac141dcd5085257d1b42ae400c65bbf97b0b",
     "f6a0407f77bbf8af32b12d45b95efdd93e964505f26af9ec7347a581fd1fa947",
     "f7c51166d46a7cb3c3a1b41c25d13d0530466eed2853dba1a8dd4ed34716342c",
     "f7d71a9cba0c37fe7e6ae4d39b5089f29db312dfd07fe62112e97da2d2ec2429",
@@ -994,31 +996,24 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
       "price_from": 40000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 66000.0,
-      "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-01T19:07:06Z"
+  "updated_at_utc": "2026-06-01T22:20:10Z"
 }
