@@ -1097,15 +1097,6 @@
     },
     {
       "date": "2026-06-04",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
       "club": "Club Gimnasia y Esgrima de Ituzaingo",
       "address": "Niceto Vega 2298",
       "price_from": 48000.0,
@@ -1382,5 +1373,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-02T08:52:40Z"
+  "updated_at_utc": "2026-06-02T12:44:04Z"
 }
