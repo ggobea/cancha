@@ -419,6 +419,7 @@
     "6cd8379cbbd305e89e3c8901db9f9f3a6ae9c3f4ba1cabd1b0195d15d158b094",
     "6d2ec07c4395dd00b2ecf60907a9646514dc136b1fa99c71e083799eed757dd9",
     "6d3484ff0e2e2b46e967afc67a01feabba1d81f16ccadfc82501d984991b3ac2",
+    "6db47c9ffdea78b4bbbac8de3aa3c813710f61e7940daa32ac80ee8f02784e3d",
     "6e486fe38e05d8311c3e8a40ab8d6bc3e0926ffd44b76aebb54db07cdf1bf7bd",
     "6e7acd6a4aa86bb08a548c24f74277126e2566e50cd0e14c48923fe4af534365",
     "6f1aa02ad75f8e471e57dd73380049a74726425de73578d5edd48f814e66bbe7",
@@ -518,6 +519,7 @@
     "88abd626ff9a6aeb546463df5885d9eae8b153e9f0d848a1b23d95373653c00d",
     "89019bc1ecd0d6004988fd6e28075ea49624e497c023348b6a6dddc1ed6faed6",
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
+    "899978f50e7d76240570a0eea08331cbc85004810054501ce73dfe24aa29b704",
     "8a09ea106fdf827e82de2ece6c32a7b9ffaece6b8dd057c9cba8afcff949a1a9",
     "8a13cbea50865129114c306c55003c01c26a98abe2fa78ff7adcbfd4a4282777",
     "8a4bf8c57464be8a3927218e4f8de5b9706fc50e0ad2e50b9cca677d5bf54cef",
@@ -816,6 +818,7 @@
     "d40be476f20cd7bc486700fedee6660bff9cd7242e1720fe91ae740135d1d231",
     "d4133b5ad0ff2f83bece55033ee648f4738884ddb58cb14928f869f16cca3515",
     "d4866ecf94d438cb891f560a421e389ff2792fd230c9f602e3052f930261bcfb",
+    "d4bbd193b9cb41866150e99c43fc2d402bd01be7e92b69fb9674f2e377e83391",
     "d524703b8b8af0f02e2ae66e7a2ea7ff373b34f70792cdf9bc29dab1fd9c6d8e",
     "d53396ed9f4596db67207a4b984bd77a2d30401751951a14429df300693d9151",
     "d53b8ffe644df9435bf8f7faa35acd38e3f0e480ec8d7cfbb7fcf5c40ba5f0ea",
@@ -916,6 +919,7 @@
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
     "ec5b6540e0cb895ef467370fe1ddec678cf1216643b79290b6928467ded080d6",
     "ecbc9a259373fbdccbb8d0f1b9175c79fe2f9c9042c490de6ccbbecba81b2d2b",
+    "ed104fbe555b2c1bc62208e8cd9ba2ee6441b5a5e2965f2ab5a46aef6ff0454c",
     "ed4fd0e7d515c207a5f2bd1effdda9cb58a4337857409c03587162255c69f67e",
     "edad1591c6e0de7c53de7286f60e541f69d59cf7cf5f12fde1973ba47679c1a5",
     "edbe75053b5707283fd2b23bfe482893cba877a01b45b21669cbcbeb6c0cc5b8",
@@ -998,13 +1002,44 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00"
       ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "El Predio Ciudad",
+      "address": "Arregui 2540",
+      "price_from": 55000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-06-02T17:25:22Z"
+  "updated_at_utc": "2026-06-02T20:26:15Z"
 }
