@@ -346,6 +346,7 @@
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
     "5953051662bd56f5ad91fb7856ef0327e47477bd9ecced87e1e6df57fe050f5a",
     "59933768fd5f42ba48d498e211051739317ce7971180b6e2d7c889419981043f",
+    "59f90e3fe6207a94506d63499a525ef45ff4ef200398649c7d01ca596db43787",
     "5a2be6d6bc9d024e50902154ee2b17a01d79a71fa9c44837a38051b45b951fb5",
     "5a4f999b60725377d2dcc57ad8f74469f71853715975bae898ffe5749473e116",
     "5a670cd2b2c46c895e1c12981e9984ccf1d663cdc8fe73ff529cd5237c735c51",
@@ -933,6 +934,7 @@
     "f0c601c0db9070e13b4d0fc0066840f87db53fbd19747efdb9803256df4e8ef2",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
     "f12b8a12b347fa3fcae87832d5de7d4aa0017072df2d46e20b52b63ffe4d44ad",
+    "f13b7b9a90abe5204db59c28a31889f0213cb65577d05ba4862f2c0790acefaf",
     "f157f07234a72d8fa56e224a2a132e052618829586e1e02b443964fb66d78a53",
     "f186c3728126fe72245fa3a7ecb7a532fb123a1fb4fd5b4ac45c306ae2fa5b86",
     "f1c0e6a3238ac34ef12a8940cea492468a46b02e5c8e18564e5648b7b3e1ff34",
@@ -1002,44 +1004,25 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
         "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-06-02T20:26:15Z"
+  "updated_at_utc": "2026-06-02T22:35:07Z"
 }
