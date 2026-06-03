@@ -1355,15 +1355,6 @@
     },
     {
       "date": "2026-06-04",
-      "club": "Torcuadel",
-      "address": "Chile 1920 - Don Torcuato",
-      "price_from": 60000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-04",
       "club": "Towers Padel",
       "address": "Donovan 1845",
       "price_from": 55000.0,
@@ -1372,5 +1363,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-03T06:55:08Z"
+  "updated_at_utc": "2026-06-03T11:57:28Z"
 }
