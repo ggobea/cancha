@@ -115,6 +115,7 @@
     "1e1af61847e886fe9788dc2cb50fa16e9c44b9adc6a3c89618aabbea2fa2115d",
     "1ea6d07be54565791076dc9c7eaaddf03ff7f3d9c1b57233df8ab6f01d4a4e84",
     "1ea9ef90005332bdf8dd9189b592539676d694cdbaf497f4ed65e0bd123637d2",
+    "1eee5ee78a1c3adb6d77f171a7a863d4cdbef3aa12c0493bbd4393313af926af",
     "1f363229a1721d0cca01551626cb7027163304a0a6a4f454996fb7418088097e",
     "1f7a2b23dd02a69aa72c16e16726d8bf2432494ca32f7c087230714235530551",
     "1f90a1d293adcee72d2d62463753bd66680986b4ceb4e40c8060ca0bb8513e35",
@@ -191,6 +192,7 @@
     "30f808b2a834d8ee9130de1ff3ff90d0d7735ed06818a927d3d3b505cebd66c9",
     "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
+    "31a3df04d0b1afe88ad662c46e9eb53fa4be5a7c014723d48eee9fa2d2b9dfaa",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
     "3286c7c73411a0f10b6c7fb96b300cbe92a634520dbbe1d8021f8dd0656b197b",
     "329fba41b9b3c9b58106ce01b0bbc366e8bdf2858379376b08917b95d281c64e",
@@ -256,6 +258,7 @@
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
     "4271bfffd8067eae3a8b918a65e0281ef5cdbe839c0d42654fd630f844989848",
     "42a85872d1af5b0698b3a8d2821e3e56df4243552d3e43905752d3eb71aba2e9",
+    "42abe2b8e9634e6abc52bab8aee28d2685169e97e06f0bcd85f5b7367ab3b5eb",
     "42c4436d3a88e2797d03ea799bfc821ea750be59ac81ec8293beb707fa48cd15",
     "42d39657d704d7cecee44be1e326018c9a29a20637dde821e927542ac8ebf7b8",
     "432143836df871f474ae66a9fd94e555ab7becb2c460ddc464cb620e27240ecb",
@@ -439,6 +442,7 @@
     "6faaf0b14827fdf7e1c022db418f8b97724ccf423efbba6a18ad5a8b9bdb729c",
     "70032409ce9566af86f3dae13060e9854515fa9c55eb76e95eb75059bbb9663c",
     "705476331755719dd6f369d97fd86d01fa6859e8bed2081221e69e2848f0d306",
+    "70859bc56400da6e2456652e0d16796e508152e3af76055d6884991cc1e5bb7d",
     "708d94353c5b671a7f1311e428bfab63b976449a8cc110b0d45b28ce35ef5a1f",
     "70a97e0549bdb68289fa414e9d65978dcac1a5aa983b2f7f3c3d406fa90c2048",
     "70b33bab44bdabae8bc6af12c516570b3ac602087eef69e6e5548ea80d676868",
@@ -588,6 +592,7 @@
     "97dee7471cf5d56494be8cd14731b380d040bf9aa6c1bc2c476801872064d5d2",
     "9855281577c8220d3b9b77deb27a2a54493ea4c7d9d08a1f5ed8a1cbb44a5530",
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
+    "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
@@ -735,6 +740,7 @@
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
     "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
+    "bd43a4541afdda8e6fffe9dfae7205baa0c0454c9eac01e32cca7bec73816302",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
     "be7a7b64abfa0c2b76bcd39121ab02107288d9ceae531b8f88e7057cc96f210d",
@@ -917,6 +923,7 @@
     "e6e01c2e74dc58b9c88badd300e4ec76729f567614c913ed45239d0007967671",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
     "e72d9310ddb89ed8fff3d9583cfcfaa639af476f1e8dc2d292163243c0c93b7b",
+    "e7b345ef7c95bae0f82dae2a3756e1f1693adb59da50be3898c04a9f34ef3734",
     "e7bb65562880006a109cc4d5f7ae520719e0b1ea6a4537796650c89db4d31dfe",
     "e7f6c08feada5ac4c2b2153a483d7f41388d72b5af4cd4cd08a7253520311f23",
     "e859727ea70dbc8f53c5b6986faaf6d3962308aecbfc7ecf1442cc8ded08bae8",
@@ -1000,6 +1007,7 @@
     "f9261e2a22b980a939010a2d7771d3ba749ae7d9bc996fb7013e65ebe9096a51",
     "f9720f1dc5033464f6239d2aa7f526cf0f1b177773e09fc46891c2f1db894c10",
     "f9f9517f828845fdbc24dd7423f422873466cca08c85575bd85f93bb0ddfbbb8",
+    "fa1032cd5a26c8f4ccc8da99da6f7bc9223f8a1a526498cf248a43aa25fd3131",
     "fa4e7eecde005386aed9fed003fd14bfc6c2bfd0bfe0860d621c40efcbd77ec2",
     "fa7e603de1f41ed85e00280912e83e066652842b070ebbb9d4d8a4f5cde09b47",
     "faef43759ae7e251d30d5b282515fd0032e2dbc4984aa55c98ebc87361a2abe0",
@@ -1030,20 +1038,21 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 56000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-06-04",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:00"
+        "19:00",
+        "19:30"
       ]
     },
     {
@@ -1052,20 +1061,56 @@
       "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
       "price_from": 56000.0,
       "matched_times": [
-        "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-06-04",
-      "club": "Match Point",
-      "address": "Bedoya 7078, Isidro Casanova",
+      "club": "COMPLEJO DEPORTIVO LA DE PISO",
+      "address": "Avda Juan Manuel de Rosas N 18969 G Catan",
+      "price_from": 16000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
       "price_from": 40000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "PPF arena R21",
+      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
+      "price_from": 13000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-04T19:36:36Z"
+  "updated_at_utc": "2026-06-04T21:42:48Z"
 }
