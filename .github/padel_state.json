@@ -85,6 +85,7 @@
     "178a55618c550683fb4dd5d843a7054c4ed13307727b011558bbdba24a985e85",
     "17a1b487402ee29837a67a4df01fefa9ed78f5264fda664e14363c421d731d59",
     "17b241ec19b052eeb780b4bc149c3dda32e0554907979f44b46e0e5756c3c9fc",
+    "180c865d36b297927204d58457e65966c38cf3e2388065f18a67041a901c21ab",
     "18656b14b61f97df801b2f9be6f45adf8d9a6591ac7d8d0123a9c6fd958a4969",
     "1879114b97dba221130722804f877de9ac0d64383b09af61ff3069674f9cfb48",
     "18b5ff5a6eb546fcf2aa19263a27c17fcc103929d61147e375f0def3f66daba0",
@@ -326,6 +327,7 @@
     "528ca9650df5c9637971726aa40819e205ee3eb50274c2dbba15fa40af959a38",
     "52af7c0d7974b6da0439cb48a89a8183ade7d1f3ff127f42fc774a5a57164061",
     "5356000c434e302820244b109478ec42e942c3d02c7eeb73d36125b30adaaeaf",
+    "5356a560110805c16e959b867b95971dc27ffbe6eb8034c006ac44e7f00073f2",
     "53a44ff8513026630452c3982e427c767bfba49fe9e5e64cd69512b0e878a360",
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
     "540737d7f573357dba9cc3272809f88c0e3095ec8a522bcb0a817bcaad89dcc2",
@@ -780,6 +782,7 @@
     "c9b50ba92aea37829da57bd8734a727bddb4cd91c21ca99091dec9a0d83ce510",
     "c9bc8b8e3fd31ef01eff1c481c43b2e5484447a9129724fd0f2f49f53dd29fdc",
     "c9df74e78c89aaaa0ac5d9e06ad5cf858f8d6b48e67fdbfd36ab05782d240cbc",
+    "c9e94b6a70d5f9c83e5105aeab7c0be00f8a16755f79b3607cc61ae0d7ea64f5",
     "c9fc2a1f339fe994b4321b78f05e2afc359ee80c84ba63654283fdc8d21d87fc",
     "ca340b746cb3caac9dd8ed35a6243ee6534eb3c965ebc19f918e40e933597140",
     "cad680228f80d2daa94ecd0d95c4794e6c716b08bdcece2da8eb32ad5b3db9d9",
@@ -804,6 +807,7 @@
     "cee844aa3d9d7cc1824b9caa3e3cb0efa8b1902a478d48a9926581754acb7699",
     "cee98b1926e5e512302d9924c9120c46f188c3efb1a5451bac2a13dccec1f427",
     "cefe7d3fbbb9b5a8146b16d7acaab60fd8b94d70252484ae5a0561de3f5d11d8",
+    "cf1a858628ed92f2a19009a7044e8549afa770b51414fadace66ee919d5e8edc",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "cf8d65b789cdcb5939bd6368cca79873b498873ffbf1726485c3b7cebb58376e",
     "cfba86b42a73e76af026cabd888c974839fcd0213235cdb48ef8a8d9a00ee265",
@@ -933,8 +937,10 @@
     "ec495c18a83b6153a26fb8bd583f39942bcfc04ebb9662a7e9e3867412984f47",
     "ec5b6540e0cb895ef467370fe1ddec678cf1216643b79290b6928467ded080d6",
     "ecbc9a259373fbdccbb8d0f1b9175c79fe2f9c9042c490de6ccbbecba81b2d2b",
+    "ece8fa17c35c3e4b01ae95084edac0c6b7dd36afc27e63c8b5ff05b2eed86347",
     "ed104fbe555b2c1bc62208e8cd9ba2ee6441b5a5e2965f2ab5a46aef6ff0454c",
     "ed4fd0e7d515c207a5f2bd1effdda9cb58a4337857409c03587162255c69f67e",
+    "ed7633215d358450555ff348d945209f5cb147d049b9e231372f80c9c73bf3e8",
     "edad1591c6e0de7c53de7286f60e541f69d59cf7cf5f12fde1973ba47679c1a5",
     "edbe75053b5707283fd2b23bfe482893cba877a01b45b21669cbcbeb6c0cc5b8",
     "edddb1045973b04b5c472dba6c8647d82af91c9fbd52b1f0c0f67b7e8ce9db7a",
@@ -1020,8 +1026,28 @@
   "last_results": [
     {
       "date": "2026-06-04",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Circulo Club de Padel",
+      "address": "El Leñatero 1889",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
       "price_from": 30000.0,
       "matched_times": [
         "18:00"
@@ -1029,23 +1055,34 @@
     },
     {
       "date": "2026-06-04",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 60000.0,
       "matched_times": [
-        "18:30"
+        "19:30"
       ]
     },
     {
       "date": "2026-06-04",
-      "club": "La Cautiva Tenis y Padel",
-      "address": "La Cautiva 7651",
-      "price_from": 28000.0,
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
-        "18:30",
+        "18:00",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
+      "matched_times": [
+        "18:00",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-04T13:58:17Z"
+  "updated_at_utc": "2026-06-04T17:16:28Z"
 }
