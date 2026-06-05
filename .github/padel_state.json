@@ -167,6 +167,7 @@
     "2a843fdf09c15fecf75de915e9364db201070d17ec2f0d1f6bde4f06f52d8ece",
     "2aff7644e176404507a8b7d22d435ff1c63133530e6541f43c51024eef756b38",
     "2b0d9038e6cb689877bd425ba5336cde5329fbfa430b25bb075958fa2d7c8d9f",
+    "2b0fd24fabe90a9633f9f38c9cc79c7c205dfd993d0c210c251d3bbef2ae7a14",
     "2b1cdcade11f12e9792ff6fdcafb10c344412f56ed4a555f8614f086277484ac",
     "2b2cf182ce32636d4cfe0bb155a75fa7b6dc6d3b93a649f7838bdb8369407a04",
     "2b37e0ff654b119d0e56bac4396fea8c65e078f294e2578c1d6ff8a06754a62a",
@@ -1088,15 +1089,13 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-05T21:57:49Z"
+  "updated_at_utc": "2026-06-05T23:18:22Z"
 }
