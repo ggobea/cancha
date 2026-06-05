@@ -895,6 +895,7 @@
     "d7294bc00f0e8ac2eccc27a977385dcbe173c8e6aee60eff4141081255a1d6e7",
     "d72a87d709f37297cbec22d15bed6e734ff6b54ec40443b36938bc89e6e52d0f",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
+    "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
     "d860138803e078eb90c37a45ba88de14afdc61655c34a47b96612e41fa336303",
     "d8ac6a699d40f837cb68ea552a089c0239f073afbccd505925f9eaaf50ece53d",
     "d8f1d70c402ae81887b681c2cdb9074dccec22b353b93413b20488591a4c6a4f",
@@ -1086,40 +1087,14 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-05T16:30:12Z"
+  "updated_at_utc": "2026-06-05T18:24:50Z"
 }
