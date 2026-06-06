@@ -66,6 +66,7 @@
     "0fe4327a2e0bd5b1bb9e7ac8ff34930ecccf27988fdea27bfd84fbfc878acefb",
     "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
+    "105260bf199ac40aa7096ab03f5c780d0d2d2eb598a5dbb189b145942330b408",
     "10ad7fc2dfb95bcb74cbbc544b9ab25d11a69beec068b5729251c57d5ebf1561",
     "11a5286e0141ea39cbae2ebb67f943879836c1ec7fa428476125c5b946343ed4",
     "11c62042c79e5f557219d9c8757894291684003d931565c11ba500e21c51c815",
@@ -1091,15 +1092,13 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 20000.0,
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-06T15:51:19Z"
+  "updated_at_utc": "2026-06-06T17:17:23Z"
 }
