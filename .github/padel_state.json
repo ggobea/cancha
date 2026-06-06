@@ -362,6 +362,7 @@
     "56005d5da7b2450903a7a76f9a3068c9d16ed9501225ba7ea9b07f8894dd6701",
     "56db7fd7294f970e3ad566f9bf54e814d8c77769cee70cea833b26e49e779842",
     "56fc352f5c3c76e09bcff4cab4d217ab2c0714af0f617ea4982961c967a1f17d",
+    "578d6f875d07beba4ce1ae00fb87679236017154c924e15e724cda5aa9f3202e",
     "588a66ed27d92816bbf855e884e9aa4782c7eb8120e8542af6c836fcda5290a8",
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
@@ -1090,13 +1091,15 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Exclusive Padel",
+      "address": "Tropezon 1174",
+      "price_from": 20000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-06T14:16:40Z"
+  "updated_at_utc": "2026-06-06T15:51:19Z"
 }
