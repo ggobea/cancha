@@ -622,6 +622,7 @@
     "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
+    "99dafe2a98f9bad1186b499a2e518276996c24b7a93d494d41ba6cf715f4b1fb",
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
     "9a927c23077af00f92bfd9b2d5c5f9359507550343401b6df51b2ca8bbf7d1f9",
     "9aa5852fee28b8e277474a5040506cbde624e9dd6886988ed19555e4660df2e1",
@@ -1092,13 +1093,13 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-06T17:17:23Z"
+  "updated_at_utc": "2026-06-06T18:48:22Z"
 }
