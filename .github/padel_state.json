@@ -63,6 +63,7 @@
     "0f27a640619d21c52882fa3fd091d7d40760771271057405722308bb418eee20",
     "0f4e4fc4f5af7507ccd0ce05cf842b90834e569ee11b57d014ca158ae736466a",
     "0f998e5a0dd998eafe8a163e10b04290847360e151d639f3e150866a7ea34c5b",
+    "0fc0efa8e6d36f1dad411809b1e7831eb020ab116e8414744d19f93f60654c22",
     "0fd306af29a0bb52e08f5b883c663efccc8fc9d126f4acb8596b1d6d98b32665",
     "0fe4327a2e0bd5b1bb9e7ac8ff34930ecccf27988fdea27bfd84fbfc878acefb",
     "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
@@ -1096,25 +1097,14 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 56000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
         "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-08T21:11:00Z"
+  "updated_at_utc": "2026-06-08T22:56:57Z"
 }
