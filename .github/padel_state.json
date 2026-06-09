@@ -281,6 +281,7 @@
     "433787312db5ba0a741ebf726b13eda2a314337acd1590513be590de67fec0a8",
     "4343de51008b647ef27ff7a613577de45e133952073fb4cabce793ba4e5553dd",
     "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
+    "44779923efc54c20ef0467a186f472f13d06463c329fb2ee3a7a6d3f974edcf2",
     "449138ca46262625e67571e5fb7ea6b07da948ef56d505fbe0362853878bbab8",
     "44cb833d0ef731858dd76b081043813b7b82fe73d1de9bf555202e61b2846e47",
     "452542952fa3f6d96a1dc8275329e13f4eb8633ef70606c152ae5cd06c2bf33f",
@@ -1107,15 +1108,13 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
+      "club": "El Garage Padel",
+      "address": "Marcos Sastre 3152, CABA",
+      "price_from": 76000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-09T22:09:39Z"
+  "updated_at_utc": "2026-06-09T23:51:49Z"
 }
