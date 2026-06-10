@@ -357,6 +357,7 @@
     "5356a560110805c16e959b867b95971dc27ffbe6eb8034c006ac44e7f00073f2",
     "53a44ff8513026630452c3982e427c767bfba49fe9e5e64cd69512b0e878a360",
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
+    "53d61f85f413821ed90a7926833f8d8f32f1fae3c898ae4419b7f9da02a2d290",
     "540737d7f573357dba9cc3272809f88c0e3095ec8a522bcb0a817bcaad89dcc2",
     "540b3f6db1a510e0dd30cb797e581e7021c6fb26328fe734923d3463fdc11038",
     "540dafc7ecddca5246b6d230dd636f7b2d7f59dd475e24780120e801c08cb02b",
@@ -618,6 +619,7 @@
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
     "95ad480aff70971f4e1a58f8063970c4e56281e9f445b4dcfa1cfed0cd120bba",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
+    "95f9d50436e8d6fd03360f4bdde18fb8288c8d6902dfff4ad8b17ebcd8138d18",
     "965daa8b2659e45936337659402ed4d12254ed9487a70740969ba638acf74ca9",
     "9663a056598558612b30c08782c2a1bc42fd69f33f462b0db66e98218b1adb79",
     "9678e5abe6b3a9d85228519d2c84cd8f6e7fa996caf1651a6ca3f0bb96d59331",
@@ -868,6 +870,7 @@
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
     "cd25ae8689b6919e73c521df0f7266329e0a710773d420e343a0563b7790a0b5",
     "cd35557e0001b6d3f2ef1c1da7690a7a90aa0943365d0d51ce9da554fd4a02c6",
+    "cd3d30d389a62d78c56c8750378032094f72cd7779e98bc3a723975e8c60d8cd",
     "cd4f9049b1dd764d4b158fd7ee0ba32bdee4b98479f6fb408e782680296fbd17",
     "cda10a82ee7dbf6a9ebff714845594187b14d940e7e6bad7d0ecdad10ddb9e52",
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
@@ -1113,45 +1116,33 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:00"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
       "price_from": 30000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 40000.0,
-      "matched_times": [
         "18:00",
-        "18:30",
         "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
+      "matched_times": [
+        "18:30",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-10T15:40:45Z"
+  "updated_at_utc": "2026-06-10T18:31:37Z"
 }
