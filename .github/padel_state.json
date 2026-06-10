@@ -134,6 +134,7 @@
     "2119800367dfae5146a3d2897f4cf440daf50c906e4791a3a665d1a4dd25183c",
     "211a8bda64a6d8104637b1f20d0d350670727218cb288040a2aaa21276421fee",
     "212d2309f6e1fd7e9100c5da2a1fe9a60afe2e142962013076c40d9ae1642637",
+    "21674a7d299a0b1797868b83d2c675e74b8e272fe24e33c4aabcc12d2a09b005",
     "216df6d26fb09d8619090f4eee5a4793a279fa88f7bacae9d9e175ab844e4985",
     "2179fdd2d6de9305bbb73d05e51d9dc084d8e976046f29b70bd0e53cf69707c6",
     "221ed5d3563db93bbe2d7d27b9078d02115accf0b77e1dbea23041286cebd5b7",
@@ -345,6 +346,7 @@
     "4fa280f574839907c3dafec81e69a70cd158cccd157074d35c02498189ef2e90",
     "507b9df9a64fd3bec108374ed35bf018e82dfc267012cdeace1d1ce7dbf0703e",
     "5084f875f88a9d84e70f15073f1b9b583819a78d1e9d3ff1c3ec9bb3d762cb72",
+    "508c208cba6b795007e65b5436811e760d41e76f6b374703909a87efd06966b1",
     "5096e19b1c480607bc48b10d556ef0cc705607c99c63338144e1a6cd9b141435",
     "50d93ac89ac669cb88d31a91f72e816f7b75259d41af7df18da7be39298f5701",
     "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
@@ -453,6 +455,7 @@
     "697f11a1e1388b5ff8300e90a4cad0704ceb0f9e5c5fae0806a2b05bbdc1b84f",
     "6984585973175a030e7288788010b11042daf87edeb5445ca46eee750ca983be",
     "6aa65a3bb4708e6a48e1b4548f9ad85bcc4a90eb5f605eded3b610269d1c2a66",
+    "6ac20b3c1fdac4606f9827b1e3bbfcc6423acd162b0f036cfb323d5b85f50c7d",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
     "6be09ae66f6c1e926cbb4dceaf2e184fa5c412f3d96880e9b6a5d178cc05bc6e",
     "6bed7f9d3b73a90f9bfadd6e8bc703bd98b03ffffb373f0ef114a6d1db069d1a",
@@ -801,6 +804,7 @@
     "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
     "bd43a4541afdda8e6fffe9dfae7205baa0c0454c9eac01e32cca7bec73816302",
+    "bd537d07194417a02b80af75c871a8aafbbf2d130d7e2a478c99dd146f64dbc4",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bdeecbde6ac09029b8eb60431374128482013bfecd5750390bcf9f5a978a58b4",
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
@@ -808,6 +812,7 @@
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
     "bf84ee27aaddac31d04c0fbe37679a8a642752e8d9d5fd0ca16c9217fc595ba8",
     "bfad071e6a4e5a1c5c9d121c25eb67164a48b7c7572faf9f40a41c7302c5fc3e",
+    "bfaea90249da97e6310974b385f21c26d712358fd77498c24e2b53c0333d8ab8",
     "bfafa3f16102baddca38c904b93a0bcd631102aa1789601b7f5fbb840390bae2",
     "bfe648734e468e719c87c707bafa61f08d39c4981eb1a24d992f7af43b28ee47",
     "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
@@ -895,6 +900,7 @@
     "d1984fe46484bbfe3da926ec9a80bf5bc2f2505cf45d455715f87ff26aaf6d53",
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
     "d1d2dd0ce0423e9401a83b772ba3508f0f8bad77c3c2bea1b505cc04f855d567",
+    "d1d3f1e43c2f2b59580175671d62e7f28d6f366de69011d4ef080d6bae3802da",
     "d2cf97fe0fa71f4d77540da4dcd14e3c2e5f44a0c4d60e0977f2418d99799db2",
     "d2e82d3884137f68c5c8b90bf30f807a668af8a974de4aacf3fdc8d292459548",
     "d3117fc4f553dfae7631df32b984aa0605ddb41842eca453f34f5d90690272b1",
@@ -1103,6 +1109,7 @@
     "fbfa39d29a47fb36fe87739173aa7c74bda833e3dae5947e9fa83ef1e96164a2",
     "fcb816950d777f4c48bbf5b8244fc0fe6aa74b4d7ef6038a3ba7d9b5e216e05c",
     "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
+    "fd5eac1388211f3d75a912b7a0bd3f1077501c2068418c673c9b98b91ca4c9f8",
     "fd8d7332de8424c37fe24368a232dbaf9190683f0cda8dc261f80fd6cd8d78f1",
     "fe287f1e77618a1b4fe130b5131d84020eb50810166f7dce0e3678ac1527b75e",
     "fed4fa6f77d72a544f2d50020f3f6929895537a749f8d7dfde8f70067b9df061",
@@ -1118,24 +1125,72 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "GyG Sports",
-      "address": "Av. Olazabal 5654",
-      "price_from": 68000.0,
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Club Melian",
+      "address": "Av. Melian 7760, Martin Coronado",
+      "price_from": 12500.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 25000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Padel \"LP\" zona Oeste",
+      "address": "Padre Varvello 4427",
+      "price_from": 15000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "Smash Club de Padel",
+      "address": "Ramón Carrillo  2568",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "18:30",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 54000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-10T21:25:25Z"
+  "updated_at_utc": "2026-06-10T23:08:15Z"
 }
