@@ -714,6 +714,7 @@
     "a99a3f370a853d7147baa179680d28cd8405872ecd5b8de394c8c731e5c6c115",
     "a9d16dc4b1f2f3e7fb0c518032c90ce346257e866a5d4c9e5ceceb7e111aaeb5",
     "a9f0734a9375359fc161d9031adae203b30a6069beac43c556c971817e4b4805",
+    "aa89653d9d541286e0c0dca6bdaad568c8d7d36672d1c1bd32a1c5f5bad9c39c",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
     "ab907e3cccd5077386bc09f0d6ff554b6a4fd91838dc833530fb5eaa01f4dba5",
@@ -837,6 +838,7 @@
     "c65b1341d77670ee8d6fa69481315d93ebd777f29730b42ffcefeb30633db136",
     "c67a3f6e63603920be09dd147cbd09fd29a0d009dddb97dea5b8578628951f35",
     "c68c527c1c9cf64a20004d75fe0caaee8665b330a123957b57e84cb86be58e03",
+    "c70dbca07e63eca6895ffa53175604feeb402a3254567ab8e184320eae754a35",
     "c720910c3e53f8955f44f386adeccad503101c001e6ce4b4bcb212124a81d5aa",
     "c75ba131120e94ae58d5ed7a9316d50b20c5ea9873281aff5ca153e2b336f04e",
     "c77161c99599ec89ba68a5bcae18d32321afcd443cb555c15be28ca01c4aca27",
@@ -1116,21 +1118,11 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
+      "club": "GyG Sports",
+      "address": "Av. Olazabal 5654",
+      "price_from": 68000.0,
       "matched_times": [
         "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
       ]
     },
     {
@@ -1139,10 +1131,11 @@
       "address": "Av. Victorica 1128",
       "price_from": 38000.0,
       "matched_times": [
+        "18:00",
         "18:30",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-10T18:31:37Z"
+  "updated_at_utc": "2026-06-10T21:25:25Z"
 }
