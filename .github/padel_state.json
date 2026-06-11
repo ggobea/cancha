@@ -29,6 +29,7 @@
     "07f19bf0c62b935308435edb266b087fda10f5f7956827c3907b9dcec77d52d3",
     "082d1bd551a63490cf8318368399f183a910338df9f5e0ca2d1d17abf0d8f213",
     "08fe42db6d1f3ef2a2f5acff75b5bf534d025c8f6bcaec9a2155ddbecfecd645",
+    "09132157977f14e12b9e886028971529660c2ba82f8fe59461035087cabeab75",
     "09201c81d292a871ba6dd3db5b4d7121d6c27e564098365add9e11c25e03cf09",
     "093fa866aef2ec587a3e470b9dec64226842e517d7a8e813680aa689fe810cd7",
     "09695eec40914b6892856e6dade7cf9077cd2af8f41fc4774ae36470b8e9dcbc",
@@ -71,6 +72,7 @@
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
     "105260bf199ac40aa7096ab03f5c780d0d2d2eb598a5dbb189b145942330b408",
     "10ad7fc2dfb95bcb74cbbc544b9ab25d11a69beec068b5729251c57d5ebf1561",
+    "1141bc0e2672c363cef80049d84ed78f07af7daeaaf917c94ee752449c84feaa",
     "11a5286e0141ea39cbae2ebb67f943879836c1ec7fa428476125c5b946343ed4",
     "11c62042c79e5f557219d9c8757894291684003d931565c11ba500e21c51c815",
     "11d9f7ce31685422bdb98c801611e6996d681f549a620c12b3338502c2e3c316",
@@ -115,6 +117,7 @@
     "1b5060b553482a1d61b9358acc9e2b69e8ec28de0eb36459c7d841b5312aaf5b",
     "1b68e25fc4caf8c25eba1732347256445f8340b4a32cdd1b390f9f22a1c7e6a1",
     "1c5517955c570efbb5dc1e02f18b46b52b9bba0028b4e22cbd5a73941a530f81",
+    "1cc791405c76fa0b5d05aee1a8e53e6d5a5e1e637b4141f3b9943ed3f2142825",
     "1d09522bbac131c954c61cfc721db69778a5ec7d7e5c8b8ccf28c0c35ddd4fb0",
     "1d41ec9c10ad550232ad118f8250dfc03e0497e0eb2096629199b85355aa57a5",
     "1d53c50bd53a73ae24324622f88c52486d76c3833a2baa5852065c241f281605",
@@ -150,6 +153,7 @@
     "24d29c09cc2ebfc8be0bbbac780a4c36f6f7d43d38d459bf504e0f10bf08678b",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
     "252784638d5115caa4dfcc2b5904c39a0c89dc421946482e5c88b1ffc28e93ae",
+    "25278b8e4d04720aefbb78a8de09136839b580354984c9fcea3c84eea25e6773",
     "25366e3cb3c8e0b986e9b223abe4334fc0288051321e1b9f1a844df07c2607e5",
     "253908576f0b401a81bc7695d068e1a50e5b874c0479c7b7e19e0ff42a5e6ecd",
     "255ecc5198498c57044b90240f8b174c72dc6070e7842f37ec7ca1fcca7765f9",
@@ -356,6 +360,7 @@
     "50d93ac89ac669cb88d31a91f72e816f7b75259d41af7df18da7be39298f5701",
     "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
     "5122e96064b112d48da89cd9e3b8c1c08cff9248c771c15efbc4be86b74edeaf",
+    "516251bf3bb8b5d730cd4823487bea2e473ffcd5a562326734c363f81e7e7dee",
     "51f7bd82c3a6c9d844116d8a796bd097a216c75227a6a5e8909cc1b4805de65a",
     "5227fbef9fc83ca9d09a872cca107d95a13b739c7d1f8c5d8d6fda9da61b572a",
     "522c7488612d54b3c6717f4ef77a819cf1a9ef5ce47d50b8addd75f22c5d149b",
@@ -487,6 +492,7 @@
     "708d94353c5b671a7f1311e428bfab63b976449a8cc110b0d45b28ce35ef5a1f",
     "70a97e0549bdb68289fa414e9d65978dcac1a5aa983b2f7f3c3d406fa90c2048",
     "70b33bab44bdabae8bc6af12c516570b3ac602087eef69e6e5548ea80d676868",
+    "70f77482922f073e23d0f428c7f6ce9f35e2dd6a7aecbb89e6b793002ae748fe",
     "7138fef815a47fce08de4ec883e83a23534bb8773a1412c7a056a8c8264a74a0",
     "7150c9df82f77eeeeccc4d04e50b0efb19d8a0911206d5991a9f39f44f6578d1",
     "71b84a21ca602f7f8c2e3f46c396e3acad07dc9b1944642eb8a8164df53fe6da",
@@ -730,6 +736,7 @@
     "aa89653d9d541286e0c0dca6bdaad568c8d7d36672d1c1bd32a1c5f5bad9c39c",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
+    "ab0e4616bad094d49a2250c355691a6e579c0a0cd4aa83b5f714fcde98990984",
     "ab907e3cccd5077386bc09f0d6ff554b6a4fd91838dc833530fb5eaa01f4dba5",
     "abd33bb42dcc5531c9b6f09e9e0325904a446541e5ce5f6df5867d1d6bb8cfae",
     "ad76c730a4bf9f3690de389c858e6993e9e66d7038cda5cdb848f6cc80c26ad4",
@@ -792,6 +799,7 @@
     "b7bdc93e4f151188f81cc2cd61ae789fa83b1ad4fb9b2b693d40286da454a897",
     "b7dccc9227736afb1dc3c03d14c93104e99ad3413d3a6c78d12daa215aa35f0c",
     "b7e721be46b30c48966c1066433ee127e70b2d100dda40cd114087d6f21017cf",
+    "b807d947c1948b0b54e448b32985a29fe609fc7fcc79a5cfc1e8d8ea94324e7e",
     "b82321f115fea2a955feb6b3002f83d0d383845631c1c8b2234c2da555069ed4",
     "b8f5095a9250a2d41ebf978194b8e6d735dfa4b9ae32d5242779db41e6dc48df",
     "b901b9753deb5eb0b2decfff639974611b57fe4f2c6ee957287ccbf9dc554cd2",
@@ -888,6 +896,7 @@
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
     "cd25ae8689b6919e73c521df0f7266329e0a710773d420e343a0563b7790a0b5",
+    "cd26e3c2506f6021e0858eb4d31069563daee8e5a4d2317cb29502c6e20c651b",
     "cd35557e0001b6d3f2ef1c1da7690a7a90aa0943365d0d51ce9da554fd4a02c6",
     "cd3d30d389a62d78c56c8750378032094f72cd7779e98bc3a723975e8c60d8cd",
     "cd4f9049b1dd764d4b158fd7ee0ba32bdee4b98479f6fb408e782680296fbd17",
@@ -1146,47 +1155,84 @@
       "address": "Reverendo Padre Fahy 1635",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
+      "club": "COMPLEJO DEPORTIVO LA DE PISO",
+      "address": "Avda Juan Manuel de Rosas N 18969 G Catan",
+      "price_from": 16000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 64000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Evolution Sport",
+      "address": "Av. Cnel Cardenas 2681",
+      "price_from": 40000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Exclusive Padel",
+      "address": "Tropezon 1174",
+      "price_from": 20000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
       "price_from": 30000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Torcuadel",
-      "address": "Chile 1920 - Don Torcuato",
-      "price_from": 60000.0,
-      "matched_times": [
         "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 66000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "PPF arena R21",
+      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
+      "price_from": 13000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-11T19:18:39Z"
+  "updated_at_utc": "2026-06-11T21:35:00Z"
 }
