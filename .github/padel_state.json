@@ -220,6 +220,7 @@
     "33814cabd332e8850fc22565abaaca68e83bbf08698de4c72cc213cba150d7fa",
     "338c1e7e8c434f29fd8877f9b996708006eddb7d7f2613107915937ea7acddea",
     "33a3a5bda1ade611396be044037aa0ba49130dbc05fa36e23eb88457fbc291e1",
+    "33da328ed81ea250f8273f7d84b5e4718e1ff2c88dd15e3378d26801c20b1f1c",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
     "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
@@ -353,6 +354,7 @@
     "5096e19b1c480607bc48b10d556ef0cc705607c99c63338144e1a6cd9b141435",
     "50d93ac89ac669cb88d31a91f72e816f7b75259d41af7df18da7be39298f5701",
     "50e513608d532c98238f2db502a159da6cb41189f29a9b711246898f26cf3010",
+    "5122e96064b112d48da89cd9e3b8c1c08cff9248c771c15efbc4be86b74edeaf",
     "51f7bd82c3a6c9d844116d8a796bd097a216c75227a6a5e8909cc1b4805de65a",
     "5227fbef9fc83ca9d09a872cca107d95a13b739c7d1f8c5d8d6fda9da61b572a",
     "522c7488612d54b3c6717f4ef77a819cf1a9ef5ce47d50b8addd75f22c5d149b",
@@ -609,6 +611,7 @@
     "91d3ddb9aa478e94c0485a7c27a2a746634f2e2eb5746a88b5d5e73f3d71912c",
     "9219d310e1d50f3fe94c568f8370a82b7234f99e5d232b2f9cd7aa6e9204ebfb",
     "92247e4823b5b06712bbd78dd5a05247632ba744d1b888278b4f7b8ae8e5f613",
+    "92529bd37c0ef43fc54f64abad8e79eb70428e457cec3d225b8793a4751f7294",
     "92ae60d5928055d27e431363d9fcd973d830e7955c56518e3e6238cc831b8dee",
     "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
@@ -807,6 +810,8 @@
     "bc129e20dc496f5166712b100a2219c2895f6d56bbd4880bd4a2faeb9b7bbbb2",
     "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
+    "bc7c8540d16ca7312488badfc3fcaf1f7aadb23c58f144216f61163c2e0216c4",
+    "bd11a45b997080df01a02a2cd1dad5eb15de9cb1fb075800105d823688307cbc",
     "bd43a4541afdda8e6fffe9dfae7205baa0c0454c9eac01e32cca7bec73816302",
     "bd537d07194417a02b80af75c871a8aafbbf2d130d7e2a478c99dd146f64dbc4",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
@@ -887,6 +892,7 @@
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
     "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
     "ce520e5268a7b31bebedd13592013e72fb6fa4b5570c132806e2ac00e9b92771",
+    "ce85b461b76dc638bebcdd2a01fa9e993497f165d45c5effcdc495663def433d",
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
     "cee844aa3d9d7cc1824b9caa3e3cb0efa8b1902a478d48a9926581754acb7699",
     "cee98b1926e5e512302d9924c9120c46f188c3efb1a5451bac2a13dccec1f427",
@@ -1131,9 +1137,54 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "GQG Vip",
+      "address": "Irigoyen 2050, Buenos Aires",
+      "price_from": 46000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Kauri Club",
+      "address": "Triunvirato 1572",
+      "price_from": 24000.0,
+      "matched_times": [
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
+      "matched_times": [
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1141,5 +1192,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-11T11:55:16Z"
+  "updated_at_utc": "2026-06-11T16:06:45Z"
 }
