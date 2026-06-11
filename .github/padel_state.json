@@ -279,6 +279,7 @@
     "420af2732d8c151c64e6266aa655bda9dd6c0482a986bbbb18ac0506f09717cf",
     "421afb64b93d48a3a11bf1a8a6e555fe7b524970ae00bcda8e7e7a206d205bb1",
     "422128705d1e046a3fede3b334a00940b80ce2500e581a15c4fba069f1e75e4d",
+    "4239fd0e6eb1d8e9aa8e6bc2221c9d66fa340c68744977e5bf48a9119a5bb4b6",
     "4271bfffd8067eae3a8b918a65e0281ef5cdbe839c0d42654fd630f844989848",
     "42a85872d1af5b0698b3a8d2821e3e56df4243552d3e43905752d3eb71aba2e9",
     "42abe2b8e9634e6abc52bab8aee28d2685169e97e06f0bcd85f5b7367ab3b5eb",
@@ -472,6 +473,7 @@
     "6db47c9ffdea78b4bbbac8de3aa3c813710f61e7940daa32ac80ee8f02784e3d",
     "6e486fe38e05d8311c3e8a40ab8d6bc3e0926ffd44b76aebb54db07cdf1bf7bd",
     "6e7acd6a4aa86bb08a548c24f74277126e2566e50cd0e14c48923fe4af534365",
+    "6ef1d7b0f50807399ff8f133d78ba3a835bcf0d34c27f57e524942a04fbb058b",
     "6f1aa02ad75f8e471e57dd73380049a74726425de73578d5edd48f814e66bbe7",
     "6f25a9667f4dc053a689ca56fce13d4e3682b79fa5b260e26c9eba8413b027a5",
     "6f3a5a461a9e9142bdc8feb03808f0f937fa48d8c20bab13c5fefbb69dcfc656",
@@ -655,6 +657,7 @@
     "9b2cce97bd15d0ea1086a8a84068fcb810686bd72eea2414649d76ec586dead9",
     "9b49e6ceab1cf2a1a76e6124443aebb119e5048424fcaa2d1d110a15aff2c3f6",
     "9b4da408549cd9584a8d56c816254be3be54c48c8e878f635b4cd3c2ef061cef",
+    "9c621bd47bc8d75c00a2d94d53f99ad18cb53a662c603b24e239b0a44d081c4d",
     "9c8ad889fc3ec81217c46691b1b1b8e971e3178a8d286db6ecc334746cc68e3e",
     "9cafc96b2b41c7fa03e06f213a3e1b2a8e9406a0119904e77c6fa839146389ef",
     "9cde3c0b6621ce7477481f4e6204edaceb31bf3736c5f6aa60bc26c04cf3089f",
@@ -938,6 +941,7 @@
     "d7294bc00f0e8ac2eccc27a977385dcbe173c8e6aee60eff4141081255a1d6e7",
     "d72a87d709f37297cbec22d15bed6e734ff6b54ec40443b36938bc89e6e52d0f",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
+    "d790104d8e3ecc342c816eb2bec0ff37eeedf643e3b083b73b38c6e30dd2fa7e",
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
     "d860138803e078eb90c37a45ba88de14afdc61655c34a47b96612e41fa336303",
     "d8ac6a699d40f837cb68ea552a089c0239f073afbccd505925f9eaaf50ece53d",
@@ -1119,6 +1123,7 @@
     "fbc615aaeb1b16e1b6c4e1a92c60b8266733b37c8b945828bc5994255170c2a9",
     "fbef17a2c3ab5c8c7b5af5f15833c2b5efcfa48a59ea30f51f42fd9eaf60301b",
     "fbfa39d29a47fb36fe87739173aa7c74bda833e3dae5947e9fa83ef1e96164a2",
+    "fc186213cb2a2d22576c439f78451f08b052f56fa309e096a161b5bc5416ec78",
     "fcb816950d777f4c48bbf5b8244fc0fe6aa74b4d7ef6038a3ba7d9b5e216e05c",
     "fd231ca217287137c50bfc57aadd7ffae735ae3d69ac28f621057c678e16c498",
     "fd5eac1388211f3d75a912b7a0bd3f1077501c2068418c673c9b98b91ca4c9f8",
@@ -1137,60 +1142,51 @@
   "last_results": [
     {
       "date": "2026-06-11",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
       "matched_times": [
-        "19:00"
+        "18:00"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 46000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Kauri Club",
-      "address": "Triunvirato 1572",
-      "price_from": 24000.0,
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
       "matched_times": [
         "18:30"
       ]
     },
     {
       "date": "2026-06-11",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "Torcuadel",
+      "address": "Chile 1920 - Don Torcuato",
+      "price_from": 60000.0,
       "matched_times": [
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-11",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-11T16:06:45Z"
+  "updated_at_utc": "2026-06-11T19:18:39Z"
 }
