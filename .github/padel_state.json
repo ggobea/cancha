@@ -722,6 +722,7 @@
     "a1ac1e9229105da64cc35f8844245a54e067e8b9ad6a6d954bcb316c078bed65",
     "a1dfc284c5198303f66027cfcc37c3573a17676e76ce49d11d1da2138ea89c1a",
     "a23169024e6d299f84fd5b61039246e2ed63838d3ca9ef4eff31f6d5b63936b9",
+    "a23660329b80330d3d7b61eb2719fc5dc435d9e9aa56c2d1e8f0889bfb486274",
     "a252d6361a78d80300b7aaab14c9049127165307ac19b44837c3bcac6f8eb956",
     "a2a10d4ac46d3b2131f220f317aa94734c9e8f3f7926f5631f078aa7901ef88b",
     "a2bc1cb884afb31062dce4a74fb2c14a08baa03cbb33a5b0218c232709b61c4d",
@@ -1195,13 +1196,13 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 25000.0,
+      "club": "Padel Ya",
+      "address": "Av Rivadavia 8511",
+      "price_from": 55000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-13T22:36:54Z"
+  "updated_at_utc": "2026-06-14T00:09:12Z"
 }
