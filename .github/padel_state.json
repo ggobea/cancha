@@ -1487,15 +1487,6 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Nivel Uno",
-      "address": "JUAN JOSE PASO 234 MORON",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-18",
       "club": "Olivos Padel Club",
       "address": "Av. Olivos 86",
       "price_from": 46000.0,
@@ -1589,15 +1580,6 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Samaa Padel",
-      "address": "Avenida Rivadavia 22834",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-18",
       "club": "Smash Club de Padel",
       "address": "Ramón Carrillo  2568",
       "price_from": 48000.0,
@@ -1606,5 +1588,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-15T17:31:22Z"
+  "updated_at_utc": "2026-06-15T20:57:24Z"
 }
