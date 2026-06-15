@@ -1044,6 +1044,7 @@
     "e17b36b80af8b91f888899fbbf1ad8a1eccbb3d640819b5150677b060b3dd778",
     "e18e9b466c5c0834005e6d1381fe6020dc9fffa911d63f11b10540f824aa5515",
     "e1c473eccc289c9d388e8802d1c7116a0f817ae904cb412f71459e7dce8e9413",
+    "e1c827c8194ca803f9d02c1c0fcc1f496ba74b1e79c63415c8f945e3faad9ee4",
     "e23b294877b07c703d0dc2702ceca72d7d5c0b313d14c05ac8b9448abdedcbf3",
     "e25567928991ecfe3b9689cd4ed97ff66e0c065c0b77fffd6b8f39562e3f0415",
     "e2764d38e3ca968905ca14f1f4c3ad1ff0c68c9b5fd40355b5493efbdb0c8852",
@@ -1198,13 +1199,13 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "Samaa Padel",
+      "address": "Avenida Rivadavia 22834",
+      "price_from": 36000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-14T22:41:56Z"
+  "updated_at_utc": "2026-06-15T00:13:31Z"
 }
