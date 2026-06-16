@@ -311,6 +311,7 @@
     "449138ca46262625e67571e5fb7ea6b07da948ef56d505fbe0362853878bbab8",
     "44cb833d0ef731858dd76b081043813b7b82fe73d1de9bf555202e61b2846e47",
     "452542952fa3f6d96a1dc8275329e13f4eb8633ef70606c152ae5cd06c2bf33f",
+    "453d335ea715c0b0fc15a1eebdf2247bfb859af3dcb019fb3efe18d966ff1c0b",
     "455ff6c54c1b9d436994c1ed16dfa24ebbcca0874cbf3babefd5d8cdf59fd380",
     "45bef2d95955bb30f090fb8485bda4ab5a8a20df55256148e38ffe806c9ae302",
     "45c246315654c6cc3c8265f50e8ba27baa579516a63d118bcc3ac43001835bcb",
@@ -679,6 +680,7 @@
     "97afdd8aefd7330d49dafbcc699fb1e302e7db94105139e7fa3268cf7d57db5f",
     "97dee7471cf5d56494be8cd14731b380d040bf9aa6c1bc2c476801872064d5d2",
     "9833d4abc571d542288f2f025ac7ef08fb934ae581e51700932e322d2fab882f",
+    "984f9f66393eba914b387615900bff9bf77843d8122ea851a0f255ea7dfc68b1",
     "9855281577c8220d3b9b77deb27a2a54493ea4c7d9d08a1f5ed8a1cbb44a5530",
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
     "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
@@ -766,6 +768,7 @@
     "a99a3f370a853d7147baa179680d28cd8405872ecd5b8de394c8c731e5c6c115",
     "a9d16dc4b1f2f3e7fb0c518032c90ce346257e866a5d4c9e5ceceb7e111aaeb5",
     "a9f0734a9375359fc161d9031adae203b30a6069beac43c556c971817e4b4805",
+    "aa0b0d44e380d7977c062ace277f838e8ee0ea0b8d6e8de302af72a4b3082a1f",
     "aa89653d9d541286e0c0dca6bdaad568c8d7d36672d1c1bd32a1c5f5bad9c39c",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
@@ -1203,29 +1206,9 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1234,14 +1217,24 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 27000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-16T18:16:21Z"
+  "updated_at_utc": "2026-06-16T21:25:59Z"
 }
