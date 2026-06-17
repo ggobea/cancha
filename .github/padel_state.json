@@ -688,6 +688,7 @@
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
     "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
+    "98d3d1a263df0fd048f066bd43b9611e631d3ce2bbbd30c6a069e11a8decde50",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
     "99dafe2a98f9bad1186b499a2e518276996c24b7a93d494d41ba6cf715f4b1fb",
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
@@ -866,6 +867,7 @@
     "bc5bc4693da6de2b3104c03ddaf95d4eacd44797489960f1bdb3849c7dfbd064",
     "bc705cbee00f865f042016c2bf2d1d22fb22553f79ecfc26eeef4eecb3751db9",
     "bc7c8540d16ca7312488badfc3fcaf1f7aadb23c58f144216f61163c2e0216c4",
+    "bca4b8322793b91cafaf1cbab6774433af39dd26f89cf0922399141e00d1325a",
     "bd11a45b997080df01a02a2cd1dad5eb15de9cb1fb075800105d823688307cbc",
     "bd43a4541afdda8e6fffe9dfae7205baa0c0454c9eac01e32cca7bec73816302",
     "bd537d07194417a02b80af75c871a8aafbbf2d130d7e2a478c99dd146f64dbc4",
@@ -1212,45 +1214,22 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-06-18",
-      "club": "GyG Sports",
-      "address": "Av. Olazabal 5654",
-      "price_from": 68000.0,
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Village Club",
-      "address": "Tandil 2650",
-      "price_from": 62000.0,
-      "matched_times": [
-        "18:00",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-17T21:09:29Z"
+  "updated_at_utc": "2026-06-17T22:58:40Z"
 }
