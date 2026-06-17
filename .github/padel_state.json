@@ -222,6 +222,7 @@
     "325615a157bd23f9c7c65379588e183518d2617e7070a522a108ff533349e52f",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
     "3286c7c73411a0f10b6c7fb96b300cbe92a634520dbbe1d8021f8dd0656b197b",
+    "328fdb30c110df143c99f9adf49ef899a379bd371b122587893ae539f1f30889",
     "329fba41b9b3c9b58106ce01b0bbc366e8bdf2858379376b08917b95d281c64e",
     "32fc746c7fd6f9a72eee7436aa5726b753432d2cce0b5444b8abcf39251bee3d",
     "330abf6568824eff2ede6f0dad8dd8213693739fece49806e6e3c4e0723880a1",
@@ -964,6 +965,7 @@
     "d1321306fa73ea840b5b54b49d2ffbfa632109b5dacf106f21698bd76631283b",
     "d1675783ba20ab7430e449d8bfddc6c05552acf297a3f04c529e1bda0ed70352",
     "d16feb5c48f0a12d438a6a74a4f76fa8fbbcdedf3cb3ab98a30fd72c7466de6b",
+    "d1721427c415b650bc28a02c146f9420aba19d743eb22a7f9a1be8de694dc385",
     "d1984fe46484bbfe3da926ec9a80bf5bc2f2505cf45d455715f87ff26aaf6d53",
     "d1badeec109186f019d756b524444119f359375fba1a595e99e41091f4fa64ee",
     "d1d2dd0ce0423e9401a83b772ba3508f0f8bad77c3c2bea1b505cc04f855d567",
@@ -1023,6 +1025,7 @@
     "dcace9c88e217f535b9111e737d28ba4f109fb6866e5b8afc9060116a12b6134",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
     "dd7b1d1a46f6668e483842d49f37537f2415336a62c3266c8350ddcc9415747c",
+    "ddd2920059cfa7e8a80cb0cee4e090f0b0dd81752c3857256922fd94d651d543",
     "ddf3fb4e99b3ce2d812fe1457f8c2569440f11ed6e7e35ca1cbf40a422a9d0b0",
     "de2b15de9f48e8ee1d77b73af160f58a6d568b8aecd1c92421f349e39e844f36",
     "de488bd4a3c8d859e96d5cf5c0b370ef68334d75fb82fefb7eefc741e4397665",
@@ -1149,6 +1152,7 @@
     "f4e35e3572d00742db132ea746cf9c56ec2a9c47dbd1d81027d75f7caaecffb9",
     "f50483df6fce1ee5a2c69b7b78b8d180d4caac6346e35d0702d7138d05351a82",
     "f50fbc0458300c8b72c989dbfe15886e8d35a711be72bf1fe71299f8b5b64fc2",
+    "f50fd599672847e31ad6d313dc5fdf9b9158a4fa2770aa1da8c7d9c6ced20725",
     "f51e79ea3c43331576adc82c56b3164a6f3387ce0d04f3f3b1437e214d3f9ea1",
     "f53a6d70ab8f0f8cebe3e133d858b1239ebd82070d07aecebd6d854825ebd3af",
     "f5576008196840bb22ff79b57508694ad7835c0603e268a7b5129adfcaec63e7",
@@ -1208,16 +1212,45 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
       "matched_times": [
         "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "GyG Sports",
+      "address": "Av. Olazabal 5654",
+      "price_from": 68000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "Village Club",
+      "address": "Tandil 2650",
+      "price_from": 62000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-06-17T18:41:58Z"
+  "updated_at_utc": "2026-06-17T21:09:29Z"
 }
