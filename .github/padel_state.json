@@ -1422,15 +1422,6 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Kauri Club",
-      "address": "Triunvirato 1572",
-      "price_from": 24000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-18",
       "club": "Kick FC",
       "address": "Saladillo 2051, Buenos Aires",
       "price_from": 30000.0,
@@ -1457,6 +1448,16 @@
       "price_from": 48000.0,
       "matched_times": [
         "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 27000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
       ]
     },
     {
@@ -1571,16 +1572,7 @@
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Village Club",
-      "address": "Tandil 2650",
-      "price_from": 62000.0,
-      "matched_times": [
-        "18:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-06-17T12:18:33Z"
+  "updated_at_utc": "2026-06-17T16:12:37Z"
 }
