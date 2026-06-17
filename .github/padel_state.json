@@ -1461,16 +1461,6 @@
     },
     {
       "date": "2026-06-18",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-18",
       "club": "Lobosport",
       "address": "Alberdi 1310",
       "price_from": 25000.0,
@@ -1592,5 +1582,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-17T07:34:03Z"
+  "updated_at_utc": "2026-06-17T12:18:33Z"
 }
