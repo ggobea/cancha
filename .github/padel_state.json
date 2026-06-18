@@ -214,11 +214,13 @@
     "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
     "30b30e86231de6967c6d107da61f986dc7ae83eee4a522cad6f913f83f73f4b0",
     "30f808b2a834d8ee9130de1ff3ff90d0d7735ed06818a927d3d3b505cebd66c9",
+    "311a321538a7d6bca8d0cd01d708a528ddd69cc7593deda871cde2e0f62a7b0a",
     "3127072b6aee3dcd37a9106ac407623f17b9ffa634cc0ae071f93831ca735bb3",
     "31408b295092fe9149299cfd6634e8a29dc9eeeeddf387716376383b2763d025",
     "3156c12f581de611aa6014b5fee925a00feeeff22060d7c0c6bfa7405ae36bdc",
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "31a3df04d0b1afe88ad662c46e9eb53fa4be5a7c014723d48eee9fa2d2b9dfaa",
+    "321853ce58b998286763fccffe45f65df83e5bdb329d4e8dc9dd00e8073a3a20",
     "325615a157bd23f9c7c65379588e183518d2617e7070a522a108ff533349e52f",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
     "3286c7c73411a0f10b6c7fb96b300cbe92a634520dbbe1d8021f8dd0656b197b",
@@ -1214,22 +1216,25 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     },
     {
       "date": "2026-06-18",
-      "club": "Vilanova Padel",
-      "address": "Cacique Coliqueo 1041",
-      "price_from": 27000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-17T22:58:40Z"
+  "updated_at_utc": "2026-06-18T00:22:54Z"
 }
