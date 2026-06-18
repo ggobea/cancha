@@ -541,6 +541,7 @@
     "76aee0ff59244efdde69f588b3f61cd1f0604fb22eb4022bca871d6cbe136e24",
     "76b57d2484d53d0c41ea7311952033016430f58bec4904164f00899d1b1509bf",
     "76d4efadfe8f6893181a585d18739844f6251cd08b5f67f75a406bc3f4097605",
+    "77645d727d738ffb9c669e56a479d658044cbd6d77c9a0714981a79c6085b137",
     "77708fc216c1614609dcf056b19c991537466ca6190145de883f5ea6265466b4",
     "777e4f34a5577fc72902c95cc984f256a6f16e7deca73bb345c9af9f7f22dabf",
     "77bd97b3646e27336019eed613a95362e08224606f0f44fc916840ce10ebb19e",
@@ -633,6 +634,7 @@
     "8c9388e1b57719beb9713d972b7ccab4ca911b3726f186bf66078b24f46eaf24",
     "8cc3e2c62972d572cc63c138de698d810ddc6d618c2af45d7565ef87490b3d31",
     "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
+    "8ce9330222fc4f19ec82f161a1c292eae78831a5f8ac060bb277c3d28e62bb74",
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
     "8d8513ed295223333f92f5bd6ea7ec649760f86c29358e751c6b95e616b17daa",
     "8e39c639501c5ce422a3daab99177532c9ad2c58fe37db2ee97d6c8ae3227717",
@@ -703,7 +705,9 @@
     "9b4da408549cd9584a8d56c816254be3be54c48c8e878f635b4cd3c2ef061cef",
     "9c621bd47bc8d75c00a2d94d53f99ad18cb53a662c603b24e239b0a44d081c4d",
     "9c8ad889fc3ec81217c46691b1b1b8e971e3178a8d286db6ecc334746cc68e3e",
+    "9ca858fc1a1f30ac95142453f667f08ebaeea84f73b28650864d9d0cd7e4a1e8",
     "9cafc96b2b41c7fa03e06f213a3e1b2a8e9406a0119904e77c6fa839146389ef",
+    "9cc85beb036baa0e4ce99f331821efb84351cd53548cd50663b35fe6a43c08e9",
     "9cde3c0b6621ce7477481f4e6204edaceb31bf3736c5f6aa60bc26c04cf3089f",
     "9d48d323c98391b35f88f03745c5d83b0993bf807f57d9082cb893f1fd7e3ca9",
     "9e0d32d4ba5e872dea9cfcb0f31d32d115f943f9dfbfe2a9bfe2fc9337f9d276",
@@ -1220,9 +1224,19 @@
   "last_results": [
     {
       "date": "2026-06-18",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 56000.0,
+      "club": "Circulo Club de Padel",
+      "address": "El Leñatero 1889",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1232,34 +1246,23 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     },
     {
       "date": "2026-06-18",
-      "club": "Evolution Sport",
-      "address": "Av. Cnel Cardenas 2681",
-      "price_from": 40000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 54000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
-    },
-    {
-      "date": "2026-06-18",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-06-18T16:36:30Z"
+  "updated_at_utc": "2026-06-18T19:31:02Z"
 }
