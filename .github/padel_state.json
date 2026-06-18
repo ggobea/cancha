@@ -1406,15 +1406,6 @@
     },
     {
       "date": "2026-06-18",
-      "club": "Goles y Gambetas Villa Tesei",
-      "address": "Juan de Salazar 265",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-18",
       "club": "GyG Sports",
       "address": "Av. Olazabal 5654",
       "price_from": 68000.0,
@@ -1586,5 +1577,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-18T09:54:19Z"
+  "updated_at_utc": "2026-06-18T12:55:48Z"
 }
