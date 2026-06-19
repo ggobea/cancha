@@ -648,6 +648,7 @@
     "861d698e13aacf099857f60b1688444e117fd4e4fe8e6181e217dcf3d86369b1",
     "862bb2b6312672db6bfc3f6d12a1375b6c7bc1cc6ddb396dcdc35729c84d46d0",
     "86ed0e4d8a1bc68e8760966197b42c7b21c77d33a67eb8154c750c8240da5ab2",
+    "87263b6af6eeeb8e912d5f66af04c24f90d8edf36532b2406e6d35b4856780cc",
     "8782a99a7fbe79273181e79f144d45a9e2c977297742632ba9a5cdfad488b6aa",
     "87d44a6cce35cb7cd19c19b48711c5e22887325a13e61103417f854682b3bfc4",
     "8805d80080a4c55fe9b6ba6e326465d0747f365273bcf8942bb9378e6971dd50",
@@ -1158,6 +1159,7 @@
     "e8c128ed69c522aa252fa91d2efcfd66ac84ac459fd008e5bb99ee147d8c806f",
     "e8fff2ee86aa76864990c6fe95bea0003e9a96d3ba7cf7d1552a5dad160d729b",
     "e95e6280f757e37b0d4365b21c7fa90c0636f06f53e80d28b88288adf13c7279",
+    "ea051ebde4ccbfc993a872141140b8b0c7ac431ff946f8ccfd6d68b1443a1b36",
     "ea5ebf697bf413101a9ffe45a40b0f497cd87e6e7f0d03402dba87260efff7da",
     "ea968f7009c6903262c5aec8d36c6184f158d0ad0d52b5256f98a9dfb8148bf8",
     "ea9c1d7b4f4bb2b2f94904af474288e0c47d1a39030818f5f016b96852e0a4d7",
@@ -1288,22 +1290,23 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 35000.0,
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00"
+        "18:30",
+        "19:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-19T14:13:39Z"
+  "updated_at_utc": "2026-06-19T16:58:17Z"
 }
