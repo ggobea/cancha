@@ -1620,15 +1620,6 @@
     },
     {
       "date": "2026-06-25",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
       "club": "Redfit Padel",
       "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
@@ -1667,5 +1658,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-19T22:05:33Z"
+  "updated_at_utc": "2026-06-19T23:36:35Z"
 }
