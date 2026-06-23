@@ -162,6 +162,7 @@
     "23db4574a8eb3757e225843e283039cac1aaf7b754115c1669321411dba546c7",
     "241cfe3638b525c3662a0b7bb81179dcb5a7329fd30e481ff422928c27ad7f9f",
     "242b0e9c113b4cf83065c89c9cb6abdf5e277508fb2a3e028e3a527bf781bdd6",
+    "24a662d8d2b1b477303a3d4455e7b5149eb1bc03b03edbffb78784ca6190b701",
     "24aecbe4af2006f11f71a233cdf618f672915444402b347dbdcd630cf0147bb7",
     "24d29c09cc2ebfc8be0bbbac780a4c36f6f7d43d38d459bf504e0f10bf08678b",
     "24debadef443eb0a4f3da7c76cb00b1bc99e212e330440a8c9e96e2a2a618ac0",
@@ -773,6 +774,7 @@
     "9f036493f5f594a159ec12f7112f95b5ca1ba02e7848ec43241e066a7e406fef",
     "9f77fa1dff6359b2da938e0ffacbb5b30ed963e38eb6565ff50cf74e82b98fb0",
     "9fa8836e74f62a4b5ad56fe3e0e8ba4a0e50aaab2ebd92f364ac0f60f9ebb075",
+    "9fb4ef0d146d3dd3ae418bf9b9c2b2e1f75193c60712d9fe5bcaa2e519416e55",
     "9fd2ee6fc5c30665772944a21b74a3cd4a66a20c34bdffa0158f0804dddd63a3",
     "9ffa02e0e23bc7874141940db5e5895c7a67e106206357035b334aafba1b3de8",
     "a0282bd9e4ebc7cfbf3d02a81a042092bc6ef7152a21894bedbde9d8163317c1",
@@ -1300,22 +1302,25 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "GyG Sports",
-      "address": "Av. Olazabal 5654",
-      "price_from": 68000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
-      "price_from": 48000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-23T18:20:45Z"
+  "updated_at_utc": "2026-06-23T20:33:44Z"
 }
