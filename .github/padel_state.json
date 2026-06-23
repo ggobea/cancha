@@ -472,6 +472,7 @@
     "5dfca020d300c74ca8d00f769b66152eefb21ea86443a013775155513386bbf1",
     "5e06823425f5d94f6f9c72cfcafdba499fe7ac7001527075bfd24c0a660cfacb",
     "5e5b1d8f08003065f7a2e57a687a04ce8c37794adfd3b7a11b9d9e68d4eb4372",
+    "5e688993bae57c17b10d2367cec7d4a196b5582cd15e1689b4a10ca05ad75ac1",
     "5e77196c50abeb8740e15b9ada756e3bb22fdc034f513a1de6e2543cf3126f6d",
     "5e8a8937e7f15d5cb845e38c7666bb2311f7387921b4480ced126463eba57a11",
     "5ec74d303c6216b40af3b8e095807a5d136ae3781ee6cd91e479b63c66d2575d",
@@ -621,6 +622,7 @@
     "7f961031cd64ac40c8190dfa31e6391427990fb8ef142a6caa164e7f13d7579f",
     "7fec26bd6a3f84bfe2a9a8ccd15e9609666c82913278bcc55872408b057b95ae",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
+    "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
     "812f928d6ffe2bd05013f44bedb7f4951a43867595462f3b6dfc34c9eea186c5",
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
@@ -1298,13 +1300,22 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 40000.0,
+      "club": "GyG Sports",
+      "address": "Av. Olazabal 5654",
+      "price_from": 68000.0,
       "matched_times": [
-        "18:30"
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Parador 3 Club de Padel",
+      "address": "Entre Rios 2649",
+      "price_from": 48000.0,
+      "matched_times": [
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-23T16:09:42Z"
+  "updated_at_utc": "2026-06-23T18:20:45Z"
 }
