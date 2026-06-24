@@ -257,6 +257,7 @@
     "33da328ed81ea250f8273f7d84b5e4718e1ff2c88dd15e3378d26801c20b1f1c",
     "3437fbaf4dfca89ac57aa29a642e2e0239c64f8b4e5192b42401be77e84a75fa",
     "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
+    "34bf794d2c9821ad2d759fdeaa0cbf71bc95cc80abfeea1f2b979cae32938af7",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
     "3576d28402f1e76cf0618af6fc980c9b6e125a0f1324dbec080fd0ef8a123c2e",
     "35dfcc2e16fb22076286d4fb181737dbb914425f4b7bf35d4cef99eae003739d",
@@ -391,6 +392,7 @@
     "4de156a93703ee180fc919b862e01287733b6cd20c31687f5ea2e3fc221601cb",
     "4e07379bc19499090efddd9694197df21e09bede1cded5d253988cc57b8b266b",
     "4e0a91fcccbfa9637b8852994b9712fcc690e0f31857ec289e9a49fb678dce15",
+    "4e4828c154e26d36483af91f987e2a2dd54fd3f8718ef3dd274513a8e88a95f5",
     "4e5a4df45f066da8f40a6dc0eee5c3adb276667769844fc32eb0bad1a4ff1656",
     "4ee05965fe6baaa6086ac92c4d36a85a26daea457721a2290debeb377e4d9ae6",
     "4ef0d8b94642265fb9753f4a87081736060601f9fc60a6fda744ef0841a48e4d",
@@ -625,6 +627,7 @@
     "7f961031cd64ac40c8190dfa31e6391427990fb8ef142a6caa164e7f13d7579f",
     "7fe3f2c49f507c8562d641f351cf5f682028863daec23e7c3d991dfc6f4bc539",
     "7fec26bd6a3f84bfe2a9a8ccd15e9609666c82913278bcc55872408b057b95ae",
+    "7ffd5aba8cfea154917f28506c19a312abd47d312f12aadbc76dbe9de59e7119",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
     "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
@@ -1307,14 +1310,33 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
+      "club": "BASTICOURT",
+      "address": "Martín Miguens 7886, Villa Bosch",
+      "price_from": 25000.0,
       "matched_times": [
+        "18:00",
         "18:30",
         "19:00"
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "PADEL - INN",
+      "address": "Manuel Acevedo 47",
+      "price_from": 42000.0,
+      "matched_times": [
+        "19:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-06-24T19:53:52Z"
+  "updated_at_utc": "2026-06-24T21:24:57Z"
 }
