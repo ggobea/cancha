@@ -70,6 +70,7 @@
     "0f998e5a0dd998eafe8a163e10b04290847360e151d639f3e150866a7ea34c5b",
     "0fc0efa8e6d36f1dad411809b1e7831eb020ab116e8414744d19f93f60654c22",
     "0fd306af29a0bb52e08f5b883c663efccc8fc9d126f4acb8596b1d6d98b32665",
+    "0fdb602297fc6a1415337070ff9e5ff829d9732152b63b746868f8a00b4032a4",
     "0fe4327a2e0bd5b1bb9e7ac8ff34930ecccf27988fdea27bfd84fbfc878acefb",
     "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
@@ -175,6 +176,7 @@
     "25ab2743d9e0fd87c76c07877eaac950302bb56a64d4f962e279124ec7570594",
     "26147f06e5c831aca81d49df2a9a3ab5733699c3fc7fd521c546d28d7e0a5588",
     "264a1c0cad938e21bdbe2a294005d2db1cf4f7e62e8c1c7e4b432026c3f53729",
+    "266736ffc8d1ff6e225f365c37dc2bd9869b55eabcdffa6a719e67d52f41be1f",
     "2681e3bfb3f15cb4de8d81d0f416753b34afaee7da3f7433029c55df859796e3",
     "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
     "2719195f2a20927e855e9cd50154d679716d20495d77b5746e3e28c2d82f6cb1",
@@ -435,6 +437,7 @@
     "55adcc4d7e7aac16f8cd89a86aa0f895125a4b8ae8177b16336ada8d3e64212c",
     "55dec4e6509f9595402415af165fecb65d16274ef4f952de6d3f221fe891ce10",
     "55ebfc53303c3daf610847696c4805fd92029e88057895bb621ac16ef13f20d4",
+    "55ff671c0e9536c05311a0b7242e4eb5758837af3d540e73432fb309e85942ca",
     "56005d5da7b2450903a7a76f9a3068c9d16ed9501225ba7ea9b07f8894dd6701",
     "56db7fd7294f970e3ad566f9bf54e814d8c77769cee70cea833b26e49e779842",
     "56fc352f5c3c76e09bcff4cab4d217ab2c0714af0f617ea4982961c967a1f17d",
@@ -1036,6 +1039,7 @@
     "cee844aa3d9d7cc1824b9caa3e3cb0efa8b1902a478d48a9926581754acb7699",
     "cee98b1926e5e512302d9924c9120c46f188c3efb1a5451bac2a13dccec1f427",
     "cefe7d3fbbb9b5a8146b16d7acaab60fd8b94d70252484ae5a0561de3f5d11d8",
+    "cf12bfaf0414ed26cbe7748cd836f3c083f9043c1475b6a734675d908b7c6381",
     "cf1a858628ed92f2a19009a7044e8549afa770b51414fadace66ee919d5e8edc",
     "cf8d2206abb7446f3b33f3aac05c6505e17f690073c5d3516d4a0e333b3aa320",
     "cf8d65b789cdcb5939bd6368cca79873b498873ffbf1726485c3b7cebb58376e",
@@ -1310,9 +1314,30 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "BASTICOURT",
-      "address": "Martín Miguens 7886, Villa Bosch",
-      "price_from": 25000.0,
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "PadelHaus",
+      "address": "11 de Noviembre 1055",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1321,22 +1346,13 @@
     },
     {
       "date": "2026-06-25",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "PADEL - INN",
-      "address": "Manuel Acevedo 47",
-      "price_from": 42000.0,
-      "matched_times": [
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-24T21:24:57Z"
+  "updated_at_utc": "2026-06-24T22:48:13Z"
 }
