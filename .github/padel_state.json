@@ -1609,15 +1609,6 @@
     },
     {
       "date": "2026-06-25",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
       "club": "RedFit Pádel",
       "address": "Av. Victorica 1128",
       "price_from": 38000.0,
@@ -1656,5 +1647,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-23T23:35:50Z"
+  "updated_at_utc": "2026-06-24T03:50:18Z"
 }
