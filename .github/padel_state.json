@@ -1340,59 +1340,6 @@
     "ff8875cb887cb38f12faf655dda5ac4a6ce9b9abde178218b42a34ac6c7e4e2c",
     "ffdcfbf1069001bf09772b857e7c2a4f6a1a67cc610bb735202a154e8ace3838"
   ],
-  "last_results": [
-    {
-      "date": "2026-06-25",
-      "club": "CLUB AERA",
-      "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
-      "price_from": 56000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Gioco",
-      "address": "Luis de Camoens 2017",
-      "price_from": 14000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 66000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
-      ]
-    }
-  ],
-  "updated_at_utc": "2026-06-25T20:58:40Z"
+  "last_results": [],
+  "updated_at_utc": "2026-06-25T22:39:26Z"
 }
