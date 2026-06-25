@@ -28,6 +28,7 @@
     "077ea500942ce60270b0839e4b65052470d891ec4bd01a72a8d223a8a6129d17",
     "07a70289c867bb0b806e2e2cf3540b583cb6bc1640d652d62b0efe85d18f2543",
     "07f19bf0c62b935308435edb266b087fda10f5f7956827c3907b9dcec77d52d3",
+    "081a60ee0337e99da0da516c48e8f3db0f208dc68bbf3ab0132e7ddc2cc149b1",
     "082d1bd551a63490cf8318368399f183a910338df9f5e0ca2d1d17abf0d8f213",
     "08fe42db6d1f3ef2a2f5acff75b5bf534d025c8f6bcaec9a2155ddbecfecd645",
     "09132157977f14e12b9e886028971529660c2ba82f8fe59461035087cabeab75",
@@ -114,6 +115,7 @@
     "1924346c5c5795c8431b2cf6d1f62feb30d87fd9d211b5fd9bf84a962925a5e1",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
+    "19420f716d1cfbf0b968592232ad1f5e0fe60ea289fdeb427afb6eaf3b0275ae",
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
     "198128de70f857055f21215183faa55ae4f0b40eee6a6786805a9092853ae71a",
     "199405167b7dee5ddf882c937c0d5e7b9d99242b288c5663cd2dd2ebdc431e70",
@@ -208,6 +210,7 @@
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
     "2c5801831b3da22290f743f33991782d008f86653d1e99cd94248c3cdd51dc17",
     "2c5b207d4ed931819a611c0dc2903559d1bdc2b11c2177dcfe571ea773e2c63a",
+    "2c734523791b35291369b588c969dd07b7cde40d7fbfae394366255252bf7654",
     "2c859bd982a9bfb1ec16ef82b67048998be95d5e4075eab87624542d6dfcd066",
     "2cf505406a7bc1a9ddad09bd81d9f19e3b0cee2fb9832abc88c49ed3156aded0",
     "2d28d69e1fc8deb0809a8578840a8b5ba7e1ea240617576ab77700df9597f409",
@@ -423,6 +426,7 @@
     "528ca9650df5c9637971726aa40819e205ee3eb50274c2dbba15fa40af959a38",
     "52af7c0d7974b6da0439cb48a89a8183ade7d1f3ff127f42fc774a5a57164061",
     "5356000c434e302820244b109478ec42e942c3d02c7eeb73d36125b30adaaeaf",
+    "53561c766c069bc5c6ec67247e3de10cbf2a0782afbb7fbcd8889873873dcdf9",
     "5356a560110805c16e959b867b95971dc27ffbe6eb8034c006ac44e7f00073f2",
     "53a44ff8513026630452c3982e427c767bfba49fe9e5e64cd69512b0e878a360",
     "53cf4d08248c919f17855fc6fdc75540660c2f15bfb94dcd5c6cf49c9aa39486",
@@ -1123,6 +1127,7 @@
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dc55eab8bcf4450caf31dadf8dfcb42a4d82745448992b4d0b3372b94e333153",
+    "dc7cf67e0ad70063b28a99af8b457e40aef20dc2bdbea071a6d19a36c0ea44e0",
     "dca8e856fb115ad684f90a00c76b8b237dc6e7f2ca987c7fc8a1822fa3567e3f",
     "dcace9c88e217f535b9111e737d28ba4f109fb6866e5b8afc9060116a12b6134",
     "dceb5c23ea63e4681bad224d4f45d72deafe300694546a6e362185ac7c1430fc",
@@ -1279,6 +1284,7 @@
     "f66ac5709db6dd6248afc5d9a55a8d438f47e066f6c17aa0782e131be90d8a9c",
     "f66e785b262bb88819ed8ec46d20fe2b6b640948ab9e337d6027b5c99b3d8b64",
     "f6746c5f5903faa65d65f554cd9fac141dcd5085257d1b42ae400c65bbf97b0b",
+    "f69ccdfd3875297ea71f0bbad90d140b3f36d603f900f26fbe0e5a4fa4067a8e",
     "f6a0407f77bbf8af32b12d45b95efdd93e964505f26af9ec7347a581fd1fa947",
     "f7354325115de3ec5b7ab44b8e16af0055b8b83a8eda2b1535ce0323bb1f5f60",
     "f7c51166d46a7cb3c3a1b41c25d13d0530466eed2853dba1a8dd4ed34716342c",
@@ -1329,21 +1335,9 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 56000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1352,32 +1346,52 @@
     },
     {
       "date": "2026-06-25",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "19:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "La Bandeja",
+      "address": "Libertad 4360",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 66000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
       "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-25T13:36:40Z"
+  "updated_at_utc": "2026-06-25T16:27:27Z"
 }
