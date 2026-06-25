@@ -298,6 +298,7 @@
     "3a2a3392f8c1acfe30fcd312e8ce4e12df661be4094775ad1c4bdcfe1be1ef36",
     "3ad1c5a0344b8aba0976167bc1dea9f1b91ede7e9a8b081dea5a057dd7a7aa60",
     "3b511764a377d3c46b26c36525a3cf2b5a5c6c2481eb2559f6940805a5909e07",
+    "3b8511243724fa3938a8f06bdeae03ad194ab7d481ef2fd1e3dddf6b658b785d",
     "3bab3b937ebe8124393c713c4cf3e587a23993a7579580556632ab2ce337e59e",
     "3bb20af427b4eac0e1b864cefcf411943b9cefc217626b704236a2dfd3279479",
     "3bb8dd59a593125709ef3e77e87c8a517765d3101e90d28faf08b2fd82e96cf3",
@@ -445,6 +446,7 @@
     "56db7fd7294f970e3ad566f9bf54e814d8c77769cee70cea833b26e49e779842",
     "56fc352f5c3c76e09bcff4cab4d217ab2c0714af0f617ea4982961c967a1f17d",
     "578d6f875d07beba4ce1ae00fb87679236017154c924e15e724cda5aa9f3202e",
+    "5837f7977fa4fb4d97b2b8b5c316984d41cb744753bbcc434c5ab95a7fb0b17c",
     "588a66ed27d92816bbf855e884e9aa4782c7eb8120e8542af6c836fcda5290a8",
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
@@ -660,6 +662,7 @@
     "84979df8fe14af6dabae6d72f7b1962c97c51b36f32f4694d59f1df4c862392d",
     "84a285aac601c239081163e4788d2c31a0bac8df083c30444668566fda92d668",
     "84fbb5ee750a4fe9032ba1a65ab718120f98cc8632e0668b3cd237a648926a47",
+    "85433671cc0fb25ccd5889a18df12ae1a1ff0a60e11ab7c37c8147bd0160aeee",
     "8560c97064b87b3354c72687b482ff96040b63592ba619011403ae4cf09a5fe8",
     "85cf2fe0c71d0c3ac39807635884ca5a5dfb6d5a34648bb002865956e03870b5",
     "85d6d9e231a53d02c23a35fef19abd9f5324840b02171fc7146e3a8489ef3574",
@@ -1030,6 +1033,7 @@
     "cba03b7f9cf39e3651276a0447c48a9d31dd1fe3737ba097551c5c59247bd1fb",
     "cba7c26a7661706d806e58f04c741d530d41bc64f8b46bacfe53e746261f2e35",
     "cbd067992e5a99d3fa38627e16bb8fa1a3603e35d43fd3ea7386a10e21d18d7e",
+    "cc457f15852a5b1108f1f33e198054cf1abe5389f0fee491650ad4f7e6dd480a",
     "cc7ad6b4bed44a7a942315de22095456f2d9dd3c9f8562ce070a495db83bffd8",
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
@@ -1246,6 +1250,7 @@
     "f27d84ec4ba15290277a62c62345e299d33848dc0e3aeac36b8011f84ccff774",
     "f2ce152daca13a400cb1e3fed0fc8a11d555e8cacf8f6e4401011aa6c5069451",
     "f2f3c03afc391fba00e6371b1705faf31c14239d3cef298bb3ca4d5914abca1b",
+    "f2f7f93f9091df06cbd94bfb4b4f3d0bcd29aed989eca0195272bce5d78ae60c",
     "f3023db2a336d33caf065362e39d026d3e9428924f066a005fe57d4f2a2fb105",
     "f312fbe3bd937b41f10707e24a869bb6469e6cf3c44b800994d6242f0364da08",
     "f34ab41a89c155cfbe5d3a7a3951c19e88b5b3edea7291484a66bf3e687793f6",
@@ -1324,14 +1329,55 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "12 de Junio",
+      "address": "San Sebastián 1705",
+      "price_from": 56000.0,
       "matched_times": [
         "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 54000.0,
+      "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-25T11:15:36Z"
+  "updated_at_utc": "2026-06-25T13:36:40Z"
 }
