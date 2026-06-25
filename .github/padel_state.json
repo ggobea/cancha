@@ -633,6 +633,7 @@
     "7fe3f2c49f507c8562d641f351cf5f682028863daec23e7c3d991dfc6f4bc539",
     "7fec26bd6a3f84bfe2a9a8ccd15e9609666c82913278bcc55872408b057b95ae",
     "7ffd5aba8cfea154917f28506c19a312abd47d312f12aadbc76dbe9de59e7119",
+    "8032e2acbd8cf69b181b949bd8b0884ba56b241310d0fe3f03306630fdacdae6",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
     "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
@@ -1005,6 +1006,7 @@
     "c80cd3c988af684c3cfa5dfbb1a9db2735062eb8281d05d2a90d71e352725479",
     "c815707cfe765608b511dd388a68917f1f4bc854bbc76468e98648d5c73a132c",
     "c836dc89db3edadcd65afdbad06c5cf013fafda47745ab6a62d22d125fd79a67",
+    "c89fd3013f36fa55848447afd0b6bc57c7a967e85be1a52fe88feef454b5ca50",
     "c8d8ad938e039241704fb9518226f923239284f02e7074c4985ebf63b5e52faa",
     "c8ed4c59adfe38b439c83eabe3bdd731f6d124369c7131113b74faad9de30101",
     "c90d448d0558f4b258bc2cd5abc25b0b9452ebb6f73be2569d01536400a5f788",
@@ -1251,6 +1253,7 @@
     "f3a3ac89bec878da896a601090b22556af96573d7e3d7bbb355d9c7cccb0465c",
     "f3e24bfaccc2afa38371abdd832dd22448f0b91e6a2624d72fa8bb43705b21b1",
     "f3f13c3f27445bc6546712ac843c41264d4fcf7c2e3a2c9c08195f38df18256f",
+    "f40b2001906faf95cf06fb232c45e712966088c3c7984ab9f2c763c19706b261",
     "f4b5db70730bc9adac0b5aca11c476711878eae2b82221c12580f254b84064f4",
     "f4c1c372531ea52ee672e501c47505624357a904257fed928adb79aaf93a3592",
     "f4e35e3572d00742db132ea746cf9c56ec2a9c47dbd1d81027d75f7caaecffb9",
@@ -1320,66 +1323,31 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:30",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Bella Vista Paddle",
-      "address": "ENTRE RIOS 851",
-      "price_from": 18000.0,
-      "matched_times": [
-        "18:00",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Devoto Pádel",
-      "address": "Griveo 4165",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "Circulo Club de Padel",
+      "address": "El Leñatero 1889",
+      "price_from": 64000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Samaa Padel",
-      "address": "Avenida Rivadavia 22834",
-      "price_from": 54000.0,
+      "club": "GQG Vip",
+      "address": "Irigoyen 2050, Buenos Aires",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-25T00:15:08Z"
+  "updated_at_utc": "2026-06-25T04:46:07Z"
 }
