@@ -208,6 +208,7 @@
     "2b2cf182ce32636d4cfe0bb155a75fa7b6dc6d3b93a649f7838bdb8369407a04",
     "2b37e0ff654b119d0e56bac4396fea8c65e078f294e2578c1d6ff8a06754a62a",
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
+    "2c1ec95e08197dfc5013d87474d06d50e7c7997ee8919076689db50345d427e1",
     "2c5801831b3da22290f743f33991782d008f86653d1e99cd94248c3cdd51dc17",
     "2c5b207d4ed931819a611c0dc2903559d1bdc2b11c2177dcfe571ea773e2c63a",
     "2c734523791b35291369b588c969dd07b7cde40d7fbfae394366255252bf7654",
@@ -1012,6 +1013,7 @@
     "c75ba131120e94ae58d5ed7a9316d50b20c5ea9873281aff5ca153e2b336f04e",
     "c77161c99599ec89ba68a5bcae18d32321afcd443cb555c15be28ca01c4aca27",
     "c7747e692a4cbfb3f4bd1929a066a00a3a0cb7639abc8b87872aed7c91e046ca",
+    "c7a729be28b0ec933003f2a6e50074350ffd3ab657141bba429f699cd71b978f",
     "c7cd096a3f4a23407644d707c26485e0cb2a7efa485f4ef6e6e4f0896f9ee7af",
     "c809d0ef8baea9aadee7b9e938498f14f112820a48a757fb79459e7d60b62882",
     "c80cd3c988af684c3cfa5dfbb1a9db2735062eb8281d05d2a90d71e352725479",
@@ -1043,6 +1045,7 @@
     "cc457f15852a5b1108f1f33e198054cf1abe5389f0fee491650ad4f7e6dd480a",
     "cc7ad6b4bed44a7a942315de22095456f2d9dd3c9f8562ce070a495db83bffd8",
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
+    "ccea99656d6ea093971254504c9772d409194cd4314807b247ba69ec1eff0f0f",
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
     "cd25ae8689b6919e73c521df0f7266329e0a710773d420e343a0563b7790a0b5",
     "cd26e3c2506f6021e0858eb4d31069563daee8e5a4d2317cb29502c6e20c651b",
@@ -1163,6 +1166,7 @@
     "e0ca9e5a4ab2f13cca590692f4ef7991db3b4d025c4ef26920a3455f381a73b1",
     "e0cdaece2a3fe48f5f9b6da02b72c087af3e19ff721c53cb934203af46c27696",
     "e10e993ecf4f53f600459400aed84921a502cfb11f2c47a79f79fbe85571e10c",
+    "e11da545acbf50baf60c20cf729f9c165aeb4458e0179540dd94773176c3512a",
     "e178f37a7a00294c928bad97e04a07a108ff435f172699c9ffa1e566e849963a",
     "e17b36b80af8b91f888899fbbf1ad8a1eccbb3d640819b5150677b060b3dd778",
     "e18e9b466c5c0834005e6d1381fe6020dc9fffa911d63f11b10540f824aa5515",
@@ -1188,6 +1192,7 @@
     "e53d566f0608d27a4f04ab43cec7890276bce5a4bf405450211f297dd4619741",
     "e59042baba7de6f0b4c3a23066a9333e90383f85e5f3043f1df62d9c1865f35e",
     "e5a654692d90edb35cbca7d4a5572cbdc3c85e90394d73b4ba2d45ee72f61f01",
+    "e5ca4d721f86c07fcf9113d414ed6d9bb9f6bcbcccef0251041b84772dc57f43",
     "e64ab75e61bf577b9007981ac22c3c9a8436e5be2b3e124c716d5854a794b4e8",
     "e6c400379c18f34d2c717a78ec1ed6033c021add5d333ca2120eb6a574bebaa7",
     "e6e01c2e74dc58b9c88badd300e4ec76729f567614c913ed45239d0007967671",
@@ -1338,32 +1343,56 @@
   "last_results": [
     {
       "date": "2026-06-25",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
+      "club": "CLUB AERA",
+      "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
+      "price_from": 56000.0,
+      "matched_times": [
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
       "price_from": 48000.0,
-      "matched_times": [
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
       "matched_times": [
         "19:30"
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Gioco",
+      "address": "Luis de Camoens 2017",
+      "price_from": 14000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 66000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-06-25T18:34:25Z"
+  "updated_at_utc": "2026-06-25T20:58:40Z"
 }
