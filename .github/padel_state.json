@@ -435,6 +435,7 @@
     "540b3f6db1a510e0dd30cb797e581e7021c6fb26328fe734923d3463fdc11038",
     "540dafc7ecddca5246b6d230dd636f7b2d7f59dd475e24780120e801c08cb02b",
     "5411745f8c13b7d557e63dc430368296b2b5653e85af6e126295b03bf385855f",
+    "541beb456a0d1156879d3b609a5fa0e0d04d231a3e89000ceae43c5f97dcf68b",
     "5430f141e1301f507c2b4c605dee1a04dde957dc1e0a811ec8340ff9fb1c7b8a",
     "5433ea286e2eea09f2c1727edf77173661a2989c50d177731bfd566a908ebe83",
     "547e11e3420662f9f54a1b323abe4b9a2ee7742e4c805e1fa4b2da82e89154d9",
@@ -612,6 +613,7 @@
     "7a4dabbf92d6e4057e87e44b1cc42b4a408344aae0bde0361f68156624e3f85e",
     "7ab1ca9eb7f486e4e4499dbdebfae4b2afc628bc4bd740d074345ee12b9114ae",
     "7ac2c15c2309a0c7211f2049216c02b974d368edd33c54729eb623ea9c1abdfc",
+    "7b1c2b94c42de7cd04c31c545fa43de71e1c431de9998190f36b9d32a9e77030",
     "7ba39011914770dd269acda8dc6a734cd1ec5f9abfc9ff4b5d0a607492ba7cdc",
     "7bb422e5f683b0721a2f024a328e268eb73cfe493bdb8f9cecb8cbf499bdb01f",
     "7bbd37c279b63389fef6d63726a5fa555e01eed89be30dfce189e113cf54acc9",
@@ -940,6 +942,7 @@
     "b94ddfd67af69d49b26653b67c29d0af2292afdf42426135474687d5caedb46b",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
     "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
+    "b9f0d4b355220c50edeadfafd03dd637543caeddb5ba1fd9e6ad1bbd137bc4ad",
     "ba5bf258b831cabe379690f7941bbdd7f5563749077933b53bc59d58c33c0cea",
     "bac11bea45b0c4e525b2d661c076cc635ace291beaf4534bdfd8fc0b78341bfd",
     "bb2b289ce9accba7b51c30838ec288696cfae8a09dea6fbc3c673f9d773f0d7f",
@@ -1335,63 +1338,32 @@
   "last_results": [
     {
       "date": "2026-06-25",
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
       "club": "El Guardian Padel",
       "address": "Carrasco 825, Floresta, CABA",
       "price_from": 30000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00"
+        "18:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "La Bandeja",
-      "address": "Libertad 4360",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 66000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "El Predio Ciudad",
+      "address": "Arregui 2540",
+      "price_from": 55000.0,
       "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-25T16:27:27Z"
+  "updated_at_utc": "2026-06-25T18:34:25Z"
 }
