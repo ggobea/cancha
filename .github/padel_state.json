@@ -105,6 +105,7 @@
     "17a1b487402ee29837a67a4df01fefa9ed78f5264fda664e14363c421d731d59",
     "17a7d06209dd2755105eebd14521ac93c84a2d3e13eec735c71d3499c483788c",
     "17b241ec19b052eeb780b4bc149c3dda32e0554907979f44b46e0e5756c3c9fc",
+    "17fd1b76bc626c9896f31e51b303d72024a52889e892319bb5dbbd629510d9a5",
     "180c865d36b297927204d58457e65966c38cf3e2388065f18a67041a901c21ab",
     "18656b14b61f97df801b2f9be6f45adf8d9a6591ac7d8d0123a9c6fd958a4969",
     "1879114b97dba221130722804f877de9ac0d64383b09af61ff3069674f9cfb48",
@@ -354,6 +355,7 @@
     "46609c0bb739e6e1c0a5d3ca1094270036180c58576baee3b327810759ce8372",
     "4675ff0163f5694cb7bc6cd28e03c06bb8089a97bfb867fbdc4d954311dc361f",
     "46a2c58e5f465e56ce0b16f782c006af3ae813b5c4eac44e4aa9bda8d8751d2d",
+    "46c6d787d60a5eec677ac7a6e69d368cad867c98481df84efdf1cdf2a4531c1f",
     "46ccc5299dc93f3da7724e30a8a31ef00063167e7ead8a1c398ea7eceda62a92",
     "46d1913d07fd09da8eabb4aa40ffbf41023048ad71780722ab23c44c7db19ef9",
     "47207a21db98effdc05f9fa2e47ccabe2c123e44b97e97af6d4ee8b8ba25ae8a",
@@ -737,6 +739,7 @@
     "9678e5abe6b3a9d85228519d2c84cd8f6e7fa996caf1651a6ca3f0bb96d59331",
     "967a9646872722909c32d26d2aa88b1c5301ce0e72b28478c2cbf07e9867882f",
     "968ee27556bef2fca101db29a342d95f088f9a6187d172bb517eb92f2a0ec149",
+    "96a23213afdc1830657c8b28cecd1fa13ae513b87b60254fae2b8b1448159e6b",
     "96bf2e07e274012816daab0f52b91ede3b5064d086a50d39c2dc8f1feff087f0",
     "96d1dce838ecd365bc9cd6269e280d27f506965fd2e20e7697085013a42c463e",
     "96dc610205c1468eb768778d84dbca55a9f613b4b6c9896703bf0acedc3fab49",
@@ -778,6 +781,7 @@
     "9e5f9f0ce7affef2cf6b776caec3797bb57507cc6fe630972c63902fd308eb81",
     "9e673127fbd84c4c1b6390a2ede3cb920951e7036c1e180bc91fae227eed9e4e",
     "9e759ebcfa41e0f1c26c52a818f1a49b1a6cf8771d68f5e1b2b7eb066dfc79b8",
+    "9e79a3a2416c10a99e203f2d3fa590fe42c055f85ea797a47f482c093e0ad39a",
     "9e7f98d318f9d5062faff272264761568ba4133c2d1345a5cc9bb31ae9fabe98",
     "9eb71bd45638ee5590532d69a19713dd431de140dd0c7f590c27eaeb90a97c01",
     "9ef725c679b8f8d2ee9e89331bd8b1cd00304cab6291ed044e2b905618ff55ed",
@@ -876,6 +880,7 @@
     "b1348709ed91e483932189707eca180a0918b3d21fce2e5fc68a33f99052ec8d",
     "b192a030a0d2f19a566f7de5275aa8cbd576b485e8e580d4be8c8556ef2d5da9",
     "b1a0727336986089193042364aa8417ad9fe527d35a94c5d5f0f9d4e6ff45ced",
+    "b1e60cfa6e5305712370606f08fd0d75fa917e7a9054728c1b6c10392a89ea5b",
     "b20a6e3a76433bd7ef82d7962b84739d7f3c922b92bfa4fd9490ecf6245dbfb7",
     "b210295162b2b4817055cf545879bcb27a3c86cafe2b869b91f445ca19c2d321",
     "b216b710715547022aa9de03e4bb143ede29349952265bb345ed1894a06eb273",
@@ -1079,6 +1084,7 @@
     "d66cfd5149f174583cea3d22b606a0ae858514aea16af5c0a05a57a6269cd028",
     "d66e7b5a2a37dd8a6d723d823a3e72b8bf155b70cbd35de9cda63e040df8dbd7",
     "d67a2f0b519aa86097fee926d04e39d724abc384c3bdddc511cbef03093f2dab",
+    "d67b25b45dcc17e5a5bc13c54d42f517b7cdd2515835800e4fee5d1351b7b58d",
     "d6a9b370a444a288e13dfbf746c2a8bdb3596d2dbafd903d6abe3c2c8c58cfca",
     "d6d4312e8e437ce990a23b717ff567ea262e49cfac943cb79a5ae6cb8ef4b310",
     "d6fd271ef86745267574df3cde657adb36977b02deb23ed1cc60df6f2ef3de07",
@@ -1318,26 +1324,35 @@
       "address": "Av. Gral. Lemos 1415",
       "price_from": 33000.0,
       "matched_times": [
-        "18:00",
         "18:30",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Bella Vista Paddle",
+      "address": "ENTRE RIOS 851",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
         "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Devoto Pádel",
+      "address": "Griveo 4165",
+      "price_from": 48000.0,
       "matched_times": [
         "19:30"
       ]
     },
     {
       "date": "2026-06-25",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 40000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1346,13 +1361,25 @@
     },
     {
       "date": "2026-06-25",
-      "club": "Vilanova Padel",
-      "address": "Cacique Coliqueo 1041",
-      "price_from": 27000.0,
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "club": "Samaa Padel",
+      "address": "Avenida Rivadavia 22834",
+      "price_from": 54000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-24T22:48:13Z"
+  "updated_at_utc": "2026-06-25T00:15:08Z"
 }
