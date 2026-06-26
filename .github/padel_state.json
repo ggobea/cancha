@@ -1088,6 +1088,7 @@
     "cd3d30d389a62d78c56c8750378032094f72cd7779e98bc3a723975e8c60d8cd",
     "cd4f9049b1dd764d4b158fd7ee0ba32bdee4b98479f6fb408e782680296fbd17",
     "cda10a82ee7dbf6a9ebff714845594187b14d940e7e6bad7d0ecdad10ddb9e52",
+    "cdadaf002b17a54e0e954fd99a75c02c0939e7b15126a03a59b590a769e449fc",
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
     "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
     "ce520e5268a7b31bebedd13592013e72fb6fa4b5570c132806e2ac00e9b92771",
@@ -1391,14 +1392,16 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
+      "club": "Estación Futbol",
+      "address": "Rosetti 6240",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
+        "18:30",
+        "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-26T22:16:13Z"
+  "updated_at_utc": "2026-06-26T23:43:26Z"
 }
