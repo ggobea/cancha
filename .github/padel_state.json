@@ -1074,6 +1074,7 @@
     "cb7908675366e814d7c14c68185149aea1585a0547e5b103dd2ee273c8d9d8c1",
     "cba03b7f9cf39e3651276a0447c48a9d31dd1fe3737ba097551c5c59247bd1fb",
     "cba7c26a7661706d806e58f04c741d530d41bc64f8b46bacfe53e746261f2e35",
+    "cba7c86ac3bac8e081ec0e08d44f3c1640b4b5a2a0071e9b104f1449907c7e68",
     "cbd067992e5a99d3fa38627e16bb8fa1a3603e35d43fd3ea7386a10e21d18d7e",
     "cbff55335f390a6dd4b2105b2c13eb95c90185d77614a8667b27e152815812b3",
     "cc457f15852a5b1108f1f33e198054cf1abe5389f0fee491650ad4f7e6dd480a",
@@ -1390,13 +1391,14 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-26T20:48:06Z"
+  "updated_at_utc": "2026-06-26T22:16:13Z"
 }
