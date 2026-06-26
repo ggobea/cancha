@@ -441,6 +441,7 @@
     "522c7488612d54b3c6717f4ef77a819cf1a9ef5ce47d50b8addd75f22c5d149b",
     "527c4ef299ce351f84493bf06457e1362b54add9a8234635eb617837b9d225d8",
     "528ca9650df5c9637971726aa40819e205ee3eb50274c2dbba15fa40af959a38",
+    "52a085fb2470dadfbf0d994b69ec37baf29f031ba255cbc614207396566e3d64",
     "52af7c0d7974b6da0439cb48a89a8183ade7d1f3ff127f42fc774a5a57164061",
     "5356000c434e302820244b109478ec42e942c3d02c7eeb73d36125b30adaaeaf",
     "53561c766c069bc5c6ec67247e3de10cbf2a0782afbb7fbcd8889873873dcdf9",
@@ -1389,16 +1390,13 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 18000.0,
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 64000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-26T18:53:46Z"
+  "updated_at_utc": "2026-06-26T20:48:06Z"
 }
