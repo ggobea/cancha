@@ -1425,15 +1425,6 @@
     },
     {
       "date": "2026-07-02",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
       "club": "BASTICOURT",
       "address": "Martín Miguens 7886, Villa Bosch",
       "price_from": 25000.0,
@@ -1518,7 +1509,9 @@
       "price_from": 36000.0,
       "matched_times": [
         "18:00",
-        "19:00"
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     },
     {
@@ -1731,5 +1724,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-30T10:06:35Z"
+  "updated_at_utc": "2026-06-30T12:29:00Z"
 }
