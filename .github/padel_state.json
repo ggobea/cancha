@@ -1625,15 +1625,6 @@
     },
     {
       "date": "2026-07-02",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
       "club": "Lobosport",
       "address": "Alberdi 1310",
       "price_from": 30000.0,
@@ -1740,5 +1731,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-06-30T06:14:24Z"
+  "updated_at_utc": "2026-06-30T10:06:35Z"
 }
