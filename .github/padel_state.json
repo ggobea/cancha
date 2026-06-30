@@ -879,6 +879,7 @@
     "a7cb97adc43b7120c97b8481290aec014c4404cfd4715d5ef22549c8d2081e70",
     "a7fdf487149bef71c62357a917616859d241a21c71d43de5bb343df71ca2940d",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
+    "a8b43b7c1381753100005e6db2856d34384d8df7e40c8ed5b92b62df88ea6e92",
     "a8b43e456a802fe0400a926defd88264a448e3970da95b94b03e2cb0eb3d743c",
     "a90b095b149ad39d97b85373dcf7b509e1cfdf655c215db74791a5b07ffeea75",
     "a90d60c64b0459543fc3eec9477999c22a90427f72dcf8bc27ee866c458137e3",
@@ -1035,6 +1036,7 @@
     "c3b1761bd8be23e64dc65a76c1c89f8a78d2c4067e7257f01501061248d17ace",
     "c3c9bfed316a684c0767403403c0d98e98f38641aecfc96da938e122d8ae9491",
     "c3fa4072c14366b1401399ddc5c9925a9581e34eea26984274cdd221f8db0b85",
+    "c48e6bfb58cdedaeefa6c3e63203cb0968ab157c02627a3ea962e680ae3a3b25",
     "c52f6891c04455685ce76dd9e92bdbd6838c0ee294c261ba41b1f564da99316b",
     "c53bbdc40d011b5e1bec6300273ed8b87f0f77fa6d17cdd9808dc9327d7fbef9",
     "c58c6a6ad25875924175532154033b49a868758f0abdd5bb4fa68062ad112c4d",
@@ -1275,6 +1277,7 @@
     "eb37dcdaea6ba2bf463af86be3e701b3e35e10b7e5a31ea00466fd63ff206350",
     "eb3923e403e017575f3f3b2b4deaccd5562612fb645a32c940a6ce372f6903a8",
     "eb502617e06621a499643e5875140a9da6faab182294e98151893db22e817c66",
+    "eb54f89cec0de9b84bc27f085daa3fda3afbe6fe3a9dcbd3d1f3f9a51798b1c5",
     "eb58122e97bdc66f8ec43a8043037a5d9395ba728a3f0728e6cc13c9a4571e4e",
     "eb6435bd76dfc625c05acf479c553080211881f7395415f90d5be6f9cf6fb51e",
     "eb6f77db59976572754ebecf8136a63f0d3df3f9d91fb778af1ac6ff04bc848c",
@@ -1403,13 +1406,34 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
       "price_from": 48000.0,
       "matched_times": [
+        "18:00",
+        "19:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Leopardi Sports",
+      "address": "Cajaravilla 4980",
+      "price_from": 50000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-06-30T15:14:41Z"
+  "updated_at_utc": "2026-06-30T17:23:20Z"
 }
