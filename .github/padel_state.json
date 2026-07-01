@@ -721,6 +721,7 @@
     "8a34a5bf6c02a79f1b867c306eab738b9deed59bb13ce6bc86b008837e8dc9af",
     "8a4bf8c57464be8a3927218e4f8de5b9706fc50e0ad2e50b9cca677d5bf54cef",
     "8aa35aa3d08e0935a0d3e055770b0a5df73e37ea14673e569599752644f4d9d9",
+    "8b3c8ff3e0ccc0a98d16a39f57c83159edc5259d3cb0347bb7e58fdc1755830b",
     "8b426616b6ea7fd3381a311aa4fcea37963a26dca23a9d3ade5185b1c5599ffc",
     "8b49ba765e5bb515e6648837da8bf16951d55da3007046c162156197650e7ea2",
     "8b916e3a397b688ea335cdc9aa07e90c9a534932db36d561dced85f8477335e1",
@@ -1367,6 +1368,7 @@
     "f7d71a9cba0c37fe7e6ae4d39b5089f29db312dfd07fe62112e97da2d2ec2429",
     "f7e192449660d480cf606ad4287137d4541861500580ad712951775771774e43",
     "f811d17fac279f633611f395b6ea9ff01698f2cea5c37a96c94bfafe683ad8fa",
+    "f855dc3a85cb208347c2582351bedbbe23a6d47a102d6a6ad6616fef9117da4e",
     "f89571fc0e89acbc4a8d6c353f8c78e4075c4ce5172ac4b5be5cbccc85247009",
     "f8fe3bc239bf0c836aa579deb5879ebf59e82a058bbaaa2217a285e04c6f1b98",
     "f9261e2a22b980a939010a2d7771d3ba749ae7d9bc996fb7013e65ebe9096a51",
@@ -1413,32 +1415,25 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 25000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
-      "matched_times": [
+        "18:00",
         "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-02",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 36000.0,
       "matched_times": [
-        "18:00"
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-01T17:28:28Z"
+  "updated_at_utc": "2026-07-01T19:19:45Z"
 }
