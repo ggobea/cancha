@@ -38,6 +38,7 @@
     "09af42499a6dabd55c43764e4ea0ea1b766838cf4999c0f7307da92879e42f4d",
     "09bd97ccdc6468420a65112e97afc9e89aabe693384260dec739410c5b61fa9a",
     "09e56d9e764206d40c860b0842a894b242e5d8c972477a316f5ebc906e083a1c",
+    "0a11dd61d5f9adb83fffe90283c5007308794bc286f95890f6bdd0653e8e1555",
     "0a5c779e784929940b5f7b1993123812e4e4731d007fc64985111d5fb6673cac",
     "0a66ea1d62e51c0ca574131220facb39f6f2ff0e685c1b95d89d844c119ee3d5",
     "0a7682081374a301a727e429c2c4270cf1557424e91834eee515b1f5d278b6be",
@@ -83,6 +84,7 @@
     "10ad7fc2dfb95bcb74cbbc544b9ab25d11a69beec068b5729251c57d5ebf1561",
     "1141bc0e2672c363cef80049d84ed78f07af7daeaaf917c94ee752449c84feaa",
     "11a5286e0141ea39cbae2ebb67f943879836c1ec7fa428476125c5b946343ed4",
+    "11bef5861eec35b38edfc5723f81fb9272344c3c92f6a5e533929340c1be86e0",
     "11c62042c79e5f557219d9c8757894291684003d931565c11ba500e21c51c815",
     "11d9f7ce31685422bdb98c801611e6996d681f549a620c12b3338502c2e3c316",
     "12109d77fb6d69404f0f6a3382f0e810d78019f8da4698689923c68dae830a2e",
@@ -1185,6 +1187,7 @@
     "db79e0606084d509e2ba3b49dae0635d5eb17ae4f9bd1985ee815d207ac5ca71",
     "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
+    "dc391018db886249f728d3a18a81191491e062009e4b1bc4b2b5ba47928d0859",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dc55eab8bcf4450caf31dadf8dfcb42a4d82745448992b4d0b3372b94e333153",
     "dc7cf67e0ad70063b28a99af8b457e40aef20dc2bdbea071a6d19a36c0ea44e0",
@@ -1410,27 +1413,32 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 35000.0,
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-07-02",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
         "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-01T15:19:18Z"
+  "updated_at_utc": "2026-07-01T17:28:28Z"
 }
