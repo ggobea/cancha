@@ -11,6 +11,7 @@
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
     "039a990971375d307043aa36b6526a062da9cabfab3bd1f3efcfe918f84ab02d",
+    "03cf068592719568cedc33fe8b59c59988d2450b5bb2dfead8974f60b16f27e4",
     "03e41efdbd1b7bb0e71534758063b21c6676dac9e6affd69afb5c57d4107c7e9",
     "040cb2acca22ef25e66403be4dcf3039518b33d6f0fe08f87d3ce859df985dcc",
     "0416847b9e9957f70545deb3ff7620575b110e5bad9d3438ef0177faa542d0d0",
@@ -129,6 +130,7 @@
     "1a2d00d9a143d7256e818c1cd4406003400795434782a33d32b1911faf979d3d",
     "1a34d3957379aa16de31ec1cf116c1905ba3da5a00e07d74d7e83b431e7d15b8",
     "1a80656b0661d415383497b22a2086762450ffaeee2fecdbd635ce4df4708dbc",
+    "1a8e8a2a2caf2d9e007c8c12d6020955b6ed5e570d18aad74c1369f19a1c0469",
     "1afd549d9d2765d7564fb69a3b60f71c2521db578d303a48bbdba6703b0a0925",
     "1b2f310fc6b45bdfbe79fa44597ad8a800b668cae72023cacc032e8ff2d45d1c",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
@@ -315,6 +317,7 @@
     "3a160f39567f375be4b1674266b74b551475ef3f5e42c1ba459f51d44b735c0d",
     "3a2a3392f8c1acfe30fcd312e8ce4e12df661be4094775ad1c4bdcfe1be1ef36",
     "3ad1c5a0344b8aba0976167bc1dea9f1b91ede7e9a8b081dea5a057dd7a7aa60",
+    "3b0a143bf74fcecfa49d1494455b9703ba82d8569ee343c76bf39057890dd37f",
     "3b511764a377d3c46b26c36525a3cf2b5a5c6c2481eb2559f6940805a5909e07",
     "3b8511243724fa3938a8f06bdeae03ad194ab7d481ef2fd1e3dddf6b658b785d",
     "3bab3b937ebe8124393c713c4cf3e587a23993a7579580556632ab2ce337e59e",
@@ -1415,25 +1418,32 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 36000.0,
       "matched_times": [
-        "18:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 64000.0,
+      "matched_times": [
         "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-02",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 72000.0,
       "matched_times": [
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-01T19:19:45Z"
+  "updated_at_utc": "2026-07-01T21:06:48Z"
 }
