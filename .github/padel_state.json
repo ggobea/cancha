@@ -29,6 +29,7 @@
     "077ea500942ce60270b0839e4b65052470d891ec4bd01a72a8d223a8a6129d17",
     "07a70289c867bb0b806e2e2cf3540b583cb6bc1640d652d62b0efe85d18f2543",
     "07f19bf0c62b935308435edb266b087fda10f5f7956827c3907b9dcec77d52d3",
+    "07f434c73ed5f39cc3d1058e0ed809ee707b62694cbb8cc0436e42a9ffe23726",
     "081a60ee0337e99da0da516c48e8f3db0f208dc68bbf3ab0132e7ddc2cc149b1",
     "082d1bd551a63490cf8318368399f183a910338df9f5e0ca2d1d17abf0d8f213",
     "08fe42db6d1f3ef2a2f5acff75b5bf534d025c8f6bcaec9a2155ddbecfecd645",
@@ -723,6 +724,7 @@
     "8934ae8d98e9472ef328337765070b65e6a0c64e0d923c445ad0276e23c09d3b",
     "89362d36d9ff3f1b34fe6ec3d4a3c686db666f516f80c6b00146e8cf2d4c79d8",
     "899978f50e7d76240570a0eea08331cbc85004810054501ce73dfe24aa29b704",
+    "89c452ef22aed9ad2541e0df026cd38d7f6e49675634d16b9b1f1f76da536856",
     "8a09ea106fdf827e82de2ece6c32a7b9ffaece6b8dd057c9cba8afcff949a1a9",
     "8a13cbea50865129114c306c55003c01c26a98abe2fa78ff7adcbfd4a4282777",
     "8a34a5bf6c02a79f1b867c306eab738b9deed59bb13ce6bc86b008837e8dc9af",
@@ -1425,77 +1427,24 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Match Point",
-      "address": "Bedoya 7078, Isidro Casanova",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-07-01T22:47:19Z"
+  "updated_at_utc": "2026-07-02T00:10:29Z"
 }
