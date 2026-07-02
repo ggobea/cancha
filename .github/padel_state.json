@@ -321,6 +321,7 @@
     "3ad1c5a0344b8aba0976167bc1dea9f1b91ede7e9a8b081dea5a057dd7a7aa60",
     "3b0a143bf74fcecfa49d1494455b9703ba82d8569ee343c76bf39057890dd37f",
     "3b511764a377d3c46b26c36525a3cf2b5a5c6c2481eb2559f6940805a5909e07",
+    "3b5fb677698637565da640988fc1c3f273ed7e915bf84c5838b87ad735a6674d",
     "3b8511243724fa3938a8f06bdeae03ad194ab7d481ef2fd1e3dddf6b658b785d",
     "3bab3b937ebe8124393c713c4cf3e587a23993a7579580556632ab2ce337e59e",
     "3bb20af427b4eac0e1b864cefcf411943b9cefc217626b704236a2dfd3279479",
@@ -408,6 +409,7 @@
     "4a8b8c7dbe5a88dd3db57bce7d327d4c03110f3def1e72dc76fed6d7458912c0",
     "4aa1d895af469aeae8a8d085725f71c1e8365d263866ad4dff55790c5fc0df0e",
     "4b0acbf4c62a6f5917ce60e1742efc15737ee2ef82e583cced27dcdfd241b752",
+    "4b223ef553504aa6e3fd1a36cbb00c0db0574aa7d8c1db95f780f9bc7db72f1e",
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
     "4b661048185e0db0f513e9180c440ffb7b360d73fb0f8f3baed14d34ae51fba4",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
@@ -470,6 +472,7 @@
     "547e11e3420662f9f54a1b323abe4b9a2ee7742e4c805e1fa4b2da82e89154d9",
     "54bc62afb14cbd4f7a1fc4bb655ab84525e0c883d516703eb5bae7817b8fcc27",
     "550349eae7fbd8ac1a6050e8c43140781465d42e038b01c88a6b6a67f7cd6dc6",
+    "5529e9e11925b49a0f201da5c6bc07eb992749362646184b1f56aa5b8bef66ae",
     "5557d9b747a20a7211c7291b12680149306a4a737e53889a85b8e1e426e30eb4",
     "5565278f9d6660b2e61cdbe64144aa9bd046cc5f34ea1d18b991bce872e7c7e6",
     "55adcc4d7e7aac16f8cd89a86aa0f895125a4b8ae8177b16336ada8d3e64212c",
@@ -679,6 +682,7 @@
     "7fe3f2c49f507c8562d641f351cf5f682028863daec23e7c3d991dfc6f4bc539",
     "7fec26bd6a3f84bfe2a9a8ccd15e9609666c82913278bcc55872408b057b95ae",
     "7ffd5aba8cfea154917f28506c19a312abd47d312f12aadbc76dbe9de59e7119",
+    "800ee0d474921c289282da5d1432f9299017fb9468e9b8874c4c9321f5ab4ddc",
     "8032e2acbd8cf69b181b949bd8b0884ba56b241310d0fe3f03306630fdacdae6",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
     "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
@@ -712,7 +716,9 @@
     "861040fbf667040f4dc742272d409e2cbce3c4a5a3d49d9cbfcca1afd54fe639",
     "861d698e13aacf099857f60b1688444e117fd4e4fe8e6181e217dcf3d86369b1",
     "862bb2b6312672db6bfc3f6d12a1375b6c7bc1cc6ddb396dcdc35729c84d46d0",
+    "8696575745abbac201dc989d9ae2007f5ba6f32a54d1dc5d4b6238b741e48a74",
     "86ed0e4d8a1bc68e8760966197b42c7b21c77d33a67eb8154c750c8240da5ab2",
+    "86f61ea79a57554c40fa6d5cca146c4bb2b44931c553b74998f5ce75a940042b",
     "87263b6af6eeeb8e912d5f66af04c24f90d8edf36532b2406e6d35b4856780cc",
     "8782a99a7fbe79273181e79f144d45a9e2c977297742632ba9a5cdfad488b6aa",
     "87d44a6cce35cb7cd19c19b48711c5e22887325a13e61103417f854682b3bfc4",
@@ -768,7 +774,9 @@
     "92529bd37c0ef43fc54f64abad8e79eb70428e457cec3d225b8793a4751f7294",
     "92ae60d5928055d27e431363d9fcd973d830e7955c56518e3e6238cc831b8dee",
     "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
+    "9318fde771f3a565f70dd9886faf9d27ad50571d7f2e9516b656a16505de855a",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
+    "93921201d4a73b72ea927b63e069d72c413b8581160c9b1784b7e9729204f7aa",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
     "93be6f26a60559797c62e3eb355990d230a5cd0ce06eda34652c3a770b364e56",
     "93d4e6920a5027acac858c16a942faa2540dc3ef0c31ee7c46d02a07f19dd584",
@@ -1200,6 +1208,7 @@
     "db79e0606084d509e2ba3b49dae0635d5eb17ae4f9bd1985ee815d207ac5ca71",
     "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
+    "dc1220528c45c6ba18e5a440fd4d83b9bad6d4ac3abc2c389a2a17a131d56ed7",
     "dc391018db886249f728d3a18a81191491e062009e4b1bc4b2b5ba47928d0859",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dc55eab8bcf4450caf31dadf8dfcb42a4d82745448992b4d0b3372b94e333153",
@@ -1329,6 +1338,7 @@
     "f0c601c0db9070e13b4d0fc0066840f87db53fbd19747efdb9803256df4e8ef2",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
     "f10958c947a3407ad653a875bb68048fb2efde2d6926e7c4e3ad3c7c0b170e11",
+    "f114c9189f9b11933e248712ef0dada6890daef1c5d4017b99bdf4b7fcf28a92",
     "f12b8a12b347fa3fcae87832d5de7d4aa0017072df2d46e20b52b63ffe4d44ad",
     "f13b7b9a90abe5204db59c28a31889f0213cb65577d05ba4862f2c0790acefaf",
     "f157f07234a72d8fa56e224a2a132e052618829586e1e02b443964fb66d78a53",
@@ -1428,111 +1438,9 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "12 de Junio",
-      "address": "San Sebastián 1705",
-      "price_from": 35000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
       "club": "Attitude Sport Club",
       "address": "Av. Gral. Lemos 1415",
       "price_from": 33000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "BASTICOURT",
-      "address": "Martín Miguens 7886, Villa Bosch",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Belgrano Padel",
-      "address": "Belgrano 1063",
-      "price_from": 37000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -1545,219 +1453,63 @@
       "address": "Av Colectora Gral Paz 2702",
       "price_from": 46000.0,
       "matched_times": [
-        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
+      "price_from": 54000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Efecto Padel",
+      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
+      "price_from": 35000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "La Cautiva Tenis y Padel",
+      "address": "La Cautiva 7651",
+      "price_from": 28000.0,
+      "matched_times": [
         "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-02",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
+      "club": "PADEL - INN",
+      "address": "Manuel Acevedo 47",
+      "price_from": 42000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
       "price_from": 25000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 80000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Estación Futbol",
-      "address": "Rosetti 6240",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 20000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-02",
-      "club": "Gioco",
-      "address": "Luis de Camoens 2017",
-      "price_from": 14000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "GyG Sports",
-      "address": "Av. Olazabal 5654",
-      "price_from": 68000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Match Point",
-      "address": "Bedoya 7078, Isidro Casanova",
+      "club": "PadelHaus",
+      "address": "11 de Noviembre 1055",
       "price_from": 40000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 72000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "PPF arena R21",
-      "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
-      "price_from": 13000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00"
       ]
     },
     {
@@ -1766,12 +1518,20 @@
       "address": "Av Gaona 10502",
       "price_from": 30000.0,
       "matched_times": [
-        "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-07-02",
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
+      "matched_times": [
+        "19:00"
+      ]
     }
   ],
-  "updated_at_utc": "2026-07-02T11:07:34Z"
+  "updated_at_utc": "2026-07-02T13:17:16Z"
 }
