@@ -643,6 +643,7 @@
     "77d57c428ab415814a81dc7dbe9a08319e02462f29978b0c1a2bc45d09ff42ec",
     "77e149ee6986a2ae97fe5c8585109df79846cf480157843053c80d777e79eeab",
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
+    "785653d81f47000a6f6ae34fe5c95c90a01f7e1af1098d0b01a6493d3ca05042",
     "78b4888f4a6c17577f6cedfe3d7b254077fb26e8a05c4574aa66e6c1f698b45e",
     "78dc608cd4b946cad539d45905afd75862ede44d151853249c1b367edace9d7c",
     "79254652bf88b46c200e8d2e62406eb8b006b81aa52347c6abea5608d5655eca",
@@ -1450,53 +1451,14 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Open",
-      "address": "Bolivia 5202,Capital Federal, Buenos Aires, Argentina",
-      "price_from": 57000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 30000.0,
       "matched_times": [
         "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-02T17:50:33Z"
+  "updated_at_utc": "2026-07-02T19:27:15Z"
 }
