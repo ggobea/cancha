@@ -1186,6 +1186,7 @@
     "d903f901f48a58ee964b202d30ce4662abacc3e37ba8dfa6bdb0258bcab245f9",
     "d91a53d44a1a41065d059afb8fcb9801564132c829138385add71bc8cb75cc95",
     "d98a635f59c6fe68bade310519f9b9080d7bca0c8a15bf858311c3fdd4747d04",
+    "d9dd69ad6974ba2a3d620410114055bc236c03fe5044ea7cde26f9e0de8e1f00",
     "da0da3b6115b1a46607af6c67c5f3b4c19184aa0639015a1ee97626a7ed1c973",
     "da18563ddab8f622e1d10b986df697b62c2a7f316ed7234c4f1996f92919324f",
     "da4ead08f36219517afa4fbea339c57b88e07621ec4180b73cbb167c0c8fc647",
@@ -1427,24 +1428,13 @@
   "last_results": [
     {
       "date": "2026-07-02",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-02",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
+      "club": "Match Point",
+      "address": "Bedoya 7078, Isidro Casanova",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-02T00:10:29Z"
+  "updated_at_utc": "2026-07-02T04:40:32Z"
 }
