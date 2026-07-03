@@ -1831,16 +1831,6 @@
     },
     {
       "date": "2026-07-09",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
       "club": "Lasaigues Padel Devoto",
       "address": "Arregui 5138",
       "price_from": 85000.0,
@@ -2035,5 +2025,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-03T10:06:17Z"
+  "updated_at_utc": "2026-07-03T12:26:35Z"
 }
