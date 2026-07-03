@@ -1148,6 +1148,7 @@
     "c90d448d0558f4b258bc2cd5abc25b0b9452ebb6f73be2569d01536400a5f788",
     "c92c95f8096be97ab1f8dee52f73bd97a029a8184a836fd3bf00dfb0c218fbd5",
     "c971ab6a33a045bf0a8873a2d00679617da927f6b1752fcf12b06e7e7009dee3",
+    "c986055afba4981a7b779e6968fff4fd15e9b8d49a6d03aea024f4f1c8fd7012",
     "c9abaed364a656ab33c89135d51a535136662e13bef8514082da2428b47a9bf9",
     "c9b50ba92aea37829da57bd8734a727bddb4cd91c21ca99091dec9a0d83ce510",
     "c9bc8b8e3fd31ef01eff1c481c43b2e5484447a9129724fd0f2f49f53dd29fdc",
@@ -1514,16 +1515,15 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 45000.0,
+      "club": "La Cautiva Tenis y Padel",
+      "address": "La Cautiva 7651",
+      "price_from": 28000.0,
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-03T19:41:20Z"
+  "updated_at_utc": "2026-07-03T21:09:19Z"
 }
