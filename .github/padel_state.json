@@ -1701,15 +1701,6 @@
     },
     {
       "date": "2026-07-09",
-      "club": "El Predio Padel",
-      "address": "Boyaca 1766",
-      "price_from": 66000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
       "club": "Estación Futbol",
       "address": "Rosetti 6240",
       "price_from": 60000.0,
@@ -2012,5 +2003,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T00:08:59Z"
+  "updated_at_utc": "2026-07-06T04:52:01Z"
 }
