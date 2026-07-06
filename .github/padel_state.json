@@ -255,6 +255,7 @@
     "2d94a3c260e97352f9c1df61f710f40d9a1820f06e2dfef3ffbc6017c3187ac2",
     "2de8b31f25ce5acf19c5d477736d7bc25ba184ae922501b76fdc43a0851a6afd",
     "2e03c26502f76b2d1908bef7915650b72a3c34dce579d2e83bd3fef8eb5441c8",
+    "2e2c6fb212a02720b21e59bc159461baff0444fa0eb029dacfcc4a4f9ba0295e",
     "2e3e6899b82e27e32e0f19997944d6b520a49413b90657fe840050b44f563cb1",
     "2e45a1efb237b3973ac93219dd1d58a8bad375cf72e0b663b176cb7ff647c965",
     "2e598c616b3f811186d3388ebee4673eef27d70394a142093f37ad23a1d07efe",
@@ -431,6 +432,7 @@
     "4a15bfa0123b9c0b26d51d4487a9a925d61aebd18a73e0dba9a36f0b9b2643c0",
     "4a1c2beead067cbf7016deb18ef8dd0e7ccda429e67876b6304a444b2b5c762d",
     "4a1cfc12851d625479068d2ee8ace24e2cac9d554f4c72e381d1d2f2a405cc7f",
+    "4a79deb332bb167b406f95cac9f8bdbd21c09e94c272fc2fcc2bfc5f7fb8dc91",
     "4a80abfbefd8e8c6072588e16bd58698dced8ff97b80326a43947a937decf7b8",
     "4a849ffadc36d22d934afa9429619c100b4a9561085a64efecbfc491defcaa69",
     "4a8b8c7dbe5a88dd3db57bce7d327d4c03110f3def1e72dc76fed6d7458912c0",
@@ -1532,29 +1534,12 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Club Melian",
+      "address": "Av. Melian 7760, Martin Coronado",
+      "price_from": 12500.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "PADEL - INN",
-      "address": "Manuel Acevedo 47",
-      "price_from": 42000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
-      "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     },
     {
@@ -1563,10 +1548,9 @@
       "address": "Felix Ballester 645",
       "price_from": 15000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T20:53:54Z"
+  "updated_at_utc": "2026-07-06T22:14:36Z"
 }
