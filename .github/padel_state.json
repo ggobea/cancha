@@ -19,6 +19,7 @@
     "04489e71429abd43cd494ba92a9dbb549d0d145d0c356870939c195141a0958a",
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
     "04e89f7730c56e7614f1a71d623195b98994b3aa81a9d39c21fbb139f0260638",
+    "051124b92f86f6f1f85e073fa8b0000bf36168929dbbb240bdd1d4e06db4b00d",
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
     "05872038e621752a24d0b55f8acf427fe70c9bf704fea29cad78b6129152277a",
     "05a3d9ae8181a58ce32901967ae936d16912d776ca9c9932bac0f3a51e5ae264",
@@ -66,6 +67,7 @@
     "0d209b74f3087b256d92a23a98d6f1d3a8da54a267a00145ef794185ee84c165",
     "0d230964f9a19c87244eb47e280b09993c58a2db0cb7fb7064648db262c75ee8",
     "0d578ec1a69e190b8d160d114eb3ba0cf092f8e8817fbd7f8afb1e5b7c63b289",
+    "0d605281e9b0f670edfe9b310c3353eb9c0af7192ce741dc8999aeb58d19c68f",
     "0d6bc0309529087d05e6ef0adf8198650e45af65d70ed3135a510f760694c0df",
     "0d771e8e26a6147573192ac1047337a86fcf812784e8713765c53e58d77fc328",
     "0db62f07208504ef341a0cbac0b087a0a646591885ffed3b74b73289d68961b9",
@@ -656,6 +658,7 @@
     "74ecda5a3c79eb7b334745d03ee3064d0619bc14c7cfadcb466a2b2b042129a0",
     "751feef5d8567414fd8343b6cb6d676c393311b239302423962dffd39e544438",
     "75322380662f125d396927553e10bab79b93635cca88508080b56c821b593908",
+    "755ac48b65663ed447f35d748e17337ba8b384d5da686416ef1a7dfb9c1beab8",
     "756d46f2ae7c7cffbc115b8bc558bbd015e1cdfcdee744eeac2095772411d172",
     "763f65450e631cee8e54668fd993df05f234635ed4c1b4286de1cf73625e6318",
     "764696a843c1b1462f16fcce7113f959a65344e99e3f98c87cc5ed6e01ab2c80",
@@ -711,6 +714,7 @@
     "7e4c481fc6bc96fecc18988e973626b11b196cde4aee9f33d00c5eca56c4fee4",
     "7e69b667164ff2e6e3a16ac466a05161d31f3d1e735fe5010c88184b581b75c2",
     "7ee1ba21996c62b4cf1eef64d6b919c5be85c5d78d39330c03fff0bcb06f6b82",
+    "7eee939e8650641496a6cad605f9b07df5b08b7a1cfcbd45b250f14626c30abe",
     "7ef57706c6afe3ffbb376f75f515f394f8659ed258f09f5274cc26d1e898ca75",
     "7f0a7f20623957d532a9dbe7341d7b0ba00ca627802a19a80f800b6f3eb6ffc8",
     "7f2c6858238ce2dd0b33de53b6c3fc8591ba0230b2d145ce81af8e693dc8a882",
@@ -1524,55 +1528,44 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "El Garage Padel",
-      "address": "Marcos Sastre 3152, CABA",
-      "price_from": 80000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Padel \"LP\" zona Oeste",
-      "address": "Padre Varvello 4427",
-      "price_from": 13000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
       "price_from": 40000.0,
       "matched_times": [
+        "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
       "matched_times": [
-        "18:00"
+        "18:30",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "El Garage Padel",
+      "address": "Marcos Sastre 3152, CABA",
+      "price_from": 80000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T16:36:56Z"
+  "updated_at_utc": "2026-07-06T18:56:05Z"
 }
