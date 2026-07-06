@@ -1,6 +1,7 @@
 {
   "sent_keys": [
     "0036622dae06f0e088c46e0b6e565cf719850dcb810053f926f64b903850ffc6",
+    "004e7d5741563d0725c3dc5c2c600af6e107b189cab3d5c7b6b0459762624803",
     "00cc3244a0004ffe522a308e486aa88bf42804f0627286f6c2e5661091ae58a6",
     "00e88816226b6ccd5a38dc3ae1e02e0a4b3bfdccba13402ee266d83750479f6b",
     "01a5b3a4dc872c6ed8c9e745085a7bd7c49b0f2a96ff24f8956d335d0c3caeb8",
@@ -411,6 +412,7 @@
     "46d1913d07fd09da8eabb4aa40ffbf41023048ad71780722ab23c44c7db19ef9",
     "47207a21db98effdc05f9fa2e47ccabe2c123e44b97e97af6d4ee8b8ba25ae8a",
     "47c1b12e712ac9022599603cec586533de473bd6d1d5a0be94093f10dbdcb9cf",
+    "47e2de4abf78db1110593c5dbf2440b46a3edba869c72d04ae69693d4f768012",
     "47f4c82d76c59817d602ae17fb9d8d526ba046efea4b6dad335cb526f9d5a373",
     "47f697e39115128357fb46014634e7fbed46bc08100410757e95efa6c526aaab",
     "48dd2eb1ba655d1abff53d3b0c10644a081101a5ac79ff860a59e50c17595034",
@@ -569,6 +571,7 @@
     "61133b0caec5914e4891bc308b12ae382bebd8d3c1341244c2070e8f7c29446f",
     "613fea35234e80201363e19605a09bbc8842894d7a66088f014c8d22aa132839",
     "6174c5d67029ccac8dd376e4abc6434626922097f7ae822f66a0a8142b07d786",
+    "617ff6342f217ea8bedf7e86e51b5bda572d055183481ce84b91191902ff0d7f",
     "61b7bc715a22cdecd1e90f0d0a67d68345ee3f19b5b637e82e676c5f951c47da",
     "61fdb5d531ef7342948c78f1da2da7a91181fc6ddae39e5eeaf655c401353a7e",
     "61ff8f9f028a988402a8ba80de0df9fe88b4020041a5910077611a4f91e5a2a6",
@@ -1198,6 +1201,7 @@
     "cd4f9049b1dd764d4b158fd7ee0ba32bdee4b98479f6fb408e782680296fbd17",
     "cda10a82ee7dbf6a9ebff714845594187b14d940e7e6bad7d0ecdad10ddb9e52",
     "cdadaf002b17a54e0e954fd99a75c02c0939e7b15126a03a59b590a769e449fc",
+    "ce0dbf134415d2cf2adbcb4dd4bda44f8ef5d08b77d1a0959d79c19e9c5a9854",
     "ce3391000269208891f7eea85e4da4e9a78ef52ac1dea0806c9572f4c1b36949",
     "ce4fc7b6339d0524bb27567990bd9267a5aa3e51d8cf7b2f6f30dad66b5f8ff5",
     "ce520e5268a7b31bebedd13592013e72fb6fa4b5570c132806e2ac00e9b92771",
@@ -1528,44 +1532,41 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
       "club": "Complejo Solana",
       "address": "Las Tacuaras 2975",
       "price_from": 52000.0,
       "matched_times": [
-        "18:30",
         "19:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "El Garage Padel",
-      "address": "Marcos Sastre 3152, CABA",
-      "price_from": 80000.0,
+      "club": "PADEL - INN",
+      "address": "Manuel Acevedo 47",
+      "price_from": 42000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 56000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "San Marino Pádel",
+      "address": "Felix Ballester 645",
+      "price_from": 15000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T18:56:05Z"
+  "updated_at_utc": "2026-07-06T20:53:54Z"
 }
