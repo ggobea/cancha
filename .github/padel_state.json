@@ -610,6 +610,7 @@
     "6aa65a3bb4708e6a48e1b4548f9ad85bcc4a90eb5f605eded3b610269d1c2a66",
     "6ac20b3c1fdac4606f9827b1e3bbfcc6423acd162b0f036cfb323d5b85f50c7d",
     "6b22d7b678a749fdf3b7ed1051c4fd307d4ae5c5f1aa541ff185d7247c8d63ea",
+    "6b32ee98b3cb3379f5cd0576b994886ade47e37ddf4773c00844ec5b318f8627",
     "6ba3523b0dc6407a7cc7031e49f358a64868d051ecde136d79f205ee9fc4e8ed",
     "6be09ae66f6c1e926cbb4dceaf2e184fa5c412f3d96880e9b6a5d178cc05bc6e",
     "6bed7f9d3b73a90f9bfadd6e8bc703bd98b03ffffb373f0ef114a6d1db069d1a",
@@ -848,6 +849,7 @@
     "94b26c8d17ee067c0034614434d00ca06a80565bb8bfde677152cecc31369221",
     "94be297b10e20d52b71366ba78dd93ff216c53ea3dd98fa8fadcffaf67effd57",
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
+    "94ff206b9e18aba242aa2e3b1a1cfed33cf6ffea160de49281f9759fd78405f5",
     "95ad480aff70971f4e1a58f8063970c4e56281e9f445b4dcfa1cfed0cd120bba",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "95f268c150de2ed8428f47f8674ac5d312ce82877956977cbb6887f0bab2edab",
@@ -1534,23 +1536,22 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 12500.0,
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "San Marino Pádel",
-      "address": "Felix Ballester 645",
-      "price_from": 15000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T22:14:36Z"
+  "updated_at_utc": "2026-07-06T23:38:02Z"
 }
