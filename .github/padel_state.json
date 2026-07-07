@@ -404,6 +404,7 @@
     "458e5a8caa9c76c68550d36ba960c01fa424a3cc8712e52b28e58b9db57b43b1",
     "45bef2d95955bb30f090fb8485bda4ab5a8a20df55256148e38ffe806c9ae302",
     "45c246315654c6cc3c8265f50e8ba27baa579516a63d118bcc3ac43001835bcb",
+    "45f150915e24323b5ee71c76cfa92b0a4e602d7f5bf57b3d5a340bb6f0aa24ac",
     "45fde993047fa8bf9a7416d83f69411d86ba4b66e4384764c2d768c24852e964",
     "460262f264f52ae88988822c9282433e1edcde34aee9727ea225fbd023259651",
     "460cf20380d555be88c344bf7a5b647dcc618084621752e356a10f3a7c647574",
@@ -1191,6 +1192,7 @@
     "cb34b98433f9eb6f1ba2fe59001ca2b7fb85a724a00ef7129b965276fd5be7c5",
     "cb3ade0e87370c823e66b70b7ebd32929cfa8f96dbf18a3ccc02e3c84bac615c",
     "cb4b266e66afcae132612e2426ff1d39510edc2e9ccbf11f6ecafa5d66d42458",
+    "cb776edad82e0b56c7f3f33f65d55b8652b7864261d37669e82315f150e29dc7",
     "cb7908675366e814d7c14c68185149aea1585a0547e5b103dd2ee273c8d9d8c1",
     "cba03b7f9cf39e3651276a0447c48a9d31dd1fe3737ba097551c5c59247bd1fb",
     "cba7c26a7661706d806e58f04c741d530d41bc64f8b46bacfe53e746261f2e35",
@@ -1526,6 +1528,7 @@
     "fd5eac1388211f3d75a912b7a0bd3f1077501c2068418c673c9b98b91ca4c9f8",
     "fd8d7332de8424c37fe24368a232dbaf9190683f0cda8dc261f80fd6cd8d78f1",
     "fe287f1e77618a1b4fe130b5131d84020eb50810166f7dce0e3678ac1527b75e",
+    "fe5e2468e56fb2c7080c11f2c943685374b4de82bc81484a88f27c03454190ca",
     "fe877f64aab3dd130f0eb1c08a515958753bc95cc871ffe9f39f1edf760423f7",
     "fe8e7b55b2cba1f031095e29a2cf23d8e7deefb45b90bfa1421b32697f16875a",
     "fed4fa6f77d72a544f2d50020f3f6929895537a749f8d7dfde8f70067b9df061",
@@ -1543,24 +1546,34 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
+        "18:00",
         "18:30",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 55000.0,
+      "matched_times": [
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
       "matched_times": [
-        "19:00",
+        "18:30",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-07T13:34:13Z"
+  "updated_at_utc": "2026-07-07T16:32:38Z"
 }
