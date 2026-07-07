@@ -718,6 +718,7 @@
     "7ce9cda7bb7039c604290ce416361a4fe0cfeb6a5f8bbca85576d953d6fa8417",
     "7d030d1b3a557d2b012031ee6a60597809fda83c335188607eef0092e68029f8",
     "7d0cf0bdff4b9e1baae0431945a409889b43ed21c7bd829b62d05ae3d1fc82c4",
+    "7d1535097952159ad3d09a887801697ea7480ecac677423fa8e63bc7c0555836",
     "7d1d5d5e33d6e3eb401e5930b1d786cd3576d923cbccdf85715f945a8c64395c",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
     "7d9f0874c8ec92e31456082900e6eb92f8372a8c09d195b3e2411d5fe9700a89",
@@ -1547,14 +1548,13 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
+      "club": "Sportclub pádel",
+      "address": "11 de Septiembre 198",
+      "price_from": 78000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-07T21:06:00Z"
+  "updated_at_utc": "2026-07-07T22:37:46Z"
 }
