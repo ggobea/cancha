@@ -220,6 +220,7 @@
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
     "27d0f127816df6565e0c3ce61f6d96af28bc5f533c1bef08d3037c1f7795b9c0",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
+    "2810179e88ce2f720e0c5a05a02fe998387f8e66aa32f0dbf9472c83dffc3778",
     "28331ce3677a29afe2def3101475f1eaa57da1dc63eab45de2ce10c67ed3480f",
     "283c3d99425a1d8a2eb2da41d74c124c635204c4ab2686fdf9f4a8267ed8e309",
     "286b8f5c29ded07ae64a81a9f48cd381fa848675afaa4ea4f79ebf1d8cc98f02",
@@ -739,6 +740,7 @@
     "8032e2acbd8cf69b181b949bd8b0884ba56b241310d0fe3f03306630fdacdae6",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
     "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
+    "80e98e0dbe1183e2befeb6558fbcdab09925f56270c0ead88b0299e4237ae1bf",
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
     "812f928d6ffe2bd05013f44bedb7f4951a43867595462f3b6dfc34c9eea186c5",
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
@@ -1541,14 +1543,24 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 27000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 56000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-07T11:09:32Z"
+  "updated_at_utc": "2026-07-07T13:34:13Z"
 }
