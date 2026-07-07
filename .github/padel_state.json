@@ -184,6 +184,7 @@
     "2284ec429d93fdda242907e35d4f638439a6c525a98d2b2695416089bdef44a9",
     "22e63797d2bde2a9cbc9b90b111c2c3eb14a1e5ad70c31122bec3d75315562e4",
     "22fed809612329036478ea69e579a6c12fd647bd3b7072d9ae4cca9bf69058db",
+    "232ba10c1e8a2b11ca7cdfb05a993b267a6b57eb3dc0a6fb13a33aa3a0284b13",
     "23314f02b8d1da909f629b051b2b1ee7d62d3fee147de762ee37cdfa8190b2e7",
     "23398338229a63421c92ca7b49d05a1547ff1f1d251c95fdec66fc80f78a9f27",
     "23a4c663437cd2dafb85625564566adfa23ff5c14af630985aa44360400be43c",
@@ -357,6 +358,7 @@
     "3c9dcdcb62f329470f2ff230867bd39c1744a97ac6817d67dfc4ffe60c3911b2",
     "3cc9dacc0aedf7403e4f273ad67ff496e2b29c784f657ac8b3d9fbc172b59ebb",
     "3cf16717a26154b5bf4686f2e18aa57f5d47ab775d45223282c03617df09c735",
+    "3d22f946be490cebcea4d75019ff93311d8a746c2f90c0ad695197d79258ded9",
     "3d6919ed3419b60adc25d69481977d2a4ee8d49c1012dd2b694fcb6d93530483",
     "3d99e427d952f8fac0f15f6db51b81841473e1af0d416fb1ab1c6b54d5257965",
     "3de238dc4588a042a0e1222d67d811caae77ebfeb9191fcc3255fb78007f3cf4",
@@ -518,6 +520,7 @@
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
     "5953051662bd56f5ad91fb7856ef0327e47477bd9ecced87e1e6df57fe050f5a",
+    "5992d5478665438ca21b344269b358d2d7fe4984c725bf1f79be8a5632928a27",
     "59933768fd5f42ba48d498e211051739317ce7971180b6e2d7c889419981043f",
     "59f90e3fe6207a94506d63499a525ef45ff4ef200398649c7d01ca596db43787",
     "5a2be6d6bc9d024e50902154ee2b17a01d79a71fa9c44837a38051b45b951fb5",
@@ -1286,6 +1289,7 @@
     "da7b39d39764fd3d097fed3d24c1a8ea0fd36449444c6cf6e2eb4b2769fe32f9",
     "daa25a74c99c812797a6e5200ee177f96ed94587ab597a756a0940c09bc11aae",
     "daa2664447e76784f2e38ad9a54d1a41bf116ed6dfca3c070052eb257f53d239",
+    "daf4a9ec2e38e0020abeb74067605dde4c980321885df903d157289a0b882875",
     "db42b11ff206d58952efd864dac07812e543155adb3b10e06ba561a7c3d0f227",
     "db48a06d379b49162a7145d02877fbbfad334e87be64f179e7acbf0ca578840b",
     "db4f6bd5e0bdfd90872abb4ed7dfcdf038a325e01d6b9feaf5aded11d5e31643",
@@ -1536,22 +1540,42 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Arena Padel Barcala",
-      "address": "Avenida Gaona 7243",
-      "price_from": 60000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
+      "club": "Juventud Unida Padel",
+      "address": "Arevalo 1955, Caseros",
+      "price_from": 56000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
       "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Nivel Uno",
+      "address": "JUAN JOSE PASO 234 MORON",
+      "price_from": 64000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-06T23:38:02Z"
+  "updated_at_utc": "2026-07-07T03:37:58Z"
 }
