@@ -278,6 +278,7 @@
     "3067987154e26729423c0348da7b54c47f06bb05879d91d502926145a9e0f1c1",
     "308202f105b9560a45373ef930746f1bca78eab3b060dda438ab73535fc5c244",
     "309009777e6a5596d4dc1947a3a99733ab1167bd48050de92c1968d984373c80",
+    "3091d99f557810f5e851ea92cecea8e0307b0888aad4fbe64b36cc116c10888b",
     "30b30e86231de6967c6d107da61f986dc7ae83eee4a522cad6f913f83f73f4b0",
     "30f808b2a834d8ee9130de1ff3ff90d0d7735ed06818a927d3d3b505cebd66c9",
     "311a321538a7d6bca8d0cd01d708a528ddd69cc7593deda871cde2e0f62a7b0a",
@@ -895,6 +896,7 @@
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
     "9a927c23077af00f92bfd9b2d5c5f9359507550343401b6df51b2ca8bbf7d1f9",
     "9aa5852fee28b8e277474a5040506cbde624e9dd6886988ed19555e4660df2e1",
+    "9ad8a68e8bb08af679cfb842c1071463fd8af6c5de2589c5765813209c978ef9",
     "9adcc5457c7e7e83979cb7181238c8bf50964e8674c14186bf201a8e3e0c1cbd",
     "9af555e27a730ad34c23d3ea83838fba8cc0f9d477735ed05462363bcff309eb",
     "9b2cce97bd15d0ea1086a8a84068fcb810686bd72eea2414649d76ec586dead9",
@@ -1548,13 +1550,23 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Sportclub pádel",
-      "address": "11 de Septiembre 198",
-      "price_from": 78000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:00"
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2856",
+      "price_from": 72000.0,
+      "matched_times": [
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-07T22:37:46Z"
+  "updated_at_utc": "2026-07-07T23:58:47Z"
 }
