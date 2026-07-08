@@ -172,6 +172,7 @@
     "1f7a2b23dd02a69aa72c16e16726d8bf2432494ca32f7c087230714235530551",
     "1f90a1d293adcee72d2d62463753bd66680986b4ceb4e40c8060ca0bb8513e35",
     "1f971c5260221bfdfd9517b57ba31b59872b2a99522dbfc17668a105f59b0f69",
+    "200975e967e02aef1229db05f1dbc2a5bbbf9b90701f3b95dd1c594fee7a7cc8",
     "20223cd576bad15019baab4e5cb0550f9b51549d944a572927e98665268ab3c8",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
     "20dbc45638db20b3baf54d8efb015408a7c50c570bcb97228f8eb89558282000",
@@ -191,6 +192,7 @@
     "23314f02b8d1da909f629b051b2b1ee7d62d3fee147de762ee37cdfa8190b2e7",
     "23398338229a63421c92ca7b49d05a1547ff1f1d251c95fdec66fc80f78a9f27",
     "23a4c663437cd2dafb85625564566adfa23ff5c14af630985aa44360400be43c",
+    "23b219e75e5afe4c7268b945c5683aeaa8ffd963657eb7c1dc91a2a119de2c51",
     "23cd092253b2a9a127b2e9f343370fb3ee7720dbb5d64119bd7474b2450a55b2",
     "23db4574a8eb3757e225843e283039cac1aaf7b754115c1669321411dba546c7",
     "241cfe3638b525c3662a0b7bb81179dcb5a7329fd30e481ff422928c27ad7f9f",
@@ -675,6 +677,7 @@
     "75322380662f125d396927553e10bab79b93635cca88508080b56c821b593908",
     "755ac48b65663ed447f35d748e17337ba8b384d5da686416ef1a7dfb9c1beab8",
     "756d46f2ae7c7cffbc115b8bc558bbd015e1cdfcdee744eeac2095772411d172",
+    "75bb494c0d3ddc91b83e16953e139eefa68c97ad2cfb7c9385337d28ad9e663b",
     "763f65450e631cee8e54668fd993df05f234635ed4c1b4286de1cf73625e6318",
     "764696a843c1b1462f16fcce7113f959a65344e99e3f98c87cc5ed6e01ab2c80",
     "764a04f1c9de7f1978a11829a380fda9682b0e9fbf0fd687823e0e37efda65b1",
@@ -1123,6 +1126,7 @@
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
     "be7a7b64abfa0c2b76bcd39121ab02107288d9ceae531b8f88e7057cc96f210d",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
+    "bef8ae4b196882ddf953a37c8f89231c2efd8230daecabfca801f88349bf5724",
     "bf100bcd32ab3431d070b083c000bcd372a4523094bd21de3408f3e65bf215df",
     "bf54ae8198207c5d4995dc3d9054af64afcd858c07c846fc90043b033280ece7",
     "bf84ee27aaddac31d04c0fbe37679a8a642752e8d9d5fd0ca16c9217fc595ba8",
@@ -1208,6 +1212,7 @@
     "cc457f15852a5b1108f1f33e198054cf1abe5389f0fee491650ad4f7e6dd480a",
     "cc7ad6b4bed44a7a942315de22095456f2d9dd3c9f8562ce070a495db83bffd8",
     "cc7f0a3df71f93db84cb32054715409a2a9f2c71ae457863a6819acaf77581f2",
+    "cc802f98b50115214f01a3249f1e9acf7b622488a6cee2a3d8cdf16dd3fd1bbe",
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
     "ccea99656d6ea093971254504c9772d409194cd4314807b247ba69ec1eff0f0f",
     "cd021d2196b66a2630148cd9f906c8aa1ab0859e166e1aeb3c2417e91a7c8534",
@@ -1249,8 +1254,10 @@
     "d2cf97fe0fa71f4d77540da4dcd14e3c2e5f44a0c4d60e0977f2418d99799db2",
     "d2e7e803a0db7c9e7d0329db747c24533410b57d354bf592e3e3039414df8b31",
     "d2e82d3884137f68c5c8b90bf30f807a668af8a974de4aacf3fdc8d292459548",
+    "d2f4ecb20904f22983dbb2ec256ce0166da598aa0bfb321d067ad35fa178a379",
     "d3117fc4f553dfae7631df32b984aa0605ddb41842eca453f34f5d90690272b1",
     "d32d01f1e83ae6dc8fce38f63243518b259dbc981c152247e95822d75236f1c5",
+    "d344b52cb18456b14ebbbf7e8f0877f2ebfae1975c7af91d6c3355197bc72d5d",
     "d3630b173bf3a7e6b6deecd415bfab700c445e145e5f992f0769e69773486966",
     "d36c951126c0a50b56dddd9fe4785633ac3cd8e4f6286b1262f5e88d1160b873",
     "d37d95081341f5fd3a85e925c4efdaaaa65767b7f2333ebba8ab484b68b98757",
@@ -1364,6 +1371,7 @@
     "e3570c04cec7fbbd9cf5f7a0adcf1a6792155c8aa7f40e3b6ca04fe60a3f57ce",
     "e35bc06e0adcc0f6c2c19ac47487d35e66158f3216d1f3e0a7bde756665282ff",
     "e37e82970ddd3e7cf64d9de2e10e1b1539ad7bb3a1f0b6ac25006bc06864fb3c",
+    "e3a886c38dcc15439b33ed2397d277c20c9c5af5aca38ca2c1e92dcf730918b7",
     "e3d5ed43ee568e5d0f10e71c7a53394c0d610487e98f7e22480aac0461dd17ac",
     "e42a9096aa9b0d78824ebdb3e3e75a56368f1f23bcce556277d7cb6b02ce6f95",
     "e44270ac643206382ffc3547b0ed1ccb2a33360d25f9ceefbbae133efcccfba1",
@@ -1553,18 +1561,18 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Chance Pádel",
-      "address": "Simbron 5449",
-      "price_from": 46000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:30",
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
+      "club": "Club Gimnasia y Esgrima de Ituzaingo",
+      "address": "Niceto Vega 2298",
       "price_from": 48000.0,
       "matched_times": [
         "18:00"
@@ -1572,13 +1580,63 @@
     },
     {
       "date": "2026-07-09",
-      "club": "Torcuadel",
-      "address": "Chile 1920 - Don Torcuato",
+      "club": "Club Melian",
+      "address": "Av. Melian 7760, Martin Coronado",
+      "price_from": 12500.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Efecto Padel",
+      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
+      "price_from": 35000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "GQG Vip",
+      "address": "Irigoyen 2050, Buenos Aires",
+      "price_from": 52000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Village Club",
+      "address": "Tandil 2650",
       "price_from": 72000.0,
       "matched_times": [
+        "18:00",
         "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "World Padel Center CABA",
+      "address": "Belaustegui 3041",
+      "price_from": 68000.0,
+      "matched_times": [
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T13:06:00Z"
+  "updated_at_utc": "2026-07-08T15:41:36Z"
 }
