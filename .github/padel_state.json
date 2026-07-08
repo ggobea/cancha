@@ -1108,6 +1108,7 @@
     "bba78c63b2af5776491678ae0d0514c7d56ed43f9c2943c2cf4391901a3c5d79",
     "bbb223d3c3c861b9b537f05116989ef1656be62cb00b10a7b6353ac132af29bb",
     "bbb3bfaad6134ac135b1f68a440603d7b48cc33b827fd8cb1a80f945eaa4b3f2",
+    "bbb687bdfb50aa912190e2982d9971d7af43dc4f863cb06fc6d9563441e5e179",
     "bbd22c882a68cdd1c62272038f018b46796e762a0c0f15e9408c96b2e7deb2b4",
     "bbd9fa9b3ba0b85b1815e40092d54df5f7e44b08de49a73de39c02e56e5d2ec4",
     "bc02a4a820533c7e1945b26a658ae3db9467ca76fda41bdea702c9980c7277f7",
@@ -1232,6 +1233,7 @@
     "ce8c47e5230d53e849348af857872f23747ae5384ebedd57e23e5f22ed6947bd",
     "cee844aa3d9d7cc1824b9caa3e3cb0efa8b1902a478d48a9926581754acb7699",
     "cee98b1926e5e512302d9924c9120c46f188c3efb1a5451bac2a13dccec1f427",
+    "cefd1f40620b117bb559bad9f8ebe783e3d9f501c87c98cd303357dbff628c65",
     "cefe7d3fbbb9b5a8146b16d7acaab60fd8b94d70252484ae5a0561de3f5d11d8",
     "cf12bfaf0414ed26cbe7748cd836f3c083f9043c1475b6a734675d908b7c6381",
     "cf1a858628ed92f2a19009a7044e8549afa770b51414fadace66ee919d5e8edc",
@@ -1414,6 +1416,7 @@
     "eae021781b26f12a2e8ad0a8635cad10dcc3a6dc81159b390de4a1374370c8e7",
     "eae251f729b73c6418e517ac43a160157d262f113191b7023b2f7e370cc8ea74",
     "eae997cc643acdae3bb537496813b3bd152e75c0794e38c7ce48497f51a56c5d",
+    "eaf8de38f58943dac68afeef8de72cca5b33568261589cb1224e768b9c47bb01",
     "eb0080ee326fcd5822d535cfc58f8eb224d77fcb975897ad2087bdd1ad96f058",
     "eb17462be5d616f7095a0330c32a468b9962215bff8bcf14d0162a00b7d2f6fa",
     "eb2209a52f721db42282656f537d629021359a28726a5224d9e7d704515fda01",
@@ -1561,82 +1564,33 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
+      "club": "Apache 32 Padel",
+      "address": "Av Leon Gallardo 111",
       "price_from": 40000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 12500.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Efecto Padel",
-      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
-      "price_from": 35000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 52000.0,
-      "matched_times": [
-        "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 30000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Village Club",
-      "address": "Tandil 2650",
-      "price_from": 72000.0,
-      "matched_times": [
-        "18:00",
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
+      "club": "Kauri Club",
+      "address": "Triunvirato 1572",
+      "price_from": 29000.0,
       "matched_times": [
+        "18:00",
+        "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T15:41:36Z"
+  "updated_at_utc": "2026-07-08T17:39:01Z"
 }
