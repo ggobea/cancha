@@ -316,6 +316,7 @@
     "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
     "34bf794d2c9821ad2d759fdeaa0cbf71bc95cc80abfeea1f2b979cae32938af7",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
+    "353445d2b2b299664b0db781cb7fcbf70ea627ce6647e6d280e47e4eaaada225",
     "3576d28402f1e76cf0618af6fc980c9b6e125a0f1324dbec080fd0ef8a123c2e",
     "35a16e66c4ed2c9f955274437881b8e1b05119b3be4c462b022cd54936b08509",
     "35dfcc2e16fb22076286d4fb181737dbb914425f4b7bf35d4cef99eae003739d",
@@ -744,6 +745,7 @@
     "7f3d932aa5f868f79d156290239a7218120ad20d66dfd5c370933f07717b0dc9",
     "7f47c5593c748c3473923cf3a2d7f7b446ae34e23766cb1a69e15dfd9928de09",
     "7f6b239bc5139281765842fbff3738ca868836091968b8ea4f47e8291dd39f7f",
+    "7f88639a42fa8a48495959fcfcd6450fa55c9f769712657b9edbdc3365cc55a9",
     "7f961031cd64ac40c8190dfa31e6391427990fb8ef142a6caa164e7f13d7579f",
     "7fe3f2c49f507c8562d641f351cf5f682028863daec23e7c3d991dfc6f4bc539",
     "7fec26bd6a3f84bfe2a9a8ccd15e9609666c82913278bcc55872408b057b95ae",
@@ -1249,6 +1251,7 @@
     "d00f771ecb964263832ee7ac060107901c1f4b102336714348352b9c27c3bb60",
     "d017f5080701666733fa4445d04a92ca91e2be1dfebc85da29fba325e8a20e2a",
     "d0a0d9697b1ed6dda9a95bcd4021b132f205e3a9907f273b8ea41df92b5f6256",
+    "d0ba0f07a89879c3bc7616b9a578b082b7d65057d1d875ddcc94e6cf5af7e39e",
     "d1321306fa73ea840b5b54b49d2ffbfa632109b5dacf106f21698bd76631283b",
     "d1675783ba20ab7430e449d8bfddc6c05552acf297a3f04c529e1bda0ed70352",
     "d16feb5c48f0a12d438a6a74a4f76fa8fbbcdedf3cb3ab98a30fd72c7466de6b",
@@ -1568,45 +1571,31 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Chance Pádel",
-      "address": "Simbron 5449",
-      "price_from": 46000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Samaa Padel",
+      "address": "Avenida Rivadavia 22834",
+      "price_from": 54000.0,
       "matched_times": [
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 46000.0,
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 54000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 72000.0,
-      "matched_times": [
-        "18:00",
-        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T19:35:42Z"
+  "updated_at_utc": "2026-07-08T21:09:25Z"
 }
