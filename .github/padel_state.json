@@ -1935,15 +1935,6 @@
     },
     {
       "date": "2026-07-09",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
       "club": "Padel Bricks",
       "address": "Av. de los Constituyentes 6153",
       "price_from": 56000.0,
@@ -2032,5 +2023,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T03:35:37Z"
+  "updated_at_utc": "2026-07-08T06:29:26Z"
 }
