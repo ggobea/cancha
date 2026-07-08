@@ -178,6 +178,7 @@
     "200975e967e02aef1229db05f1dbc2a5bbbf9b90701f3b95dd1c594fee7a7cc8",
     "20223cd576bad15019baab4e5cb0550f9b51549d944a572927e98665268ab3c8",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
+    "20af0ac59e18e66d094f8efb229281ae8a252475c5f49475092953e83afd9a65",
     "20dbc45638db20b3baf54d8efb015408a7c50c570bcb97228f8eb89558282000",
     "2119800367dfae5146a3d2897f4cf440daf50c906e4791a3a665d1a4dd25183c",
     "211a8bda64a6d8104637b1f20d0d350670727218cb288040a2aaa21276421fee",
@@ -602,6 +603,7 @@
     "63ac4d8563d6142479179dc98e45bb71c147fecd88927e3f9546349afb801415",
     "63cb2986965b891c72a906333e7cdc40181a39a3706aa89e4027032cdb3f52ff",
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
+    "6426a07b65b6965004ef0f31c921e04d8eed2a39889b8285228805966ed97283",
     "645db2e2283f79b662d5884a2938365327a02207ffa99f288500af8bcbf2aef2",
     "65080cb91ca6ff21fe4ee2f08b6d6f4df9e202d1c4aae79157027120e3fa46e7",
     "65895e1cf1cd1bb6dca07ac0b6519f71cebe3bd95c00a6511d88fe9afb9edf13",
@@ -703,6 +705,7 @@
     "7823a72ce14b454e3d447ffb7a0ce26759fd95657ecb9f342f3f905cc9e832c5",
     "785653d81f47000a6f6ae34fe5c95c90a01f7e1af1098d0b01a6493d3ca05042",
     "78b4888f4a6c17577f6cedfe3d7b254077fb26e8a05c4574aa66e6c1f698b45e",
+    "78d001697635e2fc5795523b8b1a437c74b2d411b8819430262d0d6079645595",
     "78dc608cd4b946cad539d45905afd75862ede44d151853249c1b367edace9d7c",
     "79254652bf88b46c200e8d2e62406eb8b006b81aa52347c6abea5608d5655eca",
     "7934205a27d5a0b88b7fff6cf2629ec0909c4c2e97276fae58a120d4f94c6033",
@@ -1571,31 +1574,33 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "Samaa Padel",
-      "address": "Avenida Rivadavia 22834",
-      "price_from": 54000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
+        "18:00",
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
+      "club": "La Bandeja",
+      "address": "Libertad 4360",
+      "price_from": 25000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T21:09:25Z"
+  "updated_at_utc": "2026-07-08T22:32:23Z"
 }
