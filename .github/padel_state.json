@@ -791,6 +791,7 @@
     "8560c97064b87b3354c72687b482ff96040b63592ba619011403ae4cf09a5fe8",
     "85cf2fe0c71d0c3ac39807635884ca5a5dfb6d5a34648bb002865956e03870b5",
     "85d6d9e231a53d02c23a35fef19abd9f5324840b02171fc7146e3a8489ef3574",
+    "85da0eb484d1af1db022e8f31bead96ce79eebb853fa6a08acf728a511b4dfc3",
     "861040fbf667040f4dc742272d409e2cbce3c4a5a3d49d9cbfcca1afd54fe639",
     "8617e71721c1e9d662bd9f99b757be9d3fc3ea170ed43b1600aaac2c7882766b",
     "861d698e13aacf099857f60b1688444e117fd4e4fe8e6181e217dcf3d86369b1",
@@ -1001,6 +1002,7 @@
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
     "a8b43b7c1381753100005e6db2856d34384d8df7e40c8ed5b92b62df88ea6e92",
     "a8b43e456a802fe0400a926defd88264a448e3970da95b94b03e2cb0eb3d743c",
+    "a8dc65d246652446793fa43d5cc00d2ab9ec5991603e65e097d985432572958e",
     "a90b095b149ad39d97b85373dcf7b509e1cfdf655c215db74791a5b07ffeea75",
     "a90d60c64b0459543fc3eec9477999c22a90427f72dcf8bc27ee866c458137e3",
     "a91344850e7f7ec8b5a1f2d69fb1f7245430d4c0f44cba7279164466a66d68cb",
@@ -1579,53 +1581,23 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 18000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Open",
-      "address": "Bolivia 5202,Capital Federal, Buenos Aires, Argentina",
-      "price_from": 57000.0,
-      "matched_times": [
-        "18:00",
         "18:30"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-09T00:12:34Z"
+  "updated_at_utc": "2026-07-09T04:30:49Z"
 }
