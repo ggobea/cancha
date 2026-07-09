@@ -201,6 +201,7 @@
     "23db4574a8eb3757e225843e283039cac1aaf7b754115c1669321411dba546c7",
     "241cfe3638b525c3662a0b7bb81179dcb5a7329fd30e481ff422928c27ad7f9f",
     "242b0e9c113b4cf83065c89c9cb6abdf5e277508fb2a3e028e3a527bf781bdd6",
+    "24474b3f0955dff7d1f105b7e0cbf04f9745dca9a666790e9642a4792eae185e",
     "24a662d8d2b1b477303a3d4455e7b5149eb1bc03b03edbffb78784ca6190b701",
     "24aecbe4af2006f11f71a233cdf618f672915444402b347dbdcd630cf0147bb7",
     "24d29c09cc2ebfc8be0bbbac780a4c36f6f7d43d38d459bf504e0f10bf08678b",
@@ -226,6 +227,7 @@
     "2755b3e2a99d67817ee719f7f8a59272e9d47f4a76bdd1a70e945d6e4e9b24ad",
     "2789b7d607f51dc960d394c82557ac7ac111a7b65f7f5026678f39c9fb4e2152",
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
+    "27cc90b949606078c44e905d5a79b470e1bda035a97c59a7e354629c461880f0",
     "27d0f127816df6565e0c3ce61f6d96af28bc5f533c1bef08d3037c1f7795b9c0",
     "27f75611ba323a02618f82a25c424ba8fef68c400cb42d06f2641d20808bf587",
     "2810179e88ce2f720e0c5a05a02fe998387f8e66aa32f0dbf9472c83dffc3778",
@@ -737,6 +739,7 @@
     "7d9f0874c8ec92e31456082900e6eb92f8372a8c09d195b3e2411d5fe9700a89",
     "7dd9f9f0b8cd3040bd2030ca728084ea16fd34f5a54e2ea9a71a33166a0173fe",
     "7deca2ec6d6aa3079ba7d23b6b4430e35d8ef2b8325f895d951cdf444234de31",
+    "7df1f85b374158ce412c182e83ef938e76c0cacd7e167b5d5d9e90981a928cba",
     "7e08daaeb5e822ef3bf62f26c71750572c5058ad457ce3888617d54456d2e548",
     "7e4c481fc6bc96fecc18988e973626b11b196cde4aee9f33d00c5eca56c4fee4",
     "7e69b667164ff2e6e3a16ac466a05161d31f3d1e735fe5010c88184b581b75c2",
@@ -756,6 +759,7 @@
     "800ee0d474921c289282da5d1432f9299017fb9468e9b8874c4c9321f5ab4ddc",
     "8032e2acbd8cf69b181b949bd8b0884ba56b241310d0fe3f03306630fdacdae6",
     "8081677c266d6263f5ef86ce05c22d54984baf44823078d7f19bd019589e49fd",
+    "808ee11e0bca6fc9ff03eed8bf0ef104db158cf3ca73963e9fc40eb04c40dc81",
     "80983bcff79104dd5810bfac8200a8d1a6827c0a986a30093d129fb810d3078f",
     "80e98e0dbe1183e2befeb6558fbcdab09925f56270c0ead88b0299e4237ae1bf",
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
@@ -901,6 +905,7 @@
     "98d3d1a263df0fd048f066bd43b9611e631d3ce2bbbd30c6a069e11a8decde50",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
     "99573bbaf8b994acfb76faf88a9499a4917d361fa1c26a253293d7e6ebd3d7ca",
+    "99746fb02d73e864373dc1ec47c0db04a174ad6c4813845f9f0781bf4d634df0",
     "99dafe2a98f9bad1186b499a2e518276996c24b7a93d494d41ba6cf715f4b1fb",
     "99f0c54c67596d884406f6a1e853cdb04d2c2c2df7cd180e18a6ce4d7f8760ef",
     "9a2647af49b4215ee23d14d180e26a126fb6795f2cd92b24119fb05563c7c54b",
@@ -1574,33 +1579,53 @@
   "last_results": [
     {
       "date": "2026-07-09",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 18000.0,
       "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-09",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
-      "matched_times": [
-        "18:00",
         "19:00"
       ]
     },
     {
       "date": "2026-07-09",
-      "club": "La Bandeja",
-      "address": "Libertad 4360",
-      "price_from": 25000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Complejo Filippo",
+      "address": "Av Leon Gallardo 70",
+      "price_from": 38000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Open",
+      "address": "Bolivia 5202,Capital Federal, Buenos Aires, Argentina",
+      "price_from": 57000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-08T22:32:23Z"
+  "updated_at_utc": "2026-07-09T00:12:34Z"
 }
