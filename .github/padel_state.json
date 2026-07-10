@@ -1932,16 +1932,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "La Cautiva Tenis y Padel",
       "address": "La Cautiva 7651",
       "price_from": 28000.0,
@@ -2125,5 +2115,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-10T08:24:04Z"
+  "updated_at_utc": "2026-07-10T11:25:50Z"
 }
