@@ -1892,15 +1892,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "Kauri Club",
-      "address": "Triunvirato 1572",
-      "price_from": 29000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "Kick FC",
       "address": "Saladillo 2051, Buenos Aires",
       "price_from": 30000.0,
@@ -2106,5 +2097,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-11T12:28:35Z"
+  "updated_at_utc": "2026-07-11T14:02:57Z"
 }
