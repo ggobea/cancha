@@ -1974,15 +1974,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2856",
-      "price_from": 72000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "PADEL - INN",
       "address": "Manuel Acevedo 47",
       "price_from": 42000.0,
@@ -2085,5 +2076,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-11T16:59:50Z"
+  "updated_at_utc": "2026-07-11T18:00:19Z"
 }
