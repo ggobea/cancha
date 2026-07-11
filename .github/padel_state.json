@@ -1942,15 +1942,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 55000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "Lobosport",
       "address": "Alberdi 1310",
       "price_from": 30000.0,
@@ -2115,5 +2106,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-10T23:59:55Z"
+  "updated_at_utc": "2026-07-11T03:33:48Z"
 }
