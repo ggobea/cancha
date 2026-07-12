@@ -2065,16 +2065,7 @@
         "19:00",
         "19:30"
       ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
-      "matched_times": [
-        "18:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-07-12T22:52:02Z"
+  "updated_at_utc": "2026-07-12T23:56:57Z"
 }
