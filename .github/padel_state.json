@@ -2047,15 +2047,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "Sportclub pádel",
-      "address": "11 de Septiembre 198",
-      "price_from": 78000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "Tiger Padel",
       "address": "Av Gaona 10502",
       "price_from": 30000.0,
@@ -2067,5 +2058,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-12T23:56:57Z"
+  "updated_at_utc": "2026-07-13T03:40:13Z"
 }
