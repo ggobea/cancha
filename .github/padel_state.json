@@ -939,6 +939,7 @@
     "96a23213afdc1830657c8b28cecd1fa13ae513b87b60254fae2b8b1448159e6b",
     "96bf2e07e274012816daab0f52b91ede3b5064d086a50d39c2dc8f1feff087f0",
     "96d1dce838ecd365bc9cd6269e280d27f506965fd2e20e7697085013a42c463e",
+    "96d94d53f1efcd882585a6b9f564bdbd4856be00d4e9fd90d52956aa83daf504",
     "96dc610205c1468eb768778d84dbca55a9f613b4b6c9896703bf0acedc3fab49",
     "96e6e36dfdb8e8c9bd0b60f9a8dbe956002b74f13fe6aab8d337c38845801416",
     "96f88237492de0b6a3f2ac36121603360f4b27612c99b3df5129803a26959d6d",
@@ -1207,6 +1208,7 @@
     "bfad071e6a4e5a1c5c9d121c25eb67164a48b7c7572faf9f40a41c7302c5fc3e",
     "bfaea90249da97e6310974b385f21c26d712358fd77498c24e2b53c0333d8ab8",
     "bfafa3f16102baddca38c904b93a0bcd631102aa1789601b7f5fbb840390bae2",
+    "bfcc756b0deebb9703ec52d8c4102bdc8e81567bc82b6e2ad2911df5088b7936",
     "bfe648734e468e719c87c707bafa61f08d39c4981eb1a24d992f7af43b28ee47",
     "c070f9fe76e3e8f2c2139dd342ca49a7b20570899c39c9c7f4b03d29d89e9a10",
     "c09a7343921835ab26affdfe312c287b44e97399f3c2e58963d1381eb719e4d3",
@@ -1669,25 +1671,24 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
-      "price_from": 56000.0,
+      "club": "Club 18D Fútbol y Padel",
+      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
+      "price_from": 36000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "18:30"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-13T16:04:15Z"
+  "updated_at_utc": "2026-07-13T18:16:27Z"
 }
