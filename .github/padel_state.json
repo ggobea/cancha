@@ -1371,6 +1371,7 @@
     "d53396ed9f4596db67207a4b984bd77a2d30401751951a14429df300693d9151",
     "d53b8ffe644df9435bf8f7faa35acd38e3f0e480ec8d7cfbb7fcf5c40ba5f0ea",
     "d57620f3a937771215b4105a15ba1652e41630aef776fe8555d0b5163b6fae7d",
+    "d57bb17a7e4a3e749e33da89083c214289a0391329e1c15c65eb785b1af604e9",
     "d5afd1b63d6a07207bc20ddd0ef0be0f7a597466642482e33a862697c43ce6dd",
     "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d5d32cfcce730f5f85f92195d2230801ce01cbc80123e67514823133f491caf9",
@@ -1596,6 +1597,7 @@
     "f3e24bfaccc2afa38371abdd832dd22448f0b91e6a2624d72fa8bb43705b21b1",
     "f3e2958f46cda579c6da172b4aa456c1d9895891f4faba6b6863a51d25e7ccd9",
     "f3f13c3f27445bc6546712ac843c41264d4fcf7c2e3a2c9c08195f38df18256f",
+    "f3ff4e7e0991df119a6445e864c1752c3185a1a560b66ac896d4fe02676ac0f4",
     "f40b2001906faf95cf06fb232c45e712966088c3c7984ab9f2c763c19706b261",
     "f4a33b18393ae9df2db84450382b43db550e84766cd90ce7587e146be88f0ce3",
     "f4b5db70730bc9adac0b5aca11c476711878eae2b82221c12580f254b84064f4",
@@ -1682,41 +1684,25 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Club Gimnasia y Esgrima de Ituzaingo",
-      "address": "Niceto Vega 2298",
-      "price_from": 48000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "Arena Padel Barcala",
+      "address": "Avenida Gaona 7243",
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
+      "club": "Match Point",
+      "address": "Bedoya 7078, Isidro Casanova",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:30"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-14T22:58:01Z"
+  "updated_at_utc": "2026-07-14T23:59:23Z"
 }
