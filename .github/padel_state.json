@@ -1498,6 +1498,7 @@
     "e6e01c2e74dc58b9c88badd300e4ec76729f567614c913ed45239d0007967671",
     "e6e4fb8560dc8ddb84a09adf775d1d90314e72a5ddb9d2401b67e6375b3bda15",
     "e72d9310ddb89ed8fff3d9583cfcfaa639af476f1e8dc2d292163243c0c93b7b",
+    "e7523c0ea52e71c7de782ddc9d3faa915719cc9d7a905dc0bd394444f68dcabc",
     "e75b0ec29c327a4cb9eb49e65a4c8632e7bd97fa28c56bf691f9c6951282b922",
     "e786967e3afd11c46717e11951f86b9dc6e373ac23f221ff52e1cca3b05780f1",
     "e793a194579314701c16d4ff6abf4f61b23da97ac4a059fee19251180fcde5fb",
@@ -1676,13 +1677,15 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
-      "price_from": 56000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-14T15:57:30Z"
+  "updated_at_utc": "2026-07-14T17:22:14Z"
 }
