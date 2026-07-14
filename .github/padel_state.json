@@ -1990,15 +1990,6 @@
     },
     {
       "date": "2026-07-16",
-      "club": "PADEL - INN",
-      "address": "Manuel Acevedo 47",
-      "price_from": 42000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
       "club": "PPF arena R21",
       "address": "Avenida Otero 522 esquina Bella Vista, Pontevedra, Merlo, Buenos Aires",
       "price_from": 13000.0,
@@ -2086,5 +2077,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-13T23:27:59Z"
+  "updated_at_utc": "2026-07-14T00:55:08Z"
 }
