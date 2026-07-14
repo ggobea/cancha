@@ -942,6 +942,7 @@
     "96d1dce838ecd365bc9cd6269e280d27f506965fd2e20e7697085013a42c463e",
     "96d94d53f1efcd882585a6b9f564bdbd4856be00d4e9fd90d52956aa83daf504",
     "96dc610205c1468eb768778d84dbca55a9f613b4b6c9896703bf0acedc3fab49",
+    "96e2af4e0cb2ba2c4f938d4c42687d8e077753b3d22d51e05b2b9f6afc2edb9a",
     "96e6e36dfdb8e8c9bd0b60f9a8dbe956002b74f13fe6aab8d337c38845801416",
     "96f88237492de0b6a3f2ac36121603360f4b27612c99b3df5129803a26959d6d",
     "971c32cb895e28da1b7b41c5d1fed7bdb0f0e0ec51b6ca404a90a9b6c419f17b",
@@ -1679,10 +1680,9 @@
       "address": "Paraguay 320 Villa Martelli Vicente Lopez",
       "price_from": 56000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-14T14:24:17Z"
+  "updated_at_utc": "2026-07-14T15:57:30Z"
 }
