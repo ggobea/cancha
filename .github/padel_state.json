@@ -1381,6 +1381,7 @@
     "d72a87d709f37297cbec22d15bed6e734ff6b54ec40443b36938bc89e6e52d0f",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d790104d8e3ecc342c816eb2bec0ff37eeedf643e3b083b73b38c6e30dd2fa7e",
+    "d7e22d09d69f7805501bea43829d345022dc42e557c278d509b85210e0e3a843",
     "d7f58fc55d2e414ed70e784acb086e85e28e597e99edf55282b733e64c841913",
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
     "d85b70b825e40d946413e44882daf922bce881ebe3c6e1f7e1ca3e8de80c60e5",
@@ -1673,15 +1674,13 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
-      "price_from": 56000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-14T03:57:36Z"
+  "updated_at_utc": "2026-07-14T06:19:29Z"
 }
