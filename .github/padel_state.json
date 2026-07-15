@@ -362,6 +362,7 @@
     "380314cb5ecacb86351f46e7bbd8fbd2bcee9020dded83116fe5c1ab699f9f7d",
     "38087c0eec08519ace9462fcedec9f707eee0760c89409cf1c5a409fb9f4dda5",
     "3819db97549a1767759ba2959495b066e3271a7fe3cb447e77cd668f8867840e",
+    "3825b3e36ae2cdfb19c324005a24b6371522f669de9f93bc9663d5348b042917",
     "383c717d152d2588cd8fefc72cbe47437820b8c69f986474569418a45caa4a12",
     "383e5c43fed274877bf1ea67569be9a8e8a9b6171f542495cd23c43984fc14bb",
     "388df8b87ac58b315f70a1f06f6c30cc75c2bccb9081e7284cae6c7ed25f9211",
@@ -1690,22 +1691,14 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
-      "price_from": 48000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 30000.0,
-      "matched_times": [
-        "19:00"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-15T17:47:20Z"
+  "updated_at_utc": "2026-07-15T19:14:23Z"
 }
