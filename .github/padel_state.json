@@ -139,6 +139,7 @@
     "17b44072bf5fc7292090acff914343fc3a14731db9b8fcfa8493de72ef34b3b9",
     "17fd1b76bc626c9896f31e51b303d72024a52889e892319bb5dbbd629510d9a5",
     "180c865d36b297927204d58457e65966c38cf3e2388065f18a67041a901c21ab",
+    "182d84452613c6422ba4bc43a4668b1ea5c57df8a7ce6baf996c5081e5a3cf50",
     "18656b14b61f97df801b2f9be6f45adf8d9a6591ac7d8d0123a9c6fd958a4969",
     "1879114b97dba221130722804f877de9ac0d64383b09af61ff3069674f9cfb48",
     "18b5ff5a6eb546fcf2aa19263a27c17fcc103929d61147e375f0def3f66daba0",
@@ -1413,6 +1414,7 @@
     "daa2664447e76784f2e38ad9a54d1a41bf116ed6dfca3c070052eb257f53d239",
     "dab783560b7ebfbb513561d8726c2fd7cfb5eb3c26e321d14b5b7852edcc0769",
     "daf4a9ec2e38e0020abeb74067605dde4c980321885df903d157289a0b882875",
+    "db2ff9a94cf0656a31666c863e83bbfbc2f1756d43ca2cbe598d19c3bec8986e",
     "db42b11ff206d58952efd864dac07812e543155adb3b10e06ba561a7c3d0f227",
     "db48a06d379b49162a7145d02877fbbfad334e87be64f179e7acbf0ca578840b",
     "db4f6bd5e0bdfd90872abb4ed7dfcdf038a325e01d6b9feaf5aded11d5e31643",
@@ -1686,23 +1688,23 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 36000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "GQG Vip",
+      "address": "Irigoyen 2050, Buenos Aires",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-15T14:03:14Z"
+  "updated_at_utc": "2026-07-15T16:02:40Z"
 }
