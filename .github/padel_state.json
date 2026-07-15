@@ -107,6 +107,7 @@
     "11bef5861eec35b38edfc5723f81fb9272344c3c92f6a5e533929340c1be86e0",
     "11c62042c79e5f557219d9c8757894291684003d931565c11ba500e21c51c815",
     "11d9f7ce31685422bdb98c801611e6996d681f549a620c12b3338502c2e3c316",
+    "11ffc437d98c714e2293683e78d508c04054c0cf649fae39f894607a99ed90ef",
     "12109d77fb6d69404f0f6a3382f0e810d78019f8da4698689923c68dae830a2e",
     "122015431b214bf2d3255bbfd24628f474de988bc2db3b22aa2f5f23708a32a3",
     "123b36a6e7429b76cb90c8e2fd944352d95b17174c1f587b1963db2631f96341",
@@ -810,6 +811,7 @@
     "81304a81c074059a30df7c668ae82282e7c8bc8bf38b3d47702c4ef64398dd8d",
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
     "81c0b4da81f378d44445170951d0e5fff4662421260add9e08c17b442147f19e",
+    "820e088791dcd933d204c6b51751203ae839160027a922dfcc2b2180178a5d2c",
     "8213e1ddf0baf72f2fbab74f6d97fd6734c7c81b8df4f1eb5fe9be4dbe61364c",
     "82215c8f765072c6a741ed87f3b7a667a653c4285cda2a6c4377b8ad3be0b200",
     "823b8d973091f752cca7952bf4c3e85cb58595c67173a1445ffdbc8d0d68f3be",
@@ -1688,23 +1690,22 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
+      "club": "Parador 3 Club de Padel",
+      "address": "Entre Rios 2649",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "GQG Vip",
-      "address": "Irigoyen 2050, Buenos Aires",
-      "price_from": 46000.0,
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-15T16:02:40Z"
+  "updated_at_utc": "2026-07-15T17:47:20Z"
 }
