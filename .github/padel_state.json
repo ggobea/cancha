@@ -12,6 +12,7 @@
     "022d33838818a34b53521cf3fff7d9e7b2f350783fefe715fee68b881ec81d9c",
     "02908624cbfdd5f9ee09ab9bc848c1fed05481218d67bf6c9bdc547597ffc9f5",
     "030b60581af397cbe4dbf836e270641a356ff393b173b3bcaded117277c1aea9",
+    "03635d32e2eceab9d6475ff670c3d8abf84171d9a49a166c2a099db43e3f737d",
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
     "039a990971375d307043aa36b6526a062da9cabfab3bd1f3efcfe918f84ab02d",
@@ -760,6 +761,7 @@
     "7a3f830c4072b0ada91fc0ee0059e0e909f4bae0db48211e06dad3a8d2db10a8",
     "7a420e608c12127282e9dd1ecbf7d5bc3a38cea1b3ebe2ab67a03f0330dea864",
     "7a4dabbf92d6e4057e87e44b1cc42b4a408344aae0bde0361f68156624e3f85e",
+    "7a9137f823214f4c0d2db69db10b09359e318f9f64585cb199b1ad2676c5f84d",
     "7ab1ca9eb7f486e4e4499dbdebfae4b2afc628bc4bd740d074345ee12b9114ae",
     "7ac2c15c2309a0c7211f2049216c02b974d368edd33c54729eb623ea9c1abdfc",
     "7aedf5b7408a4044b8f7d927e235aed3b34f83cfaccc5e103ec7d63a77231593",
@@ -1571,6 +1573,7 @@
     "f038889772725e353bbcfa24cefec56959d6533b5ac561d91b417aaf3bea6df1",
     "f04766e683d3d0145eab94526ffedec7d1b0a1210e53aa6d6cd7be1273b56d5d",
     "f07be3c00d95728563d6bc1d765ed1d8a889226dafe974f70905e4911b2d7bb0",
+    "f0b53a5dded32a25ad3b4facc0a35deea2fcea2218f71eaff0d1ff4dbfc22674",
     "f0c0a54ee65240f31fee6aebbc059f2c4aff4243555c9f318c369f9672fb0e72",
     "f0c601c0db9070e13b4d0fc0066840f87db53fbd19747efdb9803256df4e8ef2",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
@@ -1692,13 +1695,34 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
       "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 75000.0,
+      "matched_times": [
+        "18:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 54000.0,
+      "matched_times": [
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-15T23:29:22Z"
+  "updated_at_utc": "2026-07-16T01:01:23Z"
 }
