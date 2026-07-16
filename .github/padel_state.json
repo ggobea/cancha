@@ -571,6 +571,7 @@
     "590460d09e0767d950bc2783f61421955369a25310844882fa096b0effe3bef5",
     "5933f6aac0d335de478d7a2cd124a2fa67b4be7c222e4951a7a385e2b3776ad5",
     "5953051662bd56f5ad91fb7856ef0327e47477bd9ecced87e1e6df57fe050f5a",
+    "59713c65b8a2f932b653371fe37236de7cf6d8c97c2b3a4400894ce9d2d19461",
     "5992d5478665438ca21b344269b358d2d7fe4984c725bf1f79be8a5632928a27",
     "59933768fd5f42ba48d498e211051739317ce7971180b6e2d7c889419981043f",
     "59f90e3fe6207a94506d63499a525ef45ff4ef200398649c7d01ca596db43787",
@@ -686,6 +687,7 @@
     "6df471bdb38cd2668d09b6b87b31027a5b41b35dfee47837ddaf46428ce45272",
     "6e486fe38e05d8311c3e8a40ab8d6bc3e0926ffd44b76aebb54db07cdf1bf7bd",
     "6e7acd6a4aa86bb08a548c24f74277126e2566e50cd0e14c48923fe4af534365",
+    "6e949ee10cb64f0d4d075fbc34670d71eb783f6cc8a7b94faf988c797a0101c9",
     "6ef1d7b0f50807399ff8f133d78ba3a835bcf0d34c27f57e524942a04fbb058b",
     "6f1aa02ad75f8e471e57dd73380049a74726425de73578d5edd48f814e66bbe7",
     "6f25a9667f4dc053a689ca56fce13d4e3682b79fa5b260e26c9eba8413b027a5",
@@ -759,6 +761,7 @@
     "79254652bf88b46c200e8d2e62406eb8b006b81aa52347c6abea5608d5655eca",
     "7934205a27d5a0b88b7fff6cf2629ec0909c4c2e97276fae58a120d4f94c6033",
     "79595e121a3cbcabefdcaf6da16a2b4c8f963037cd106a909e5c7923c0ea9c5b",
+    "79be653dab9f3d6c54fa3445d96ca96133c3cfb8178244f33166ad33db352dfd",
     "79df38de77026156f9e26a4605fd2b198df50f7acfbc452b50cd7d0fd572f988",
     "7a17f778ae73fbb087f4fce917df2c545386679a3f3d1fe688413a05fffdfcd8",
     "7a321d01b6886a655780898d6916d44cc32af534e4162ce4fe423e43a158446f",
@@ -1388,6 +1391,7 @@
     "d53b8ffe644df9435bf8f7faa35acd38e3f0e480ec8d7cfbb7fcf5c40ba5f0ea",
     "d57620f3a937771215b4105a15ba1652e41630aef776fe8555d0b5163b6fae7d",
     "d57bb17a7e4a3e749e33da89083c214289a0391329e1c15c65eb785b1af604e9",
+    "d583824517d3ecee7f01439dec6e0bd3145baf80a4da8021d5aaf88c27c3cbd5",
     "d5afd1b63d6a07207bc20ddd0ef0be0f7a597466642482e33a862697c43ce6dd",
     "d5c324dfe76a970ded6f05fc20cb61ecd8ba65a183dc4f32ad80df84aa3cf109",
     "d5d32cfcce730f5f85f92195d2230801ce01cbc80123e67514823133f491caf9",
@@ -1698,6 +1702,7 @@
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36",
     "ff24213d3facf9b3c2b1c09db2a3d293ad429109f39c242c2afb2c7b37c83ddb",
     "ff3abf9ac0fc48730bb59bd0a19d14ddf1e5579dfeaeeb5fb5ab83eeb2ee9a13",
+    "ff42a08d88046f4edfafe3e04b01e40716e8a3d559ac2caa62e7f30684a16f4f",
     "ff8875cb887cb38f12faf655dda5ac4a6ce9b9abde178218b42a34ac6c7e4e2c",
     "ffdcfbf1069001bf09772b857e7c2a4f6a1a67cc610bb735202a154e8ace3838",
     "ffe32a4c75f9d4d7793369cbd920207cc8135c9e6a012cd7e46ef8e825fd76ff"
@@ -1705,11 +1710,34 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:30"
+        "18:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
       ]
     },
     {
@@ -1718,47 +1746,18 @@
       "address": "Constitucion 658",
       "price_from": 32000.0,
       "matched_times": [
-        "18:00"
+        "18:30"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "Grizzly Padel y Futbol",
-      "address": "El Zonda 1769",
-      "price_from": 15000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
-      "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-16",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-16T15:41:50Z"
+  "updated_at_utc": "2026-07-16T17:19:24Z"
 }
