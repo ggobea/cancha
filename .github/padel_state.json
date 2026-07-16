@@ -242,6 +242,7 @@
     "2719195f2a20927e855e9cd50154d679716d20495d77b5746e3e28c2d82f6cb1",
     "27323e89660752759d0ad16a5835fbc075788bed92b2a20436034032c0d58d1f",
     "2755b3e2a99d67817ee719f7f8a59272e9d47f4a76bdd1a70e945d6e4e9b24ad",
+    "275ddde57253409ac710d26ccf8bb0791f0727ff72c97c0a72ddea8d124ebcff",
     "27832f7a876407bc325e11535786c0dc07713a48d8587603450abf23e405c699",
     "2789b7d607f51dc960d394c82557ac7ac111a7b65f7f5026678f39c9fb4e2152",
     "27affcf3559b1e5b04b13e2676eb5dcb29bc8f70513b9fc3d0ab089f5d425723",
@@ -463,6 +464,8 @@
     "47f4c82d76c59817d602ae17fb9d8d526ba046efea4b6dad335cb526f9d5a373",
     "47f697e39115128357fb46014634e7fbed46bc08100410757e95efa6c526aaab",
     "48453ebb62ac6c7d59d5893c07ca9e4e283907b79c2b95deaff70843cfc488f5",
+    "48807c52897d3364a408cb47647367015f5b1c6074a025b87b05b443e902d5ed",
+    "488475c134a973c8abb7b69b4b80a01ad5cdb4d60cce0163711d0420585727cd",
     "48dd2eb1ba655d1abff53d3b0c10644a081101a5ac79ff860a59e50c17595034",
     "49038fcf342a62231caf5e381f4ac2925ab34b7e6783f4da0a52dd885317c173",
     "4911e9dd2fa02a5f8ebaeebeaa376b50595700eae15bf397af347ad589898025",
@@ -789,6 +792,7 @@
     "7e08daaeb5e822ef3bf62f26c71750572c5058ad457ce3888617d54456d2e548",
     "7e4c481fc6bc96fecc18988e973626b11b196cde4aee9f33d00c5eca56c4fee4",
     "7e69b667164ff2e6e3a16ac466a05161d31f3d1e735fe5010c88184b581b75c2",
+    "7e8bc0cc240876af3f3f20f76e6f209d6fcf0b708503a7a2f05e7a67a36ac3a4",
     "7ee1ba21996c62b4cf1eef64d6b919c5be85c5d78d39330c03fff0bcb06f6b82",
     "7eee939e8650641496a6cad605f9b07df5b08b7a1cfcbd45b250f14626c30abe",
     "7ef57706c6afe3ffbb376f75f515f394f8659ed258f09f5274cc26d1e898ca75",
@@ -991,6 +995,7 @@
     "9cafc96b2b41c7fa03e06f213a3e1b2a8e9406a0119904e77c6fa839146389ef",
     "9cc85beb036baa0e4ce99f331821efb84351cd53548cd50663b35fe6a43c08e9",
     "9cde3c0b6621ce7477481f4e6204edaceb31bf3736c5f6aa60bc26c04cf3089f",
+    "9cf5ccad64caca6fc9fedb87a5ce0d5c2ee391a57a3bd150db91b725a709c2d0",
     "9d0bce316f692b00ef4d86db73e77e8f0f117a777b18db89c2593fd2115bf25f",
     "9d48d323c98391b35f88f03745c5d83b0993bf807f57d9082cb893f1fd7e3ca9",
     "9e0d32d4ba5e872dea9cfcb0f31d32d115f943f9dfbfe2a9bfe2fc9337f9d276",
@@ -1003,6 +1008,7 @@
     "9e759ebcfa41e0f1c26c52a818f1a49b1a6cf8771d68f5e1b2b7eb066dfc79b8",
     "9e79a3a2416c10a99e203f2d3fa590fe42c055f85ea797a47f482c093e0ad39a",
     "9e7f98d318f9d5062faff272264761568ba4133c2d1345a5cc9bb31ae9fabe98",
+    "9e8c84cd7c15d728d4ce2a0b7bb6e5c46b5d85ae9c362a1dc47bd3c4882d5ff2",
     "9eb71bd45638ee5590532d69a19713dd431de140dd0c7f590c27eaeb90a97c01",
     "9edc2ca238949234791d6886ec4206eb8b8c5b7d69e0399c79488cf2b5f88951",
     "9ef725c679b8f8d2ee9e89331bd8b1cd00304cab6291ed044e2b905618ff55ed",
@@ -1699,21 +1705,38 @@
   "last_results": [
     {
       "date": "2026-07-16",
-      "club": "Estación Futbol",
-      "address": "Rosetti 6240",
-      "price_from": 60000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "Kauri Club",
-      "address": "Triunvirato 1572",
-      "price_from": 29000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
       "matched_times": [
-        "18:30",
-        "19:00"
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "club": "Grizzly Padel y Futbol",
+      "address": "El Zonda 1769",
+      "price_from": 15000.0,
+      "matched_times": [
+        "19:30"
       ]
     },
     {
@@ -1722,22 +1745,20 @@
       "address": "Sgto cabral 2506",
       "price_from": 64000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-07-16",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-16T13:57:26Z"
+  "updated_at_utc": "2026-07-16T15:41:50Z"
 }
