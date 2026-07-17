@@ -1816,15 +1816,6 @@
     },
     {
       "date": "2026-07-23",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
       "club": "Aura Pádel",
       "address": "Paraguay 320 Villa Martelli Vicente Lopez",
       "price_from": 56000.0,
@@ -2269,5 +2260,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-17T21:21:16Z"
+  "updated_at_utc": "2026-07-17T22:22:04Z"
 }
