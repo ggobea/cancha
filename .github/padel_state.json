@@ -226,6 +226,7 @@
     "23a4c663437cd2dafb85625564566adfa23ff5c14af630985aa44360400be43c",
     "23b219e75e5afe4c7268b945c5683aeaa8ffd963657eb7c1dc91a2a119de2c51",
     "23cd092253b2a9a127b2e9f343370fb3ee7720dbb5d64119bd7474b2450a55b2",
+    "23d24015757d020de6e4f7d23c095c0f3c4d44b36d2626edbdf127c8d401bb15",
     "23db4574a8eb3757e225843e283039cac1aaf7b754115c1669321411dba546c7",
     "241cfe3638b525c3662a0b7bb81179dcb5a7329fd30e481ff422928c27ad7f9f",
     "242b0e9c113b4cf83065c89c9cb6abdf5e277508fb2a3e028e3a527bf781bdd6",
@@ -1791,33 +1792,15 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 36000.0,
+      "club": "San Marino Pádel",
+      "address": "Felix Ballester 645",
+      "price_from": 15000.0,
       "matched_times": [
         "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
-      "matched_times": [
-        "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Padel \"LP\" zona Oeste",
-      "address": "Padre Varvello 4427",
-      "price_from": 13000.0,
-      "matched_times": [
-        "19:30"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-20T20:24:59Z"
+  "updated_at_utc": "2026-07-20T21:43:48Z"
 }
