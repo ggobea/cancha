@@ -1273,6 +1273,7 @@
     "bd11a45b997080df01a02a2cd1dad5eb15de9cb1fb075800105d823688307cbc",
     "bd43a4541afdda8e6fffe9dfae7205baa0c0454c9eac01e32cca7bec73816302",
     "bd537d07194417a02b80af75c871a8aafbbf2d130d7e2a478c99dd146f64dbc4",
+    "bd593fc0886dd3031994290a939ab5219fca6e1c87734cc9a7d48e47ab070414",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bdeecbde6ac09029b8eb60431374128482013bfecd5750390bcf9f5a978a58b4",
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
@@ -1774,6 +1775,7 @@
     "fedd936f2c2949a5a1479090d23679649a4bfcdaa5284b74321b906e1c0df7a9",
     "fee0745de530fdaedbf399ea2f951de60b13a30f80ed3cfdd1d4dbf875fd638a",
     "fee408682695e53318e12413ce487fd4c8ae745c34c18827b92354936dc4ccf3",
+    "fef861bc5734ba0ac743e5a393076db9ae06b6806d5840167e148a7a28dc2caf",
     "ff005fce1dea5cc35dedf741ee991b6f5eff0c6543ea8c0f4a8d84a31112d677",
     "ff1de543867c437e1d5cd21ea87ec48bf7edc50000d1dae8223cf8027363ed36",
     "ff24213d3facf9b3c2b1c09db2a3d293ad429109f39c242c2afb2c7b37c83ddb",
@@ -1786,13 +1788,23 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Bequin",
-      "address": "Granaderos 475 CABA",
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
       "price_from": 48000.0,
       "matched_times": [
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-20T12:32:14Z"
+  "updated_at_utc": "2026-07-20T15:12:19Z"
 }
