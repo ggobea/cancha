@@ -338,6 +338,7 @@
     "319a944779268c73c1711687e47637e78f133c1fa2f0947e6146255aa428618a",
     "31a3df04d0b1afe88ad662c46e9eb53fa4be5a7c014723d48eee9fa2d2b9dfaa",
     "31e7404d314adc4e8d8a2fcbbbbd0e003489c67e027192a1a91881b21a2ebbcc",
+    "31fc1d22e9ea3201bac559b3a77ef90e0c9358a0807248e14626e2d7d607f496",
     "321853ce58b998286763fccffe45f65df83e5bdb329d4e8dc9dd00e8073a3a20",
     "324caf28f1bdfec7b53f9359ab918b334e9589dc49fe690a6257d17d59112477",
     "325615a157bd23f9c7c65379588e183518d2617e7070a522a108ff533349e52f",
@@ -1801,13 +1802,13 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
       "matched_times": [
-        "18:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-21T22:04:50Z"
+  "updated_at_utc": "2026-07-21T23:29:04Z"
 }
