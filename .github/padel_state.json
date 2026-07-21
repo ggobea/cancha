@@ -15,6 +15,7 @@
     "03635d32e2eceab9d6475ff670c3d8abf84171d9a49a166c2a099db43e3f737d",
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
+    "0395f233b892c1c44a6b546774ab0d62a7ee8597bd3b3cb0867e1f63ea5ea85b",
     "039a990971375d307043aa36b6526a062da9cabfab3bd1f3efcfe918f84ab02d",
     "03c2c030a7f9df38037310db38dd99e2624181f9754f00d47ae5e8223729f9a4",
     "03c66448c8a13c5aa04c9df3813d4315325378035882bb9481e2dfa0f42867c3",
@@ -86,6 +87,7 @@
     "0de54a4832111c451d24c1f2a3f07fa0458b0873af891cd7c21ef568bcd00af5",
     "0e05517374d33e53fbfc009bba144513255e34dcb7d5f4352bf985837c4099f9",
     "0e17a287f63a0d527115946c542a2daab045eefde8c58cc3432079a54acea838",
+    "0e224f569f4e5331a6baee1edaf3234a3b64ae437c6447cf55a05729f703a6bf",
     "0e7c87f7ba3749572de1fe564837730ddcd750221e47d4e65885d798de5cf98b",
     "0ebec87e0248ca28035ee5b2605cd4056eeda167e5a38a1e513f65776e58051d",
     "0eec2ace1b646881aba13cdaa6156387b9e2491067fa70f90aa7833e2175db84",
@@ -1797,13 +1799,22 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 55000.0,
+      "club": "El Corralon FC",
+      "address": "Semana de Mayo 1035",
+      "price_from": 30000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Parador 3 Club de Padel",
+      "address": "Entre Rios 2649",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-21T16:23:59Z"
+  "updated_at_utc": "2026-07-21T17:53:39Z"
 }
