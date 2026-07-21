@@ -610,6 +610,7 @@
     "5992d5478665438ca21b344269b358d2d7fe4984c725bf1f79be8a5632928a27",
     "59933768fd5f42ba48d498e211051739317ce7971180b6e2d7c889419981043f",
     "59f90e3fe6207a94506d63499a525ef45ff4ef200398649c7d01ca596db43787",
+    "5a09d724be36c0bbdb4c9ac2c9eebdd704fff507bfd52f0551ffd08ce8889d15",
     "5a2be6d6bc9d024e50902154ee2b17a01d79a71fa9c44837a38051b45b951fb5",
     "5a4f999b60725377d2dcc57ad8f74469f71853715975bae898ffe5749473e116",
     "5a670cd2b2c46c895e1c12981e9984ccf1d663cdc8fe73ff529cd5237c735c51",
@@ -1799,22 +1800,14 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "El Corralon FC",
-      "address": "Semana de Mayo 1035",
-      "price_from": 30000.0,
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Parador 3 Club de Padel",
-      "address": "Entre Rios 2649",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-21T17:53:39Z"
+  "updated_at_utc": "2026-07-21T19:26:40Z"
 }
