@@ -271,6 +271,7 @@
     "283c3d99425a1d8a2eb2da41d74c124c635204c4ab2686fdf9f4a8267ed8e309",
     "286b8f5c29ded07ae64a81a9f48cd381fa848675afaa4ea4f79ebf1d8cc98f02",
     "28a1a49ba403e65cde5745591bc7e54eb31e807005f6be0cdd80a60d36048be6",
+    "28e9eca3ddc8338f9d3f0edfe40ebb15409a06c9572314e0145d05c9965632de",
     "291e73f03af7012926a1f58b79bd31e6359aa0133665e3bbe670f200db79a2b2",
     "2943bf226c9d9830a8305d551b93288c498d1955b52f1d2514db93cda2f12934",
     "294c2f95bba575fcd8df20a30cab406a7413af6a3eec4b4ff42472895200a100",
@@ -1807,33 +1808,13 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 18000.0,
+      "club": "Attitude Sport Club",
+      "address": "Av. Gral. Lemos 1415",
+      "price_from": 33000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Complejo Filippo",
-      "address": "Av Leon Gallardo 70",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
-      "matched_times": [
-        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T15:59:59Z"
+  "updated_at_utc": "2026-07-22T17:35:25Z"
 }
