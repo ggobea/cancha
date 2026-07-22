@@ -103,6 +103,7 @@
     "0fe4327a2e0bd5b1bb9e7ac8ff34930ecccf27988fdea27bfd84fbfc878acefb",
     "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
+    "104073c456af8087f15d0e4ad168a3992b215da01fc7d55ee556240b2e8141c6",
     "105260bf199ac40aa7096ab03f5c780d0d2d2eb598a5dbb189b145942330b408",
     "1056b8247e8578abd2032128eb21089c8be7902e68c61c21ea79f8c3e1c864d8",
     "1097bc2556e29a2a912e9208603c19c312916dc79726669816d4a869046ddaf0",
@@ -326,6 +327,7 @@
     "2ff3a42515956f2ead11081b961e1b5a499fbe949bf4d0dd255cfd82e67f76e1",
     "301192ebe8c3462c85a322ef0e593019fc0aa0aaf9c2cfd414d99c40c7e7bdb8",
     "302a03669c22e9ff6c06b7a2c0897233d7fcb324ec70a63e695b885a7f3b28b3",
+    "302f3027752a7e37d91e6dca902d93c2dfaa4249186e2c8a00d1fcccbfc0c2e0",
     "3035be16c8e5a3a2beb2c06512c7ceba9c2375d319f6c82642fd4bab8974a339",
     "30369fc80f6de1a2f0043a08c4a16a58249646a90ee3ac2119f3fb9a9cf0fab7",
     "3067987154e26729423c0348da7b54c47f06bb05879d91d502926145a9e0f1c1",
@@ -369,6 +371,7 @@
     "3456bc25b85dd7e90ddfb19cdb37b4b6a37f26948f813fb1067b13d35bd9b88e",
     "34bf794d2c9821ad2d759fdeaa0cbf71bc95cc80abfeea1f2b979cae32938af7",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
+    "3514046f4c665b3a0f80a60780f41b8455ecdea1a9e64084aa1cea6dd9f2d84e",
     "353445d2b2b299664b0db781cb7fcbf70ea627ce6647e6d280e47e4eaaada225",
     "3576d28402f1e76cf0618af6fc980c9b6e125a0f1324dbec080fd0ef8a123c2e",
     "35a16e66c4ed2c9f955274437881b8e1b05119b3be4c462b022cd54936b08509",
@@ -667,6 +670,7 @@
     "5ff2358b02763b55d3822a055332d6fe80bfce43e3ac7037091a7b122cbc7be6",
     "60084183c5474633e8cab445bf0d1df974a4c32852cb92fd9b61c02a30103d74",
     "600e8bc24dcb18cace9af3acd36d498f12a49fa65ca3182966c241cd41a995ac",
+    "601b13a689921b70fb838a151e7b3d25494e3721984e64e6f61274b1b91b7eff",
     "60277c8fb82f898b363231bf63cf70b6c6dac97ab2af82fcd5e3da046a86307f",
     "6065376409be4a2fafa70e35561fc9a3017c78ec4856ede2f96ca0e37165e4a4",
     "6069ff2c892c1b447ee5a3af181e907acf6a2bc81b14a28c551f441cf08f93f1",
@@ -1630,6 +1634,7 @@
     "e80b53363c70acda6352c564e147240263d6d2596779505ee27f38d751e8847c",
     "e82777dc750474a06d95fefd93f5e83007106077d893e05fd9c76f07a41a85fd",
     "e859727ea70dbc8f53c5b6986faaf6d3962308aecbfc7ecf1442cc8ded08bae8",
+    "e87e87fab0f5cefbbc87be5e2864cfa4ab08aeb67e61bba8fd33ee702805a894",
     "e8a0dfd610fd65c42dd52f8da37bb8d30773e210fb2273b2b6c0529758e8ab4b",
     "e8c128ed69c522aa252fa91d2efcfd66ac84ac459fd008e5bb99ee147d8c806f",
     "e8cc26bedd7a7204ac0b1d4eadc25cb7f250341d8cba7523e217d65a6abca95c",
@@ -1720,6 +1725,7 @@
     "f40afa90b70178f515b936042ffe87ee8c9ed8d4a7182e2b8841d1b2ec1459c1",
     "f40b2001906faf95cf06fb232c45e712966088c3c7984ab9f2c763c19706b261",
     "f43484f1f2ece0d8f769c3ac64f525a1d0fef728f7a6725190eeceb913594bb3",
+    "f4432daa35f102e49e6c146a23420b5636f5f1aeeafb448fdb185a3fd373084b",
     "f4a33b18393ae9df2db84450382b43db550e84766cd90ce7587e146be88f0ce3",
     "f4b5db70730bc9adac0b5aca11c476711878eae2b82221c12580f254b84064f4",
     "f4c1c372531ea52ee672e501c47505624357a904257fed928adb79aaf93a3592",
@@ -1816,31 +1822,59 @@
       "address": "Reverendo Padre Fahy 1635",
       "price_from": 25000.0,
       "matched_times": [
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
+      "club": "Efecto Padel",
+      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
+      "price_from": 35000.0,
       "matched_times": [
-        "19:30"
+        "18:00",
+        "18:30"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "Padel los amigos",
-      "address": "Combate de los pozos 3653",
-      "price_from": 1950.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
         "18:00",
         "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 56000.0,
+      "matched_times": [
         "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T20:38:30Z"
+  "updated_at_utc": "2026-07-22T22:04:50Z"
 }
