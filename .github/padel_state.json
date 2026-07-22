@@ -169,6 +169,7 @@
     "198f823db34b9a3b7fb566bcefc4da8282e7604a47fbf4826d37183b497cbeca",
     "199405167b7dee5ddf882c937c0d5e7b9d99242b288c5663cd2dd2ebdc431e70",
     "19f7c2fdcaa8a1801486efacc881abfb54f45cb80381c24ad26f7754ed465dbb",
+    "19fab54e3a20aefad75a1e800c0aab2955d0c4908b247a94a1859b0f566ddcf1",
     "1a13ebeeb285970cacbd2ad21e18b89d5d4de6a8a8bac70d28a1703ceae0b435",
     "1a24a05d3a35fa42b16af8905db21b4bc7ddc1538979e1e26329c072ffdca1ef",
     "1a2d00d9a143d7256e818c1cd4406003400795434782a33d32b1911faf979d3d",
@@ -277,6 +278,7 @@
     "299ba2b1a50f1838b1e9a486fb3cc9fbf8c139c6aa8c4d4878aa453ffec2e82c",
     "29a09c3ac2d4157c09137915c9b7bd053bbd6f7d11cc4c1a7a234bd2146e1651",
     "2a0ccd65de278464f728edd73fd4f4df17ce5fd19978f70b442e5d092d9e33d7",
+    "2a1562f7ec7a35e0ea9d21183aa35db960a65127c6638a8b955215d6aeda8853",
     "2a4c895f86766d7f30dc3488c6549ab043cfc833951b3cb49f3cad5a41762f92",
     "2a719fbf4e00bba226985155fae3e74fd444cb4c2e3d00a130dab966b8d459b8",
     "2a843fdf09c15fecf75de915e9364db201070d17ec2f0d1f6bde4f06f52d8ece",
@@ -1710,6 +1712,7 @@
     "f3e2958f46cda579c6da172b4aa456c1d9895891f4faba6b6863a51d25e7ccd9",
     "f3f13c3f27445bc6546712ac843c41264d4fcf7c2e3a2c9c08195f38df18256f",
     "f3ff4e7e0991df119a6445e864c1752c3185a1a560b66ac896d4fe02676ac0f4",
+    "f40afa90b70178f515b936042ffe87ee8c9ed8d4a7182e2b8841d1b2ec1459c1",
     "f40b2001906faf95cf06fb232c45e712966088c3c7984ab9f2c763c19706b261",
     "f43484f1f2ece0d8f769c3ac64f525a1d0fef728f7a6725190eeceb913594bb3",
     "f4a33b18393ae9df2db84450382b43db550e84766cd90ce7587e146be88f0ce3",
@@ -1804,22 +1807,33 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
-      "price_from": 56000.0,
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Complejo Filippo",
+      "address": "Av Leon Gallardo 70",
+      "price_from": 38000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "SHARK",
-      "address": "Av. Gaona 1745",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
       "price_from": 70000.0,
       "matched_times": [
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T14:14:56Z"
+  "updated_at_utc": "2026-07-22T15:59:59Z"
 }
