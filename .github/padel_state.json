@@ -1342,6 +1342,7 @@
     "c3c9bfed316a684c0767403403c0d98e98f38641aecfc96da938e122d8ae9491",
     "c3fa4072c14366b1401399ddc5c9925a9581e34eea26984274cdd221f8db0b85",
     "c48e6bfb58cdedaeefa6c3e63203cb0968ab157c02627a3ea962e680ae3a3b25",
+    "c49e03c85af364de73a86306d1de22c9c4c7d1d841c0e7e910a2eb2da3e148e5",
     "c508e33f1711640910ebfe9db36a7b63afbb01b3747a540bb51f7cfa242c809d",
     "c52f6891c04455685ce76dd9e92bdbd6838c0ee294c261ba41b1f564da99316b",
     "c53bbdc40d011b5e1bec6300273ed8b87f0f77fa6d17cdd9808dc9327d7fbef9",
@@ -1818,63 +1819,15 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Efecto Padel",
-      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
-      "price_from": 35000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
-      "matched_times": [
-        "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T22:04:50Z"
+  "updated_at_utc": "2026-07-22T23:30:23Z"
 }
