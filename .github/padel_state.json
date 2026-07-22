@@ -104,6 +104,7 @@
     "101d04a083779adda353729bd9550e80b5af84865358b754be6062d5d63819f9",
     "101d1e4a5d3fa4bc3feb35aeea0aec7ef1a35d7791c1e40521d04305c5a01935",
     "105260bf199ac40aa7096ab03f5c780d0d2d2eb598a5dbb189b145942330b408",
+    "1056b8247e8578abd2032128eb21089c8be7902e68c61c21ea79f8c3e1c864d8",
     "1097bc2556e29a2a912e9208603c19c312916dc79726669816d4a869046ddaf0",
     "10ad7fc2dfb95bcb74cbbc544b9ab25d11a69beec068b5729251c57d5ebf1561",
     "1111928957f6e9991f373abc14d05be106337f6224c14bfdc735fd19b9c8be97",
@@ -904,6 +905,7 @@
     "8617e71721c1e9d662bd9f99b757be9d3fc3ea170ed43b1600aaac2c7882766b",
     "861d698e13aacf099857f60b1688444e117fd4e4fe8e6181e217dcf3d86369b1",
     "862bb2b6312672db6bfc3f6d12a1375b6c7bc1cc6ddb396dcdc35729c84d46d0",
+    "8690f310aa328618210e228117ef0ad879063d9db2c8ee261717046ae8397d16",
     "8696575745abbac201dc989d9ae2007f5ba6f32a54d1dc5d4b6238b741e48a74",
     "86a206e4cb2bb41f184ac0177982fd2abe4aa4efcc8241ec78b282532bc14dfd",
     "86ed0e4d8a1bc68e8760966197b42c7b21c77d33a67eb8154c750c8240da5ab2",
@@ -965,6 +967,7 @@
     "900f0f6d5286ec18e5375962ecfd823de262b4a96e370198280f045442341461",
     "9011aaeb0bf64245820a9f9da30030ffb3444dd821441b1db6b60ba2d489c607",
     "901a846007f59dd47a3d4455ea8aa93a0024831507edad89c05fcf6495f2a9f8",
+    "9048464b12ce12170e472e0b08352d31fab3db1e1f7c2fc512468b434cda5ca8",
     "904dc21d1dc10704d2e2905097342cedbaa875173b431fee9ee579e83e28c9a2",
     "9057bf700202bee6fb3fa96f8bd925f2277b00cd2747f960db4718d369a3d90c",
     "90676ddbb3c4bdfb75e08f3cab604225eb8ee7e47c041279ad603d2e05ff991e",
@@ -1809,13 +1812,35 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:30"
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Padel los amigos",
+      "address": "Combate de los pozos 3653",
+      "price_from": 1950.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T19:23:37Z"
+  "updated_at_utc": "2026-07-22T20:38:30Z"
 }
