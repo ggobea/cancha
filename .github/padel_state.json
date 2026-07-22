@@ -1493,6 +1493,7 @@
     "d72a87d709f37297cbec22d15bed6e734ff6b54ec40443b36938bc89e6e52d0f",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d790104d8e3ecc342c816eb2bec0ff37eeedf643e3b083b73b38c6e30dd2fa7e",
+    "d7d2b78fb7846cb164d84e37690f90cd26ce7cdf946fea99ea11e939aee227ad",
     "d7e22d09d69f7805501bea43829d345022dc42e557c278d509b85210e0e3a843",
     "d7f58fc55d2e414ed70e784acb086e85e28e597e99edf55282b733e64c841913",
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
@@ -1808,13 +1809,13 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Club Altos Bella Vista",
+      "address": "Chaperrouge y Defensa",
+      "price_from": 40000.0,
       "matched_times": [
-        "19:00"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T17:35:25Z"
+  "updated_at_utc": "2026-07-22T19:23:37Z"
 }
