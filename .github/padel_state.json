@@ -61,6 +61,7 @@
     "0a11dd61d5f9adb83fffe90283c5007308794bc286f95890f6bdd0653e8e1555",
     "0a5c779e784929940b5f7b1993123812e4e4731d007fc64985111d5fb6673cac",
     "0a66ea1d62e51c0ca574131220facb39f6f2ff0e685c1b95d89d844c119ee3d5",
+    "0a7576cd161535b91d6e2976813141a19a58cb4dbeeeef1ab92b1857340aaf06",
     "0a7682081374a301a727e429c2c4270cf1557424e91834eee515b1f5d278b6be",
     "0aa0117f55cbd38282e0c967498185e17e87082a650888aa55aed87a8707540b",
     "0abd075e507f013ba310394d401607dc6a2093ec1997bfc17afabe1abceb7c74",
@@ -774,6 +775,7 @@
     "72f549fee5ad9b30cf42eb41398648b1e2f2f02d34cedf9c47510e0fecbad379",
     "72ff83fd7d85344d95d664bbcde051baab95d6d8b1b338c47b5805060db82707",
     "7329b2dfcba59f5bd892168393e32f8824758d6aae6988594728ad7fd6bd041e",
+    "7337272cbc95e2782a2ccffba9dd7ddaf0d383fd8a69fb23380acb9c6fec4fee",
     "7361fe5a01fb080565d3c90abd47b80d07755b55c8ab3381cf9d5a70dd5d19ed",
     "73c1f73ae6a59227a6f37d6674d68ca8f7598f12259a60c9d4d09629dd9cf448",
     "73fd01100a8ec604f59eb362effbb6c775fca051468fff11af7642193f847c63",
@@ -1035,6 +1037,7 @@
     "9855281577c8220d3b9b77deb27a2a54493ea4c7d9d08a1f5ed8a1cbb44a5530",
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
     "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
+    "9897bb67136249254c4b750698bfd6a1182289de59bd73f3f5cfb3ec90b73abd",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
     "98d3d1a263df0fd048f066bd43b9611e631d3ce2bbbd30c6a069e11a8decde50",
     "99354a2bef1f4d3d009b06822e09a9f13705278aba36ae4d4c0dd870acab1bf1",
@@ -1047,6 +1050,7 @@
     "9a279fdfb3e9a5db887d205ca642867941c6ef51231df6c0fc5f1889cf1b8fe7",
     "9a285e5536fd79641b8331883b4ad2a17faece299d00a3a61d49cbdbb3563a03",
     "9a4b014d5631a390d9ba6fe30f5f0080b824f83ac2e3512858b08eec6ed4921d",
+    "9a66220e793de6689da6f06614e0b2e6c6298bc27d687d5b8d8adb913e86334a",
     "9a91df71c770b9ef2ade9df79552ed846d3ec3fa5437d4f4b3a99ee376ffb696",
     "9a927c23077af00f92bfd9b2d5c5f9359507550343401b6df51b2ca8bbf7d1f9",
     "9aa5852fee28b8e277474a5040506cbde624e9dd6886988ed19555e4660df2e1",
@@ -1674,6 +1678,7 @@
     "ed104fbe555b2c1bc62208e8cd9ba2ee6441b5a5e2965f2ab5a46aef6ff0454c",
     "ed261720694907618f47ff4f84a44d625349eea33db01d53a4445c549b078e2e",
     "ed4fd0e7d515c207a5f2bd1effdda9cb58a4337857409c03587162255c69f67e",
+    "ed677344ced7cefc53206358331aaab25f19e626e234c71f3b3103aeb0d58800",
     "ed7633215d358450555ff348d945209f5cb147d049b9e231372f80c9c73bf3e8",
     "edad1591c6e0de7c53de7286f60e541f69d59cf7cf5f12fde1973ba47679c1a5",
     "edbe75053b5707283fd2b23bfe482893cba877a01b45b21669cbcbeb6c0cc5b8",
@@ -1825,9 +1830,49 @@
       "matched_times": [
         "18:00",
         "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Club Melian",
+      "address": "Av. Melian 7760, Martin Coronado",
+      "price_from": 45000.0,
+      "matched_times": [
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 64000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Padel los amigos",
+      "address": "Combate de los pozos 3653",
+      "price_from": 1950.0,
+      "matched_times": [
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
+      "matched_times": [
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-22T23:30:23Z"
+  "updated_at_utc": "2026-07-23T02:55:19Z"
 }
