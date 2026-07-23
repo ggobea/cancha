@@ -74,6 +74,7 @@
     "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
     "0bdfe11e1941ecbc6c8142912eba07942b06fd116fd45aaf47d616852ca15973",
     "0bf9e676935506640cc13e33fb587ef722ce093a0b4580b41af5aa1619462cd0",
+    "0bfb8490ba817ef382a632f93aa9717bc9abea1890a61986a57ab5755f936c19",
     "0c0dd60e475f3d7df68d3dd9fa8cd2eb579274753f5bbab44fe638f608eafe28",
     "0c632befe0b97c325d0073e01393eda05938391675905329fac3497f11c62cd6",
     "0cdc3b31569f93aef94823a11b3d6e2bba79319c862cb37ec2dffe022d168072",
@@ -262,6 +263,7 @@
     "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
     "26fa2e4a35f6faa565a76c73ddf5bba6de5c38628102cd78bcecf99e8684934f",
     "2719195f2a20927e855e9cd50154d679716d20495d77b5746e3e28c2d82f6cb1",
+    "272c59f51eed83f2c11562f88a15b5fb35873680faa6e64c1a92e4fa5598942f",
     "27323e89660752759d0ad16a5835fbc075788bed92b2a20436034032c0d58d1f",
     "2755b3e2a99d67817ee719f7f8a59272e9d47f4a76bdd1a70e945d6e4e9b24ad",
     "275ddde57253409ac710d26ccf8bb0791f0727ff72c97c0a72ddea8d124ebcff",
@@ -700,6 +702,7 @@
     "6416525df8b4f41e282465dc058a4165af8b2170e7db40fc831e7837212c5101",
     "6426a07b65b6965004ef0f31c921e04d8eed2a39889b8285228805966ed97283",
     "645db2e2283f79b662d5884a2938365327a02207ffa99f288500af8bcbf2aef2",
+    "6464126fdbcfbde61325a535edda08718f8a15f895556f4be0013a8141a581a5",
     "65080cb91ca6ff21fe4ee2f08b6d6f4df9e202d1c4aae79157027120e3fa46e7",
     "65895e1cf1cd1bb6dca07ac0b6519f71cebe3bd95c00a6511d88fe9afb9edf13",
     "66264fb284c9c7f95a681d7c5502452763daf66b937053e2707aed3b37a9c2e9",
@@ -844,6 +847,7 @@
     "7d0cf0bdff4b9e1baae0431945a409889b43ed21c7bd829b62d05ae3d1fc82c4",
     "7d1535097952159ad3d09a887801697ea7480ecac677423fa8e63bc7c0555836",
     "7d1d5d5e33d6e3eb401e5930b1d786cd3576d923cbccdf85715f945a8c64395c",
+    "7d1f9d294362b3fc81017e68564c3de7ef8e68ca3bc1337e76f64780f5142063",
     "7d333b8d86324201dde7a72b7e43cf5f33d97d5eae77f8b40e042c3f24fd3c4e",
     "7d9f0874c8ec92e31456082900e6eb92f8372a8c09d195b3e2411d5fe9700a89",
     "7dd9f9f0b8cd3040bd2030ca728084ea16fd34f5a54e2ea9a71a33166a0173fe",
@@ -925,6 +929,7 @@
     "87d44a6cce35cb7cd19c19b48711c5e22887325a13e61103417f854682b3bfc4",
     "8805d80080a4c55fe9b6ba6e326465d0747f365273bcf8942bb9378e6971dd50",
     "883b4062b6a5da4d79daf469365b6a22d49250f98a15788ab1e4683b332303ad",
+    "883d946146732f5d5baff21f9cb5dcb6a4be7e299d2a9b27483c344c3a24057d",
     "88766b30719cf86cb45af43b7f8f6b44ddcd687de0e38db5df45bb2ff8d9592c",
     "889268318bed39f26eb50691226a6471362c22400678ca4e6c9844bf0bd68d9f",
     "889b6de241eb0c29e54b6fa9b3b53e935498a08db561da57dd81c0ae1d81d064",
@@ -1271,6 +1276,7 @@
     "b91e8bb2fb93ef2f836d79e65653e5f739d374333222eb56c1a8e0403c2552a6",
     "b94ddfd67af69d49b26653b67c29d0af2292afdf42426135474687d5caedb46b",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
+    "b9b3b8e00c468431b21bb5c05279c87d966ce5322c83d432bc14bdcda4432269",
     "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
     "b9d40e0c522ff72e86ce303bbc04bd9d773f64e9f3144b036ffa84bf9b948ece",
     "b9f0d4b355220c50edeadfafd03dd637543caeddb5ba1fd9e6ad1bbd137bc4ad",
@@ -1830,9 +1836,18 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Circulo Club de Padel",
-      "address": "El Leñatero 1889",
-      "price_from": 64000.0,
+      "club": "Arena Padel",
+      "address": "Av Eva Perón 2264",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30"
@@ -1840,39 +1855,32 @@
     },
     {
       "date": "2026-07-23",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 58000.0,
+      "club": "Los Vientos Racket Center",
+      "address": "Sgto cabral 2506",
+      "price_from": 64000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
+        "18:00",
         "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Sportclub pádel",
+      "address": "11 de Septiembre 198",
+      "price_from": 78000.0,
+      "matched_times": [
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00"
       ]
     },
     {
@@ -1881,9 +1889,10 @@
       "address": "Cacique Coliqueo 1041",
       "price_from": 27000.0,
       "matched_times": [
+        "18:00",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-23T13:01:01Z"
+  "updated_at_utc": "2026-07-23T15:31:12Z"
 }
