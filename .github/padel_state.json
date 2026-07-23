@@ -963,6 +963,7 @@
     "8cc3e2c62972d572cc63c138de698d810ddc6d618c2af45d7565ef87490b3d31",
     "8cd11b2c5237eefbaa819da42abf47482f8cb4adaf51f4a2338d3a9227cbf5ec",
     "8ce9330222fc4f19ec82f161a1c292eae78831a5f8ac060bb277c3d28e62bb74",
+    "8cf7d05f240988af671a822f3fcfd73928ec57ed99d0ddd8b6d6492cb3df62f3",
     "8d09d1b0ca9d974efeb0d52f5ab23fb2527b86f6f9e9f97a6a6bc4ff0126993d",
     "8d417d467123449ac59e794b87c03b775a8facf1807d1dc35c5f695f5adfedc5",
     "8d4780e46e50e7fb1301f5a1b10063e137623c1e7100ec7e23f899325954c378",
@@ -1226,6 +1227,7 @@
     "b210295162b2b4817055cf545879bcb27a3c86cafe2b869b91f445ca19c2d321",
     "b216b710715547022aa9de03e4bb143ede29349952265bb345ed1894a06eb273",
     "b2185bb09bccb12411c29468c07495d0cb61b9a1e41a65910c7b6d93142cc8d5",
+    "b2365da8409226fd38dfbca81438ab2a39c6c278c6e183488969eca8f749e869",
     "b2a515f2317b707026b7009447b7a4641f8400b3542654cf500e87f00814fcd1",
     "b2ba336e2645cc8ee3c2daccc338a625ca119cbc860b1108d7efbb5934a2fc3d",
     "b2c2d3c8b898e67743fe1d2cc17b48b80e66590a2144f9ab463dae25bdb5d7bd",
@@ -1281,6 +1283,7 @@
     "b94ddfd67af69d49b26653b67c29d0af2292afdf42426135474687d5caedb46b",
     "b9662b2042b0b6093e4c4db0efcf89e551213d9ac56ab0bdb83fdd4a28632237",
     "b9b3b8e00c468431b21bb5c05279c87d966ce5322c83d432bc14bdcda4432269",
+    "b9c3df9d249508cf301e5418a74812c45526116e2978eac114d411b8d9453e11",
     "b9ce2f6dc2b9ddf566188ec349bf62bc708c284cd3dc8876f41a02abd2e54a9f",
     "b9d38b191a5455972f113a1ea41190af4fbe900e5760920d5ac56d80ba079be8",
     "b9d40e0c522ff72e86ce303bbc04bd9d773f64e9f3144b036ffa84bf9b948ece",
@@ -1845,91 +1848,32 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 18000.0,
+      "club": "Estación Futbol",
+      "address": "Rosetti 6240",
+      "price_from": 60000.0,
       "matched_times": [
         "18:00"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "Circulo Club de Padel",
-      "address": "El Leñatero 1889",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
       "matched_times": [
         "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "Grizzly Padel y Futbol",
-      "address": "El Zonda 1769",
-      "price_from": 15000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Kick FC",
-      "address": "Saladillo 2051, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Padel \"LP\" zona Oeste",
-      "address": "Padre Varvello 4427",
-      "price_from": 13000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Tiger Padel",
-      "address": "Av Gaona 10502",
-      "price_from": 30000.0,
+      "club": "Vilanova Padel",
+      "address": "Cacique Coliqueo 1041",
+      "price_from": 27000.0,
       "matched_times": [
         "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-23T17:24:31Z"
+  "updated_at_utc": "2026-07-23T18:45:58Z"
 }
