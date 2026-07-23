@@ -1003,6 +1003,7 @@
     "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
     "9318fde771f3a565f70dd9886faf9d27ad50571d7f2e9516b656a16505de855a",
     "93342667fd718ffb43a4f45ac5eda32c7cc13321b98c3dfaa4f77ebc2d16dd8c",
+    "933fa91f0cebd0b82121a5aaa6abc2261c533e543c7cc3fb703799d5786d360a",
     "9355463046d0bf3e96b1db861a551eb150dce6b06d1b9cbcc905a5b6d426c8d6",
     "93921201d4a73b72ea927b63e069d72c413b8581160c9b1784b7e9729204f7aa",
     "93978eede74e48d7ef031b3fcc8a4f94f3e43e5aeb72541d08907a852d55cd50",
@@ -1377,6 +1378,7 @@
     "c65b1341d77670ee8d6fa69481315d93ebd777f29730b42ffcefeb30633db136",
     "c67a3f6e63603920be09dd147cbd09fd29a0d009dddb97dea5b8578628951f35",
     "c68c527c1c9cf64a20004d75fe0caaee8665b330a123957b57e84cb86be58e03",
+    "c6c2111e714e2ba72efe8e79f945c8dcdfaa02130849c685c8f561071665f042",
     "c6f037d3dff3435d97e8d692ae223fe9ae906ad78f3ee89dd0523942a2a85401",
     "c70dbca07e63eca6895ffa53175604feeb402a3254567ab8e184320eae754a35",
     "c720910c3e53f8955f44f386adeccad503101c001e6ce4b4bcb212124a81d5aa",
@@ -1526,6 +1528,7 @@
     "d72a87d709f37297cbec22d15bed6e734ff6b54ec40443b36938bc89e6e52d0f",
     "d74d23fb21a2df0454b2ceefd6bab73095765b5ef4991795a67ed7414c83418b",
     "d790104d8e3ecc342c816eb2bec0ff37eeedf643e3b083b73b38c6e30dd2fa7e",
+    "d7cf0fb3e642a0c73a81b74c048722e015f4e5a2e2f82a1e34877c4603e67a9d",
     "d7d2b78fb7846cb164d84e37690f90cd26ce7cdf946fea99ea11e939aee227ad",
     "d7e22d09d69f7805501bea43829d345022dc42e557c278d509b85210e0e3a843",
     "d7f58fc55d2e414ed70e784acb086e85e28e597e99edf55282b733e64c841913",
@@ -1848,32 +1851,35 @@
   "last_results": [
     {
       "date": "2026-07-23",
-      "club": "Estación Futbol",
-      "address": "Rosetti 6240",
-      "price_from": 60000.0,
+      "club": "El Guardian Padel",
+      "address": "Carrasco 825, Floresta, CABA",
+      "price_from": 36000.0,
       "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
-      "matched_times": [
+        "18:00",
         "18:30",
         "19:00"
       ]
     },
     {
       "date": "2026-07-23",
-      "club": "Vilanova Padel",
-      "address": "Cacique Coliqueo 1041",
-      "price_from": 27000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "club": "Gioco",
+      "address": "Luis de Camoens 2017",
+      "price_from": 14000.0,
+      "matched_times": [
+        "18:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-23T18:45:58Z"
+  "updated_at_utc": "2026-07-23T20:14:28Z"
 }
