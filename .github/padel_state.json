@@ -1943,15 +1943,6 @@
     },
     {
       "date": "2026-07-30",
-      "club": "Arena Padel Barcala",
-      "address": "Avenida Gaona 7243",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
       "club": "Attitude Sport Club",
       "address": "Av. Gral. Lemos 1415",
       "price_from": 33000.0,
@@ -2384,5 +2375,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-24T12:58:16Z"
+  "updated_at_utc": "2026-07-24T15:01:39Z"
 }
