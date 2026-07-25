@@ -2083,15 +2083,6 @@
     },
     {
       "date": "2026-07-30",
-      "club": "El Predio Ciudad",
-      "address": "Arregui 2540",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
       "club": "El Predio Padel",
       "address": "Boyaca 1766",
       "price_from": 66000.0,
@@ -2383,5 +2374,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-25T20:54:42Z"
+  "updated_at_utc": "2026-07-25T21:58:10Z"
 }
