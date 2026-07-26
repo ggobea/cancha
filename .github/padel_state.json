@@ -2185,8 +2185,7 @@
       "address": "Santo Tome 4769, Monte Castro, CABA",
       "price_from": 48000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
       ]
     },
     {
@@ -2376,5 +2375,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-07-26T13:26:40Z"
+  "updated_at_utc": "2026-07-26T14:49:06Z"
 }
