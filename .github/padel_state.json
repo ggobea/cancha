@@ -1620,6 +1620,7 @@
     "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc1220528c45c6ba18e5a440fd4d83b9bad6d4ac3abc2c389a2a17a131d56ed7",
+    "dc21b2f659aa6cb3c8ee723ab0166ae1358f1a58d8fe000a18f3a02def3232ef",
     "dc391018db886249f728d3a18a81191491e062009e4b1bc4b2b5ba47928d0859",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dc55eab8bcf4450caf31dadf8dfcb42a4d82745448992b4d0b3372b94e333153",
@@ -1915,14 +1916,14 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Club 18D Fútbol y Padel",
-      "address": "18 de Diciembre 1953, entre Belgrano y Moreno. San Martín.",
-      "price_from": 44000.0,
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-27T11:51:43Z"
+  "updated_at_utc": "2026-07-27T14:39:19Z"
 }
