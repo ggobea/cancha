@@ -1213,6 +1213,7 @@
     "a9f0667ca788665523d7b74099aefc4c9f6dcd9172c22a3798c68279c423a2b2",
     "a9f0734a9375359fc161d9031adae203b30a6069beac43c556c971817e4b4805",
     "aa0b0d44e380d7977c062ace277f838e8ee0ea0b8d6e8de302af72a4b3082a1f",
+    "aa751ab1863cac6e982690a88d80d0d3bc896b26e34a3a692d5719cf2a5b6314",
     "aa89653d9d541286e0c0dca6bdaad568c8d7d36672d1c1bd32a1c5f5bad9c39c",
     "aa89df67d3178d41eea58270b8515275b987f4aad04a9bf6f2ecafd3ebcd11a6",
     "ab0490cc3dd754ce9e819d48cfd44ff591cb906392571b785fd383a6fee8b50c",
@@ -1919,33 +1920,13 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "BASTICOURT",
-      "address": "Martín Miguens 7886, Villa Bosch",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 72000.0,
       "matched_times": [
         "18:00"
       ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
-      "matched_times": [
-        "18:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-07-27T20:23:32Z"
+  "updated_at_utc": "2026-07-27T21:39:27Z"
 }
