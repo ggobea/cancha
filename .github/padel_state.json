@@ -125,6 +125,7 @@
     "11d9f7ce31685422bdb98c801611e6996d681f549a620c12b3338502c2e3c316",
     "11ffc437d98c714e2293683e78d508c04054c0cf649fae39f894607a99ed90ef",
     "12109d77fb6d69404f0f6a3382f0e810d78019f8da4698689923c68dae830a2e",
+    "12194ceb82ecf7d956e91f048de006c7c7a595e697527106a09e664be865053d",
     "122015431b214bf2d3255bbfd24628f474de988bc2db3b22aa2f5f23708a32a3",
     "123b36a6e7429b76cb90c8e2fd944352d95b17174c1f587b1963db2631f96341",
     "125ef4655cd459b1b41595d785a1bbe33fc5e90afec51ab28a6b941d4634d9fb",
@@ -575,6 +576,7 @@
     "4de156a93703ee180fc919b862e01287733b6cd20c31687f5ea2e3fc221601cb",
     "4e07379bc19499090efddd9694197df21e09bede1cded5d253988cc57b8b266b",
     "4e0a91fcccbfa9637b8852994b9712fcc690e0f31857ec289e9a49fb678dce15",
+    "4e208e6fed5bb759cdec4ff542d5b1d0af1edd760278a9a3c59e75f5bdf57664",
     "4e4828c154e26d36483af91f987e2a2dd54fd3f8718ef3dd274513a8e88a95f5",
     "4e5a4df45f066da8f40a6dc0eee5c3adb276667769844fc32eb0bad1a4ff1656",
     "4ecaca0994a388dded63ce6dc493fcd891a8631c6bcda8fc823d71f7492e0e37",
@@ -1920,13 +1922,27 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 72000.0,
+      "club": "Aura Pádel",
+      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
+      "price_from": 56000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30",
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 18000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-27T21:39:27Z"
+  "updated_at_utc": "2026-07-27T23:03:48Z"
 }
