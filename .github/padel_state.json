@@ -471,6 +471,7 @@
     "3f48ea0e0a2238ececbc8db916fdc4e6a9bfc17d75393416d96acf80697df153",
     "3f49c11766feec7b0b23bc3149138fb9864d3045b6b27386a61187ac7f7c1ec1",
     "3f55b03d148c8f21c857c42807f724ba4a72483054ef7bad58908eae39876bed",
+    "3f7db2f8c12dc415f536633b56612942e00326ff5342b6541165c795f0b3cee6",
     "3f7f703b655b6f6f427dc19a55a4252118a6f73b5d0a652976e75d4336f1b215",
     "3fc835bbfbddece3bbba30ede087d7d0bb0fa9f2bd227fb598737516d37c5ead",
     "3fcc40992961a97e74d73e34e49742f1e0648d56ac0de04876fe0945524c1da9",
@@ -716,6 +717,7 @@
     "613fea35234e80201363e19605a09bbc8842894d7a66088f014c8d22aa132839",
     "6174c5d67029ccac8dd376e4abc6434626922097f7ae822f66a0a8142b07d786",
     "617ff6342f217ea8bedf7e86e51b5bda572d055183481ce84b91191902ff0d7f",
+    "61879219411b7efd08baf866a8efe6ff81400d052983e0e8aa131531c05fa3a2",
     "61a13b06766303496333c53b9eb119df0227d2fa66e0a7f3dac2c157eae185d1",
     "61b7bc715a22cdecd1e90f0d0a67d68345ee3f19b5b637e82e676c5f951c47da",
     "61fdb5d531ef7342948c78f1da2da7a91181fc6ddae39e5eeaf655c401353a7e",
@@ -1572,6 +1574,7 @@
     "d53396ed9f4596db67207a4b984bd77a2d30401751951a14429df300693d9151",
     "d53b8ffe644df9435bf8f7faa35acd38e3f0e480ec8d7cfbb7fcf5c40ba5f0ea",
     "d54816730167fc6bd8bb80699d4492685806a9837236de6ed5bd3e5c7970b0ee",
+    "d54a59f1e6178f26c48f4e9121cd19cd631e4c1e8f891454b6dd5b4b284588e9",
     "d57620f3a937771215b4105a15ba1652e41630aef776fe8555d0b5163b6fae7d",
     "d57bb17a7e4a3e749e33da89083c214289a0391329e1c15c65eb785b1af604e9",
     "d583824517d3ecee7f01439dec6e0bd3145baf80a4da8021d5aaf88c27c3cbd5",
@@ -1929,9 +1932,18 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Casablanca Padel",
-      "address": "Urquiza 952",
-      "price_from": 40000.0,
+      "club": "Belgrano Padel",
+      "address": "Belgrano 1063",
+      "price_from": 37000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Lobosport",
+      "address": "Alberdi 1310",
+      "price_from": 30000.0,
       "matched_times": [
         "18:00",
         "18:30"
@@ -1939,14 +1951,15 @@
     },
     {
       "date": "2026-07-30",
-      "club": "San Marino Pádel",
-      "address": "Felix Ballester 645",
-      "price_from": 15000.0,
+      "club": "Smash Club de Padel",
+      "address": "Ramón Carrillo  2568",
+      "price_from": 52000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-28T14:59:19Z"
+  "updated_at_utc": "2026-07-28T16:46:09Z"
 }
