@@ -1405,6 +1405,7 @@
     "c0f2d2830869d872b328431425b5a7999f23990090676b6f81f345cbbe3f7cf7",
     "c0fbce2011dea743bde32c18756dbca53cd103a2958d2dd7b08d8beaef4d41cf",
     "c11c1959c691ec798a9630febf21aca9a3a5dd120e276af04774fed129194389",
+    "c12caa918f3549d1f88895d76240eeb18724129e797df4a7c8cad00a14400da3",
     "c145f5fd7b78652e0023e4585f17e52aaf43ee81df5b86d602da40290413a52c",
     "c1a054bd65e57604bf133ace36979fd809816df23f8714ac09d7a76aabb2c7d5",
     "c1afc28899d7237e615f2da7ee6983072038c4c325c655a62f3f11e2c6c8ffce",
@@ -1883,6 +1884,7 @@
     "f89571fc0e89acbc4a8d6c353f8c78e4075c4ce5172ac4b5be5cbccc85247009",
     "f8fd21829f6df2f77131cf14ebc03d2ac7c0582875e5345998e3f17098dd3931",
     "f8fe3bc239bf0c836aa579deb5879ebf59e82a058bbaaa2217a285e04c6f1b98",
+    "f90978941ba4ef05ec9fa3b9cf4db2917420ca9194519cc462a2466410d73f26",
     "f9261e2a22b980a939010a2d7771d3ba749ae7d9bc996fb7013e65ebe9096a51",
     "f937019d7d05c317bd41adabcf4f0e8d0bca9b6da7cba49b0353a443f943ec56",
     "f9720f1dc5033464f6239d2aa7f526cf0f1b177773e09fc46891c2f1db894c10",
@@ -1940,33 +1942,26 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
+      "club": "Kick FC",
+      "address": "Saladillo 2051, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
-        "19:00",
+        "18:00",
+        "18:30",
         "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
-      "matched_times": [
+        "18:00",
         "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-28T21:39:06Z"
+  "updated_at_utc": "2026-07-28T23:01:18Z"
 }
