@@ -271,6 +271,7 @@
     "25f9501a6fbf10bf6620e3d57723780960438968af8dc2e12f0fed7ba73bb724",
     "26147f06e5c831aca81d49df2a9a3ab5733699c3fc7fd521c546d28d7e0a5588",
     "264a1c0cad938e21bdbe2a294005d2db1cf4f7e62e8c1c7e4b432026c3f53729",
+    "2663298ab85af6b7593f1cae7e4140e80bd8ce0d36665763551cfdcdf2bdc0b7",
     "266736ffc8d1ff6e225f365c37dc2bd9869b55eabcdffa6a719e67d52f41be1f",
     "2681e3bfb3f15cb4de8d81d0f416753b34afaee7da3f7433029c55df859796e3",
     "2688025ca4e6d912f46283cd0a2d65354b230fffc8b02cbb82abaaf84af7c038",
@@ -668,6 +669,7 @@
     "5b25e4007274b834379203da021a6e16e6c344176b87ea0f60f3b3c5f613f89a",
     "5b410a7d65d314fc812a7356527e3ade9928b7d78b56f507ff70e41f1336dcc9",
     "5b883f52a7d9997ed782dca952722ce84eb31aeac8fc305b58dc28a520230913",
+    "5ba869155811c97523f5398fd9b38bc57a9cb9d30b1796212e7bf31baf7f694c",
     "5bb8cbd306f1b94b6a85b5d2fb9f511ff996413b3c0bca9ebdfe146fc641dd6a",
     "5bca1588ccd038ca935f5fee88bbe359ba4a3326ce9d06ddb00068d4bd71d3ab",
     "5bd45f9d19c4d60d71f8c46245d2ef269e7710868529941e93dd21d3d399143e",
@@ -1927,13 +1929,24 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Casablanca Padel",
+      "address": "Urquiza 952",
+      "price_from": 40000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "San Marino Pádel",
+      "address": "Felix Ballester 645",
+      "price_from": 15000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-28T12:21:09Z"
+  "updated_at_utc": "2026-07-28T14:59:19Z"
 }
