@@ -1235,6 +1235,7 @@
     "abfee4eb8bde1288e6cd462ea4e8f465300dacc61419f9a61bc5ae3c56fb72af",
     "ac45acc53c5bb686fb76028522ae92a81068cb0f1a1e3e8f2c69215b7dfc4fe4",
     "ac4a2de85909a3ffc242c81232af8e32ab2c71c9e62323dc0ff9b521f37f1c94",
+    "acb2456b71bfeed2ac7ac19f80590f26714b11cdaa2d8e11c1f8fee11c790526",
     "ad76c730a4bf9f3690de389c858e6993e9e66d7038cda5cdb848f6cc80c26ad4",
     "ad81bff26d8c0f2a7c58f3f501b7d1e8ae6c9f2ba675e427ced712de12128684",
     "ad899fc71861a5f3e7614d9146360a573c7571b871dcfe33316d41703d55239c",
@@ -1444,6 +1445,7 @@
     "c67a3f6e63603920be09dd147cbd09fd29a0d009dddb97dea5b8578628951f35",
     "c68c527c1c9cf64a20004d75fe0caaee8665b330a123957b57e84cb86be58e03",
     "c69d3965deab396e406f80d53e78d17ba879f018c66ab54386f4d8a97d6da230",
+    "c69d7287f827756cd042218d26c01ad8e7f089631b4c11be6991b0bb9e0a43de",
     "c6c2111e714e2ba72efe8e79f945c8dcdfaa02130849c685c8f561071665f042",
     "c6f037d3dff3435d97e8d692ae223fe9ae906ad78f3ee89dd0523942a2a85401",
     "c7094c082e23b9817177513dcfc169e64dcb97f297abee90567f14a810b7d88c",
@@ -1605,6 +1607,7 @@
     "d7e22d09d69f7805501bea43829d345022dc42e557c278d509b85210e0e3a843",
     "d7f58fc55d2e414ed70e784acb086e85e28e597e99edf55282b733e64c841913",
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
+    "d8292b887afdd3cbeb7647d368945b41e8cfd9efbaff4e782185c307ba4d7fec",
     "d841d2598ab15b8ff3984d19f6cf3919cff2e432b00b8d596f583da2523baca1",
     "d85b70b825e40d946413e44882daf922bce881ebe3c6e1f7e1ca3e8de80c60e5",
     "d85cef3167701b89b6808a5b0854ff313d0ea6758e3f71b05c3ee95d09b3389c",
@@ -1937,52 +1940,33 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
+      "club": "Complejo Solana",
+      "address": "Las Tacuaras 2975",
+      "price_from": 52000.0,
       "matched_times": [
-        "18:30",
-        "19:00"
+        "19:00",
+        "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "La Bandeja",
-      "address": "Libertad 4360",
-      "price_from": 25000.0,
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
       "matched_times": [
-        "18:00"
+        "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
+      "price_from": 56000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Padel \"LP\" zona Oeste",
-      "address": "Padre Varvello 4427",
-      "price_from": 13000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-28T20:01:06Z"
+  "updated_at_utc": "2026-07-28T21:39:06Z"
 }
