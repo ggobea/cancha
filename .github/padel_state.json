@@ -315,6 +315,7 @@
     "2b2cf182ce32636d4cfe0bb155a75fa7b6dc6d3b93a649f7838bdb8369407a04",
     "2b37e0ff654b119d0e56bac4396fea8c65e078f294e2578c1d6ff8a06754a62a",
     "2b781008cded742874c0664e32f640e43c74ac5909b360b6af7884792c54ce57",
+    "2bab6e1b521efa1e8d61d287b92c9a1062c7516cb38d4ada23cf5a6c71af01f1",
     "2c03a417eb5599a08ffe1a5bfda60e14e9f12634f65ccfa95556f170452a17d5",
     "2c1ec95e08197dfc5013d87474d06d50e7c7997ee8919076689db50345d427e1",
     "2c272e87fddb31040d50b05389516c4e8a2cda60c711eab129b996a155b01ef8",
@@ -1624,6 +1625,7 @@
     "db4f6bd5e0bdfd90872abb4ed7dfcdf038a325e01d6b9feaf5aded11d5e31643",
     "db774cd29083a97986396c4a2b85d37f4910f823f498821262e793f07091275e",
     "db79e0606084d509e2ba3b49dae0635d5eb17ae4f9bd1985ee815d207ac5ca71",
+    "db7ab464fcd0ce9cd3696587e6c4c3670d581f9cb8d1040d8c05fe41c402df32",
     "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc1220528c45c6ba18e5a440fd4d83b9bad6d4ac3abc2c389a2a17a131d56ed7",
@@ -1924,24 +1926,24 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 25000.0,
+      "club": "Belgrano Padel",
+      "address": "Belgrano 1063",
+      "price_from": 37000.0,
       "matched_times": [
         "18:00",
-        "19:00"
+        "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
+      "club": "Padel 740",
+      "address": "Muñoz 2255",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-28T00:54:59Z"
+  "updated_at_utc": "2026-07-28T04:11:35Z"
 }
