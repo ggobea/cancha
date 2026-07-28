@@ -5,6 +5,7 @@
     "00514ae942d5756a4407e8163f68e8a7d5d82d76e5f341212a75641cb6a87ef1",
     "00cc3244a0004ffe522a308e486aa88bf42804f0627286f6c2e5661091ae58a6",
     "00e88816226b6ccd5a38dc3ae1e02e0a4b3bfdccba13402ee266d83750479f6b",
+    "017bda4b39766b906a71593185f0401e10b31e98e98014d8de0513065a0f06fc",
     "0196995bbc1527e11a8140bf4a386ac8d7266a1e94068a8134135f4166aeff65",
     "019c42e16c9f17076f8e5107e6dd0c880a3a1cd078083109bbc345a6e8fc0c6f",
     "01a5b3a4dc872c6ed8c9e745085a7bd7c49b0f2a96ff24f8956d335d0c3caeb8",
@@ -369,6 +370,7 @@
     "321853ce58b998286763fccffe45f65df83e5bdb329d4e8dc9dd00e8073a3a20",
     "324caf28f1bdfec7b53f9359ab918b334e9589dc49fe690a6257d17d59112477",
     "325615a157bd23f9c7c65379588e183518d2617e7070a522a108ff533349e52f",
+    "3276d9eac9c2a6e6520dc31cae3fa99d3f604d659d3d528bcdb6a349dd8ab4c9",
     "32773760f7533da9a114d2f6558bb113fd9de8e85228a34a329b35bf84795d5c",
     "3286c7c73411a0f10b6c7fb96b300cbe92a634520dbbe1d8021f8dd0656b197b",
     "328fdb30c110df143c99f9adf49ef899a379bd371b122587893ae539f1f30889",
@@ -1922,27 +1924,24 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
-      "price_from": 56000.0,
+      "club": "Club Melian",
+      "address": "Av. Melian 7760, Martin Coronado",
+      "price_from": 25000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
+        "19:00"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 18000.0,
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-27T23:03:48Z"
+  "updated_at_utc": "2026-07-28T00:54:59Z"
 }
