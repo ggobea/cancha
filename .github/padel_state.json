@@ -2066,8 +2066,6 @@
       "address": "Chaperrouge y Defensa",
       "price_from": 40000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:30"
       ]
     },
@@ -2079,16 +2077,6 @@
       "matched_times": [
         "19:00",
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 46000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
       ]
     },
     {
@@ -2159,6 +2147,8 @@
       "address": "Luis de Camoens 2017",
       "price_from": 14000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
         "19:30"
       ]
     },
@@ -2369,16 +2359,7 @@
       "matched_times": [
         "18:30"
       ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
-      "matched_times": [
-        "19:30"
-      ]
     }
   ],
-  "updated_at_utc": "2026-07-29T20:30:26Z"
+  "updated_at_utc": "2026-07-29T22:02:21Z"
 }
