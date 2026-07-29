@@ -1392,11 +1392,13 @@
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bdeecbde6ac09029b8eb60431374128482013bfecd5750390bcf9f5a978a58b4",
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
+    "be50e2b6625751d4373017a188de7bc396c620f004b3d61e6e9a7acacd749bc5",
     "be7a7b64abfa0c2b76bcd39121ab02107288d9ceae531b8f88e7057cc96f210d",
     "bea5bfd055c6bf601a1bbb73cfbee0080e1bbd8fa15410db3ebbd56250035fef",
     "bedd03305bca11d19996733f45c4ae73a02f9c209028f9c9f44f82caaf6ca0f9",
     "bef8ae4b196882ddf953a37c8f89231c2efd8230daecabfca801f88349bf5724",
     "bf100bcd32ab3431d070b083c000bcd372a4523094bd21de3408f3e65bf215df",
+    "bf4c558390c8de8ef49f1da7ed5185cf147704c7253e0b46cca49b5aaae40991",
     "bf54ae8198207c5d4995dc3d9054af64afcd858c07c846fc90043b033280ece7",
     "bf7af56811a44cb7ce6baa1ff3820129a9ce5854d289ce61face39274406810c",
     "bf84ee27aaddac31d04c0fbe37679a8a642752e8d9d5fd0ca16c9217fc595ba8",
@@ -1956,86 +1958,23 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
         "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Club Altos Bella Vista",
-      "address": "Chaperrouge y Defensa",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
         "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 25000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "El Guardian Padel",
-      "address": "Carrasco 825, Floresta, CABA",
-      "price_from": 36000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Gioco",
-      "address": "Luis de Camoens 2017",
-      "price_from": 14000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Los Vientos Racket Center",
-      "address": "Sgto cabral 2506",
-      "price_from": 64000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
-      "matched_times": [
-        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-29T16:22:42Z"
+  "updated_at_utc": "2026-07-29T17:47:46Z"
 }
