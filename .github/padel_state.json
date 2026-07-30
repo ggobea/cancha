@@ -752,6 +752,7 @@
     "645db2e2283f79b662d5884a2938365327a02207ffa99f288500af8bcbf2aef2",
     "6464126fdbcfbde61325a535edda08718f8a15f895556f4be0013a8141a581a5",
     "65080cb91ca6ff21fe4ee2f08b6d6f4df9e202d1c4aae79157027120e3fa46e7",
+    "652fb2d9bf83acaa529570f916054d8b98864d71e7eb8cf5943651b73b7044de",
     "6549ae52b2e2baa3eae00c6dd7583d868d37fc570f953ec18c4d85073f407996",
     "65895e1cf1cd1bb6dca07ac0b6519f71cebe3bd95c00a6511d88fe9afb9edf13",
     "66264fb284c9c7f95a681d7c5502452763daf66b937053e2707aed3b37a9c2e9",
@@ -1087,6 +1088,7 @@
     "94be297b10e20d52b71366ba78dd93ff216c53ea3dd98fa8fadcffaf67effd57",
     "94d1bc528f502219af2f37db417d2691baa245a76388635da977937e2a6ef55c",
     "94ff206b9e18aba242aa2e3b1a1cfed33cf6ffea160de49281f9759fd78405f5",
+    "9524783158f9d88a9cafa5032e95a85f418c0c6baf5d93f23d27fb0fd4e54c81",
     "95ad480aff70971f4e1a58f8063970c4e56281e9f445b4dcfa1cfed0cd120bba",
     "95d78c300f564361b765395123190f4b2f2c35cf259ee9559f156d2bb353526f",
     "95f268c150de2ed8428f47f8674ac5d312ce82877956977cbb6887f0bab2edab",
@@ -1685,6 +1687,7 @@
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dc1220528c45c6ba18e5a440fd4d83b9bad6d4ac3abc2c389a2a17a131d56ed7",
     "dc21b2f659aa6cb3c8ee723ab0166ae1358f1a58d8fe000a18f3a02def3232ef",
+    "dc25ae143da5cf9bc860da098199b0b6b361a4fb68509da8ef5f4acf4a4b4762",
     "dc391018db886249f728d3a18a81191491e062009e4b1bc4b2b5ba47928d0859",
     "dc46ddc19a1c4911828db808de040785ac867e67adb8b13fb44a3be3b7a4f12b",
     "dc55eab8bcf4450caf31dadf8dfcb42a4d82745448992b4d0b3372b94e333153",
@@ -1990,89 +1993,31 @@
       "price_from": 35000.0,
       "matched_times": [
         "18:00",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Goles y Gambetas Villa Tesei",
-      "address": "Juan de Salazar 265",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Head Padel Club Hindu",
-      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
-      "price_from": 50000.0,
-      "matched_times": [
         "18:30",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Lobosport",
-      "address": "Alberdi 1310",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Padel 740",
-      "address": "Muñoz 2255",
-      "price_from": 25000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "PadelHaus",
-      "address": "11 de Noviembre 1055",
-      "price_from": 40000.0,
-      "matched_times": [
         "19:00",
         "19:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "Redfit Padel",
-      "address": "Luis De Camoens 1435, La Reja, Moreno",
-      "price_from": 34000.0,
+      "club": "El Mirador Padel",
+      "address": "Av. Rivadavia 9222 Villa Luro",
+      "price_from": 48000.0,
       "matched_times": [
         "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "La Cautiva Tenis y Padel",
+      "address": "La Cautiva 7651",
+      "price_from": 28000.0,
+      "matched_times": [
         "18:30",
         "19:00"
       ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 70000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "Smash Club de Padel",
-      "address": "Ramón Carrillo  2568",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00"
-      ]
     }
   ],
-  "updated_at_utc": "2026-07-30T17:00:50Z"
+  "updated_at_utc": "2026-07-30T18:55:26Z"
 }
