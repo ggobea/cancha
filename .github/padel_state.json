@@ -344,6 +344,7 @@
     "2e45a1efb237b3973ac93219dd1d58a8bad375cf72e0b663b176cb7ff647c965",
     "2e598c616b3f811186d3388ebee4673eef27d70394a142093f37ad23a1d07efe",
     "2e64fe4806e9fff71f5d6e72c5b06fbd667ce88da8b6265d3452d809d99793d8",
+    "2e8ba424d67f841b0793a2fa0e8dcc02015246f29d42db00c553fb3a8b006347",
     "2eba6bba49739e4193ae1056bfd49ba4553b602632d7c190cc4258ff0004affd",
     "2ec1e6d045cc45ec4a886dafce7110d708a4c33fbd1bc28f2f65acefc16ca832",
     "2f1b063a94b7e11d9cd0e0b86c4d7c1901fd04b130c04bd2e34d3c96b582b2ed",
@@ -755,6 +756,7 @@
     "652fb2d9bf83acaa529570f916054d8b98864d71e7eb8cf5943651b73b7044de",
     "6549ae52b2e2baa3eae00c6dd7583d868d37fc570f953ec18c4d85073f407996",
     "65895e1cf1cd1bb6dca07ac0b6519f71cebe3bd95c00a6511d88fe9afb9edf13",
+    "662183b10df6be184db2dab3534e5605eeaeb524e6d52620a31ac7f247d89469",
     "66264fb284c9c7f95a681d7c5502452763daf66b937053e2707aed3b37a9c2e9",
     "664d87459317a550179de502117683e5333e1c05b582beeb3055707a0fe98db7",
     "664ee2d017bc65a9befe41014d5d8023e8bfae86f4d82448d71991a96f163161",
@@ -945,6 +947,7 @@
     "81246aef9e197275ae4528a6193593ed7513b8b19a94915f01ec8c9f2a7c0177",
     "812f928d6ffe2bd05013f44bedb7f4951a43867595462f3b6dfc34c9eea186c5",
     "81304a81c074059a30df7c668ae82282e7c8bc8bf38b3d47702c4ef64398dd8d",
+    "814aa467fecf7a62766be908927b08143e47c36bfef5fc24252055b3b0af5e8f",
     "8196203849eab84fb51e000fd0148626b65de57e7495c6006fe639f56a07274b",
     "81c0b4da81f378d44445170951d0e5fff4662421260add9e08c17b442147f19e",
     "820e088791dcd933d204c6b51751203ae839160027a922dfcc2b2180178a5d2c",
@@ -1763,6 +1766,7 @@
     "e516d2c66477adb9425ff0e61e16c7b246b480b2f97524844d1792fac9863747",
     "e53d566f0608d27a4f04ab43cec7890276bce5a4bf405450211f297dd4619741",
     "e54631c5a7c9b9152df1c12be8a2d14433afa5ffe3e02e59c9494e12e0709d9c",
+    "e576bb7b27bd3234afce53bc01bb72a2ece8f053ced1b75e7707f180dcb78b10",
     "e5873a2c2187673edf8c92f9de74717e1ffb97ec9225731d2f132e8d8364f7b8",
     "e59042baba7de6f0b4c3a23066a9333e90383f85e5f3043f1df62d9c1865f35e",
     "e5a654692d90edb35cbca7d4a5572cbdc3c85e90394d73b4ba2d45ee72f61f01",
@@ -1856,6 +1860,7 @@
     "f0c601c0db9070e13b4d0fc0066840f87db53fbd19747efdb9803256df4e8ef2",
     "f0e80fcce32accb3cd22a46f7c17c290941d8374dd015c4381362fa3315cfccd",
     "f10958c947a3407ad653a875bb68048fb2efde2d6926e7c4e3ad3c7c0b170e11",
+    "f10aea0f337db5a2ba8a25ce6e93e214728df895bcecf58e2bfb6e359b7efbf3",
     "f114c9189f9b11933e248712ef0dada6890daef1c5d4017b99bdf4b7fcf28a92",
     "f12b8a12b347fa3fcae87832d5de7d4aa0017072df2d46e20b52b63ffe4d44ad",
     "f13b7b9a90abe5204db59c28a31889f0213cb65577d05ba4862f2c0790acefaf",
@@ -1988,36 +1993,51 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Efecto Padel",
-      "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
-      "price_from": 35000.0,
+      "club": "12 de Junio",
+      "address": "San Sebastián 1705",
+      "price_from": 56000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-07-30",
-      "club": "El Mirador Padel",
-      "address": "Av. Rivadavia 9222 Villa Luro",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
         "18:30"
       ]
     },
     {
       "date": "2026-07-30",
-      "club": "La Cautiva Tenis y Padel",
-      "address": "La Cautiva 7651",
-      "price_from": 28000.0,
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Flow Sports",
+      "address": "Av. Gral. Juan G. Lemos 167",
+      "price_from": 26000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Head Padel Club Hindu",
+      "address": "Av. Angel T. de Alvear 400 (Ruta 202); Don Torcuato (Buenos Aires)",
+      "price_from": 50000.0,
+      "matched_times": [
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
       "matched_times": [
         "18:30",
-        "19:00"
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-30T18:55:26Z"
+  "updated_at_utc": "2026-07-30T20:16:04Z"
 }
