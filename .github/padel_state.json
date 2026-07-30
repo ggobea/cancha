@@ -77,6 +77,7 @@
     "0b5c4434df9f55b77c890619b370f421c2c2989e66c8ad74a80136d7cf3345fe",
     "0b7d5ee25d23b4caa1f239053edea28d79ac1a548e31a4e424ac10dcb6264c83",
     "0b8dc7c1dda944701849b786f2fe4874899cdae7f1f0f68412d22c396c324230",
+    "0bb71ca519da999558f88e9b88d7254efde34160432597e011fe461e27fe3629",
     "0bdfe11e1941ecbc6c8142912eba07942b06fd116fd45aaf47d616852ca15973",
     "0bf999a0005d8b8a69528548464d546d8e8c3b81964e94b9732629969e0a899a",
     "0bf9e676935506640cc13e33fb587ef722ce093a0b4580b41af5aa1619462cd0",
@@ -889,6 +890,7 @@
     "7bfc8ab434d43389028bf1c9e1cf04bb4bd7aec3e59ec9d85a1256e6421f3dd1",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
     "7c5846d73b86fd4d03e63ca3bee9b9b7193d8a944f87405af390b2a61016d154",
+    "7c83ba39f7715112d2b183181982b644d9445e7def3a5b29467304c29f8814a1",
     "7ca0d771a8b78012b938353f1194e1107ff63632ad7221e5f0f358ed2239dd56",
     "7ca8f5d74647f1b6ad8a3125addc90d06ea376e748867f99b4c0a189b42d3755",
     "7cda672b5261968c02b338dfd668b050584ec44c6cb96ed21bd78e37718f1d68",
@@ -1969,13 +1971,26 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Attitude Sport Club",
-      "address": "Av. Gral. Lemos 1415",
-      "price_from": 33000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
       "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00",
         "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-30T10:39:22Z"
+  "updated_at_utc": "2026-07-30T12:45:06Z"
 }
