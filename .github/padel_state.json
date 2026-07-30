@@ -744,6 +744,7 @@
     "63df212115485e7b502861dcc563550192382d483d2d91c9611dde02d52f6d03",
     "6416525df8b4f41e282465dc058a4165af8b2170e7db40fc831e7837212c5101",
     "6426a07b65b6965004ef0f31c921e04d8eed2a39889b8285228805966ed97283",
+    "645793685ee5f533e2d21933d88f4fc6bcfa3a847fb54425470f4bee64101ffe",
     "645db2e2283f79b662d5884a2938365327a02207ffa99f288500af8bcbf2aef2",
     "6464126fdbcfbde61325a535edda08718f8a15f895556f4be0013a8141a581a5",
     "65080cb91ca6ff21fe4ee2f08b6d6f4df9e202d1c4aae79157027120e3fa46e7",
@@ -814,6 +815,7 @@
     "70b33bab44bdabae8bc6af12c516570b3ac602087eef69e6e5548ea80d676868",
     "70bc6368220b00110726082e0073c69c9fbb2f936f8d70f085258fe4585be2f6",
     "70e1aea113707bafbed84966e6d6bf8954600f7662dd483caeecaebec9f77e3e",
+    "70eda266d3a773f3003d16d79c48c04e35e1bef65cd02495da9e09bb101edc02",
     "70f77482922f073e23d0f428c7f6ce9f35e2dd6a7aecbb89e6b793002ae748fe",
     "711f2271cae20594a3712e4e83d021d10c124847557c8839595aaa1371fdc60d",
     "7138fef815a47fce08de4ec883e83a23534bb8773a1412c7a056a8c8264a74a0",
@@ -873,6 +875,7 @@
     "7934205a27d5a0b88b7fff6cf2629ec0909c4c2e97276fae58a120d4f94c6033",
     "79595e121a3cbcabefdcaf6da16a2b4c8f963037cd106a909e5c7923c0ea9c5b",
     "79be653dab9f3d6c54fa3445d96ca96133c3cfb8178244f33166ad33db352dfd",
+    "79d408880a79d996a8db04c977cae81cbd2b82112a31c93a0076c7b5a23ad30e",
     "79df38de77026156f9e26a4605fd2b198df50f7acfbc452b50cd7d0fd572f988",
     "7a17f778ae73fbb087f4fce917df2c545386679a3f3d1fe688413a05fffdfcd8",
     "7a321d01b6886a655780898d6916d44cc32af534e4162ce4fe423e43a158446f",
@@ -1252,6 +1255,7 @@
     "ac45acc53c5bb686fb76028522ae92a81068cb0f1a1e3e8f2c69215b7dfc4fe4",
     "ac4a2de85909a3ffc242c81232af8e32ab2c71c9e62323dc0ff9b521f37f1c94",
     "acb2456b71bfeed2ac7ac19f80590f26714b11cdaa2d8e11c1f8fee11c790526",
+    "ad61dacbe89e97320271ab85f8f504e83cbac99a08d25b93c4a6bd1192a9395b",
     "ad76c730a4bf9f3690de389c858e6993e9e66d7038cda5cdb848f6cc80c26ad4",
     "ad81bff26d8c0f2a7c58f3f501b7d1e8ae6c9f2ba675e427ced712de12128684",
     "ad899fc71861a5f3e7614d9146360a573c7571b871dcfe33316d41703d55239c",
@@ -1635,6 +1639,7 @@
     "d7e22d09d69f7805501bea43829d345022dc42e557c278d509b85210e0e3a843",
     "d7f58fc55d2e414ed70e784acb086e85e28e597e99edf55282b733e64c841913",
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
+    "d81aa2bd21c34b2d72e97cde9ef9b7ae7925c7cb7b0986359b6b65e3188c8aa2",
     "d8292b887afdd3cbeb7647d368945b41e8cfd9efbaff4e782185c307ba4d7fec",
     "d841d2598ab15b8ff3984d19f6cf3919cff2e432b00b8d596f583da2523baca1",
     "d85b70b825e40d946413e44882daf922bce881ebe3c6e1f7e1ca3e8de80c60e5",
@@ -1971,13 +1976,42 @@
   "last_results": [
     {
       "date": "2026-07-30",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
+      "club": "Estación Futbol",
+      "address": "Rosetti 6240",
+      "price_from": 60000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "PadelHaus",
+      "address": "11 de Noviembre 1055",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
         "18:30",
         "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "club": "Rocket Padel Center",
+      "address": "Alejandro Magariños Cervantes 2455",
+      "price_from": 70000.0,
+      "matched_times": [
+        "18:00",
         "19:30"
       ]
     },
@@ -1988,9 +2022,10 @@
       "price_from": 40000.0,
       "matched_times": [
         "18:00",
+        "18:30",
         "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-30T12:45:06Z"
+  "updated_at_utc": "2026-07-30T15:11:13Z"
 }
