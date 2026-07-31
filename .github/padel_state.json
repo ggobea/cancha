@@ -548,6 +548,7 @@
     "4620ff4cbbb593139419ee4fd102c9f7ad8be98df73db3e4b16a3a4a117adc82",
     "4626bda226e9ec0458f64ea2ce7174d2fb7fea507833540c4873e724339fb502",
     "46609c0bb739e6e1c0a5d3ca1094270036180c58576baee3b327810759ce8372",
+    "4672ef01620c561e6877b329e92f92acb64ca50c03eb2b93ed319c81caf97e3d",
     "4675ff0163f5694cb7bc6cd28e03c06bb8089a97bfb867fbdc4d954311dc361f",
     "46a2c58e5f465e56ce0b16f782c006af3ae813b5c4eac44e4aa9bda8d8751d2d",
     "46c6d787d60a5eec677ac7a6e69d368cad867c98481df84efdf1cdf2a4531c1f",
@@ -2052,25 +2053,13 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Flow Sports",
-      "address": "Av. Gral. Juan G. Lemos 167",
-      "price_from": 26000.0,
+      "club": "Kuman Club Santo Tome",
+      "address": "Santo Tome 4769, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
-      "matched_times": [
-        "19:30"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-07-31T13:14:29Z"
+  "updated_at_utc": "2026-07-31T15:37:17Z"
 }
