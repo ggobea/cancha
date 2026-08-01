@@ -2176,18 +2176,6 @@
     },
     {
       "date": "2026-08-06",
-      "club": "Complejo Solana",
-      "address": "Las Tacuaras 2975",
-      "price_from": 52000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
       "club": "Efecto Padel",
       "address": "Av. Dr. Ricardo Balbín 5070, San Miguel, Provincia de Buenos Aires",
       "price_from": 35000.0,
@@ -2537,5 +2525,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-08-01T18:28:59Z"
+  "updated_at_utc": "2026-08-01T19:46:36Z"
 }
