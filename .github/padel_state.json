@@ -2296,7 +2296,7 @@
       "date": "2026-08-06",
       "club": "Kauri Club",
       "address": "Triunvirato 1572",
-      "price_from": 29000.0,
+      "price_from": 35000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -2525,5 +2525,5 @@
       ]
     }
   ],
-  "updated_at_utc": "2026-08-02T21:27:26Z"
+  "updated_at_utc": "2026-08-02T22:29:23Z"
 }
