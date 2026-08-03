@@ -593,6 +593,7 @@
     "4b41d2677a5e755c528d7bb1d6a174d930d3c1ef4e9d40c8da7decd31c0940bb",
     "4b661048185e0db0f513e9180c440ffb7b360d73fb0f8f3baed14d34ae51fba4",
     "4b93206ed04f28c11f5afc63c10b77795b9db1550688a53736dee3ca2fb04555",
+    "4c0c1b22eda4af34d52e12ddfeef4a865db69bab4031fdf310bb396bdabcb69d",
     "4c1b828097f11556bd82c06a5fbffe1b0949bbab7d7757d86b26ba0026a4638b",
     "4c338a6f6f583095ee9e28961a125af08d30a9b85da0a486e9805309b730b0d5",
     "4c5ee8a07771c17854050a55cfe71bcfeac1f47a4a1431287ec767f7f8835796",
@@ -1785,6 +1786,7 @@
     "df8fadd3c60abf49087f5e138def263dc09bfdd0e2495eabbca1d9ec05b9a529",
     "df9e4543e1e57a9634e3cff5274e6a651f205e85e21de9483233cbfdc8d4b8c9",
     "dfba78119ad797e862120e291f6a5dedcde42db01a32eaa4f265d02d93936a03",
+    "dfc601a6057cef4c934696d70d6dfe00846cb522716e5d8668a6172d9bea786b",
     "dfc7799bcaa08100d20a05e3ca70a0633d192207010ff6be40e6979df956b533",
     "dfe7c351afbabe7cb7c6e792921d18d2ab06ee5c0b1fcae294976d8b1539d682",
     "e01901c3ce90bb3a99e36f18dce6c66af96932ac7296f45192481a38199be105",
@@ -2063,13 +2065,24 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Rocket Padel Center",
-      "address": "Alejandro Magariños Cervantes 2455",
-      "price_from": 80000.0,
+      "club": "Bella Vista Paddle",
+      "address": "Entre Ríos 851, Bella Vista, San Miguel",
+      "price_from": 25000.0,
       "matched_times": [
-        "18:00"
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Match Point Castelar",
+      "address": "Tucumán 3000",
+      "price_from": 40000.0,
+      "matched_times": [
+        "18:00",
+        "18:30",
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-03T21:40:47Z"
+  "updated_at_utc": "2026-08-03T23:02:37Z"
 }
