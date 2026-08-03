@@ -1368,6 +1368,7 @@
     "b31181d99661c99840bfc60860c883d43bdb26d8a0fb45bd6838387b00a08de1",
     "b3493448831faae39e2d8e04e23db8f439096c143017eafd6ab2831b8455be9a",
     "b36dd0bb7e2736cb92198af7decffb075f399f0a8ba4288778ce1f6b82f6af21",
+    "b37d53808e0da589a699d11de844ad76253ad434f7345e534819659a9cef7676",
     "b37facb34a30def52087ef45b829d5267f324eda3c195359f1c3ab17ff1e697c",
     "b3be3c2ac7314fb9309168f1ed48a7e40e826754a33deda15aac583174a91dd0",
     "b3c6686fb84064115aa51bf32238617ff2ab3982bb6d46047302be90e191ee42",
@@ -1709,6 +1710,7 @@
     "d806ff64b53bef7de0636208c331ac4c2f6ac873a43de059c2e191a43c0b6b2f",
     "d81aa2bd21c34b2d72e97cde9ef9b7ae7925c7cb7b0986359b6b65e3188c8aa2",
     "d8292b887afdd3cbeb7647d368945b41e8cfd9efbaff4e782185c307ba4d7fec",
+    "d8325df109c765961d632ff00ebc603ea1f03db2da4e88792a374533179ba804",
     "d841d2598ab15b8ff3984d19f6cf3919cff2e432b00b8d596f583da2523baca1",
     "d84a9fe4fb936934f3cd2d09ec7b321708a9e25c2e6deb784f598d65ca0c13fb",
     "d85b70b825e40d946413e44882daf922bce881ebe3c6e1f7e1ca3e8de80c60e5",
@@ -1742,6 +1744,7 @@
     "db79e0606084d509e2ba3b49dae0635d5eb17ae4f9bd1985ee815d207ac5ca71",
     "db7ab464fcd0ce9cd3696587e6c4c3670d581f9cb8d1040d8c05fe41c402df32",
     "db9a22347b65fc49de3b5386cd1f1c748b323bb0e288407d8fb2b89a4b991f4b",
+    "dba8c08f752ffe7efbdec88880002cd74b0624932d03d0a1d924443323daf878",
     "dbd47cc92bc2df231a26f727ce43a698c8faf9e7eab47e1ee4d515d37a8dbc97",
     "dbd4f95c5a41f3c52375f923adce2e5cca3a80a6e3b1d5929fa83533218a60f3",
     "dbf1fe53123fabd8b740a6cab2be464e4b94317b1f25adfd23667b1cc483881d",
@@ -2063,31 +2066,28 @@
       "address": "Belgrano 1063",
       "price_from": 37000.0,
       "matched_times": [
-        "18:00",
-        "18:30",
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Bequin",
+      "address": "Granaderos 475 CABA",
+      "price_from": 48000.0,
+      "matched_times": [
         "19:00"
       ]
     },
     {
       "date": "2026-08-06",
-      "club": "LA CATEDRAL PADEL Y FUTBOL",
-      "address": "MONSEÑOR BUFANO 320",
-      "price_from": 27000.0,
-      "matched_times": [
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Olivos Padel Club",
-      "address": "Av. Olivos 86",
-      "price_from": 46000.0,
+      "club": "CLUB AERA",
+      "address": "Av. 25 de Mayo 1268, B1650 Villa Lynch, Provincia de Buenos Aires",
+      "price_from": 56000.0,
       "matched_times": [
         "18:00",
-        "18:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-03T16:27:23Z"
+  "updated_at_utc": "2026-08-03T18:18:10Z"
 }
