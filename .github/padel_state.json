@@ -830,6 +830,7 @@
     "6e486fe38e05d8311c3e8a40ab8d6bc3e0926ffd44b76aebb54db07cdf1bf7bd",
     "6e7acd6a4aa86bb08a548c24f74277126e2566e50cd0e14c48923fe4af534365",
     "6e949ee10cb64f0d4d075fbc34670d71eb783f6cc8a7b94faf988c797a0101c9",
+    "6ec1d635dedf5713910a7e4080fcd0dd58045932809f6ea0bb6d6cde8e14cb14",
     "6ef1d7b0f50807399ff8f133d78ba3a835bcf0d34c27f57e524942a04fbb058b",
     "6f1aa02ad75f8e471e57dd73380049a74726425de73578d5edd48f814e66bbe7",
     "6f25a9667f4dc053a689ca56fce13d4e3682b79fa5b260e26c9eba8413b027a5",
@@ -929,6 +930,7 @@
     "7ba39011914770dd269acda8dc6a734cd1ec5f9abfc9ff4b5d0a607492ba7cdc",
     "7bb422e5f683b0721a2f024a328e268eb73cfe493bdb8f9cecb8cbf499bdb01f",
     "7bbd37c279b63389fef6d63726a5fa555e01eed89be30dfce189e113cf54acc9",
+    "7bbfbd66cda2374b66b34289f2e726880d772754d952d870e99098ebdc632442",
     "7bfc8ab434d43389028bf1c9e1cf04bb4bd7aec3e59ec9d85a1256e6421f3dd1",
     "7c2485ac29a48e3c0fac740032566e5acddd9b99c1db66143bd674620aaf20ec",
     "7c5846d73b86fd4d03e63ca3bee9b9b7193d8a944f87405af390b2a61016d154",
@@ -1278,6 +1280,7 @@
     "a7fdf487149bef71c62357a917616859d241a21c71d43de5bb343df71ca2940d",
     "a80eb085e28e82a26a5625da4fe66beab5ed4913ce6817c00ad7ebeda5910f0e",
     "a82d03e92991d18f8d1696867fa74d6747ea4e121019f93a49dec4a20fd45628",
+    "a8767918dfd74004d654d9b7fa563f8ea22d8e790d76444b1b39d8b69bdeface",
     "a8b43b7c1381753100005e6db2856d34384d8df7e40c8ed5b92b62df88ea6e92",
     "a8b43e456a802fe0400a926defd88264a448e3970da95b94b03e2cb0eb3d743c",
     "a8cecac780cfb661e9721c29fc95f801bcdc91c54571134b147d1693d20af9f5",
@@ -2056,13 +2059,35 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Padel Ya",
-      "address": "Av Rivadavia 8511",
-      "price_from": 55000.0,
+      "club": "Belgrano Padel",
+      "address": "Belgrano 1063",
+      "price_from": 37000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30",
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "LA CATEDRAL PADEL Y FUTBOL",
+      "address": "MONSEÑOR BUFANO 320",
+      "price_from": 27000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Olivos Padel Club",
+      "address": "Av. Olivos 86",
+      "price_from": 46000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-03T13:42:02Z"
+  "updated_at_utc": "2026-08-03T16:27:23Z"
 }
