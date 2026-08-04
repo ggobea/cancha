@@ -508,6 +508,7 @@
     "413a580e52a8c358d63fc87c739039de98db5dfda95a3a01fc2374b214a3a661",
     "413bd1f4a2ef8e9a4efcca3da3244e79d68e0bb97d829a781e64de995bf6f6fc",
     "4146191ef63e3995d72597fd68de55e3affd0ce0f7136d804ddeebc1b0ab7816",
+    "4159c22a8d4c49243ab1a7f8dfb21ca0b15fb7d8f620fe6957ef2c7d7d8b1378",
     "415b5805ca7cf0fff08033ddf16b241b17217af6222ae23eac67ff962f47b02d",
     "41942a932e0c0266ae7c47994cf41d97681a7e2f003fa472ff0f6babe4bfef38",
     "419efba04a9add2370093e3b186c3e6edd78db4f50a2b6eca7a31f90a1be80bb",
@@ -1606,6 +1607,7 @@
     "cc7f0a3df71f93db84cb32054715409a2a9f2c71ae457863a6819acaf77581f2",
     "cc802f98b50115214f01a3249f1e9acf7b622488a6cee2a3d8cdf16dd3fd1bbe",
     "ccbb9d9060438b3986001611b648f2f2ece5018dee7e27978dc746e15ac2dcbb",
+    "cce0183a83d208ab144875d13907c9665e41a826cf42bbd6dc1fccda0cafbcb5",
     "ccea99656d6ea093971254504c9772d409194cd4314807b247ba69ec1eff0f0f",
     "ccfccbc29453f1a283b627ebebd8852b284fb3c0206009993ec0ba6efa321f48",
     "cd0137301c82959538cf42ad8ca514fe9c54879170a6fdf4ce446dd9ddcea6cc",
@@ -2073,23 +2075,24 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Padel Bricks",
-      "address": "Av. de los Constituyentes 6153",
-      "price_from": 56000.0,
+      "club": "SET Padel House",
+      "address": "Tribulato 540, San Miguel, Buenos Aires",
+      "price_from": 30000.0,
       "matched_times": [
-        "18:00"
+        "18:00",
+        "18:30"
       ]
     },
     {
       "date": "2026-08-06",
-      "club": "RedFit Pádel",
-      "address": "Av. Victorica 1128",
-      "price_from": 38000.0,
+      "club": "San Marino Pádel",
+      "address": "Felix Ballester 645",
+      "price_from": 15000.0,
       "matched_times": [
         "18:00",
         "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-04T19:07:30Z"
+  "updated_at_utc": "2026-08-04T20:51:16Z"
 }
