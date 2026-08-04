@@ -1325,6 +1325,7 @@
     "ad9e9097fc55bc376be954e41cfd77bde542c15ef62226277ca85211a08adfe8",
     "ada016532aa088497363b2ba7ee2570911d129b4372f5d4105096281fc8944d8",
     "add7d752af171f911247cc2bb5c275f623dc33b088c709129508ca9e5049fd41",
+    "ade0696be0136203c75ca7c9756049e4bb2f45c517a83b251fbada2e8c0633c3",
     "adfdb89cef0af7e4ef219466a8f234f1dae42aa463393bb65a9e428e59504925",
     "ae0bc06facaf83b6f56af75b47bc6cae4d4a646c204e7113337e2870fc1910d4",
     "ae1f2379b82ccf35cbb2421b5f73ca0bd820f7ed229645b893ceb221dd58a1a1",
@@ -2075,24 +2076,16 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 30000.0,
+      "club": "Canva Pádel",
+      "address": "Bufano 6050",
+      "price_from": 40000.0,
       "matched_times": [
         "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "San Marino Pádel",
-      "address": "Felix Ballester 645",
-      "price_from": 15000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
+        "18:30",
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-04T20:51:16Z"
+  "updated_at_utc": "2026-08-04T22:14:12Z"
 }
