@@ -875,6 +875,7 @@
     "73c1f73ae6a59227a6f37d6674d68ca8f7598f12259a60c9d4d09629dd9cf448",
     "73fd01100a8ec604f59eb362effbb6c775fca051468fff11af7642193f847c63",
     "741672e50ddc04a39d8333ad687aab3c77b193ad8c22d66050734ff1d95cadbc",
+    "74299f0f663a556523fb1a215c6063d0be1255306f8994ae69da9e755f00bd52",
     "7447798f6e31da8ad5361a92202f138f07905ecb314c03ae99cf6f112cac60e1",
     "74744b062f8e2f180d72b5ec1514cf3e74e272cdc1a488dd2f16590d94b95343",
     "74789b694216592568d26b171b22cc8525d095077cef8846f130448465874751",
@@ -2070,45 +2071,14 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Apache 32 Padel",
-      "address": "Av Leon Gallardo 111",
-      "price_from": 40000.0,
+      "club": "Aura Pádel",
+      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
+      "price_from": 56000.0,
       "matched_times": [
         "18:00",
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Estación Futbol",
-      "address": "Rosetti 6240",
-      "price_from": 60000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Kauri Club",
-      "address": "Triunvirato 1572",
-      "price_from": 35000.0,
-      "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "SET Padel House",
-      "address": "Tribulato 540, San Miguel, Buenos Aires",
-      "price_from": 30000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-04T15:02:29Z"
+  "updated_at_utc": "2026-08-04T17:12:30Z"
 }
