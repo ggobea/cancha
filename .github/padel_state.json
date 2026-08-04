@@ -15,6 +15,7 @@
     "02908624cbfdd5f9ee09ab9bc848c1fed05481218d67bf6c9bdc547597ffc9f5",
     "030b60581af397cbe4dbf836e270641a356ff393b173b3bcaded117277c1aea9",
     "03635d32e2eceab9d6475ff670c3d8abf84171d9a49a166c2a099db43e3f737d",
+    "036d2b07e2715cb39bff06b8e0d519bd0b8ba0070ee6e7871b07e7dda6b7cdcd",
     "037018c5c407c0838fb8995f7a732b1d50c1b486d7a4fcd8c48dd513342ebbba",
     "0377ff09cd0c6f35b7fc0f8898f08b125434c7f938cbcddf67d26211618b167c",
     "0395f233b892c1c44a6b546774ab0d62a7ee8597bd3b3cb0867e1f63ea5ea85b",
@@ -1996,6 +1997,7 @@
     "f6746c5f5903faa65d65f554cd9fac141dcd5085257d1b42ae400c65bbf97b0b",
     "f69ccdfd3875297ea71f0bbad90d140b3f36d603f900f26fbe0e5a4fa4067a8e",
     "f6a0407f77bbf8af32b12d45b95efdd93e964505f26af9ec7347a581fd1fa947",
+    "f6a87bddf3202b2e8703b07b6bc031e275b347172ce4ef07d1d0ad8c04daae5a",
     "f6bff88b534a5de893fb7e58802de278fff50a74a7b6d2aae849aad1aab78878",
     "f6c44ea652eff86083d6aa30b30a89735501b3de738212687b1c5acc6edc8b89",
     "f6dc69159b47e5673c93f0d8277fde73202df01775681a148f61622c4c68ce48",
@@ -2071,14 +2073,23 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Aura Pádel",
-      "address": "Paraguay 320 Villa Martelli Vicente Lopez",
+      "club": "Padel Bricks",
+      "address": "Av. de los Constituyentes 6153",
       "price_from": 56000.0,
       "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "RedFit Pádel",
+      "address": "Av. Victorica 1128",
+      "price_from": 38000.0,
+      "matched_times": [
         "18:00",
-        "19:30"
+        "18:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-04T17:12:30Z"
+  "updated_at_utc": "2026-08-04T19:07:30Z"
 }
