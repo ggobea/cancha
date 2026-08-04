@@ -2011,6 +2011,7 @@
     "f9261e2a22b980a939010a2d7771d3ba749ae7d9bc996fb7013e65ebe9096a51",
     "f937019d7d05c317bd41adabcf4f0e8d0bca9b6da7cba49b0353a443f943ec56",
     "f9720f1dc5033464f6239d2aa7f526cf0f1b177773e09fc46891c2f1db894c10",
+    "f9a163b9cd7db150dc104e69d31be41d4182edb8d4f198fb0c6493da4ff12950",
     "f9f21b99ac450f0125934e9161ba9a52cbec2f49149bca65eca60c51a136ea39",
     "f9f9517f828845fdbc24dd7423f422873466cca08c85575bd85f93bb0ddfbbb8",
     "fa1032cd5a26c8f4ccc8da99da6f7bc9223f8a1a526498cf248a43aa25fd3131",
@@ -2065,24 +2066,13 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Bella Vista Paddle",
-      "address": "Entre Ríos 851, Bella Vista, San Miguel",
-      "price_from": 25000.0,
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 48000.0,
       "matched_times": [
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Match Point Castelar",
-      "address": "Tucumán 3000",
-      "price_from": 40000.0,
-      "matched_times": [
-        "18:00",
-        "18:30",
-        "19:00"
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-03T23:02:37Z"
+  "updated_at_utc": "2026-08-04T00:59:38Z"
 }
