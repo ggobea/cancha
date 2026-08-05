@@ -201,6 +201,7 @@
     "1a8e8a2a2caf2d9e007c8c12d6020955b6ed5e570d18aad74c1369f19a1c0469",
     "1af93d3590b0a196320ac219ff4b8f7de061745e02ea071c3d27ea7d95af0d81",
     "1afd549d9d2765d7564fb69a3b60f71c2521db578d303a48bbdba6703b0a0925",
+    "1b01514e42c55e636e4871a42c0b0b4fec8842cf8187ed932274edb651d1bf5f",
     "1b1e1b652fc33e3642a1dc95eeb15cda17ec36dc055b60a8b4fd2cbc888c7026",
     "1b2f310fc6b45bdfbe79fa44597ad8a800b668cae72023cacc032e8ff2d45d1c",
     "1b451f368ac3b3f3295f17f8f4e4fbd2601c74b634210cc8bb77739c7351c58c",
@@ -832,6 +833,7 @@
     "6d3484ff0e2e2b46e967afc67a01feabba1d81f16ccadfc82501d984991b3ac2",
     "6d698cf99aa2363318e9c19d24daa87ad75a82984024d5298e09adcf16580507",
     "6db47c9ffdea78b4bbbac8de3aa3c813710f61e7940daa32ac80ee8f02784e3d",
+    "6dc3486913df77762f8b169321499dc3d434d182cc2d9293ed813e4baff38dd2",
     "6df471bdb38cd2668d09b6b87b31027a5b41b35dfee47837ddaf46428ce45272",
     "6e337bac3fdcdfc51a7a8e24c98a7f6a0b45a4c7a1abb62c8a9980cc237452bc",
     "6e486fe38e05d8311c3e8a40ab8d6bc3e0926ffd44b76aebb54db07cdf1bf7bd",
@@ -2087,18 +2089,9 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Club De Padel",
-      "address": "Constitucion 658",
-      "price_from": 32000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 48000.0,
+      "club": "Complejo Filippo",
+      "address": "Av Leon Gallardo 70",
+      "price_from": 45500.0,
       "matched_times": [
         "19:00",
         "19:30"
@@ -2106,42 +2099,16 @@
     },
     {
       "date": "2026-08-06",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
       "price_from": 34000.0,
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Lasaigues Padel Devoto",
-      "address": "Arregui 5138",
-      "price_from": 85000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Lo de Juve",
-      "address": "Luis Viale 2956",
-      "price_from": 55000.0,
-      "matched_times": [
-        "18:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Nova Padel Center",
-      "address": "Ayacucho 2653",
-      "price_from": 72000.0,
-      "matched_times": [
-        "18:00"
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-05T15:38:20Z"
+  "updated_at_utc": "2026-08-05T17:40:28Z"
 }
