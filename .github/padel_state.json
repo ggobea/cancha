@@ -234,6 +234,7 @@
     "1f971c5260221bfdfd9517b57ba31b59872b2a99522dbfc17668a105f59b0f69",
     "200975e967e02aef1229db05f1dbc2a5bbbf9b90701f3b95dd1c594fee7a7cc8",
     "20223cd576bad15019baab4e5cb0550f9b51549d944a572927e98665268ab3c8",
+    "203bcc6ade2442c628b7c32c25937e9d630c9bf8e75c429277f6100d6c4ba4f6",
     "20586f06e55851c7fd9373080a0d5846789f72bb95bc1a9a03166f67518d0306",
     "20af0ac59e18e66d094f8efb229281ae8a252475c5f49475092953e83afd9a65",
     "20b7d30e7e8e312c07073b925cb7f5e1fae44de16c09a2b49dd3bd8a33b877a4",
@@ -1123,6 +1124,7 @@
     "928022efca69a59544f77ac2f5ad12ae711daf2b66b303617c29ae7117a9a8ea",
     "92ae60d5928055d27e431363d9fcd973d830e7955c56518e3e6238cc831b8dee",
     "92af6809c9ec71347db96236ade38f77cf90a6c9729d6113efce17e8ec97c7ea",
+    "92e36ac68fb8ff23124dff5896a37040ba264efe92da5402119f6365b811cac5",
     "9318fde771f3a565f70dd9886faf9d27ad50571d7f2e9516b656a16505de855a",
     "93342667fd718ffb43a4f45ac5eda32c7cc13321b98c3dfaa4f77ebc2d16dd8c",
     "933fa91f0cebd0b82121a5aaa6abc2261c533e543c7cc3fb703799d5786d360a",
@@ -1261,6 +1263,8 @@
     "a416cbbc7474bf6359fb399d5f5296c1f205474e3988ac6d6db58af2dd9844b4",
     "a49984f5b98faa7db8aab041c3a064618bb1caf9539066dfd98c80a14fa7b1f2",
     "a4a9f848bf0b9002d405f6f13ec4c64aaddb9d49ec690f6304060c3796556cab",
+    "a4da9b17126cac76dd26dab0394c855c9e58d7f673fadf989062f3b81a66e011",
+    "a514e24857304ce27d903dc8c2764372be869209231012ef8a2c0dc929e098ae",
     "a5256b4ec0441fa8348bfaec51cf9b4f56a29ed758ef88174750ca93f338ffaf",
     "a5259ec10fcbed0f1da693f1b30455cf06b6a2d3f2bdaadc44b8ff8a388d6723",
     "a5a28f4bfd9db99bd8c95fe46d7d5f504c9dc91eba676acdc4cd48eedf093133",
@@ -1575,6 +1579,7 @@
     "c88f2f3a055f8d0c3d63d3a0c0dbb89a809d3d11be22fe821d4f2a987151fe3c",
     "c89c95429343233652e2e108ed6eb28eff53903bb1ed4ac3634909d7e8ba4aa4",
     "c89fd3013f36fa55848447afd0b6bc57c7a967e85be1a52fe88feef454b5ca50",
+    "c8cb603e1d90a62db8cf2a8b726ddf5dd59fb284d15782f7129362eb0f0fc687",
     "c8d8ad938e039241704fb9518226f923239284f02e7074c4985ebf63b5e52faa",
     "c8ed4c59adfe38b439c83eabe3bdd731f6d124369c7131113b74faad9de30101",
     "c90d448d0558f4b258bc2cd5abc25b0b9452ebb6f73be2569d01536400a5f788",
@@ -1797,6 +1802,7 @@
     "df5a3e474a9d7720fe28050ee435a052f1dc726c41dd32b74e0554c5429ffee7",
     "df67302bfc65501d88e2f09a341858a28d5bb0232c6f2fec57023c81cf3b1bc8",
     "df6bda22363cc644c32bbea37d926cf8a207352efa410207a8da90ae5f2a9c37",
+    "df80d9bc1ead6b1e36ed29ce79fd95e36b6026048199b413ef9047b52a2d7309",
     "df8fadd3c60abf49087f5e138def263dc09bfdd0e2495eabbca1d9ec05b9a529",
     "df9e4543e1e57a9634e3cff5274e6a651f205e85e21de9483233cbfdc8d4b8c9",
     "dfba78119ad797e862120e291f6a5dedcde42db01a32eaa4f265d02d93936a03",
@@ -2081,9 +2087,28 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Club Social Deportivo y Cultural La Fraternidad San Martin",
-      "address": "Lincoln 3136",
-      "price_from": 50000.0,
+      "club": "Club De Padel",
+      "address": "Constitucion 658",
+      "price_from": 32000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Club Ferrocarril Mitre",
+      "address": "Av Colectora Gral Paz 2702",
+      "price_from": 48000.0,
+      "matched_times": [
+        "19:00",
+        "19:30"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Exclusive Padel",
+      "address": "Tropezon 1174",
+      "price_from": 34000.0,
       "matched_times": [
         "18:00",
         "18:30",
@@ -2092,14 +2117,31 @@
     },
     {
       "date": "2026-08-06",
-      "club": "Exclusive Padel",
-      "address": "Tropezon 1174",
-      "price_from": 58000.0,
+      "club": "Lasaigues Padel Devoto",
+      "address": "Arregui 5138",
+      "price_from": 85000.0,
       "matched_times": [
-        "18:00",
-        "18:30"
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Lo de Juve",
+      "address": "Luis Viale 2956",
+      "price_from": 55000.0,
+      "matched_times": [
+        "18:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Nova Padel Center",
+      "address": "Ayacucho 2653",
+      "price_from": 72000.0,
+      "matched_times": [
+        "18:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-05T13:11:07Z"
+  "updated_at_utc": "2026-08-05T15:38:20Z"
 }
