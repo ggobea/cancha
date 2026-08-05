@@ -31,6 +31,7 @@
     "046856aaf1857eb1d65431ff02de1dd059472c054f40a08f1da06e10fe6398e6",
     "046cf85ff916af654411e8f465fe0866e0965139024643cbe7df3641a3aa54e8",
     "04e89f7730c56e7614f1a71d623195b98994b3aa81a9d39c21fbb139f0260638",
+    "04f06c4f08d65192be0a379c8d45ea02c62607d789fb488afdf4b646973e4ee1",
     "051124b92f86f6f1f85e073fa8b0000bf36168929dbbb240bdd1d4e06db4b00d",
     "055b8f8e910527bc20482a298a69d716fd3290d7b3b131ccb0f28d198956bcbd",
     "057a43baec56bb90987f1c2e88e36dfec09c713bc59afec8cf1f716d149a5e3b",
@@ -2093,46 +2094,15 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Club Ferrocarril Mitre",
-      "address": "Av Colectora Gral Paz 2702",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:30",
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
       "club": "Club Melian",
       "address": "Av. Melian 7760, Martin Coronado",
       "price_from": 45000.0,
       "matched_times": [
         "18:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Kuman Club Santo Tome",
-      "address": "Santo Tome 4769, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
         "18:30",
-        "19:00",
-        "19:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "World Padel Center CABA",
-      "address": "Belaustegui 3041",
-      "price_from": 68000.0,
-      "matched_times": [
-        "18:00",
-        "19:30"
+        "19:00"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-05T19:37:18Z"
+  "updated_at_utc": "2026-08-05T21:11:54Z"
 }
