@@ -537,6 +537,7 @@
     "446f763dcb0bdbae8f395b40002ec899a513c2afe11afff2144a5ed2c5210e6a",
     "44779923efc54c20ef0467a186f472f13d06463c329fb2ee3a7a6d3f974edcf2",
     "449138ca46262625e67571e5fb7ea6b07da948ef56d505fbe0362853878bbab8",
+    "44acd506517ab537b34026564c255e5f9d47ef805842492be289295c31561301",
     "44cb833d0ef731858dd76b081043813b7b82fe73d1de9bf555202e61b2846e47",
     "452542952fa3f6d96a1dc8275329e13f4eb8633ef70606c152ae5cd06c2bf33f",
     "453d335ea715c0b0fc15a1eebdf2247bfb859af3dcb019fb3efe18d966ff1c0b",
@@ -1182,6 +1183,7 @@
     "9855281577c8220d3b9b77deb27a2a54493ea4c7d9d08a1f5ed8a1cbb44a5530",
     "986b7dadf15ccc8bfaa5d5369a1889780c3d709fb21fb4df1da6eb3647dbcd90",
     "988674e4959aed8a9057170de3c3df2ce411d898ff7c29d965a8f2a0472384c6",
+    "9887e89b87f3c12d57ad893f365ef99fd489e713007e90c794712273d56a0bb8",
     "9892e41b4a4ff846e2d905ecc0335077599117a61144839eab4d6cf1eaedc0cc",
     "9897bb67136249254c4b750698bfd6a1182289de59bd73f3f5cfb3ec90b73abd",
     "98c76e1c75072d1e0d2c59be2e7f2f07c38ed1bcc372a72ccd9fe60b06f6e1db",
@@ -1492,6 +1494,7 @@
     "bd593fc0886dd3031994290a939ab5219fca6e1c87734cc9a7d48e47ab070414",
     "bdc2f5ba3fcf5b5866c861fa9fc4d56fe6671cb93d1b1dbc1282abf371712373",
     "bdeecbde6ac09029b8eb60431374128482013bfecd5750390bcf9f5a978a58b4",
+    "be20088f6d4e2765e053ba61fcfd10ab590ec29b29bc81013c7e31e1764af7c6",
     "be418cd51ea86990c812122a5d070cf8e2d3342a9c8d1951ba659de98c4823bd",
     "be50e2b6625751d4373017a188de7bc396c620f004b3d61e6e9a7acacd749bc5",
     "be7a7b64abfa0c2b76bcd39121ab02107288d9ceae531b8f88e7057cc96f210d",
@@ -2094,15 +2097,35 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Club Melian",
-      "address": "Av. Melian 7760, Martin Coronado",
-      "price_from": 45000.0,
+      "club": "Aleph Sport",
+      "address": "Reverendo Padre Fahy 1635",
+      "price_from": 25000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Kuman Club Benito Juarez",
+      "address": "Benito Juarez 2654, Monte Castro, CABA",
+      "price_from": 48000.0,
+      "matched_times": [
+        "18:00",
+        "18:30"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Towers Padel",
+      "address": "Donovan 1845",
+      "price_from": 50000.0,
       "matched_times": [
         "18:00",
         "18:30",
-        "19:00"
+        "19:00",
+        "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-05T21:11:54Z"
+  "updated_at_utc": "2026-08-05T22:34:38Z"
 }
