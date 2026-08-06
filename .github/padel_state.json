@@ -1334,6 +1334,7 @@
     "abfee4eb8bde1288e6cd462ea4e8f465300dacc61419f9a61bc5ae3c56fb72af",
     "ac45acc53c5bb686fb76028522ae92a81068cb0f1a1e3e8f2c69215b7dfc4fe4",
     "ac4a2de85909a3ffc242c81232af8e32ab2c71c9e62323dc0ff9b521f37f1c94",
+    "ac77a184d38418e7420be571fdbbe59b4137d1eff0c285cf4059aa4147fdb2e8",
     "acb2456b71bfeed2ac7ac19f80590f26714b11cdaa2d8e11c1f8fee11c790526",
     "ad61dacbe89e97320271ab85f8f504e83cbac99a08d25b93c4a6bd1192a9395b",
     "ad76c730a4bf9f3690de389c858e6993e9e66d7038cda5cdb848f6cc80c26ad4",
@@ -2097,35 +2098,15 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "Aleph Sport",
-      "address": "Reverendo Padre Fahy 1635",
-      "price_from": 25000.0,
+      "club": "The Padel Club",
+      "address": "Salvador Curutchet 2961",
+      "price_from": 54000.0,
       "matched_times": [
-        "19:00"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Kuman Club Benito Juarez",
-      "address": "Benito Juarez 2654, Monte Castro, CABA",
-      "price_from": 48000.0,
-      "matched_times": [
-        "18:00",
-        "18:30"
-      ]
-    },
-    {
-      "date": "2026-08-06",
-      "club": "Towers Padel",
-      "address": "Donovan 1845",
-      "price_from": 50000.0,
-      "matched_times": [
-        "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
     }
   ],
-  "updated_at_utc": "2026-08-05T22:34:38Z"
+  "updated_at_utc": "2026-08-06T00:00:55Z"
 }
