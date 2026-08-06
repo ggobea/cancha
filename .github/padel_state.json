@@ -184,6 +184,7 @@
     "1924346c5c5795c8431b2cf6d1f62feb30d87fd9d211b5fd9bf84a962925a5e1",
     "1930e0535932449af83fc4d0422094665d35e69601ca39548ad168afe9b9d45c",
     "1932cc15a9fb4fd7303352f8e7a14292343b45684710415a50212f069832819b",
+    "193b62067d2c972f78176ed4e202f2a449730352331791a6ee7a9001ff352191",
     "1940fe92b32387a1a5a60c7c1404de2b4b9ede54794863ccd4401a681701c059",
     "19420f716d1cfbf0b968592232ad1f5e0fe60ea289fdeb427afb6eaf3b0275ae",
     "1963d4b23b707c47ab9d74febaee74f884360b369b83b77b1fe3ca31476a3d97",
@@ -420,6 +421,7 @@
     "34bf794d2c9821ad2d759fdeaa0cbf71bc95cc80abfeea1f2b979cae32938af7",
     "34eca444f3cb71423f5e93fabc06b3ebe660b056c42bf2f26f7fbd5690317a5b",
     "3514046f4c665b3a0f80a60780f41b8455ecdea1a9e64084aa1cea6dd9f2d84e",
+    "351b573f5f4008ceefd94f7dd46ce5e28f31e13e6c9fb6f93b28932f544d117d",
     "353445d2b2b299664b0db781cb7fcbf70ea627ce6647e6d280e47e4eaaada225",
     "3576d28402f1e76cf0618af6fc980c9b6e125a0f1324dbec080fd0ef8a123c2e",
     "35a16e66c4ed2c9f955274437881b8e1b05119b3be4c462b022cd54936b08509",
@@ -1949,6 +1951,7 @@
     "ef90094fd90e22590ecff4234fecb09c5b7a3130eb79dc4087c931406226c418",
     "ef945132f9d0a8ffbc2d9edbbf0c2fd584433e2685bd99a4a9d741595c62107f",
     "eff1ad4c6d17d1f32fe3686213492c92f2cb2a273a859ae492d9bafbb1c8a1f2",
+    "f0106c8a41b39b76bbd2986acd5c101f922dd70cafa837a38a3edb8ba907e098",
     "f038889772725e353bbcfa24cefec56959d6533b5ac561d91b417aaf3bea6df1",
     "f04766e683d3d0145eab94526ffedec7d1b0a1210e53aa6d6cd7be1273b56d5d",
     "f07be3c00d95728563d6bc1d765ed1d8a889226dafe974f70905e4911b2d7bb0",
@@ -2098,15 +2101,34 @@
   "last_results": [
     {
       "date": "2026-08-06",
-      "club": "The Padel Club",
-      "address": "Salvador Curutchet 2961",
-      "price_from": 54000.0,
+      "club": "12 de Junio",
+      "address": "San Sebastián 1705",
+      "price_from": 56000.0,
       "matched_times": [
+        "18:00",
         "18:30",
         "19:00",
         "19:30"
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Redfit Padel",
+      "address": "Luis De Camoens 1435, La Reja, Moreno",
+      "price_from": 34000.0,
+      "matched_times": [
+        "19:00"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "club": "Tiger Padel",
+      "address": "Av Gaona 10502",
+      "price_from": 30000.0,
+      "matched_times": [
+        "19:30"
+      ]
     }
   ],
-  "updated_at_utc": "2026-08-06T00:00:55Z"
+  "updated_at_utc": "2026-08-06T03:49:45Z"
 }
